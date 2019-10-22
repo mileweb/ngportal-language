@@ -579,7 +579,7 @@
   "validation.error.empty.origin.servers": "Please specify at least one origin server.",
   "validation.error.invalid.upstream.name": "The origin name can only include a-z, A-Z, 0-9, and _.",
   "validation.error.invalid.origin.server": "The origin server field is invalid.",
-  "validation.error.cachekey.invalid": "The cache key hostname should be either 1) a string consisting of a-z, 0-9, '_', '-',  and '.' characters OR 2) a variable name starting with $ defined in your Edge Logic.",
+  "validation.error.cachekey.invalid": "The cache key hostname must be a string consisting of a-z, 0-9, '_', '-',  and '.' characters.",
   "validation.error.cachekey.length": "The cache key hostname should be less than 80 characters.",
   "validation.error.cachekey.host.not.matched": "The cache key host must match one hostname.",
   "validation.error.hostnames.invalid": "Hostnames must be valid domain names.",
