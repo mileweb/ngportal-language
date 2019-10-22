@@ -1431,5 +1431,8 @@
   "user.invite.confirm.btn": "Save & Join",
   "welcome.text": "Welcome!",
   "invite.success.text1": "You confirmed your account, and now it is activated.",
-  "invite.success.text2": "Sign in to get started."
+  "invite.success.text2": "Sign in to get started.",
+
+  "modal.error.title": "Error",
+  "upload.file.size.tooBig.message": "Size of the file '{file}' exceeds the maximum allowed size 32KB."
 }
