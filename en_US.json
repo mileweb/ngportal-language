@@ -1220,6 +1220,8 @@
   "navigation.prompt.yes":"Yes",
   "navigation.prompt.no":"No",
   "property.compare.versions": "Compare \"{propertyName}\" Versions",
+  "property.button.compare.versions": "Compare Versions",
+
   "property.compare.versions.page.subtitle": "Please select two versions of the property to compare.",
   "select.two.versions": "Select two versions to compare",
   "info.add.two.versions": "Please select two versions of the property to compare.",

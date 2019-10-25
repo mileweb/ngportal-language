@@ -1221,6 +1221,7 @@
   "navigation.prompt.no":"No",
   "property.compare.versions": "比较 \"{propertyName}\" 的版本",
   "property.compare.versions.page.subtitle": "请选择两个不同的版本进行比较。",
+  "property.button.compare.versions": "Compare Versions",
 
   "select.two.versions": "请选择两个不同的版本进行比较",
   "info.add.two.versions": "请选择两个不同的版本进行比较。",
