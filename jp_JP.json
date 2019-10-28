@@ -1091,6 +1091,7 @@
   "cname.client.region.select.highest.servergroup": "このCNAMEのトラフィックの処理に使用されるサーバーグループを選択してください。",
   "cname.client.region.define.redirect.targets": "リダイレクト先を指定します。",
   "cname.client.region.define.actions": "アクションを選択します。",
+  "cname.tooltip.client.select.region": "Choose how your content will be delivered to visitors from a specific region.",
   "cname.client.region.select.region": "クライアント地域を選択します。",
   "cname.client.region.weight.be.integer": "重みは1〜100の整数でなければなりません。",
   "cname.tooltip.client.region.weight": "同じクライアント領域の他のルールと比較して、このルールの動作を調整します。",

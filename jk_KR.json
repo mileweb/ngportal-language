@@ -1091,6 +1091,7 @@
   "cname.client.region.select.highest.servergroup": "이 CNAME의 트래픽을 처리하는 데 사용되는 서버 그룹을 선택하십시오. ",
   "cname.client.region.define.redirect.targets": "리디렉션 할 위치를 지정하십시오. ",
   "cname.client.region.define.actions": "작업을 선택하십시오. ",
+  "cname.tooltip.client.select.region": "Choose how your content will be delivered to visitors from a specific region.",
   "cname.client.region.select.region": "고객 지역을 선택하십시오. ",
   "cname.client.region.weight.be.integer": "무게는 1에서 100 사이의 정수 여야합니다. ",
   "cname.tooltip.client.region.weight": "동일한 클라이언트 지역에 대한 다른 규칙과 비교하여이 규칙의 작동 방식을 조정하십시오. ",
