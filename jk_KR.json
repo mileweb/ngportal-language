@@ -664,6 +664,8 @@
   "cache.setting.notification.text": "계속을 클릭하면 'Edge Logic'이 자동 생성 된 코드로 바뀝니다. ",
   "cache.setting.notification.title": "에지 로직 교체 ",
   "propertyVersion.accordion.title.advanced": "고급 설정 ",
+  "propertyVersion.accordion.title.realTimeLogging":"Real Time Logging",
+
   "error.location.path": "올바른 경로를 입력하십시오. ",
   "placeholder.origin.select": "원점 선택 ",
   "error.origin.select.required": "원점을 선택하십시오. ",

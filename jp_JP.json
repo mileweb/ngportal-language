@@ -664,6 +664,10 @@
   "cache.setting.notification.text": "[続行]をクリックすると、「エッジロジック」が自動生成コードに置き換えられることに注意してください。",
   "cache.setting.notification.title": "エッジロジックの置換",
   "propertyVersion.accordion.title.advanced": "高度な設定",
+  "propertyVersion.accordion.title.realTimeLogging":"Real Time Logging",
+
+
+
   "error.location.path": "有効なパスを入力してください。",
   "placeholder.origin.select": "原点を選択",
   "error.origin.select.required": "起源を選択してください。",

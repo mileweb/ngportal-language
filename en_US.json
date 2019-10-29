@@ -674,6 +674,8 @@
   "cache.setting.notification.text": "Please note that by clicking continue, the 'Edge Logic' will be replaced with auto-generated code.",
   "cache.setting.notification.title": "Replace Edge Logic",
   "propertyVersion.accordion.title.advanced": "Advanced Settings",
+  "propertyVersion.accordion.title.realTimeLogging":"Real Time Logging",
+
   "error.location.path": "Please enter a valid path.",
   "placeholder.origin.select": "Select Origin",
   "error.origin.select.required": "Please select an origin.",
