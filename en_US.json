@@ -1447,5 +1447,24 @@
   "invite.success.text2": "Sign in to get started.",
 
   "modal.error.title": "Error",
-  "upload.file.size.tooBig.message": "Size of the file '{file}' exceeds the maximum allowed size 36KB."
+  "upload.file.size.tooBig.message": "Size of the file '{file}' exceeds the maximum allowed size 36KB.",
+
+
+  "http.header.value.table.newItem.label.name": "Name",
+  "http.header.value.table.newItem.label.value": "Value",
+  "http.header.value.table.newItem.add.button": "Add Header",
+  "http.header.value.table.column.name": "Header Name",
+  "http.header.value.table.column.value": "Header Value",
+  "http.header.value.table.error.duplicate.name": "Duplicate header name",
+  "http.header.value.table.empty": "No headers and values",
+
+  "real.time.log.label.loginUrl": "Logging URL",
+  "real.time.log.label.sampleRate": "Sample Rate",
+  "real.time.log.label.escape": "Escape",
+  "real.time.log.label.format": "Format",
+  "real.time.log.section.title.header.and.value": " Headers and Values:",
+  "real.time.log.error.invalid.url": "Invalid url",
+  "real.time.log.sample.rate.default.value": "Default: 1 notification for every edge request",
+  "real.time.log.escape.default.value": "Default: None",
+  "real.time.log.required.fields.missing.error": "LoginUrl and Format are required for real time logging"
 }
