@@ -1402,5 +1402,23 @@
   "roles.delete.confirm.title": "역할을 삭제 하시겠습니까? ",
   "roles.delete.confirm.msg": "{roleCount} 역할을 삭제하려고합니다. ",
   "role.name.confirm.label": "역할 이름 : {roleNames} ",
-  "role.delete.confirm.btn": "모든 사용자에게 할당을 취소하고 삭제하십시오. "
+  "role.delete.confirm.btn": "모든 사용자에게 할당을 취소하고 삭제하십시오. ",
+
+  "http.header.value.table.newItem.label.name": "Name",
+  "http.header.value.table.newItem.label.value": "Value",
+  "http.header.value.table.newItem.add.button": "Add Header",
+  "http.header.value.table.column.name": "Header Name",
+  "http.header.value.table.column.value": "Header Value",
+  "http.header.value.table.error.duplicate.name": "Duplicate header name",
+  "http.header.value.table.empty": "No headers and values",
+
+  "real.time.log.label.loginUrl": "Logging URL",
+  "real.time.log.label.sampleRate": "Sample Rate",
+  "real.time.log.label.escape": "Escape",
+  "real.time.log.label.format": "Format",
+  "real.time.log.section.title.header.and.value": " Headers and Values:",
+  "real.time.log.error.invalid.url": "Invalid url",
+  "real.time.log.sample.rate.default.value": "Default: 1 notification for every edge request",
+  "real.time.log.escape.default.value": "Default: None",
+  "real.time.log.required.fields.missing.error": "LoginUrl and Format are required for real time logging"
 }
