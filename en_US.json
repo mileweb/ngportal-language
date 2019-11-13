@@ -1475,6 +1475,6 @@
   "purge.dir.quota.warning": "You have used {used}/{limit} of your daily directory purge quota",
   "purge.file.out.of.limit.error": "The file purge daily quota has been reached",
   "purge.dir.out.of.limit.error": "The directory purge daily quota has been reached",
-  "purge.dir.purge.recommendation": "You are purging many files under the same directory, do you want to use directory purge for {url}"
+  "purge.dir.purge.recommendation": "You are purging many URLs under the same prefix, do you want to use directory purge for {url} ?"
 
 }
