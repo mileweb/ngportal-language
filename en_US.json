@@ -1470,6 +1470,7 @@
   "real.time.log.escape.default.value": "Default: None",
   "real.time.log.required.fields.missing.error": "LoginUrl and Format are required for real time logging",
   "real.time.log.error.invalid.header": "The header name {header} is invalid",
+  "real.time.log.error.": "Error: Protocol type is invalid/missing",
 
   "purge.file.quota.warning": "You have used {used}/{limit} of your daily file purge quota",
   "purge.dir.quota.warning": "You have used {used}/{limit} of your daily directory purge quota",
