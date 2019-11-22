@@ -912,7 +912,7 @@
   "certificate.version.subject": "件名",
   "certificate.version.signAlgo": "署名アルゴリズム",
   "certificate.version.serialNo": "シリアルナンバー",
-  "certificate.version.hash": "ハッシュ",
+  "certificate.version.fingerprint": "ハッシュ",
   "certificate.version.comment": "バージョンコメント",
   "certificate.version.creationDate": "作成日時",
   "certificate.version.expirationDate": "有効期限",
