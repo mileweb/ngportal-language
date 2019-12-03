@@ -922,7 +922,7 @@
   "certificate.version.subject": "Subject",
   "certificate.version.signAlgo": "Signature Algorithm",
   "certificate.version.serialNo": "Serial Number",
-  "certificate.version.hash": "Hash",
+  "certificate.version.fingerprint": "Fingerprint",
   "certificate.version.comment": "Version Comments",
   "certificate.version.creationDate": "Creation Date & Time",
   "certificate.version.expirationDate": "Expiration Date",
