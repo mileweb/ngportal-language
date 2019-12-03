@@ -571,7 +571,7 @@
   "topbar.viewAll": "View All",
   "topbar.viewCart": "View Cart",
   "topbar.totalPrice": "Total Price",
-  "brand.footer.copyright": "Copyright © 2019 CDNetworks, Inc. All Rights Reserved.",
+  "brand.footer.copyright.cdnetwork": "Copyright © 2019 CDNetworks, Inc. All Rights Reserved.",
   "brand.footer.copyright.quantil": "© 2019 QUANTIL. All rights reserved.",
   "validation.error.required": "Required",
   "validation.error.wrong.password": "Incorrect password or username. Please try again.",
