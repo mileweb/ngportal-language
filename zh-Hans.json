@@ -1476,5 +1476,19 @@
   "purge.file.out.of.limit.error": "The file purge daily quota has been reached",
   "purge.dir.out.of.limit.error": "The directory purge daily quota has been reached",
   "purge.dir.purge.recommendation": "You are purging many URLs under the same prefix, do you want to use directory purge for {url} ?",
-  "certificate.label.force.renew":"Force Renew"
+  "certificate.label.force.renew":"Force Renew",
+  "customer.type.super": "Super",
+  "customer.type.reseller": "Reseller",
+  "customer.type.regular": "Regular",
+  "customer.impersonation.column.id": "ID",
+  "customer.impersonation.column.name": "Customer Name",
+  "customer.impersonation.column.creation.time": "Creation Time",
+  "customer.impersonation.column.status": "Status",
+  "customer.impersonation.column.type": "Type",
+  "customer.impersonation.column.action": "Action",
+  "customer.status.active": "Active",
+  "customer.status.suspended": "Suspended",
+  "customer.impersonation.page.sub.title": "You can perform operations on behalf of your customers, please select a customer that you want to impersonate.",
+  "customer.impersonation.page.title": "Customer Impersonation",
+  "customer.impersonation.search.placeholder": "Enter a customer ID or name"
 }
