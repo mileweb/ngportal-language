@@ -733,7 +733,7 @@
   "validation.inprogress.modal.message": "We are validating the configuration. Please wait...",
   "validation.success.modal.message": "The configuration has been validated and is ready to deploy.",
   "validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
-  "validation.failed.ip.message": "We could not detect an IP address for this URL. Please check the logging url and try again.",
+  "validation.failed.ip.message": "We could not detect an IP address for this URL. Please check whether you have entered the correct url with http/https protocol and try again.",
   "validation.invalid.modal.message": "The task ID is invalid. Please close this pop-up and validate again.",
   "internal.error.modal.message": "An error occurred. Please try again.",
   "undeploy.target.label": "Undeploy Version From: ",
