@@ -1488,7 +1488,7 @@
   "customer.impersonation.column.action": "Action",
   "customer.status.active": "Active",
   "customer.status.suspended": "Suspended",
-  "customer.impersonation.page.sub.title": "You can perform operations on behalf of your customers, please select a customer that you want to impersonate.",
+  "customer.impersonation.page.sub.title": "You can perform some operations on behalf of your customers, please select a customer that you want to impersonate.",
   "customer.impersonation.page.title": "Customer Impersonation",
   "customer.impersonation.search.placeholder": "Enter a customer ID or name"
 }
