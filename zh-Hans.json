@@ -1469,7 +1469,7 @@
   "real.time.log.error.invalid.url": "Invalid url",
   "real.time.log.sample.rate.default.value": "Default: 1 notification for every edge request",
   "real.time.log.escape.default.value": "Default: None",
-  "real.time.log.required.loginUrl.missing.error": "LoginUrl is required for real time logging",
+  "real.time.log.required.loginUrl.missing.error": "Logging URL is required for real time logging",
   "real.time.log.required.format.missing.error": "Format is required for real time logging",
 
   "real.time.log.error.invalid.header": "The header name {header} is invalid",
