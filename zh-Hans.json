@@ -718,7 +718,7 @@
   "error.origin.auto.detect.popup.msg": "We could not detect a server based on your hostname. Please manually enter origin settings.",
   "deploy.failed.modal.message": "The deployment of this configuration has failed.",
   "validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
-  "validation.failed.ip.message": "We could not detect an IP address for this URL. Please check the logging url and try again.",
+  "validation.failed.ip.message": "We could not detect an IP address for this URL. Please check whether you have entered the correct url with http/https protocol and try again.",
   "undeploy.failed.modal.message": "The undeployment of this configuration has failed.",
   "validation.inprogress.modal.title": "Validating Configuration",
   "validation.success.modal.title": "Configuration Validated",
