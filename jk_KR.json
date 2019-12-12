@@ -910,7 +910,7 @@
   "certificate.version.subject": "제목",
   "certificate.version.signAlgo": "서명 알고리즘 ",
   "certificate.version.serialNo": "일련 번호 ",
-  "certificate.version.fingerprint": "해시시",
+  "certificate.version.fingerprint": "핑거프린트",
   "certificate.version.comment": "버전 설명 ",
   "certificate.version.creationDate": "생성 날짜 및 시간 ",
   "certificate.version.expirationDate": "만료 날짜 ",

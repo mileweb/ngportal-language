@@ -717,6 +717,8 @@
   "origin.auto.detect.popup.msg": "We have detected '{ip}' as your origin. Would you like to use it as the origin server? Note: this will replace the first server entry.",
   "error.origin.auto.detect.popup.msg": "We could not detect a server based on your hostname. Please manually enter origin settings.",
   "deploy.failed.modal.message": "The deployment of this configuration has failed.",
+  "validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
+  "validation.failed.ip.message": "We could not detect an IP address for this URL. Please check whether you have entered the correct url with http/https protocol and try again.",
   "undeploy.failed.modal.message": "The undeployment of this configuration has failed.",
   "validation.inprogress.modal.title": "Validating Configuration",
   "validation.success.modal.title": "Configuration Validated",
@@ -1467,7 +1469,9 @@
   "real.time.log.error.invalid.url": "Invalid url",
   "real.time.log.sample.rate.default.value": "Default: 1 notification for every edge request",
   "real.time.log.escape.default.value": "Default: None",
-  "real.time.log.required.fields.missing.error": "LoginUrl and Format are required for real time logging",
+  "real.time.log.required.loginUrl.missing.error": "Logging URL is required for real time logging",
+  "real.time.log.required.format.missing.error": "Format is required for real time logging",
+
   "real.time.log.error.invalid.header": "The header name {header} is invalid",
   "real.time.log.error.protocol.url": "Error: Protocol type is invalid/missing",
 
