@@ -1016,7 +1016,7 @@
   "tls.certificate.select.invalid.certId.comment": "(The certificate you were using is no longer available. Please select another certificate to use with your property)",
   "password.reset.title": "Password Reset",
   "password.reset.text": "If you forgot your CDNetworks portal account's password, please enter your username below to reset it.",
-  "password.reset.text.cdnetworks": "If you forgot your CDNetworks portal account's password, please enter your username below to reset it.",
+  "password.reset.text.cdnetwork": "If you forgot your CDNetworks portal account's password, please enter your username below to reset it.",
   "password.reset.text.quantil": "If you forgot your Quantil portal account's password, please enter your username below to reset it.",
   "error.forgot.password.wrong.username": "We do not recognize your account name. Please try again.",
   "password.reset.verify.code.title": "Verify Code",
@@ -1499,6 +1499,6 @@
   "customer.status.suspended": "Suspended",
   "customer.impersonation.page.sub.title": "You can perform some operations on behalf of your customers, please select a customer that you want to impersonate.",
   "customer.impersonation.page.title": "Customer Impersonation",
-  "customer.impersonation.search.placeholder": "Enter a customer ID or name",
+  "customer.impersonation.search.placeholder": "Enter a customer ID or name"
 
 }
