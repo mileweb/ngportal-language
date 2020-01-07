@@ -1425,6 +1425,8 @@
   "real.time.log.sample.rate.default.value": "Default: 1 notification for every edge request",
   "real.time.log.escape.default.value": "Default: None",
   "real.time.log.required.fields.missing.error": "LoginUrl and Format are required for real time logging",
+  "real.time.log.logging.url.validation.success": "The Logging URL has been validated successfully.",
+  "real.time.log.logging.url.validation.failure": "At this moment, we are unable to validate this Logging URL. You can still save this configuration.",
 
   "purge.file.quota.warning": "You have used {used}/{limit} of your daily file purge quota",
   "purge.dir.quota.warning": "You have used {used}/{limit} of your daily directory purge quota",
