@@ -730,6 +730,7 @@
   "validation.inprogress.modal.title": "Validating Configuration",
   "validation.success.modal.title": "Configuration Validated",
   "validation.failed.modal.title": "Validation Failed",
+  "validation.failed.modal.message": "There was an error during validation. Please check the configuration.",
   "validation.inprogress.modal.message": "We are validating the configuration. Please wait...",
   "validation.success.modal.message": "The configuration has been validated and is ready to deploy.",
   "validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
