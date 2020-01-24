@@ -1399,7 +1399,7 @@
   "role.update.success.msg": "역할이 성공적으로 업데이트되었습니다. ",
   "role.update.confirmation": "이 역할을 업데이트 하시겠습니까? ",
   "cert.detail.label.auto.renew": "자동 갱신 ",
-  "cert.auto.renew.on.title": "LE ",
+  "cert.auto.renew.on.title": "Let's Encrypt ",
   "cert.auto.renew.off.title": "떨어져서",
   "roles.delete.confirm.title": "역할을 삭제 하시겠습니까? ",
   "roles.delete.confirm.msg": "{roleCount} 역할을 삭제하려고합니다. ",
