@@ -1401,7 +1401,7 @@
   "role.update.success.msg": "ロールが正常に更新されました。",
   "role.update.confirmation": "この役割を更新しますか？",
   "cert.detail.label.auto.renew": "自動更新",
-  "cert.auto.renew.on.title": "LE",
+  "cert.auto.renew.on.title": "Let's Encrypt",
   "cert.auto.renew.off.title": "オフ",
   "roles.delete.confirm.title": "役割を削除してもよろしいですか？",
   "roles.delete.confirm.msg": "{roleCount}ロールを削除しようとしています。",

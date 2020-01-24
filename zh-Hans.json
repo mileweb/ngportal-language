@@ -1436,7 +1436,7 @@
   "role.update.success.msg": "The role has been successfully updated.",
   "role.update.confirmation": "Do you want to update this role?",
   "cert.detail.label.auto.renew": "Auto Renew",
-  "cert.auto.renew.on.title": "LE",
+  "cert.auto.renew.on.title": "Let's Encrypt",
   "cert.auto.renew.off.title": "Off",
   "roles.delete.confirm.title": "Are you sure you want to delete {determiner} {role}?",
   "roles.delete.confirm.user":"{userCount} {user} {verb} been assigned to the {role}."  ,
