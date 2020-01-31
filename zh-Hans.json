@@ -675,7 +675,7 @@
   "popover.tooltip.cache.time": "Set cache time for response codes 200, 301, and 302.",
   "label.enforce.cache.timeout": "Enforce Cache Time",
   "suffix.label.enforce.cache.time": "Ignore the cache control headers from the origin.",
-  "sub.text.additional.location": "Set the cache behaviour for additional locations.",
+  "sub.text.additional.location": "Set the cache behavior for additional locations.",
   "link.text.additional.location": "Add new location +",
   "error.cache.time.invalid": "Please enter a valid number.",
   "taskListing.tab.validationTask": "验证",
