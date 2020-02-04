@@ -1036,7 +1036,9 @@
   "cnameListing.modalText.delete": "Are you sure you want to delete this CNAME: ",
   "cnameListing.column.name": "CNAME",
   "cnameListing.column.actions": "操作",
-
+  "cnameListing.column.lastUpdateTime": "Last Update Time",
+  "cnameListing.column.creationTime": "Creation Time",
+  "cnameListing.column.hasBeian": "Has Beian",
   "cname.create.title": "Create a CNAME",
   "cname.create.success.modal.title": "CNAME Created!",
   "cname.create.success.modal.content": "The CNAME has been successfully created.",
