@@ -1496,6 +1496,7 @@
   "customer.impersonation.column.creation.time": "Creation Time",
   "customer.impersonation.column.status": "Status",
   "customer.impersonation.column.type": "Type",
+  "customer.impersonation.column.regional.office": "Regional Office",
   "customer.impersonation.column.action": "Action",
   "customer.status.active": "Active",
   "customer.status.suspended": "Suspended",
