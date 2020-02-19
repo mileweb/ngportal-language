@@ -1031,6 +1031,7 @@
   "cname.label.name": "CNAME * ",
   "cname.label.advanced.accordion": "고급 설정 ",
   "cname.label.pci": "PCI가 필요합니다 * ",
+  "cname.label.has.beian": "Beian이 있음 ",
   "cname.label.bandwidth": "예상 대역폭 ",
   "cname.label.server.regions": "서버 영역 설정 * ",
   "cname.label.set.service.regions": "다른 지역의 사용자 요청을 처리하는 방법을 제어합니다. ",

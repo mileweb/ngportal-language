@@ -1048,6 +1048,7 @@
   "cname.label.name": "CNAME *",
   "cname.label.advanced.accordion": "Advanced Settings",
   "cname.label.pci": "Is PCI Required *",
+  "cname.label.has.beian": "Has Beian",
   "cname.label.bandwidth": "Estimated Bandwidth",
   "cname.label.server.regions": "Set Server Regions *",
   "cname.label.set.service.regions": "You can control how to handle user requests from different regions. A rule covering all regions will be automatically created if you do not define such a rule.",
