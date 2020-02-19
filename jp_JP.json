@@ -1033,6 +1033,7 @@
   "cname.label.name": "CNAME *",
   "cname.label.advanced.accordion": "高度な設定",
   "cname.label.pci": "PCIが必要ですか*",
+  "cname.label.has.beian": "Beianがいます",
   "cname.label.bandwidth": "推定帯域幅",
   "cname.label.server.regions": "サーバー地域の設定*",
   "cname.label.set.service.regions": "さまざまな地域からのユーザーリクエストの処理方法を制御します。",
