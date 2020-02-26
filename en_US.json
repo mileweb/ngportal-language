@@ -759,6 +759,7 @@
   "reportQuery.page.reportType.bandwidth": "Traffic Bandwidth",
   "reportQuery.page.reportType.req": "Requests",
   "reportQuery.page.reportType.statusDetails": "Status Code Details",
+  "reportQuery.page.reportType.volSummary": "Traffic Volume Summary",
   "reportQuery.page.hostNames": "Hostnames",
   "reportQuery.page.hostNames.placeHolder": "All Hostnames",
   "reportQuery.page.dateRange": "Date Range *",
