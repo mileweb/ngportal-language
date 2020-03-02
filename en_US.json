@@ -1119,6 +1119,7 @@
   "cname.client.region.description": "Choose how your content will be delivered to visitors from a specific region.",
   "cname.client.region.create.button": "Create Client Region Rule",
   "cname.client.region.update.button": "Update Client Region Rule",
+  "cname.client.region.select.isp":"Select client ISP.",
   "content.management.list.page.title": "Content Management",
   "content.management.list.tab.purge.title": "Purge",
   "content.management.list.button.purge": "Create Purge",
@@ -1394,6 +1395,7 @@
   "roleListing.column.actions": "Actions",
 
   "clientRegion.column.region" : "Client Region",
+  "clientRegion.column.isp" : "Client ISP",
   "clientRegion.column.action.type": "Action Type",
   "clientRegion.column.weight" : "Weight",
   "clientRegion.column.actions.actions": "Actions",
