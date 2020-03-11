@@ -37,7 +37,7 @@ zh-Hans.json:
 ```json
 {"purge.button.start": "开始 Purge"}
 ```
-# Useful Scripts
+## Useful Script
 Developers just need to focus on the English(en-US.json) texts. After adding key-value pairs into en-US.json, please run:
 ```shell script
 # Please use Python 3. 
