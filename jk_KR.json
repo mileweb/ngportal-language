@@ -1176,6 +1176,8 @@
   "purge.progress-bar.failure.message": "제거 요청이 실패했습니다. ",
   "identity.access.management": "신원 및 액세스 관리 ",
   "customer.list": "고객 목록 ",
+  "customer.impersonation.list": "Customer Impersonation",
+  "topbar.dropdown.title": "User Info",
   "edit.contact.profile": "프로필 편집",
   "login.account.name": "계정",
   "impersonation.text": "가장하는 중입니다 ",

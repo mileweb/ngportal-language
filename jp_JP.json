@@ -1176,6 +1176,8 @@
   "purge.progress-bar.failure.message": "パージ要求が失敗しました。",
   "identity.access.management": "アイデンティティおよびアクセス管理",
   "customer.list": "顧客リスト",
+  "customer.impersonation.list": "Customer Impersonation",
+  "topbar.dropdown.title": "User Info",
   "edit.contact.profile": "プロファイル編集",
   "login.account.name": "アカウント",
   "impersonation.text": "なりすましです",
