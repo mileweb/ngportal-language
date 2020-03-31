@@ -1073,7 +1073,7 @@
   "cname.label.has.beian": "Has Beian",
   "cname.label.bandwidth": "Estimated Bandwidth",
   "cname.label.server.regions": "Set Server Regions *",
-  "cname.label.set.service.regions": "Zone is a combination of region and internet service provider(ISP). You can control how to handle user requests from different zones. A rule covering all zones (all regions and all internet service providers) will be automatically created if you do not define such a rule.",
+  "cname.label.set.service.regions": "A zone is a combination of a region and an internet service provider (ISP). You can control how to handle user requests from different zones. A rule covering all zones (all regions and all internet service providers) will be automatically created if you do not define such a rule.",
   "cname.label.list.service.regions": "Client Zone Rules",
   "cname.placeholder.name": "Enter CNAME",
   "cname.placeholder.bandwidth": "Enter Estimated Bandwidth",
