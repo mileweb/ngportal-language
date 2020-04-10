@@ -1112,7 +1112,7 @@
   "cname.update.error.modal.title": "CNAMEエラーの更新",
   "error.not.valid.ip.domain": "有効なIPまたはドメインではありません。",
   "cname.error.invalid.redirect.target": "1つのドメインまたは複数のIPを入力します。",
-  "cname.client.zone.already.exists": "There is already a rule for the selected zone and action type. Please modify it rather than creating a new one.",
+  "cname.client.zone.already.exists": "The selected zone can have at most one rule with deliver action and at most one rule with reject action. Please modify the existing rule, rather than creating a new one.",
   "cname.client.zone.apac.serving.cn": "アジア太平洋地域のサーバーを使用して、中国のクライアントにサービスを提供することはできません。他のサーバー地域を選択してください。",
   "cname.client.zone.select.highest.servergroup": "このCNAMEのトラフィックの処理に使用されるサーバーグループを選択してください。",
   "cname.client.zone.define.redirect.targets": "リダイレクト先を指定します。",

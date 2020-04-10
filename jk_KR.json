@@ -1112,7 +1112,7 @@
   "cname.update.error.modal.title": "CNAME 오류 업데이트 ",
   "error.not.valid.ip.domain": "유효한 IP 또는 도메인이 아닙니다. ",
   "cname.error.invalid.redirect.target": "하나의 도메인 또는 여러 개의 IP를 입력하십시오. ",
-  "cname.client.zone.already.exists": "There is already a rule for the selected zone and action type. Please modify it rather than creating a new one.",
+  "cname.client.zone.already.exists": "The selected zone can have at most one rule with deliver action and at most one rule with reject action. Please modify the existing rule, rather than creating a new one.",
   "cname.client.zone.apac.serving.cn": "아시아 태평양 서버는 중국에서 고객에게 서비스를 제공하는 데 사용할 수 없습니다. 다른 서버 지역을 선택하십시오. ",
   "cname.client.zone.select.highest.servergroup": "이 CNAME의 트래픽을 처리하는 데 사용되는 서버 그룹을 선택하십시오. ",
   "cname.client.zone.define.redirect.targets": "리디렉션 할 위치를 지정하십시오. ",
