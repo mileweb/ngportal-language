@@ -1112,7 +1112,7 @@
   "cname.update.error.modal.title": "Update CNAME Error",
   "error.not.valid.ip.domain": "Not a valid IP or domain.",
   "cname.error.invalid.redirect.target": "Enter one domain or multiple IPs.",
-  "cname.client.zone.already.exists": "There is already a rule for the selected zone and action type. Please modify it rather than creating a new one.",
+  "cname.client.zone.already.exists": "The selected zone can have at most one rule with deliver action and at most one rule with reject action. Please modify the existing rule, rather than creating a new one.",
   "cname.client.zone.apac.serving.cn": "Asia Pacific servers cannot be used to serve clients in China. Please select other server regions.",
   "cname.client.zone.select.highest.servergroup": "Please select the server groups used to handle traffic for this CNAME.",
   "cname.client.zone.define.redirect.targets": "Specify where to redirect to.",
