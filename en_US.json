@@ -1490,7 +1490,7 @@
   "wizard.step.confirmation": "Confirmation",
   "wizard.step.deployment": "Deployment",
   "wizard.step.origin": "Origin Setting",
-  "wizard.step.property": "Property Setting"
+  "wizard.step.property": "Property Setting",
    "edgeHostnameListing.delete.error": "An error occurred while deleting the EdgeHostname.",
   "edgeHostnameListing.fetch.error": "An error occurred while fetching EdgeHostnames.",
   "edgeHostnameListing.button.createEdgeHostname": "Create Edge Hostname",
@@ -1579,6 +1579,5 @@
   "edgeHostname.tooltip.client.region.servergroup": "Select the maximum server group to use.  Your traffic will be served by this group or lower level ones.",
   "edgeHostname.client.region.description": "Choose how your content will be delivered to visitors from a specific region.",
   "edgeHostname.client.region.create.button": "Create Client Region Rule",
-  "edgeHostname.client.region.update.button": "Update Client Region Rule",
-  
+  "edgeHostname.client.region.update.button": "Update Client Region Rule"
 }
