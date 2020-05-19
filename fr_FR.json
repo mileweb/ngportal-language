@@ -356,7 +356,7 @@
   "contentListing.column.success": "Success",
   "contentListing.column.target": "Target",
   "contentListing.column.type": "Type",
-  "create.edgeHostname.description": "Create a edge hostname that you will map your hostname to.",
+  "create.cname.description": "Create a CNAME that you will map your hostname to.",
   "create.role.page.title": "Add Role",
   "createCertificate.page.title": "Create Certificate",
   "createCertificate.section.version.title": "Version Configuration",
