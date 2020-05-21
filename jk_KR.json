@@ -769,7 +769,7 @@
   "property.compare.versions.before.deploy.newver": "New version",
   "property.compare.versions.before.deploy.version": "version",
   "property.compare.versions.page.subtitle": "에지 로직 코드와 버전을 비교할 수 있습니다. 비교할 속성의 두 가지 버전을 선택하십시오. ",
-  "property.confirm.cancel.edit.edgeHostname": "Do you want to discard the property update?",
+  "property.confirm.cancel.edit": "Do you want to discard the property update?",
   "property.label.allow.protocol.downgrade": "프로토콜 다운 그레이드 허용 ",
   "property.label.cache.key.scheme": "HTTP와 별도로 HTTPS 컨텐츠 캐시 ",
   "property.label.cachekey.hostname": "캐시 키 호스트 이름 ",

@@ -769,7 +769,7 @@
   "property.compare.versions.before.deploy.newver": "新版本",
   "property.compare.versions.before.deploy.version": "版本",
   "property.compare.versions.page.subtitle": "请选择两个不同的版本进行比较。",
-  "property.confirm.cancel.edit.edgeHostname": "您要放弃修改此Property吗？",
+  "property.confirm.cancel.edit": "您要放弃修改此Property吗？",
   "property.label.allow.protocol.downgrade": "允许协议降级",
   "property.label.cache.key.scheme": "与HTTP分开缓存HTTPS内容",
   "property.label.cachekey.hostname": "Cache Key里的主机名",

@@ -769,7 +769,7 @@
   "property.compare.versions.before.deploy.newver": "New version",
   "property.compare.versions.before.deploy.version": "version",
   "property.compare.versions.page.subtitle": "バージョンをエッジロジックコードと比較できます。比較するプロパティの2つのバージョンを選択してください。",
-  "property.confirm.cancel.edit.edgeHostname": "プロパティの更新を破棄しますか？",
+  "property.confirm.cancel.edit": "プロパティの更新を破棄しますか？",
   "property.label.allow.protocol.downgrade": "プロトコルのダウングレードを許可",
   "property.label.cache.key.scheme": "HTTPSコンテンツをHTTPとは別にキャッシュする",
   "property.label.cachekey.hostname": "キャッシュキーのホスト名",
