@@ -38,11 +38,4 @@ zh-Hans.json:
 {"purge.button.start": "开始 Purge"}
 ```
 ## Useful Tools
-[BabelText](https://www.codeandweb.com/babeledit) is a translation editor for web applications. It enables developers to edit JSON properties and translation files with ease.
-Developers just need to focus on the English(en-US.json) texts. After adding key-value pairs into en-US.json, please run:
-```shell script
-# Please use Python 3. 
-# Python 2 doesn't support special UTF-8 characters very well, which might cause some problem.
-python3 auto_generate.py
-```
-Then check the files generated under "result" and replace origin files with them.
+[BabelEdit](https://www.codeandweb.com/babeledit) is a translation editor for web applications. It enables developers to edit JSON properties and translation files with ease. We have a Volume License. Please ask Bin Ni for the license key. This project should only be worked on with this tool.
