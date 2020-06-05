@@ -887,6 +887,8 @@
 	"purge.multiple.files.task.name": "ファイル '{file}'および{totalMinusOne}をパージします",
 	"purge.progress-bar.failure.message": "パージ要求が失敗しました。",
 	"purge.progress-bar.failure.title": "パージに失敗しました",
+	"purge.progress-bar.finish.message": "The purge request has finished.",
+	"purge.progress-bar.finish.title": "Purging Finished",
 	"purge.progress-bar.inprogress.message": "パージ要求が進行中です。これには数分かかる場合があります。",
 	"purge.progress-bar.inprogress.title": "コンテンツの削除",
 	"purge.progress-bar.success.message": "コンテンツは正常に削除されました。",

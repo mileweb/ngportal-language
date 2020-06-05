@@ -887,6 +887,8 @@
 	"purge.multiple.files.task.name": "Purge file '{file}' and {totalMinusOne} more",
 	"purge.progress-bar.failure.message": "제거 요청이 실패했습니다. ",
 	"purge.progress-bar.failure.title": "삭제 실패 ",
+	"purge.progress-bar.finish.message": "The purge request has finished.",
+	"purge.progress-bar.finish.title": "Purging Finished",
 	"purge.progress-bar.inprogress.message": "제거 요청이 진행 중입니다. 몇 분이 걸릴 수 있습니다. ",
 	"purge.progress-bar.inprogress.title": "콘텐츠 제거 ",
 	"purge.progress-bar.success.message": "내용이 성공적으로 제거되었습니다. ",

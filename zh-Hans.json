@@ -887,6 +887,8 @@
 	"purge.multiple.files.task.name": "Purge file '{file}' and {totalMinusOne} more",
 	"purge.progress-bar.failure.message": "The purge request has failed.",
 	"purge.progress-bar.failure.title": "Purging Failed",
+	"purge.progress-bar.finish.message": "The purge request has finished.",
+	"purge.progress-bar.finish.title": "Purging Finished",
 	"purge.progress-bar.inprogress.message": "The purge request is in progress. This could take several minutes.",
 	"purge.progress-bar.inprogress.title": "Purging Content",
 	"purge.progress-bar.success.message": "The content has been successfully purged.",
