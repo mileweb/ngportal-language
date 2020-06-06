@@ -42,4 +42,4 @@ zh-Hans.json:
 
 This project should only be worked on with this tool.
 
-Before you commit, please do a `git diff` to make sure you did not change the line order, indentation, line-end etc. Only the lines you actually modified should show up in the diff. Otherwise it will be very difficult to track changes.
+Before you commit, please do a `git diff` to make sure you did not inadvertantely change the line order, indentation, line-end etc. Only the lines you actually modified should show up in the diff. Otherwise it will be very difficult to track changes.
