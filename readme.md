@@ -38,4 +38,8 @@ zh-Hans.json:
 {"purge.button.start": "开始 Purge"}
 ```
 ## Useful Tools
-[BabelEdit](https://www.codeandweb.com/babeledit) is a translation editor for web applications. It enables developers to edit JSON properties and translation files with ease. We have a Volume License. Please ask Bin Ni for the license key. This project should only be worked on with this tool.
+[BabelEdit](https://www.codeandweb.com/babeledit) is a translation editor for web applications. It enables developers to edit JSON properties and translation files with ease. We have a Volume License. Please ask Bin Ni for the license key.
+
+This project should only be worked on with this tool.
+
+Before you commit, please do a `git diff` to make sure you did not change the line order, indentation, line-end etc. Only the lines you actually modified should show up in the diff. Otherwise it will be very difficult to track changes.
