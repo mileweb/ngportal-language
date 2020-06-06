@@ -632,7 +632,7 @@
 	"forms.transfer.SubTitle": "Ricerca",
 	"forms.transfer.Title": "Completamento automatico",
 	"forms.transfer.header": "Trasferisci con una casella di ricerca.",
-	"frozen.property.version.tooltip": "A property is locked once it is deployed to the staging or production environment. \nIf you need to make changes, clone this version.",
+	"frozen.property.version.tooltip": "A property version is locked once it is deployed to the staging or production environment. \nIf you need to make changes, clone this version.",
 	"http.header.value.table.column.name": "Header Name",
 	"http.header.value.table.column.value": "Header Value",
 	"http.header.value.table.empty": "No headers and values",
