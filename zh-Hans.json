@@ -1414,7 +1414,7 @@
 	"validation.error.common.name.invalid": "The Common Name can only consist of printable ASCII characters.",
 	"validation.error.common.name.length.invalid": "The Common Name must be less than or equal to 250 characters in length.",
 	"validation.error.desc.too.long": "The description can be up to 256 characters.",
-	"validation.error.desc.too.short": "您对该属性版本有非常简短的描述。最好写一些东西来记录您所做的事情。",
+	"validation.error.desc.too.short": "您对该配置版本的描述过于简短。最好多写一些东西来记录您刚才的操作。",
 	"validation.error.duplicate.origin.name": "此源站名称已被使用，请输入一个其他名称。",
 	"validation.error.edgeHostname.invalid": "边缘域名必须是一个合法的域名。",
 	"validation.error.empty.origin.name": "源站名称不能为空。",
