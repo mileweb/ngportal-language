@@ -1414,6 +1414,7 @@
 	"validation.error.common.name.invalid": "The Common Name can only consist of printable ASCII characters.",
 	"validation.error.common.name.length.invalid": "The Common Name must be less than or equal to 250 characters in length.",
 	"validation.error.desc.too.long": "The description can be up to 256 characters.",
+	"validation.error.desc.too.short": "You have a very short description for this property version. It is a good practice to write something to document what you did.",
 	"validation.error.duplicate.origin.name": "This origin name is already in use. Please enter a different one.",
 	"validation.error.edgeHostname.invalid": "The Edge Hostname must be a valid domain name.",
 	"validation.error.empty.origin.name": "The origin name cannot be empty.",
