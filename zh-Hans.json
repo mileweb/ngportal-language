@@ -418,7 +418,7 @@
 	"edgeHostnameListing.action.delete": "删除",
 	"edgeHostnameListing.action.edit": "修改",
 	"edgeHostnameListing.button.createCname": "创建边缘域名",
-	"edgeHostnameListing.button.createEdgeHostname": "",
+	"edgeHostnameListing.button.createEdgeHostname": "创建边缘域名",
 	"edgeHostnameListing.column.actions": "操作",
 	"edgeHostnameListing.column.creationTime": "创建时间",
 	"edgeHostnameListing.column.hasBeian": "有备案",

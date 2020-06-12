@@ -418,7 +418,7 @@
 	"edgeHostnameListing.action.delete": "削除する",
 	"edgeHostnameListing.action.edit": "編集",
 	"edgeHostnameListing.button.createCname": "Edge Hostnameを作成",
-	"edgeHostnameListing.button.createEdgeHostname": "",
+	"edgeHostnameListing.button.createEdgeHostname": "エッジホスト名を作成",
 	"edgeHostnameListing.column.actions": "行動",
 	"edgeHostnameListing.column.creationTime": "Creation Time",
 	"edgeHostnameListing.column.hasBeian": "Has Beian",

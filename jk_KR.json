@@ -418,7 +418,7 @@
 	"edgeHostnameListing.action.delete": "지우다",
 	"edgeHostnameListing.action.edit": "편집하다",
 	"edgeHostnameListing.button.createCname": "Edge Hostname 만들기 ",
-	"edgeHostnameListing.button.createEdgeHostname": "",
+	"edgeHostnameListing.button.createEdgeHostname": "에지 호스트 이름 생성",
 	"edgeHostnameListing.column.actions": "행위",
 	"edgeHostnameListing.column.creationTime": "Creation Time",
 	"edgeHostnameListing.column.hasBeian": "Has Beian",

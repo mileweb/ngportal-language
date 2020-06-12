@@ -418,7 +418,7 @@
 	"edgeHostnameListing.action.delete": "Delete",
 	"edgeHostnameListing.action.edit": "Edit",
 	"edgeHostnameListing.button.createCname": "Create Edge Hostname",
-	"edgeHostnameListing.button.createEdgeHostname": "",
+	"edgeHostnameListing.button.createEdgeHostname": "قم بإنشاء Edge Hostname",
 	"edgeHostnameListing.column.actions": "Actions",
 	"edgeHostnameListing.column.creationTime": "Creation Time",
 	"edgeHostnameListing.column.hasBeian": "Has Beian",
