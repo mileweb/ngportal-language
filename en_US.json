@@ -1222,6 +1222,8 @@
 	"topbar.totalPrice": "Total Price",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",
+	"trial.expiration.reminder.days": "Your trial will expire in '{remainingDays}' day(s). Please upgrade to a paid account to avoid service suspension.",
+	"trial.expiration.reminder.today": "Your trial will expire today. Please upgrade to a paid account to avoid service suspension.",
 	"uiElements.badge.badge": "Badge",
 	"uiElements.badge.basicExample": "Basic Example",
 	"uiElements.badge.basicExampleSubTitle": "Simplest Usage. Badge will be hidden when count is 0   but we can use showZero to show it.",

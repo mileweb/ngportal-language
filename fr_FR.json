@@ -1222,6 +1222,8 @@
 	"topbar.totalPrice": "Prix ​​total",
 	"topbar.viewAll": "Connectez - Out",
 	"topbar.viewCart": "Voir le panier",
+	"trial.expiration.reminder.days": "Votre essai expirera dans «{remainingDays}» jour (s). Veuillez passer à un compte payant pour éviter la suspension du service.",
+	"trial.expiration.reminder.today": "Votre essai expirera aujourd'hui. Veuillez passer à un compte payant pour éviter la suspension du service.",
 	"uiElements.badge.badge": "Distintivo",
 	"uiElements.badge.basicExample": "Ejemplo Básico",
 	"uiElements.badge.basicExampleSubTitle": "Uso más simple. La insignia se ocultará cuando count sea 0   pero podemos usar showZero para mostrarlo.",

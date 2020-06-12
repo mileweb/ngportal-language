@@ -1222,6 +1222,8 @@
 	"topbar.totalPrice": "총 가격",
 	"topbar.viewAll": "모두보기",
 	"topbar.viewCart": "장바구니보기",
+	"trial.expiration.reminder.days": "평가판은 '{remainingDays}'일 이내에 만료됩니다. 서비스 정지를 피하려면 유료 계정으로 업그레이드하십시오.",
+	"trial.expiration.reminder.today": "평가판이 오늘 만료됩니다. 서비스 정지를 피하려면 유료 계정으로 업그레이드하십시오.",
 	"uiElements.badge.badge": "배지",
 	"uiElements.badge.basicExample": "기본 예 ",
 	"uiElements.badge.basicExampleSubTitle": "가장 간단한 사용법. 개수가 0이면 배지가 숨겨 지지만 showZero를 사용하여 표시 할 수 있습니다. ",
