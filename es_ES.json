@@ -1222,6 +1222,8 @@
 	"topbar.totalPrice": "Precio total",
 	"topbar.viewAll": "Ver todo",
 	"topbar.viewCart": "Ver carro",
+	"trial.expiration.reminder.days": "Su prueba caducará en {remainingDays} día (s). Actualice a una cuenta paga para evitar la suspensión del servicio.",
+	"trial.expiration.reminder.today": "Su prueba caducará hoy. Actualice a una cuenta paga para evitar la suspensión del servicio.",
 	"uiElements.badge.badge": "Distintivo",
 	"uiElements.badge.basicExample": "Ejemplo Básico",
 	"uiElements.badge.basicExampleSubTitle": "Uso más simple. La insignia se ocultará cuando count sea 0   pero podemos usar showZero para mostrarlo.",

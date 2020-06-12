@@ -1222,6 +1222,8 @@
 	"topbar.totalPrice": "合計金額",
 	"topbar.viewAll": "すべてを見る",
 	"topbar.viewCart": "かごの中身を見る",
+	"trial.expiration.reminder.days": "試用は {remainingDays} 日後に有効期限が切れます。サービスの停止を回避するには、有料アカウントにアップグレードしてください。",
+	"trial.expiration.reminder.today": "試用期間は本日で期限切れになります。サービスの停止を回避するには、有料アカウントにアップグレードしてください。",
 	"uiElements.badge.badge": "バッジ",
 	"uiElements.badge.basicExample": "基本的な例",
 	"uiElements.badge.basicExampleSubTitle": "最も簡単な使用法。カウントが0の場合、バッジは非表示になりますが、showZeroを使用してバッジを表示できます。",
