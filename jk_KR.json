@@ -756,6 +756,7 @@
 	"products.title.ecp": "ECP ",
 	"property.btn.add.origin": "목록에 원점 추가 ",
 	"property.button.compare.versions": "Compare Versions",
+	"property.clone.version.description": "버전 {version} 에서 복제",
 	"property.compare.configuration.title": "Configuration",
 	"property.compare.deploy.title": "에 배포 ",
 	"property.compare.deployed.version.description": "버전 {deployedVersion}-현재 버전-배포 됨 ",

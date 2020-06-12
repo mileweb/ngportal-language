@@ -756,6 +756,7 @@
 	"products.title.ecp": "ECP",
 	"property.btn.add.origin": "Add Origin To List",
 	"property.button.compare.versions": "Compare Versions",
+	"property.clone.version.description": "Cloned from version {version}",
 	"property.compare.configuration.title": "Configuration",
 	"property.compare.deploy.title": "Deploy to ",
 	"property.compare.deployed.version.description": "Version {deployedVersion} - Current Version - Deployed",

@@ -756,6 +756,7 @@
 	"products.title.ecp": "ECP",
 	"property.btn.add.origin": "リストにオリジンを追加",
 	"property.button.compare.versions": "Compare Versions",
+	"property.clone.version.description": "バージョン {version} から複製",
 	"property.compare.configuration.title": "Configuration",
 	"property.compare.deploy.title": "に展開",
 	"property.compare.deployed.version.description": "バージョン{deployedVersion}-現在のバージョン-デプロイ済み",

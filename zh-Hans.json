@@ -756,6 +756,7 @@
 	"products.title.ecp": "ECP",
 	"property.btn.add.origin": "添加新源站到列表",
 	"property.button.compare.versions": "比较版本",
+	"property.clone.version.description": "从版本 {version}克隆",
 	"property.compare.configuration.title": "配置",
 	"property.compare.deploy.title": "部署至 ",
 	"property.compare.deployed.version.description": "版本 {deployedVersion} - 当前版本 - 已部署",
