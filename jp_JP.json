@@ -34,6 +34,7 @@
 	"button.text.next": "次",
 	"button.text.previous": "前",
 	"button.title.next": "次",
+	"button.upgrade.title": "アップグレード",
 	"cache.setting.notification.text": "[続行]をクリックすると、「エッジロジック」が自動生成コードに置き換えられることに注意してください。",
 	"cache.setting.notification.title": "エッジロジックの置換",
 	"cache.setting.origin.select": "起源*",

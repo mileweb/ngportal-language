@@ -34,6 +34,7 @@
 	"button.text.next": "Next",
 	"button.text.previous": "Previous",
 	"button.title.next": "Next",
+	"button.upgrade.title": "aggiornamento",
 	"cache.setting.notification.text": "Please note that by clicking “continue”, the Edge Logic will be replaced with auto-generated code.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",
