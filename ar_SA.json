@@ -1222,7 +1222,7 @@
 	"topbar.totalPrice": "Total Price",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",
-	"trial.expiration.reminder.days": "ستنتهي فترتك التجريبية في غضون{remainingDays}يوم (أيام). يرجى الترقية إلى حساب مدفوع لتجنب تعليق الخدمة.",
+	"trial.expiration.reminder.days": "ستنتهي مدتك التجريبية بعد {remainingDays} يوم (أيام). يرجى الترقية إلى حساب مدفوع لتجنب تعليق الخدمة.",
 	"trial.expiration.reminder.today": "ستنتهي محاكمتك اليوم. يرجى الترقية إلى حساب مدفوع لتجنب تعليق الخدمة.",
 	"uiElements.badge.badge": "شارة",
 	"uiElements.badge.basicExample": "مثال أساسي",

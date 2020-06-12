@@ -1222,7 +1222,7 @@
 	"topbar.totalPrice": "Prezzo totale",
 	"topbar.viewAll": "Guarda tutto",
 	"topbar.viewCart": "Visualizza carrello",
-	"trial.expiration.reminder.days": "Il periodo di prova scadrà tra '{remainingDays}' giorno (i). Passa a un account a pagamento per evitare la sospensione del servizio.",
+	"trial.expiration.reminder.days": "Il periodo di prova scadrà tra {remainingDays} giorni. Passa a un account a pagamento per evitare la sospensione del servizio.",
 	"trial.expiration.reminder.today": "La tua prova scadrà oggi. Passa a un account a pagamento per evitare la sospensione del servizio.",
 	"uiElements.badge.badge": "Esempio di base",
 	"uiElements.badge.basicExample": "Uso più semplice. Il distintivo sarà nascosto quando il conteggio è 0   ma possiamo usare showZero per mostrarlo.",
