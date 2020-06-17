@@ -778,7 +778,7 @@
 	"property.compare.versions.before.deploy.version": "version",
 	"property.compare.versions.page.subtitle": "Please select two versions of the property to compare.",
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
-	"property.edgeLogic.autoCompletion": "'Ctrl-Espace' - invoque la saisie semi-automatique",
+	"property.edgeLogic.autoCompletion": "'Ctrl-2/Espace' - invoque la saisie semi-automatique",
 	"property.edgeLogic.shortCut": "Raccourcis clavier:",
 	"property.edgeLogic.showHelp": "'Ctrl-1' - affiche le document sur la directive au curseur",
 	"property.label.allow.protocol.downgrade": "Allow Protocol Downgrade",
