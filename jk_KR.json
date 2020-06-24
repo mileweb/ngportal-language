@@ -1256,6 +1256,8 @@
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "도움",
 	"topbar.logout": "로그 아웃",
+	"topbar.support": "지원하다",
+	"topbar.support.documentation": "선적 서류 비치",
 	"topbar.totalPrice": "총 가격",
 	"topbar.viewAll": "모두보기",
 	"topbar.viewCart": "장바구니보기",

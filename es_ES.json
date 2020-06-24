@@ -1256,6 +1256,8 @@
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Ayuda",
 	"topbar.logout": "Cerrar sesión",
+	"topbar.support": "Apoyo",
+	"topbar.support.documentation": "Documentación",
 	"topbar.totalPrice": "Precio total",
 	"topbar.viewAll": "Ver todo",
 	"topbar.viewCart": "Ver carro",

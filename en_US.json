@@ -1256,6 +1256,8 @@
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Help",
 	"topbar.logout": "Log Out",
+	"topbar.support": "Support",
+	"topbar.support.documentation": "Documentation",
 	"topbar.totalPrice": "Total Price",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",

@@ -1256,6 +1256,8 @@
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Help",
 	"topbar.logout": "Log Out",
+	"topbar.support": "支持",
+	"topbar.support.documentation": "文档",
 	"topbar.totalPrice": "Total Price",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",
