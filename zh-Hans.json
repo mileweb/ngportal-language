@@ -856,6 +856,7 @@
 	"property.compare.versions.page.subtitle": "请选择两个不同的版本进行比较。",
 	"property.confirm.cancel.edit": "您要放弃修改此Property吗？",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Space' - 启用自动完成",
+	"property.edgeLogic.editorHeight": "'Ctrl-+ /-' - 更改编辑器高度",
 	"property.edgeLogic.shortCut": "键盘快捷键：",
 	"property.edgeLogic.showHelp": "'Ctrl-1' - 显示光标处指令的文档",
 	"property.label.allow.protocol.downgrade": "允许协议降级",
