@@ -856,6 +856,7 @@
 	"property.compare.versions.page.subtitle": "에지 로직 코드와 버전을 비교할 수 있습니다. 비교할 속성의 두 가지 버전을 선택하십시오. ",
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Space'-자동 완성 호출",
+	"property.edgeLogic.editorHeight": "'Ctrl-+ /-' - 편집기 높이 변경",
 	"property.edgeLogic.shortCut": "키보드 단축키:",
 	"property.edgeLogic.showHelp": "'Ctrl-1'-커서 지시문에 대한 문서를 표시합니다",
 	"property.label.allow.protocol.downgrade": "프로토콜 다운 그레이드 허용 ",

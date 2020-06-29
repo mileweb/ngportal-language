@@ -856,6 +856,7 @@
 	"property.compare.versions.page.subtitle": "Please select two versions of the property to compare.",
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Spazio': richiama il completamento automatico",
+	"property.edgeLogic.editorHeight": "'Ctrl - + / -' - cambia l'altezza dell'editor",
 	"property.edgeLogic.shortCut": "Tasti rapidi:",
 	"property.edgeLogic.showHelp": "'Ctrl-1' - mostra il documento sulla direttiva in corrispondenza del cursore",
 	"property.label.allow.protocol.downgrade": "Allow Protocol Downgrade",
