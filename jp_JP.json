@@ -914,6 +914,7 @@
 	"property.protocol.downgrade.true": "はい、私はセキュリティリスクを理解しています",
 	"property.saved.message": "プロパティは正常に保存されました。",
 	"property.saved.title": "設定を保存しました！",
+	"property.select.redirect.http2https": "はい、ステータスコード {code}でリダイレクトします",
 	"property.tooltip.allow.protocol.downgrade": "オリジンにアクセスするときにプロトコルをHTTPSからHTTPにダウングレードし、関連するセキュリティリスクを理解するには、これをtrueに設定します。",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",
