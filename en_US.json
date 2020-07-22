@@ -157,7 +157,7 @@
 	"certificate.label.description": "Certificate Description",
 	"certificate.label.force.renew": "Force Renew",
 	"certificate.label.name": "Certificate Name *",
-	"certificate.label.private.key": "Private Key ",
+	"certificate.label.private.key": "Private Key",
 	"certificate.label.private.key.required": "Private Key *",
 	"certificate.label.share.with": "Share With",
 	"certificate.label.sharing.method": "Sharing Method",
