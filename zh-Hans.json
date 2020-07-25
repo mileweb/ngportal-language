@@ -488,7 +488,7 @@
 	"edgeHostname.set.service.regions.modal": "Set Client Region(s)",
 	"edgeHostname.tooltip.client.select.isp": "选择将要应用此规则的访客所在运营商。",
 	"edgeHostname.tooltip.client.select.region": "选择将要应用此规则的访客所在地区。",
-	"edgeHostname.tooltip.client.zone.enable.ipv6": "默认值为true，如果将“ enableIPv6”设置为false，则不会返回任何IPv6 VIP",
+	"edgeHostname.tooltip.client.zone.enable.ipv6": "默认值为是，如果将“启用IPv6”设置为“是”，则不会返回任何IPv6 VIP",
 	"edgeHostname.tooltip.client.zone.servergroup": "设置服务该访客分区的服务集群的最高等级。这将启用所有不高于该等级的节点。",
 	"edgeHostname.tooltip.client.zone.weight": "设置该规则在其所在访客分区里生效的比例。",
 	"edgeHostname.tooltip.server.regions": "Select the region(s) that can serve the Edge Hostname.",

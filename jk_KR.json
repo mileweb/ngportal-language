@@ -488,7 +488,7 @@
 	"edgeHostname.set.service.regions.modal": "고객 지역 설정 ",
 	"edgeHostname.tooltip.client.select.isp": "이 규칙을 적용 할 최종 사용자의 ISP를 선택하십시오.",
 	"edgeHostname.tooltip.client.select.region": "이 규칙을 적용 할 최종 사용자의 지역을 선택하십시오.",
-	"edgeHostname.tooltip.client.zone.enable.ipv6": "기본값은 true입니다. \"enableIPv6\"을 false로 설정하면 IPv6 VIP가 반환되지 않습니다",
+	"edgeHostname.tooltip.client.zone.enable.ipv6": "\"IPv6 사용\"이 예로 설정된 경우 기본값은 예입니다. IPv6 VIP는 리턴되지 않습니다.",
 	"edgeHostname.tooltip.client.zone.servergroup": "사용할 가장 높은 서버 그룹을 선택하십시오. 트래픽은 그보다 높지 않은 모든 노드에서 제공됩니다.",
 	"edgeHostname.tooltip.client.zone.weight": "동일한 클라이언트 지역에 대한 다른 규칙과 비교하여이 규칙의 작동 방식을 조정하십시오. ",
 	"edgeHostname.tooltip.server.regions": "Edge Hostname을 제공 할 수있는 지역을 선택하십시오. ",
