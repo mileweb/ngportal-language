@@ -488,7 +488,7 @@
 	"edgeHostname.set.service.regions.modal": "クライアント地域の設定",
 	"edgeHostname.tooltip.client.select.isp": "このルールが適用されるエンドユーザーのISPを選択します。",
 	"edgeHostname.tooltip.client.select.region": "このルールが適用されるエンドユーザーの地域を選択します。",
-	"edgeHostname.tooltip.client.zone.enable.ipv6": "デフォルト値はtrueで、「enableIPv6」がfalseに設定されている場合、IPv6 VIPは返されません",
+	"edgeHostname.tooltip.client.zone.enable.ipv6": "デフォルト値は「はい」です。「IPv6を有効にする」が「はい」に設定されている場合、IPv6 VIPは返されません",
 	"edgeHostname.tooltip.client.zone.servergroup": "使用する最上位のサーバーグループを選択します。トラフィックはそれ以下のすべてのノードによって処理されます。",
 	"edgeHostname.tooltip.client.zone.weight": "同じクライアント領域の他のルールと比較して、このルールの動作を調整します。",
 	"edgeHostname.tooltip.server.regions": "Edge Hostnameを提供できる地域を選択します。",

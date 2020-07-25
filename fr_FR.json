@@ -488,7 +488,7 @@
 	"edgeHostname.set.service.regions.modal": "Set Client Region(s)",
 	"edgeHostname.tooltip.client.select.isp": "Select the ISP of the end users to whom this rule will be applied.",
 	"edgeHostname.tooltip.client.select.region": "Select the region of the end users to whom this rule will be applied.",
-	"edgeHostname.tooltip.client.zone.enable.ipv6": "La valeur par défaut est true, si \"enableIPv6\" est défini sur false, aucun VIP IPv6 ne sera renvoyé",
+	"edgeHostname.tooltip.client.zone.enable.ipv6": "La valeur par défaut est Oui, si \"Activer IPv6\" est défini sur Oui, aucun VIP IPv6 ne sera renvoyé",
 	"edgeHostname.tooltip.client.zone.servergroup": "Sélectionnez le groupe de serveurs le plus élevé à utiliser. Votre trafic sera servi par tous les pops pas plus élevés que cela.",
 	"edgeHostname.tooltip.client.zone.weight": "Adjust how this rule behaves relative to other rules for the same client zone.",
 	"edgeHostname.tooltip.server.regions": "Select the region(s) that can serve the Edge Hostname.",
