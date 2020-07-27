@@ -342,7 +342,7 @@
 	"contentListing.column.completionTime": "完成时间",
 	"contentListing.column.directories": "目录",
 	"contentListing.column.files": "文件",
-	"contentListing.column.hostNames": "主机名",
+	"contentListing.column.hostNames": "域名",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "率",
 	"contentListing.column.submissionTime": "提交时间",

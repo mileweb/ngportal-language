@@ -342,7 +342,7 @@
 	"contentListing.column.completionTime": "Completion Time",
 	"contentListing.column.directories": "Directories",
 	"contentListing.column.files": "Files",
-	"contentListing.column.hostNames": "Host Names",
+	"contentListing.column.hostNames": "Hostnames",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "Rate",
 	"contentListing.column.submissionTime": "Submission Time",
