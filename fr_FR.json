@@ -964,7 +964,7 @@
 	"propertyListing.column.actions": "Actions",
 	"propertyListing.column.id": "ID",
 	"propertyListing.column.last.update.time": "Last Update Time",
-	"propertyListing.column.name": "Property Name",
+	"propertyListing.column.name": "Nom de la propriété",
 	"propertyListing.column.production": "Production",
 	"propertyListing.column.staging": "Staging",
 	"propertyListing.column.version": "Version",
