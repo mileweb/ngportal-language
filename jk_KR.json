@@ -401,7 +401,7 @@
 	"deploy.property.title": "이 속성을 배포 하시겠습니까? ",
 	"deploy.success.modal.message": "구성이 {environment}에 성공적으로 배치되었습니다. ",
 	"deploy.success.modal.title": "배포 된 구성 ",
-	"deploy.target.label": "배포 대상 : * ",
+	"deploy.target.label": "배포 대상 *",
 	"deploy.target.production": "생산",
 	"deploy.target.staging": "각색",
 	"deployment.confirm.certificate.deploy.again": "Do you want to deploy version {version} of certificate '{certificateName}' to {environment} again?",
