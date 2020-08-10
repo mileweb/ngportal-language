@@ -176,6 +176,7 @@
 	"certificate.placeholder.share.with": "选择要共享的客户",
 	"certificate.placeholder.sharing.method": "选择共享方式",
 	"certificate.placeholder.state": "输入省、州的名称。",
+	"certificate.shared.owner.text": " {ownerName}与您共享此证书。",
 	"certificate.sharing.customers.change.message": "以下客户正在生产或演练环境使用此证书，并且即将失去访问权： {customerNameList}。要继续吗？",
 	"certificate.sharing.customers.change.title": "确认",
 	"certificate.sharing.method.all": "所有子客户",

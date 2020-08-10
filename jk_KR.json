@@ -176,6 +176,7 @@
 	"certificate.placeholder.share.with": "공유 할 고객 선택 ",
 	"certificate.placeholder.sharing.method": "공유 방법 선택 ",
 	"certificate.placeholder.state": "상태를 입력하십시오. ",
+	"certificate.shared.owner.text": "이 인증서는 {ownerName}에서 공유합니다.",
 	"certificate.sharing.customers.change.message": "The following customers are using this certificate in production or staging and will lose access to it: {customerNameList}. Do you want to continue?",
 	"certificate.sharing.customers.change.title": "Confirmation",
 	"certificate.sharing.method.all": "모든 아동 고객 ",
