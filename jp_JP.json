@@ -176,6 +176,7 @@
 	"certificate.placeholder.share.with": "共有する顧客を選択",
 	"certificate.placeholder.sharing.method": "共有方法を選択",
 	"certificate.placeholder.state": "状態に入ります。",
+	"certificate.shared.owner.text": "この証明書は {ownerName}によって共有されています。",
 	"certificate.sharing.customers.change.message": "次のお客様は、本番またはステージングでこの証明書を使用しており、アクセスできなくなります：{customerNameList}。 続けたいですか？",
 	"certificate.sharing.customers.change.title": "確認",
 	"certificate.sharing.method.all": "すべての子顧客",
