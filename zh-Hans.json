@@ -929,6 +929,7 @@
 	"property.select.redirect.http2https": "是的，使用状态代码{code}重定向",
 	"property.tooltip.allow.protocol.downgrade": "要在访问源站时将协议从HTTPS降级为HTTP，并且您了解相关的安全风险，请将其设置为”是“。",
 	"property.tooltip.clicktocopy.hostname": "单击以复制。",
+	"property.unit.origin.keepalive.timeout": "秒",
 	"property.version.beian.content.type.option.1": "即时通信",
 	"property.version.beian.content.type.option.10": "网上支付",
 	"property.version.beian.content.type.option.11": "网上银行",

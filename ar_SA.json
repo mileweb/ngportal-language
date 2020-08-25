@@ -929,6 +929,7 @@
 	"property.select.redirect.http2https": "نعم ، إعادة التوجيه برمز الحالة {code}",
 	"property.tooltip.allow.protocol.downgrade": "لخفض البروتوكول من HTTPS إلى HTTP عند الوصول إلى الأصل ، وأنت تفهم مخاطر الأمان ذات الصلة ، اضبط هذا على \"صواب\".",
 	"property.tooltip.clicktocopy.hostname": "انقر للنسخ.",
+	"property.unit.origin.keepalive.timeout": "ثواني",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",
 	"property.version.beian.content.type.option.11": "Online Bank",
