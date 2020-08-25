@@ -927,6 +927,7 @@
 	"property.saved.title": "Configuration saved!",
 	"property.select.redirect.http2https": "Sì, reindirizzare con il codice di stato {code}",
 	"property.tooltip.allow.protocol.downgrade": "Per eseguire il downgrade del protocollo da HTTPS a HTTP quando si accede all'origine e si comprende il relativo rischio per la sicurezza, impostarlo su true.",
+	"property.unit.origin.keepalive.timeout": "secondi",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",
 	"property.version.beian.content.type.option.11": "Online Bank",
