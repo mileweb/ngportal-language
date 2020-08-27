@@ -1581,8 +1581,6 @@
 	"user.invite.privacy.terms.label": "Terms of Service",
 	"user.invite.privacy.text": "I accept the {name} {privacy}, {aup}, {terms}, and {cookie}.",
 	"user.invite.privacy.text.dpa": "I accept the {name} {dpa}.",
-	"user.invite.privacy.text1": "",
-	"user.invite.privacy.text2": "",
 	"user.search.placeholder": "Enter a username",
 	"validation.error.bandwidth.invalid": "Please enter the estimated bandwidth and choose its unit of measurement.",
 	"validation.error.cachekey.host.not.matched": "The cache key host must match one hostname.",
