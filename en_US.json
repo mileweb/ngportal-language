@@ -835,7 +835,7 @@
 	"placeholder.origin.server.http": "HTTP Port",
 	"placeholder.origin.server.https": "HTTPS Port",
 	"placeholder.origin.server.url": "Hostname or IP Address",
-	"placeholder.origin.server.weight": "Weight",
+	"placeholder.origin.server.weight":"Weight",
 	"placeholder.property.cache.key": "Enter a hostname to use instead of the incoming Host header value.",
 	"placeholder.property.cipher": "Please refer to https://www.openssl.org/docs/man1.1.1/man1/ciphers.html",
 	"placeholder.property.desc": "What does this property do? Add a description.",
