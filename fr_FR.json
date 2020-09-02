@@ -460,7 +460,7 @@
 	"edgeHostname.placeholder.bandwidth.unit": "Select Unit",
 	"edgeHostname.placeholder.name": "Enter the first part of the Edge Hostname",
 	"edgeHostname.return.list.btn": "Return List",
-	"edgeHostname.save.btn": "Create the Edge Hostname",
+	"edgeHostname.save.btn": "Créer un nom d'hôte Edge",
 	"edgeHostname.server.group.premium": "premium",
 	"edgeHostname.server.group.premiumplus": "premium+",
 	"edgeHostname.server.group.standard": "standard",
