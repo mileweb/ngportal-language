@@ -36,7 +36,7 @@
 	"button.text.previous": "Previous",
 	"button.title.next": "Next",
 	"button.upgrade.title": "aggiornamento",
-	"cache.setting.notification.text": "Please note that by clicking “continue”, the Edge Logic will be replaced with auto-generated code.",
+	"cache.setting.notification.text": "Si noti che facendo clic su \"continua\", Edge Logic verrà sostituito con il codice generato automaticamente.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",
 	"cache.setting.pop.up.sub.text": "Set default cache settings.",
