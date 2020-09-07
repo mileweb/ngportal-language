@@ -1362,6 +1362,7 @@
 	"topbar.totalPrice": "Total Price",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",
+	"topbar.help.email": "To contact us at {emailAddress}",
 	"trial.expiration.popup.body.line1": "We hope you have enjoyed the free trial. To continue using our service,",
 	"trial.expiration.popup.body.line2": "upgrade now to resume your account.",
 	"trial.expiration.popup.notice": "Notice",
