@@ -1362,7 +1362,7 @@
 	"topbar.totalPrice": "Prix ​​total",
 	"topbar.viewAll": "Connectez - Out",
 	"topbar.viewCart": "Voir le panier",
-	"topbar.help.email": "To contact us at {emailAddress}",
+	"topbar.help.email": "Please contact us at {emailAddress}.",
 	"trial.expiration.popup.body.line1": "Nous espérons que vous avez apprécié l'essai gratuit. Pour continuer à utiliser notre service,",
 	"trial.expiration.popup.body.line2": "mettez à niveau maintenant pour reprendre votre compte.",
 	"trial.expiration.popup.notice": "Remarquer",

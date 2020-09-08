@@ -1362,7 +1362,7 @@
 	"topbar.totalPrice": "Total Price",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",
-	"topbar.help.email": "请发送邮件至{emailAddress}来联系我们",
+	"topbar.help.email": "请发送邮件至{emailAddress}来联系我们。",
 	"trial.expiration.popup.body.line1": "我们希望您喜欢免费试用。要继续使用我们的服务，",
 	"trial.expiration.popup.body.line2": "立即升级以恢复您的帐户。",
 	"trial.expiration.popup.notice": "注意",

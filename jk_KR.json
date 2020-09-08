@@ -1362,6 +1362,7 @@
 	"topbar.totalPrice": "총 가격",
 	"topbar.viewAll": "모두보기",
 	"topbar.viewCart": "장바구니보기",
+	"topbar.help.email": "Please contact us at {emailAddress}.",
 	"trial.expiration.popup.body.line1": "무료 평가판을 즐기 셨기를 바랍니다. 서비스를 계속 사용하려면",
 	"trial.expiration.popup.body.line2": "지금 업그레이드하여 계정을 재개하십시오.",
 	"trial.expiration.popup.notice": "주의",
