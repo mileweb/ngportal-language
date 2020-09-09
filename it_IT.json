@@ -1362,6 +1362,7 @@
 	"topbar.totalPrice": "Prezzo totale",
 	"topbar.viewAll": "Guarda tutto",
 	"topbar.viewCart": "Visualizza carrello",
+	"topbar.help.email": "Please contact us at {emailAddress}.",
 	"trial.expiration.popup.body.line1": "Speriamo che ti sia piaciuta la prova gratuita. Per continuare a utilizzare il nostro servizio,",
 	"trial.expiration.popup.body.line2": "esegui l'upgrade ora per riprendere il tuo account.",
 	"trial.expiration.popup.notice": "Avviso",

@@ -1362,6 +1362,7 @@
 	"topbar.totalPrice": "Total Price",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",
+	"topbar.help.email": "Please contact us at {emailAddress}.",
 	"trial.expiration.popup.body.line1": "نأمل أن تكون قد استمتعت بالتجربة المجانية. لمواصلة استخدام خدمتنا ،",
 	"trial.expiration.popup.body.line2": "قم بالترقية الآن لاستئناف حسابك.",
 	"trial.expiration.popup.notice": "تنويه",

@@ -1362,6 +1362,7 @@
 	"topbar.totalPrice": "合計金額",
 	"topbar.viewAll": "すべてを見る",
 	"topbar.viewCart": "かごの中身を見る",
+	"topbar.help.email": "Please contact us at {emailAddress}.",
 	"trial.expiration.popup.body.line1": "無料トライアルをお楽しみいただけましたら幸いです。引き続きサービスをご利用いただくために、",
 	"trial.expiration.popup.body.line2": "今すぐアップグレードしてアカウントを再開してください。",
 	"trial.expiration.popup.notice": "通知",

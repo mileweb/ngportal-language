@@ -1362,6 +1362,7 @@
 	"topbar.totalPrice": "Precio total",
 	"topbar.viewAll": "Ver todo",
 	"topbar.viewCart": "Ver carro",
+	"topbar.help.email": "Please contact us at {emailAddress}.",
 	"trial.expiration.popup.body.line1": "Esperamos que hayas disfrutado de la prueba gratuita. Para continuar usando nuestro servicio,",
 	"trial.expiration.popup.body.line2": "actualice ahora para reanudar su cuenta.",
 	"trial.expiration.popup.notice": "darse cuenta",
