@@ -1357,7 +1357,7 @@
 	"toggle.shuffle": "혼합",
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "도움",
-	"topbar.help.email": "Please contact us at {emailAddress}.",
+	"topbar.help.email": "{emailAddress}으로 문의하십시오.",
 	"topbar.logout": "로그 아웃",
 	"topbar.support": "지원하다",
 	"topbar.support.documentation": "선적 서류 비치",

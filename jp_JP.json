@@ -1357,7 +1357,7 @@
 	"toggle.shuffle": "シャッフル",
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "助けて",
-	"topbar.help.email": "Please contact us at {emailAddress}.",
+	"topbar.help.email": "{emailAddress}までご連絡ください。",
 	"topbar.logout": "ログアウト",
 	"topbar.support": "サポート",
 	"topbar.support.documentation": "ドキュメンテーション",
