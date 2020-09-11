@@ -1357,7 +1357,7 @@
 	"toggle.shuffle": "Ruotare",
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Aiuto",
-	"topbar.help.email": "Please contact us at {emailAddress}.",
+	"topbar.help.email": "Contattaci all'indirizzo {emailAddress}.",
 	"topbar.logout": "Disconnettersi",
 	"topbar.support": "Supporto",
 	"topbar.support.documentation": "Documentazione",

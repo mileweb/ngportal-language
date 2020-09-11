@@ -1357,7 +1357,7 @@
 	"toggle.shuffle": "Shuffle",
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Help",
-	"topbar.help.email": "请发送邮件至{emailAddress}来联系我们。",
+	"topbar.help.email": "请通过{emailAddress}与我们联系。",
 	"topbar.logout": "Log Out",
 	"topbar.support": "支持",
 	"topbar.support.documentation": "文档",
