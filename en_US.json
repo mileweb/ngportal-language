@@ -1091,7 +1091,7 @@
 	"report.fast.vol.label.traffic.up.vol": "Upload Traffic",
 	"report.fast.vol.label.traffic.down.vol": "Download Traffic",
 	"report.fast.req.label.requests": "Fast Route Requests",
-	"report.fast.req.label.requests.per.sec": "Fast Route Requests / Second",
+	"report.fast.req.label.requests.per.sec": "Requests / Second",
 	"report.requests.label.fast.route.requests.per.sec": "Fast Route Requests / Second",
 	"report.requests.label.fast.route.requests":  "Fast Route Requests",
 	"reportQuery.page.dateRange": "Date Range *",
