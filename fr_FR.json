@@ -1381,6 +1381,7 @@
 	"topbar.viewCart": "Voir le panier",
 	"trial.expiration.popup.body.line1": "Nous espérons que vous avez apprécié l'essai gratuit. Pour continuer à utiliser notre service,",
 	"trial.expiration.popup.body.line2": "mettez à niveau maintenant pour reprendre votre compte.",
+	"trial.expiration.popup.not.now": "pas maintenant",
 	"trial.expiration.popup.notice": "Remarquer",
 	"trial.expiration.popup.price.detail": "Détails du prix",
 	"trial.expiration.popup.title": "Votre essai gratuit a expiré",
