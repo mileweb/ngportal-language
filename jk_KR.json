@@ -120,6 +120,8 @@
 	"cdn.plan.upgrade.pricing.per.gb": "GB 당",
 	"cdn.plan.upgrade.pricing.title": "가격",
 	"cdn.plan.upgrade.proceed.to.checkout": "지금 업그레이드하십시오!",
+	"cdn.plan.upgrade.success.notification.text": "업그레이드 해주셔서 감사합니다. 이제 CDN360 서비스에 대한 전체 액세스 권한이 있습니다.",
+	"cdn.plan.upgrade.success.notification.title": "성공적으로 업그레이드 됨",
 	"cdn360.service.text": "CDN360의 서비스",
 	"cert.auto.renew.off.title": "떨어져서",
 	"cert.auto.renew.on.title": "Let's Encrypt ",
