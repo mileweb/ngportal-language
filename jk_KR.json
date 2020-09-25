@@ -1383,6 +1383,7 @@
 	"topbar.viewCart": "장바구니보기",
 	"trial.expiration.popup.body.line1": "무료 평가판을 즐기 셨기를 바랍니다. 서비스를 계속 사용하려면",
 	"trial.expiration.popup.body.line2": "지금 업그레이드하여 계정을 재개하십시오.",
+	"trial.expiration.popup.not.now": "지금은 아니야",
 	"trial.expiration.popup.notice": "주의",
 	"trial.expiration.popup.price.detail": "가격 정보",
 	"trial.expiration.popup.title": "무료 평가판이 만료되었습니다",
