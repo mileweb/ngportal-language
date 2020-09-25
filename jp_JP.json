@@ -1601,8 +1601,6 @@
 	"user.invite.privacy.terms.label": "",
 	"user.invite.privacy.text": "{name}の{privacy}、{aup}、{terms}、および{cookie}に同意します。",
 	"user.invite.privacy.text.dpa": "{name} {dpa}に同意します",
-	"user.invite.privacy.text1": "",
-	"user.invite.privacy.text2": "",
 	"user.search.placeholder": "ユーザー名を入力",
 	"validation.error.bandwidth.invalid": "推定帯域幅を入力し、その測定単位を選択してください。",
 	"validation.error.cachekey.host.not.matched": "キャッシュキーホストは1つのホスト名と一致する必要があります。",
