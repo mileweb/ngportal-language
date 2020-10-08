@@ -97,6 +97,8 @@
 	"cdn.plan.upgrade.coverage.region.sa": "امريكا الجنوبية",
 	"cdn.plan.upgrade.coverage.sa.city.saopaulo": "ساو باولو",
 	"cdn.plan.upgrade.coverage.title": "تغطية",
+	"cdn.plan.upgrade.issue.notification.text": "واجهنا مشكلة أثناء الترقية. يرجى المحاولة مرة أخرى لاحقًا أو الاتصال بفريق الدعم الخاص بنا.",
+	"cdn.plan.upgrade.issue.notification.title": "مشكلة الترقية",
 	"cdn.plan.upgrade.notice.line1.text": "الترقية إلى حساب مدفوع للوصول الكامل إلى {cdn360Link}!",
 	"cdn.plan.upgrade.notice.line2.text": "بما في ذلك النشر في إنتاج واستخدام جميع مجموعات الخوادم لدينا لتحسين حركة المرور الخاصة بك في جميع أنحاء العالم.",
 	"cdn.plan.upgrade.pricing.category.premium": "Premium",
