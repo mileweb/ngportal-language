@@ -97,6 +97,8 @@
 	"cdn.plan.upgrade.coverage.region.sa": "South America",
 	"cdn.plan.upgrade.coverage.sa.city.saopaulo": "Sao Paulo",
 	"cdn.plan.upgrade.coverage.title": "Coverage",
+	"cdn.plan.upgrade.issue.notification.text": "We encountered an issue during upgrade. Please try again later or contact our support team.",
+	"cdn.plan.upgrade.issue.notification.title": "Upgrade Issue",
 	"cdn.plan.upgrade.notice.line1.text": "Upgrade to a paid account to get full access to {cdn360Link}!",
 	"cdn.plan.upgrade.notice.line2.text": "Including deployment to production and use of all our server groups to optimize your traffic around the world.",
 	"cdn.plan.upgrade.pricing.category.premium": "Premium",

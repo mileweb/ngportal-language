@@ -97,6 +97,8 @@
 	"cdn.plan.upgrade.coverage.region.sa": "남아메리카",
 	"cdn.plan.upgrade.coverage.sa.city.saopaulo": "상파울루",
 	"cdn.plan.upgrade.coverage.title": "적용 범위",
+	"cdn.plan.upgrade.issue.notification.text": "업그레이드 중에 문제가 발생했습니다. 나중에 다시 시도하거나 지원 팀에 문의하십시오.",
+	"cdn.plan.upgrade.issue.notification.title": "업그레이드 문제",
 	"cdn.plan.upgrade.notice.line1.text": " {cdn360Link}에 대한 전체 액세스 권한을 얻으려면 유료 계정으로 업그레이드하십시오!",
 	"cdn.plan.upgrade.notice.line2.text": "전 세계 트래픽을 최적화하기 위해 모든 서버 그룹의 프로덕션 및 사용에 배포를 포함합니다.",
 	"cdn.plan.upgrade.pricing.category.premium": "Premium",

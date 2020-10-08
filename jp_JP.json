@@ -97,6 +97,8 @@
 	"cdn.plan.upgrade.coverage.region.sa": "南アメリカ",
 	"cdn.plan.upgrade.coverage.sa.city.saopaulo": "サンパウロ",
 	"cdn.plan.upgrade.coverage.title": "カバレッジ",
+	"cdn.plan.upgrade.issue.notification.text": "アップグレード中に問題が発生しました。後でもう一度試すか、サポートチームにお問い合わせください。",
+	"cdn.plan.upgrade.issue.notification.title": "アップグレードの問題",
 	"cdn.plan.upgrade.notice.line1.text": "有料アカウントにアップグレードして、 {cdn360Link}へのフルアクセスを取得してください！",
 	"cdn.plan.upgrade.notice.line2.text": "本番環境への展開とすべてのサーバーグループの使用を含み、世界中のトラフィックを最適化します。",
 	"cdn.plan.upgrade.pricing.category.premium": "Premium",

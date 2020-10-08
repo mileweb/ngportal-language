@@ -97,6 +97,8 @@
 	"cdn.plan.upgrade.coverage.region.sa": "南美洲",
 	"cdn.plan.upgrade.coverage.sa.city.saopaulo": "圣保罗",
 	"cdn.plan.upgrade.coverage.title": "覆盖范围",
+	"cdn.plan.upgrade.issue.notification.text": "升级期间我们遇到了一个问题。请稍后重试或联系我们的支持团队。",
+	"cdn.plan.upgrade.issue.notification.title": "升级问题",
 	"cdn.plan.upgrade.notice.line1.text": "升级到付费帐户即可获得对{cdn360Link}的完整访问权限!",
 	"cdn.plan.upgrade.notice.line2.text": "从而您可以无限制地使用我们所有的服务器组来优化您在全球范围内的流量。",
 	"cdn.plan.upgrade.pricing.category.premium": "Premium",
