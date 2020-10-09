@@ -885,6 +885,7 @@
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "Cache HTTPS contents separately from HTTP",
 	"property.label.cachekey.hostname": "Cache Key Hostname ",
+	"property.label.disable.certificate.renew.automation": "تعطيل أتمتة تجديد الشهادة",
 	"property.label.has.beian": "Has ICP Beian",
 	"property.label.hostnames": "Hostnames *",
 	"property.label.id": "Property ID",
