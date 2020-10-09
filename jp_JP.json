@@ -885,6 +885,7 @@
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "HTTPSコンテンツをHTTPとは別にキャッシュする",
 	"property.label.cachekey.hostname": "キャッシュキーのホスト名",
+	"property.label.disable.certificate.renew.automation": "証明書更新の自動化を無効にする",
 	"property.label.has.beian": "ICP Beianがいます",
 	"property.label.hostnames": "ホスト名*",
 	"property.label.id": "物件ID",
