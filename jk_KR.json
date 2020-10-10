@@ -426,6 +426,7 @@
 	"dirPurge.invalid.url.with.wildCard": "Invalid directory URL with wildcard. A single wildcard '*' can only be used in the file part of the URL. '**' can only be used at the end of a URL to indicate that a directory and its subdirectories will be purged.",
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
 	"edgeHostname.cancel.btn": "취소",
+	"edgeHostname.client.isp.cannot.contain.allandotherisp": "선택한 클라이언트 ISP에는 \"모두\"및 기타 ISP가 포함됩니다. \"모두\"만 선택하거나 다른 ISP를 선택하십시오.",
 	"edgeHostname.client.region.af": "아프리카 ",
 	"edgeHostname.client.region.all": "모두",
 	"edgeHostname.client.region.apac": "중국 대륙이없는 아시아 태평양 지역 ",
