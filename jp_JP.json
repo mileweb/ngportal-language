@@ -426,6 +426,7 @@
 	"dirPurge.invalid.url.with.wildCard": "ワイルドカード付きの無効なディレクトリURL。 単一のワイルドカード「*」は、URLのファイル部分でのみ使用できます。 「**」はURLの最後でのみ使用でき、ディレクトリとそのサブディレクトリが削除されることを示します。",
 	"dirPurge.table.noData.placeholder": "パージするディレクトリのリスト",
 	"edgeHostname.cancel.btn": "キャンセル",
+	"edgeHostname.client.isp.cannot.contain.allandotherisp": "選択したクライアントISPには、「すべて」およびその他のISPが含まれています。 「すべて」のみを選択するか、他のISPを選択してください。",
 	"edgeHostname.client.region.af": "アフリカ",
 	"edgeHostname.client.region.all": "すべて",
 	"edgeHostname.client.region.apac": "中国本土のないアジア太平洋、中東",
