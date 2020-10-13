@@ -1380,6 +1380,7 @@
 	"topbar.help": "Help",
 	"topbar.help.email": "يرجى الاتصال بنا على {emailAddress}.",
 	"topbar.logout": "Logout",
+	"topbar.quickstart": "ابدء",
 	"topbar.support": "الدعم",
 	"topbar.support.documentation": "كابل بيانات",
 	"topbar.totalPrice": "Total Price",

@@ -1380,6 +1380,7 @@
 	"topbar.help": "助けて",
 	"topbar.help.email": "{emailAddress}までご連絡ください。",
 	"topbar.logout": "ログアウト",
+	"topbar.quickstart": "入門",
 	"topbar.support": "サポート",
 	"topbar.support.documentation": "ドキュメンテーション",
 	"topbar.totalPrice": "合計金額",
