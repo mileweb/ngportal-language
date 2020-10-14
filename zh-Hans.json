@@ -1380,6 +1380,7 @@
 	"topbar.help": "Help",
 	"topbar.help.email": "请通过{emailAddress}与我们联系。",
 	"topbar.logout": "Log Out",
+	"topbar.quickstart": "入门",
 	"topbar.support": "支持",
 	"topbar.support.documentation": "文档",
 	"topbar.totalPrice": "Total Price",

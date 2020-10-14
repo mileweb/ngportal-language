@@ -1380,6 +1380,7 @@
 	"topbar.help": "Help",
 	"topbar.help.email": "Please contact us at {emailAddress}.",
 	"topbar.logout": "Log Out",
+	"topbar.quickstart": "Getting Started",
 	"topbar.support": "Support",
 	"topbar.support.documentation": "Documentation",
 	"topbar.totalPrice": "Total Price",

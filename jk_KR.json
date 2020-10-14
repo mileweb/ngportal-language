@@ -1380,6 +1380,7 @@
 	"topbar.help": "도움",
 	"topbar.help.email": "{emailAddress}으로 문의하십시오.",
 	"topbar.logout": "로그 아웃",
+	"topbar.quickstart": "시작하기",
 	"topbar.support": "지원하다",
 	"topbar.support.documentation": "선적 서류 비치",
 	"topbar.totalPrice": "총 가격",
