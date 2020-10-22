@@ -427,6 +427,7 @@
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "يحتوي مزودو خدمة الإنترنت المحددون على \"الكل\" ومزودو خدمة الإنترنت الآخرون. الرجاء تحديد \"الكل\" فقط أو اختيار مزودي خدمة إنترنت آخرين.",
+	"edgeHostname.client.isp.limit.size": "الحد الأقصى لحجم ISP هو 10.",
 	"edgeHostname.client.region.af": "Africa",
 	"edgeHostname.client.region.all": "All",
 	"edgeHostname.client.region.apac": "Asian Pacific without Mainland China, mid-East",
