@@ -427,6 +427,7 @@
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
 	"edgeHostname.cancel.btn": "取消",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "所选的客户端ISP包含“所有”和其他ISP。请仅选择“全部”或选择其他ISP。",
+	"edgeHostname.client.isp.limit.size": "ISP的最大值为10。",
 	"edgeHostname.client.region.af": "Africa",
 	"edgeHostname.client.region.all": "All",
 	"edgeHostname.client.region.apac": "Asian Pacific without Mainland China, mid-East",
