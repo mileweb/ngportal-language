@@ -1103,6 +1103,7 @@
 	"report.vol.label.traffic.vol": "교통량 ",
 	"reportQuery.page.dateRange": "날짜 범위 *",
 	"reportQuery.page.group.by": "Group By",
+	"reportQuery.page.group.by.customerIds": "Customer Ids",
 	"reportQuery.page.group.by.hostAndServer": "Hostnames + Server Groups",
 	"reportQuery.page.group.by.hostnames": "Hostnames",
 	"reportQuery.page.group.by.none": "None",
