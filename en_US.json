@@ -388,6 +388,7 @@
 	"customer.list.tab.all": "All Customers",
 	"customer.status.active": "Active",
 	"customer.status.suspended": "Suspended",
+	"customer.type.partner": "Partner",
 	"customer.type.regular": "Regular",
 	"customer.type.reseller": "Reseller",
 	"customer.type.super": "Super",
