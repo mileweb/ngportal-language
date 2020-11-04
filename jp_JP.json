@@ -381,7 +381,7 @@
 	"customer.impersonation.column.type": "Type",
 	"customer.impersonation.list": "Customer Impersonation",
 	"customer.impersonation.page.sub.title": "You can perform some operations on behalf of your customers, please select a customer that you want to impersonate.",
-	"customer.impersonation.page.title": "Customer Impersonation",
+	"customer.impersonation.page.title": "Customers",
 	"customer.impersonation.search.placeholder": "Enter a customer ID or name",
 	"customer.list": "顧客リスト",
 	"customer.list.search.placeholder": "調べる",
