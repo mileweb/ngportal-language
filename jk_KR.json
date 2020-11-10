@@ -1053,6 +1053,7 @@
 	"purge.progress-bar.finish.title": "Purging Finished",
 	"purge.progress-bar.inprogress.message": "제거 요청이 진행 중입니다. 몇 분이 걸릴 수 있습니다. ",
 	"purge.progress-bar.inprogress.title": "콘텐츠 제거 ",
+	"purge.progress-bar.purgeotherfile.button": "다른 파일 제거",
 	"purge.progress-bar.success.message": "내용이 성공적으로 제거되었습니다. ",
 	"purge.progress-bar.success.title": "콘텐츠 삭제 ",
 	"purge.single.directory.task.name": "Purge directory '{dir}' ",

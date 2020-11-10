@@ -1053,6 +1053,7 @@
 	"purge.progress-bar.finish.title": "Purging Finished",
 	"purge.progress-bar.inprogress.message": "パージ要求が進行中です。これには数分かかる場合があります。",
 	"purge.progress-bar.inprogress.title": "コンテンツの削除",
+	"purge.progress-bar.purgeotherfile.button": "他のファイルを削除する",
 	"purge.progress-bar.success.message": "コンテンツは正常に削除されました。",
 	"purge.progress-bar.success.title": "パージされたコンテンツ",
 	"purge.single.directory.task.name": "ディレクトリ '{dir}'を削除します ",

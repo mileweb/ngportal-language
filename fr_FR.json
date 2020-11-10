@@ -1053,6 +1053,7 @@
 	"purge.progress-bar.finish.title": "Purging Finished",
 	"purge.progress-bar.inprogress.message": "The purge request is in progress. This could take several minutes.",
 	"purge.progress-bar.inprogress.title": "Purging Content",
+	"purge.progress-bar.purgeotherfile.button": "Purger les autres fichiers",
 	"purge.progress-bar.success.message": "The content has been successfully purged.",
 	"purge.progress-bar.success.title": "Content Purged",
 	"purge.single.directory.task.name": "Purge directory '{dir}' ",
