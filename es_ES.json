@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "Ejecución de la tarea en espera",
 	"deploy.standby.progress.modal.success.modal.message": "Tarea en espera completada",
 	"deploy.standby.progress.modal.success.modal.title": "La tarea en espera se ha completado con éxito.",
-	"deploy.standby.property.already.content": "Ya agregó esta propiedad a la {target} tarea en espera. ¿Quieres agregar esta tarea en su lugar?",
+	"deploy.standby.property.already.content": "Ya solicitó implementar o anular la implementación de este certificado en la {target} tarea en espera. ¿Quieres agregar esta tarea en su lugar?",
 	"deploy.standby.run.confirm.button.run": "¡Sí, corre!",
 	"deploy.standby.run.confirm.title.deploy.certificate": " Se implementarán{certificate_cnt} certificados.",
 	"deploy.standby.run.confirm.title.deploy.property": " Se implementarán{property_cnt} propiedades.",

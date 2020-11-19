@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "スタンバイタスクの実行",
 	"deploy.standby.progress.modal.success.modal.message": "スタンバイタスクが完了しました",
 	"deploy.standby.progress.modal.success.modal.title": "スタンバイタスクが正常に完了しました。",
-	"deploy.standby.property.already.content": "このプロパティはすでに {target} スタンバイタスクに追加されています。代わりにこのタスクを追加しますか？",
+	"deploy.standby.property.already.content": " {target} スタンバイタスクでこの証明書を展開または展開解除するようにすでに要求しています。代わりにこのタスクを追加しますか？",
 	"deploy.standby.run.confirm.button.run": "はい実行！",
 	"deploy.standby.run.confirm.title.deploy.certificate": "{certificate_cnt} 証明書が展開されます。",
 	"deploy.standby.run.confirm.title.deploy.property": "{property_cnt} プロパティが展開されます。",

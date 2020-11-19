@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "Running Standby Task",
 	"deploy.standby.progress.modal.success.modal.message": "Standby Task Completed",
 	"deploy.standby.progress.modal.success.modal.title": "The standby task has been successfully completed.",
-	"deploy.standby.property.already.content": "You already added this property to the {target} standby task. Do you want to add this task instead?",
+	"deploy.standby.property.already.content": "You have already requested to deploy or undeploy this certificate in the {target} standby task. Do you want to add this task instead?",
 	"deploy.standby.run.confirm.button.run": "Yes Run!",
 	"deploy.standby.run.confirm.title.deploy.certificate": "{certificate_cnt} certificates would be deployed.",
 	"deploy.standby.run.confirm.title.deploy.property": "{property_cnt} properies would be deployed.",

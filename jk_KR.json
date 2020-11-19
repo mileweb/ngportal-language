@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "대기 작업 실행",
 	"deploy.standby.progress.modal.success.modal.message": "대기 작업 완료",
 	"deploy.standby.progress.modal.success.modal.title": "대기 작업이 성공적으로 완료되었습니다.",
-	"deploy.standby.property.already.content": "이 속성을 이미 {target} 대기 작업에 추가했습니다. 대신이 작업을 추가 하시겠습니까?",
+	"deploy.standby.property.already.content": " {target} 대기 작업에서이 인증서를 배포 또는 배포 취소하도록 이미 요청했습니다. 대신이 작업을 추가 하시겠습니까?",
 	"deploy.standby.run.confirm.button.run": "네, 실행!",
 	"deploy.standby.run.confirm.title.deploy.certificate": "{certificate_cnt} 인증서가 배포됩니다.",
 	"deploy.standby.run.confirm.title.deploy.property": "{property_cnt} 속성이 배포됩니다.",

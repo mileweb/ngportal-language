@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "Exécution de la tâche de secours",
 	"deploy.standby.progress.modal.success.modal.message": "Tâche en attente terminée",
 	"deploy.standby.progress.modal.success.modal.title": "La tâche de veille a été exécutée avec succès.",
-	"deploy.standby.property.already.content": "Vous avez déjà ajouté cette propriété à la {target} tâche de veille. Voulez-vous ajouter cette tâche à la place?",
+	"deploy.standby.property.already.content": "Vous avez déjà demandé de déployer ou d'annuler le déploiement de ce certificat dans la {target} tâche de veille. Voulez-vous ajouter cette tâche à la place?",
 	"deploy.standby.run.confirm.button.run": "Oui, cours!",
 	"deploy.standby.run.confirm.title.deploy.certificate": "{certificate_cnt} certificats seraient déployés.",
 	"deploy.standby.run.confirm.title.deploy.property": "{property_cnt} propriétés seraient déployées.",
