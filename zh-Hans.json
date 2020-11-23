@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "运行备用任务",
 	"deploy.standby.progress.modal.success.modal.message": "备用任务已完成",
 	"deploy.standby.progress.modal.success.modal.title": "备用任务已成功完成。",
-	"deploy.standby.property.already.content": "您已经请求在 {target} 备用任务中部署或取消部署此证书。您是否要添加此任务？",
+	"deploy.standby.property.already.content": "您已经请求在 {target} 备用任务中部署或取消部署此属性。您是否要添加此任务？",
 	"deploy.standby.run.confirm.button.run": "是的，快跑！",
 	"deploy.standby.run.confirm.title.deploy.certificate": "{certificate_cnt} 个证书将被部署。",
 	"deploy.standby.run.confirm.title.deploy.property": "{property_cnt} 个属性将被部署。",
