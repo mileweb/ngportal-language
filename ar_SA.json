@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "تشغيل مهمة الاستعداد",
 	"deploy.standby.progress.modal.success.modal.message": "اكتملت مهمة الاستعداد",
 	"deploy.standby.progress.modal.success.modal.title": "تم إكمال مهمة الاستعداد بنجاح.",
-	"deploy.standby.property.already.content": "لقد طلبت بالفعل نشر أو إلغاء نشر هذه الشهادة في مهمة الاستعداد {target} . هل تريد إضافة هذه المهمة بدلاً من ذلك؟",
+	"deploy.standby.property.already.content": "لقد طلبت بالفعل نشر أو إلغاء نشر هذه الخاصية في مهمة الاستعداد {target} . هل تريد إضافة هذه المهمة بدلاً من ذلك؟",
 	"deploy.standby.run.confirm.button.run": "نعم تشغيل!",
 	"deploy.standby.run.confirm.title.deploy.certificate": " سيتم نشر{certificate_cnt} من الشهادات.",
 	"deploy.standby.run.confirm.title.deploy.property": " سيتم نشر{property_cnt} الخصائص.",

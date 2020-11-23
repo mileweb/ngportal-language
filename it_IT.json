@@ -424,7 +424,7 @@
 	"deploy.standby.progress.modal.progress.modal.title": "Esecuzione dell'attività in standby",
 	"deploy.standby.progress.modal.success.modal.message": "Attività in standby completata",
 	"deploy.standby.progress.modal.success.modal.title": "L'attività in standby è stata completata con successo.",
-	"deploy.standby.property.already.content": "Hai già richiesto di distribuire o annullare la distribuzione di questo certificato nell ' {target} attività in standby. Vuoi aggiungere invece questa attività?",
+	"deploy.standby.property.already.content": "Hai già richiesto di distribuire o annullare la distribuzione di questa proprietà nell ' {target} attività in standby. Vuoi aggiungere invece questa attività?",
 	"deploy.standby.run.confirm.button.run": "Sì, corri!",
 	"deploy.standby.run.confirm.title.deploy.certificate": " Verrebbero distribuiti{certificate_cnt} certificati.",
 	"deploy.standby.run.confirm.title.deploy.property": " Verranno distribuite{property_cnt} proprietà.",
