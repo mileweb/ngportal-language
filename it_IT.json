@@ -463,7 +463,7 @@
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "Gli ISP client selezionati contengono \"Tutti\" e altri ISP. Seleziona solo \"Tutti\" o scegli altri ISP.",
-	"edgeHostname.client.isp.limit.size": "La dimensione massima dell'ISP è 10.",
+	"edgeHostname.client.isp.limit.size": "Scegli fino a 10 ISP.",
 	"edgeHostname.client.region.af": "Africa",
 	"edgeHostname.client.region.all": "All",
 	"edgeHostname.client.region.apac": "Asian Pacific without Mainland China, mid-East",
