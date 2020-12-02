@@ -426,7 +426,7 @@
 	"deploy.standby.discard.confirm.task.name.impersonate": "Imiter",
 	"deploy.standby.discard.confirm.task.name.log.out": "Connectez - Out",
 	"deploy.standby.discard.confirm.task.name.stop.impersonating": "arrête de se faire passer pour",
-	"deploy.standby.discard.confirm.task.text": "Vous avez une tâche de veille qui sera ignorée si vous {do}. Le déployer maintenant?",
+	"deploy.standby.discard.confirm.task.text": "Vous avez une tâche en attente qui sera ignorée si vous {do}. Le déployer maintenant?",
 	"deploy.standby.discard.confirm.text": "Vous avez une tâche en attente qui sera ignorée si vous vous déconnectez. Le déployer maintenant?",
 	"deploy.standby.discard.confirm.title": "Confirmer le rejet",
 	"deploy.standby.list.label.destination": "Destination",

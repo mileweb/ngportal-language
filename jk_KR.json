@@ -426,7 +426,7 @@
 	"deploy.standby.discard.confirm.task.name.impersonate": "가장",
 	"deploy.standby.discard.confirm.task.name.log.out": "로그 아웃",
 	"deploy.standby.discard.confirm.task.name.stop.impersonating": "명의 도용 중지",
-	"deploy.standby.discard.confirm.task.text": " {do}인 경우 삭제 될 대기 작업이 있습니다. 지금 배포 하시겠습니까?",
+	"deploy.standby.discard.confirm.task.text": " {do}경우 삭제 될 대기 작업이 있습니다. 지금 배포 하시겠습니까?",
 	"deploy.standby.discard.confirm.text": "로그 아웃하면 삭제되는 대기 작업이 있습니다. 지금 배포 하시겠습니까?",
 	"deploy.standby.discard.confirm.title": "폐기 확인",
 	"deploy.standby.list.label.destination": "목적지",
