@@ -489,7 +489,7 @@
 	"dirPurge.table.noData.placeholder": "パージするディレクトリのリスト",
 	"edgeHostname.cancel.btn": "キャンセル",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "選択したクライアントISPには、「すべて」およびその他のISPが含まれています。 「すべて」のみを選択するか、他のISPを選択してください。",
-	"edgeHostname.client.isp.limit.size": "ISPの最大サイズは10です。",
+	"edgeHostname.client.isp.limit.size": "最大10のISPを選択してください。",
 	"edgeHostname.client.region.af": "アフリカ",
 	"edgeHostname.client.region.all": "すべて",
 	"edgeHostname.client.region.apac": "中国本土のないアジア太平洋、中東",
