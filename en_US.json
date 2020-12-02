@@ -1702,7 +1702,7 @@
 	"validation.failed.modal.message": "There was an error during validation. Please check the configuration.",
 	"validation.failed.modal.title": "Validation Failed",
 	"validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
-	"validation.inprogress.modal.message": "We are validating the configuration. Please wait...",
+	"validation.inprogress.modal.message": "We are validating the configuration. Please wait.",
 	"validation.inprogress.modal.title": "Validating Configuration",
 	"validation.invalid.modal.message": "The task ID is invalid. Please close this pop-up and validate again.",
 	"validation.success.modal.message": "The configuration has been validated and is ready to deploy.",

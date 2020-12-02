@@ -1702,7 +1702,7 @@
 	"validation.failed.modal.message": "유효성 검사 중 오류가 발생했습니다. 구성을 확인하십시오. ",
 	"validation.failed.modal.title": "검증에 실패했습니다",
 	"validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
-	"validation.inprogress.modal.message": "구성을 확인하고 있습니다. 기다려주세요 ... ",
+	"validation.inprogress.modal.message": "구성을 확인하고 있습니다. 잠시만 기다려주세요.",
 	"validation.inprogress.modal.title": "구성 확인 ",
 	"validation.invalid.modal.message": "작업 ID가 유효하지 않습니다. 이 팝업을 닫고 다시 확인하십시오. ",
 	"validation.success.modal.message": "구성이 확인되었으며 배포 할 준비가되었습니다. ",

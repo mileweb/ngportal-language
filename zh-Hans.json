@@ -1702,7 +1702,7 @@
 	"validation.failed.modal.message": "验证期间发生错误。请检查配置。",
 	"validation.failed.modal.title": "验证失败",
 	"validation.failed.url.message": "验证期间发生错误。请检查日志记录URL格式。",
-	"validation.inprogress.modal.message": "We are validating the configuration. Please wait...",
+	"validation.inprogress.modal.message": "我们正在验证配置。请耐心等待。",
 	"validation.inprogress.modal.title": "验证配置",
 	"validation.invalid.modal.message": "The task ID is invalid. Please close this pop-up and validate again.",
 	"validation.success.modal.message": "该配置已通过验证，可以部署。",
