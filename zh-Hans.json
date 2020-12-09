@@ -38,6 +38,7 @@
 	"button.title.next": "Next",
 	"button.upgrade.title": "升级",
 	"button.yes.delete.title": "是的，删除",
+	"button.yes.discard.title": "是的，丢弃",
 	"cache.setting.notification.text": "请注意，单击“继续”将导致边缘逻辑被自动生成的代码所覆盖。",
 	"cache.setting.notification.title": "覆盖边缘逻辑",
 	"cache.setting.origin.select": "源站 *",
