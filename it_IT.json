@@ -39,6 +39,7 @@
 	"button.upgrade.title": "aggiornamento",
 	"button.yes.delete.title": "Yes, delete",
 	"button.yes.discard.title": "Yes, discard",
+	"button.yes.title": "Yes",
 	"cache.setting.notification.text": "Si noti che facendo clic su \"continua\", Edge Logic verrà sostituito con il codice generato automaticamente.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",
