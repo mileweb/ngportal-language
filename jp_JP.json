@@ -1700,6 +1700,7 @@
 	"validation.error.san.invalid": "SAN（サブジェクトの別名）は有効なドメイン名で構成する必要があります。",
 	"validation.error.wrong.password": "間違ったパスワードまたはユーザー名。もう一度やり直してください。",
 	"validation.failed.ip.message": "We could not detect an IP address for this URL. Please check whether you have entered the correct URL with http/https protocol and try again.",
+	"validation.failed.modal.button": "詳細を見る",
 	"validation.failed.modal.message": "検証中にエラーが発生しました。構成を確認してください。",
 	"validation.failed.modal.title": "検証に失敗しました",
 	"validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",

@@ -1700,6 +1700,7 @@
 	"validation.error.san.invalid": "The SAN (Subject Alternative Name) must consist of valid domain names.",
 	"validation.error.wrong.password": "Incorrect password or username. Please try again.",
 	"validation.failed.ip.message": "We could not detect an IP address for this URL. Please check whether you have entered the correct URL with http/https protocol and try again.",
+	"validation.failed.modal.button": "Visualizza dettagli",
 	"validation.failed.modal.message": "There was an error during validation. Please check the configuration.",
 	"validation.failed.modal.title": "Validation Failed",
 	"validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
