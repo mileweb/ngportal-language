@@ -552,7 +552,7 @@
 	"edgeHostname.service.region.action.button": "行動",
 	"edgeHostname.service.region.action.delete": "削除する",
 	"edgeHostname.service.region.action.edit": "編集",
-	"edgeHostname.service.region.model.delete.confirm.content": "クライアントリージョン{serverRegionName}のルールを本当に削除しますか？",
+	"edgeHostname.service.region.model.delete.confirm.content": "クライアントゾーン{serverRegionName}のルールを削除しますか？",
 	"edgeHostname.service.region.model.update.confirm.content": "その地域のクライアント地域ルールを本当に更新しますか",
 	"edgeHostname.service.region.model.update.confirm.tile": "クライアント地域ルールを更新する",
 	"edgeHostname.service.region.reject.description": "拒否：この地域からのクライアントリクエストはすべて拒否されます。",
