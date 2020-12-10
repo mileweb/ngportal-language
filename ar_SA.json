@@ -552,7 +552,7 @@
 	"edgeHostname.service.region.action.button": "Actions",
 	"edgeHostname.service.region.action.delete": "Delete",
 	"edgeHostname.service.region.action.edit": "Edit",
-	"edgeHostname.service.region.model.delete.confirm.content": "Delete the rule for the client zone {serverRegionName}?",
+	"edgeHostname.service.region.model.delete.confirm.content": "Delete the rule for the client zone{serverRegionName}?",
 	"edgeHostname.service.region.model.update.confirm.content": "Do you really want to update the client region rule for the region ",
 	"edgeHostname.service.region.model.update.confirm.tile": "Update client region rule",
 	"edgeHostname.service.region.reject.description": "Reject: All the client requests from this zone will be rejected.",
