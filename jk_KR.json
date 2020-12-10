@@ -484,7 +484,7 @@
 	"deployment.confirm.msg": "이 인증서 버전을 배포 하시겠습니까? ",
 	"deployment.confirm.property.deploy.again": "'{propertyName}'속성의 {version} 버전을 {environment}에 다시 배포 하시겠습니까?",
 	"deployment.confirm.property.no.replacement": "속성 '{propertyName}'의 {version} 버전을 {environment}에 배포 하시겠습니까?",
-	"deployment.confirm.property.with.replacement": "{environment}에서 '{propertyName}'속성의 {oldVersion} 버전을 {newVersion} 버전으로 바꾸시겠습니까? ",
+	"deployment.confirm.property.with.replacement": "{environment}에서 '{propertyName}'속성의 {oldVersion} 버전을 {newVersion} 버전으로 바꾸시겠습니까?",
 	"deployment.confirm.title": "배포 확인",
 	"deployment.create.error.title": "배포 실패 ",
 	"dirPurge.header.name.label": "Name",

@@ -484,7 +484,7 @@
 	"deployment.confirm.msg": "Are you sure you want to deploy this certificate version?",
 	"deployment.confirm.property.deploy.again": "Deploy version {version} of property '{propertyName}' to {environment} again?",
 	"deployment.confirm.property.no.replacement": "Deploy version {version} of property '{propertyName}' to {environment}?",
-	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property '{propertyName}' in {environment} with version {newVersion}?",
+	"deployment.confirm.property.with.replacement": "Replace version {oldVersion} of property '{propertyName}' in {environment} with version {newVersion}?",
 	"deployment.confirm.title": "Confirm Deployment ",
 	"deployment.create.error.title": "Deployment Failed",
 	"dirPurge.header.name.label": "Name",

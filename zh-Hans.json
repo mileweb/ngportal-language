@@ -484,7 +484,7 @@
 	"deployment.confirm.msg": "您确定要部署此证书版本吗？",
 	"deployment.confirm.property.deploy.again": "重新将加速项目'{propertyName}'的版本{version}部署到{environment}环境？",
 	"deployment.confirm.property.no.replacement": "将加速项目'{propertyName}'的版本 {version} 部署到 {environment}环境？",
-	"deployment.confirm.property.with.replacement": "您是否要将加速项目'{propertyName}'在{environment}环境中的版本{oldVersion}替换为版本{newVersion}？",
+	"deployment.confirm.property.with.replacement": "将加速项目'{propertyName}'在{environment}环境中的版本{oldVersion}替换为版本{newVersion}？",
 	"deployment.confirm.title": "确认部署",
 	"deployment.create.error.title": "部署失败",
 	"dirPurge.header.name.label": "Name",
