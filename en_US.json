@@ -484,7 +484,7 @@
 	"deployment.confirm.property.deploy.again": "Do you want to deploy version {version} of property '{propertyName}' to {environment} again?",
 	"deployment.confirm.property.no.replacement": "Do you want to deploy version {version} of property '{propertyName}' to {environment}?",
 	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property '{propertyName}' in {environment} with version {newVersion}?",
-	"deployment.confirm.title": "Deployment Confirmation",
+	"deployment.confirm.title": "Confirm Deployment ",
 	"deployment.create.error.title": "Deployment Failed",
 	"dirPurge.header.name.label": "Name",
 	"dirPurge.header.table.noData.placeholder": "List of directory purge headers",
