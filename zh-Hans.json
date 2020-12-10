@@ -553,7 +553,6 @@
 	"edgeHostname.service.region.action.delete": "删除",
 	"edgeHostname.service.region.action.edit": "编辑",
 	"edgeHostname.service.region.model.delete.confirm.content": "您是否真的要删除此访客分区{serverRegionName}的规则？",
-	"edgeHostname.service.region.model.delete.confirm.tile": "删除访客分区规则",
 	"edgeHostname.service.region.model.update.confirm.content": "Do you really want to update the client region rule for the region ",
 	"edgeHostname.service.region.model.update.confirm.tile": "Update client region rule",
 	"edgeHostname.service.region.reject.description": "拒绝：来自此访客分区的所有客户端请求都将被拒绝。",

@@ -553,7 +553,6 @@
 	"edgeHostname.service.region.action.delete": "지우다",
 	"edgeHostname.service.region.action.edit": "편집하다",
 	"edgeHostname.service.region.model.delete.confirm.content": "클라이언트 지역 {serverRegionName}에 대한 규칙을 정말로 삭제 하시겠습니까? ",
-	"edgeHostname.service.region.model.delete.confirm.tile": "클라이언트 지역 규칙 삭제 ",
 	"edgeHostname.service.region.model.update.confirm.content": "지역에 대한 클라이언트 지역 규칙을 정말로 업데이트 하시겠습니까?",
 	"edgeHostname.service.region.model.update.confirm.tile": "클라이언트 지역 규칙 업데이트 ",
 	"edgeHostname.service.region.reject.description": "거부 :이 지역의 모든 클라이언트 요청이 거부됩니다. ",
