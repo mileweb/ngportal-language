@@ -482,7 +482,7 @@
 	"deployment.confirm.certificate.with.replacement": "{environment}の証明書 '{certificateName}'のバージョン{oldVersion}をバージョン{newVersion}に置き換えますか？",
 	"deployment.confirm.msg": "この証明書バージョンを展開してもよろしいですか？",
 	"deployment.confirm.property.deploy.again": "プロパティ '{propertyName}'のバージョン{version}を{environment}に再度デプロイしますか？",
-	"deployment.confirm.property.no.replacement": "プロパティ「{propertyName}」のバージョン{version}を{environment}にデプロイしますか？",
+	"deployment.confirm.property.no.replacement": "プロパティ '{propertyName}'のバージョン{version}を{environment}にデプロイしますか？",
 	"deployment.confirm.property.with.replacement": "{environment}のプロパティ '{propertyName}'のバージョン{oldVersion}をバージョン{newVersion}に置き換えますか？",
 	"deployment.confirm.title": "展開の確認",
 	"deployment.create.error.title": "展開に失敗しました",
