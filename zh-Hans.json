@@ -38,6 +38,7 @@
 	"button.title.next": "Next",
 	"button.upgrade.title": "升级",
 	"button.yes.delete.title": "是的，删除",
+	"button.yes.deploy.title": "是的，部署",
 	"button.yes.discard.title": "是的，丢弃",
 	"button.yes.title": "是",
 	"cache.setting.notification.text": "如果单击“继续”，则自动生成的代码将替换边缘逻辑。",

@@ -38,6 +38,7 @@
 	"button.title.next": "다음",
 	"button.upgrade.title": "업그레이드",
 	"button.yes.delete.title": "예, 삭제합니다",
+	"button.yes.deploy.title": "예, 배포합니다",
 	"button.yes.discard.title": "예, 버립니다",
 	"button.yes.title": "예",
 	"cache.setting.notification.text": "”계속“을 클릭하면 자동 생성 된 코드가 Edge Logic을 대체합니다.",

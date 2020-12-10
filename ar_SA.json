@@ -38,6 +38,7 @@
 	"button.title.next": "Next",
 	"button.upgrade.title": "تطوير",
 	"button.yes.delete.title": "Yes, delete",
+	"button.yes.deploy.title": "Yes, deploy",
 	"button.yes.discard.title": "Yes, discard",
 	"button.yes.title": "Yes",
 	"cache.setting.notification.text": "If you click “Continue”, auto-generated code will replace the Edge Logic.",
