@@ -40,7 +40,7 @@
 	"button.yes.delete.title": "はい、削除します",
 	"button.yes.discard.title": "はい、破棄します",
 	"button.yes.title": "はい",
-	"cache.setting.notification.text": "[続行]をクリックすると、「エッジロジック」が自動生成コードに置き換えられることに注意してください。",
+	"cache.setting.notification.text": "「続行」をクリックすると、自動生成されたコードがエッジロジックに置き換わります。",
 	"cache.setting.notification.title": "エッジロジックの置換",
 	"cache.setting.origin.select": "起源*",
 	"cache.setting.pop.up.sub.text": "デフォルトのキャッシュ設定を設定します。",

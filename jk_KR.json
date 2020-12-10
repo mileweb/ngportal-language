@@ -40,7 +40,7 @@
 	"button.yes.delete.title": "예, 삭제합니다",
 	"button.yes.discard.title": "예, 버립니다",
 	"button.yes.title": "예",
-	"cache.setting.notification.text": "계속을 클릭하면 'Edge Logic'이 자동 생성 된 코드로 바뀝니다. ",
+	"cache.setting.notification.text": "”계속“을 클릭하면 자동 생성 된 코드가 Edge Logic을 대체합니다.",
 	"cache.setting.notification.title": "에지 로직 교체 ",
 	"cache.setting.origin.select": "원점 * ",
 	"cache.setting.pop.up.sub.text": "기본 캐시 설정을 지정하십시오. ",

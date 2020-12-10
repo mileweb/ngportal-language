@@ -40,7 +40,7 @@
 	"button.yes.delete.title": "Yes, delete",
 	"button.yes.discard.title": "Yes, discard",
 	"button.yes.title": "Yes",
-	"cache.setting.notification.text": "يرجى ملاحظة أنه بالنقر فوق \"متابعة\" ، سيتم استبدال Edge Logic برمز تم إنشاؤه تلقائيًا.",
+	"cache.setting.notification.text": "If you click “Continue”, auto-generated code will replace the Edge Logic.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",
 	"cache.setting.pop.up.sub.text": "Set default cache settings.",

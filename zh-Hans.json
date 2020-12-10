@@ -40,7 +40,7 @@
 	"button.yes.delete.title": "是的，删除",
 	"button.yes.discard.title": "是的，丢弃",
 	"button.yes.title": "是",
-	"cache.setting.notification.text": "请注意，单击“继续”将导致边缘逻辑被自动生成的代码所覆盖。",
+	"cache.setting.notification.text": "如果单击“继续”，则自动生成的代码将替换边缘逻辑。",
 	"cache.setting.notification.title": "覆盖边缘逻辑",
 	"cache.setting.origin.select": "源站 *",
 	"cache.setting.pop.up.sub.text": "设置默认缓存设置。",
