@@ -375,6 +375,7 @@
 	"customer.impersonation.column.action": "동작",
 	"customer.impersonation.column.creation.time": "Creation Time",
 	"customer.impersonation.column.id": "ID",
+	"customer.impersonation.column.impersonate": "가장",
 	"customer.impersonation.column.name": "Customer Name",
 	"customer.impersonation.column.regional.office": "Regional Office",
 	"customer.impersonation.column.status": "Status",
