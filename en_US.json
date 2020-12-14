@@ -1192,6 +1192,8 @@
 	"reportQuery.page.reportInterval.daily": "1 Day",
 	"reportQuery.page.reportInterval.hourly": "1 Hour",
 	"reportQuery.page.reportInterval.monthly": "1 Month",
+	"reportQuery.page.reportDate.last.1.hour": "Last 1h",
+	"reportQuery.page.reportDate.last.month": "Month",
 	"reportQuery.page.reportRange": "Report Range",
 	"reportQuery.page.reportRange.childrenOnly": "Children Accounts Only",
 	"reportQuery.page.reportRange.selfChildren": "This Account + Children",
