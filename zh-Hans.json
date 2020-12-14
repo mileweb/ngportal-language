@@ -375,6 +375,7 @@
 	"customer.impersonation.column.action": "操作",
 	"customer.impersonation.column.creation.time": "Creation Time",
 	"customer.impersonation.column.id": "ID",
+	"customer.impersonation.column.impersonate": "身份切换",
 	"customer.impersonation.column.name": "客户名称",
 	"customer.impersonation.column.regional.office": "Regional Office",
 	"customer.impersonation.column.status": "Status",
