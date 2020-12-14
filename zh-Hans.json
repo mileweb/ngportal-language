@@ -1187,6 +1187,8 @@
 	"reportQuery.page.protocol.http": "仅HTTP",
 	"reportQuery.page.protocol.https": "仅HTTPS",
 	"reportQuery.page.queryReport": "查询报表",
+	"reportQuery.page.reportDate.last.1.hour": "最近 1h",
+	"reportQuery.page.reportDate.last.month": "上个月",
 	"reportQuery.page.reportInterval": "粒度",
 	"reportQuery.page.reportInterval.5min": "5分钟",
 	"reportQuery.page.reportInterval.daily": "1天",

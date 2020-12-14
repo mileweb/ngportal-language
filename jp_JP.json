@@ -1187,6 +1187,8 @@
 	"reportQuery.page.protocol.http": "HTTP",
 	"reportQuery.page.protocol.https": "HTTPS",
 	"reportQuery.page.queryReport": "レポートを生成",
+	"reportQuery.page.reportDate.last.1.hour": "Last 1h",
+	"reportQuery.page.reportDate.last.month": "Month",
 	"reportQuery.page.reportInterval": "レポート間隔",
 	"reportQuery.page.reportInterval.5min": "5分",
 	"reportQuery.page.reportInterval.daily": "1日",
