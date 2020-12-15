@@ -841,6 +841,8 @@
 	"navigation.prompt.confirmation": "Confirmation",
 	"navigation.prompt.no": "No",
 	"navigation.prompt.yes": "Yes",
+	"newsletter.agreed.cdnetworks": "Vorrei iscrivermi al digest settimanale e alla newsletter di CDNetwork.",
+	"newsletter.agreed.quantil": "Vorrei iscrivermi al riassunto settimanale e alla newsletter di Quantil.",
 	"notes.ChoseColor": "Aggiungi nuova nota",
 	"notes.addNote": "404",
 	"origin.auto.detect.popup.msg": "We have detected '{ip}' as your origin. Would you like to use it as the origin server? Note: this will replace the first server entry.",
