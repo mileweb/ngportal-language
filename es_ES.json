@@ -1187,6 +1187,8 @@
 	"reportQuery.page.protocol.http": "HTTP",
 	"reportQuery.page.protocol.https": "HTTPS",
 	"reportQuery.page.queryReport": "Generate Report",
+	"reportQuery.page.reportDate.last.1.hour": "Last 1h",
+	"reportQuery.page.reportDate.last.month": "Month",
 	"reportQuery.page.reportInterval": "Report Interval",
 	"reportQuery.page.reportInterval.5min": "5 Minutes",
 	"reportQuery.page.reportInterval.daily": "1 Day",

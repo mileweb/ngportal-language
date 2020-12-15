@@ -1187,6 +1187,8 @@
 	"reportQuery.page.protocol.http": "HTTP ",
 	"reportQuery.page.protocol.https": "HTTPS ",
 	"reportQuery.page.queryReport": "보고서 생성 ",
+	"reportQuery.page.reportDate.last.1.hour": "Last 1h",
+	"reportQuery.page.reportDate.last.month": "Month",
 	"reportQuery.page.reportInterval": "보고서 간격 ",
 	"reportQuery.page.reportInterval.5min": "5 분",
 	"reportQuery.page.reportInterval.daily": "1 일",
