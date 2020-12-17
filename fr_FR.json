@@ -410,6 +410,8 @@
 	"deploy.inprogress.modal.message": "The configuration is being deployed in {environment}. This could take several minutes.",
 	"deploy.inprogress.modal.title": "Deploying Configuration",
 	"deploy.property.title": "Do you want to deploy this property?",
+	"deploy.standby.add.complete.description": "Le «{name}» a été ajouté à la tâche de veille",
+	"deploy.standby.add.complete.message": "Ajouté à la tâche de veille",
 	"deploy.standby.add.tooltip": "Ajouter des tâches",
 	"deploy.standby.addtostandby.button.tooltip": "Ajoutez ici pour déployer avec d'autres tâches à la fois",
 	"deploy.standby.button.hide": "Cacher",

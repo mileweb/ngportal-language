@@ -410,6 +410,8 @@
 	"deploy.inprogress.modal.message": "The configuration is being deployed in {environment}. This could take several minutes.",
 	"deploy.inprogress.modal.title": "Deploying Configuration",
 	"deploy.property.title": "Do you want to deploy this property?",
+	"deploy.standby.add.complete.description": "\"{name}\" è stato aggiunto all'attività in standby",
+	"deploy.standby.add.complete.message": "Aggiunto all'attività in standby",
 	"deploy.standby.add.tooltip": "Aggiungi attività",
 	"deploy.standby.addtostandby.button.tooltip": "Aggiungi qui per eseguire il deployment con altre attività contemporaneamente",
 	"deploy.standby.button.hide": "Nascondere",

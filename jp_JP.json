@@ -410,6 +410,8 @@
 	"deploy.inprogress.modal.message": "構成は{environment}にデプロイされています。これには数分かかる場合があります。",
 	"deploy.inprogress.modal.title": "構成の展開",
 	"deploy.property.title": "このプロパティを展開しますか？",
+	"deploy.standby.add.complete.description": "'{name}'がスタンバイタスクに追加されました",
+	"deploy.standby.add.complete.message": "スタンバイタスクに追加",
 	"deploy.standby.add.tooltip": "タスクを追加する",
 	"deploy.standby.addtostandby.button.tooltip": "ここに追加して、他のタスクを一度にデプロイします",
 	"deploy.standby.button.hide": "隠す",

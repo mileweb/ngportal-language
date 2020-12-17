@@ -410,6 +410,8 @@
 	"deploy.inprogress.modal.message": "The configuration is being deployed in {environment}. This could take several minutes.",
 	"deploy.inprogress.modal.title": "Deploying Configuration",
 	"deploy.property.title": "Do you want to deploy this property?",
+	"deploy.standby.add.complete.description": "تمت إضافة \"{name}\" إلى مهمة الاستعداد",
+	"deploy.standby.add.complete.message": "تمت الإضافة إلى مهمة الاستعداد",
 	"deploy.standby.add.tooltip": "أضف المهام",
 	"deploy.standby.addtostandby.button.tooltip": "أضف هنا للنشر مع المهام الأخرى مرة واحدة",
 	"deploy.standby.button.hide": "إخفاء",

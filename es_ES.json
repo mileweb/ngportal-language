@@ -410,6 +410,8 @@
 	"deploy.inprogress.modal.message": "The configuration is being deployed in {environment}. This could take several minutes.",
 	"deploy.inprogress.modal.title": "Deploying Configuration",
 	"deploy.property.title": "Do you want to deploy this property?",
+	"deploy.standby.add.complete.description": "El '{name}' se ha agregado a la tarea en espera",
+	"deploy.standby.add.complete.message": "Agregado a la tarea en espera",
 	"deploy.standby.add.tooltip": "Agregar tareas",
 	"deploy.standby.addtostandby.button.tooltip": "Agregue aquí para implementar con otras tareas a la vez",
 	"deploy.standby.button.hide": "Esconder",

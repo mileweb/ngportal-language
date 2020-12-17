@@ -410,6 +410,8 @@
 	"deploy.inprogress.modal.message": "구성이 {environment}에 배치되고 있습니다. 몇 분이 걸릴 수 있습니다. ",
 	"deploy.inprogress.modal.title": "구성 배포 ",
 	"deploy.property.title": "이 속성을 배포 하시겠습니까? ",
+	"deploy.standby.add.complete.description": "'{name}'이 (가) 대기 작업에 추가되었습니다.",
+	"deploy.standby.add.complete.message": "대기 작업에 추가됨",
 	"deploy.standby.add.tooltip": "작업 추가",
 	"deploy.standby.addtostandby.button.tooltip": "한 번에 다른 작업과 함께 배포하려면 여기에 추가하세요.",
 	"deploy.standby.button.hide": "숨기기",
