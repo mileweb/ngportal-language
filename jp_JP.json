@@ -451,7 +451,7 @@
 	"deploy.standby.run.confirm.button.run": "はい、実行します",
 	"deploy.standby.run.confirm.title.deploy.certificate": "{certificate_cnt} 証明書が展開されます。",
 	"deploy.standby.run.confirm.title.deploy.common.both": "{property_cnt} {property} および {certificate_cnt} {certificate} が展開されます。",
-	"deploy.standby.run.confirm.title.deploy.common.one": "{cnt} {resource} が展開されます。",
+	"deploy.standby.run.confirm.title.deploy.common.one": "{cnt} {resource} がデプロイされます。",
 	"deploy.standby.run.confirm.title.deploy.property": "{property_cnt} プロパティがデプロイされます。",
 	"deploy.standby.run.confirm.title.deploy.property.and.certificate": "{property_cnt} プロパティと {certificate_cnt} 証明書が展開されます。",
 	"deploy.standby.run.confirm.title.production": "スタンバイタスクを本番環境で実行しますか？",

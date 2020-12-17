@@ -458,7 +458,7 @@
 	"deploy.standby.run.confirm.title.staging": "스테이징에 대기 태스크를 실행 하시겠습니까?",
 	"deploy.standby.run.confirm.title.undeploy.certificate": "{certificate_cnt} 인증서가 배포 해제됩니다.",
 	"deploy.standby.run.confirm.title.undeploy.common.both": "{property_cnt} {property} 및 {certificate_cnt} {certificate} 이 (가) 배포 해제됩니다.",
-	"deploy.standby.run.confirm.title.undeploy.common.one": "{cnt} {resource} 은 (는) 배포 해제됩니다.",
+	"deploy.standby.run.confirm.title.undeploy.common.one": "{cnt} {resource} 이 (가) 배포 해제됩니다.",
 	"deploy.standby.run.confirm.title.undeploy.property": "{property_cnt} 속성은 배포 취소됩니다.",
 	"deploy.standby.run.confirm.title.undeploy.property.and.certificate": "{property_cnt} 속성 및 {certificate_cnt} 인증서가 배포 해제됩니다.",
 	"deploy.standby.run.taskname.deploy.certificate": " {certificate_cnt} 인증서의 대기 작업",
