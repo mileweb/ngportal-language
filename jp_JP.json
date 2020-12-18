@@ -1010,6 +1010,7 @@
 	"property.select.redirect.http2https": "はい、ステータスコード {code}でリダイレクトします",
 	"property.tooltip.allow.protocol.downgrade": "オリジンにアクセスするときにプロトコルをHTTPSからHTTPにダウングレードし、関連するセキュリティリスクを理解するには、これをtrueに設定します。",
 	"property.tooltip.clicktocopy.hostname": "クリックしてコピー",
+	"property.tooltip.copied.hostname": "コピーしました！",
 	"property.unit.origin.keepalive.timeout": "秒",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",
