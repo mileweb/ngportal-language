@@ -1468,7 +1468,7 @@
 	"taskListing.column.id": "ID",
 	"taskListing.column.name": "Task Name",
 	"taskListing.column.status": "Status",
-	"taskListing.column.submission.time": "Submission Time",
+	"taskListing.column.submission.time": "Submit Time",
 	"taskListing.column.target": "Target",
 	"taskListing.fetch.error": "An error occurred while fetching tasks.",
 	"taskListing.tab.deploymentTask": "Deployment",
