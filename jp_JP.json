@@ -606,7 +606,7 @@
 	"edgeHostnameListing.column.creationTime": "Creation Time",
 	"edgeHostnameListing.column.enableIPv6": "IPv6を有効にする",
 	"edgeHostnameListing.column.hasBeian": "Has Beian",
-	"edgeHostnameListing.column.lastUpdateTime": "Last Update Time",
+	"edgeHostnameListing.column.lastUpdateTime": "最終更新時刻",
 	"edgeHostnameListing.column.name": "Edge Hostname",
 	"edgeHostnameListing.delete.error": "エッジホスト名の削除中にエラーが発生しました。",
 	"edgeHostnameListing.fetch.error": "Edge Hostnameの取得中にエラーが発生しました。",

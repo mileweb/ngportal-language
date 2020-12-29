@@ -606,7 +606,7 @@
 	"edgeHostnameListing.column.creationTime": "Creation Time",
 	"edgeHostnameListing.column.enableIPv6": "IPv6 사용",
 	"edgeHostnameListing.column.hasBeian": "Has Beian",
-	"edgeHostnameListing.column.lastUpdateTime": "Last Update Time",
+	"edgeHostnameListing.column.lastUpdateTime": "마지막 업데이트 시간",
 	"edgeHostnameListing.column.name": "Edge Hostname ",
 	"edgeHostnameListing.delete.error": "에지 호스트 이름을 삭제하는 중에 오류가 발생했습니다.",
 	"edgeHostnameListing.fetch.error": "Edge Hostname을 가져 오는 중에 오류가 발생했습니다. ",
