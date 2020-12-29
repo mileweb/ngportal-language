@@ -603,7 +603,7 @@
 	"edgeHostnameListing.button.createCname": "Create Edge Hostname",
 	"edgeHostnameListing.button.createEdgeHostname": "Crear nombre de host perimetral",
 	"edgeHostnameListing.column.actions": "Actions",
-	"edgeHostnameListing.column.creationTime": "Creation Time",
+	"edgeHostnameListing.column.creationTime": "Created",
 	"edgeHostnameListing.column.enableIPv6": "Habilitar IPv6",
 	"edgeHostnameListing.column.hasBeian": "Has Beian",
 	"edgeHostnameListing.column.lastUpdateTime": "Last Updated",

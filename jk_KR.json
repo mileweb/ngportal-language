@@ -603,7 +603,7 @@
 	"edgeHostnameListing.button.createCname": "Edge Hostname 만들기 ",
 	"edgeHostnameListing.button.createEdgeHostname": "에지 호스트 이름 생성",
 	"edgeHostnameListing.column.actions": "행위",
-	"edgeHostnameListing.column.creationTime": "Creation Time",
+	"edgeHostnameListing.column.creationTime": "생성 시간",
 	"edgeHostnameListing.column.enableIPv6": "IPv6 사용",
 	"edgeHostnameListing.column.hasBeian": "Has Beian",
 	"edgeHostnameListing.column.lastUpdateTime": "마지막 업데이트 시간",
