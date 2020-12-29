@@ -352,7 +352,7 @@
 	"contentListing.column.hostNames": "Noms d'hôte",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "Rate",
-	"contentListing.column.submissionTime": "Submission Time",
+	"contentListing.column.submissionTime": "Submitted",
 	"contentListing.column.success": "Success",
 	"contentListing.column.target": "Target",
 	"contentListing.column.type": "Type",
