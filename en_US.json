@@ -346,7 +346,7 @@
 	"content.management.list.page.title": "Content Management",
 	"content.management.list.tab.purge.title": "Purge",
 	"contentListing.column.action": "Action",
-	"contentListing.column.completionTime": "Completion Time",
+	"contentListing.column.completionTime": "Completed",
 	"contentListing.column.directories": "Dirs",
 	"contentListing.column.files": "Files",
 	"contentListing.column.hostNames": "Hostnames",
