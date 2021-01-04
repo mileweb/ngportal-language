@@ -135,7 +135,7 @@
 	"certificate.confirm.cancel.edit.certificate": "인증서 업데이트를 삭제 하시겠습니까? ",
 	"certificate.create.success.modal.content": "인증서가 성공적으로 저장되었습니다. ",
 	"certificate.create.success.modal.title": "인증서가 저장되었습니다! ",
-	"certificate.create.title": "인증서 만들기 ",
+	"certificate.create.title": "인증서 생성",
 	"certificate.csr.city": "시티",
 	"certificate.csr.common.name": "공통 이름 * ",
 	"certificate.csr.company": "회사",

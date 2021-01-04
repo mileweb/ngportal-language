@@ -135,7 +135,7 @@
 	"certificate.confirm.cancel.edit.certificate": "您要放弃修改证书吗？",
 	"certificate.create.success.modal.content": "证书已成功保存。",
 	"certificate.create.success.modal.title": "证书已保存！",
-	"certificate.create.title": "创建新证书",
+	"certificate.create.title": "创建证书",
 	"certificate.csr.city": "城市",
 	"certificate.csr.common.name": "Common Name *",
 	"certificate.csr.company": "公司",
