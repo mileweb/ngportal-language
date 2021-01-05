@@ -386,6 +386,7 @@
 	"customer.impersonation.page.title": "Customers",
 	"customer.impersonation.search.placeholder": "Enter a customer ID or name",
 	"customer.list": "顧客リスト",
+	"customer.list.regional.office.invalid": "入った地方事務所は無効です。 a-z、A-Z、0-9、-、または*を使用してください",
 	"customer.list.search.placeholder": "調べる",
 	"customer.list.tab.all": "すべての顧客",
 	"customer.status.active": "Active",

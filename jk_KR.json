@@ -386,6 +386,7 @@
 	"customer.impersonation.page.title": "Customers",
 	"customer.impersonation.search.placeholder": "Enter a customer ID or name",
 	"customer.list": "고객 목록 ",
+	"customer.list.regional.office.invalid": "입력 한 지역 사무소가 잘못되었습니다. a-z, A-Z, 0-9,-또는 *를 사용하세요.",
 	"customer.list.search.placeholder": "검색",
 	"customer.list.tab.all": "모든 고객 ",
 	"customer.status.active": "Active",
