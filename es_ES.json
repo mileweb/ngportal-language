@@ -135,7 +135,7 @@
 	"certificate.confirm.cancel.edit.certificate": "Do you want to discard the certificate update?",
 	"certificate.create.success.modal.content": "The certificate has been successfully saved.",
 	"certificate.create.success.modal.title": "Certificate saved!",
-	"certificate.create.title": "Create Certificate",
+	"certificate.create.title": "Crear un certificado",
 	"certificate.csr.city": "City",
 	"certificate.csr.common.name": "Common Name *",
 	"certificate.csr.company": "Company",
