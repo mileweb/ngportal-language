@@ -386,6 +386,7 @@
 	"customer.impersonation.page.title": "Customers",
 	"customer.impersonation.search.placeholder": "Enter a customer ID or name",
 	"customer.list": "Customer List",
+	"customer.list.regional.office.invalid": "Le bureau régional saisi n'est pas valide. Veuillez utiliser a-z, A-Z, 0-9, - ou *",
 	"customer.list.search.placeholder": "Search",
 	"customer.list.tab.all": "All Customers",
 	"customer.status.active": "Active",
