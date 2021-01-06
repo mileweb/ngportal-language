@@ -432,7 +432,7 @@
 	"deploy.standby.button.title.delete.one": "削除",
 	"deploy.standby.button.title.no": "いいえ",
 	"deploy.standby.button.title.run": "実行する",
-	"deploy.standby.button.view.detail": "詳細を表示",
+	"deploy.standby.button.view.detail": "詳細を見る",
 	"deploy.standby.button.yes.add": "はい、追加します",
 	"deploy.standby.certificate.already.content": "この証明書はすでに {target} スタンバイタスクに追加されています。代わりにこのタスクを追加しますか？",
 	"deploy.standby.certificate.title": "証明書",

@@ -432,7 +432,7 @@
 	"deploy.standby.button.title.delete.one": "Borrar",
 	"deploy.standby.button.title.no": "No",
 	"deploy.standby.button.title.run": "correr",
-	"deploy.standby.button.view.detail": "Ver detalle",
+	"deploy.standby.button.view.detail": "Ver detalles",
 	"deploy.standby.button.yes.add": "Si, agregue",
 	"deploy.standby.certificate.already.content": "Ya agregó este certificado a la {target} tarea en espera. ¿Quieres agregar esta tarea en su lugar?",
 	"deploy.standby.certificate.title": "Certificado",
