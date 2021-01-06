@@ -432,7 +432,7 @@
 	"deploy.standby.button.title.delete.one": "Elimina",
 	"deploy.standby.button.title.no": "No",
 	"deploy.standby.button.title.run": "Correre",
-	"deploy.standby.button.view.detail": "Vedi dettagli",
+	"deploy.standby.button.view.detail": "Visualizza dettagli",
 	"deploy.standby.button.yes.add": "Sì, aggiungi",
 	"deploy.standby.certificate.already.content": "Hai già aggiunto questo certificato all'attività {target} in standby. Vuoi aggiungere invece questa attività?",
 	"deploy.standby.certificate.title": "certificato",

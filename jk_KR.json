@@ -432,7 +432,7 @@
 	"deploy.standby.button.title.delete.one": "삭제",
 	"deploy.standby.button.title.no": "아니요",
 	"deploy.standby.button.title.run": "실행",
-	"deploy.standby.button.view.detail": "자세히보기",
+	"deploy.standby.button.view.detail": "세부 정보보기",
 	"deploy.standby.button.yes.add": "예, 추가합니다",
 	"deploy.standby.certificate.already.content": "이미이 인증서를 {target} 대기 작업에 추가했습니다. 대신이 작업을 추가 하시겠습니까?",
 	"deploy.standby.certificate.title": "증명서",

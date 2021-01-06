@@ -432,7 +432,7 @@
 	"deploy.standby.button.title.delete.one": "Delete",
 	"deploy.standby.button.title.no": "No",
 	"deploy.standby.button.title.run": "Run",
-	"deploy.standby.button.view.detail": "View Detail",
+	"deploy.standby.button.view.detail": "View Details",
 	"deploy.standby.button.yes.add": "Yes, add",
 	"deploy.standby.certificate.already.content": "You already added this certificate to the {target} standby task. Do you want to add this task instead?",
 	"deploy.standby.certificate.title": "Certificate",
