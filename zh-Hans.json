@@ -1093,6 +1093,7 @@
 	"propertyVersion.accordion.title.advanced": "高级设置",
 	"propertyVersion.accordion.title.certificate": "TLS设置",
 	"propertyVersion.accordion.title.realTimeLogging": "实时日志",
+	"propertyVersion.accordion.title.videoSeeking": "视频搜寻设置",
 	"propertyVersion.clone.title": "克隆",
 	"propertyVersion.create.title": "创建新版本",
 	"propertyVersion.edit.save.button.content": "配置：{name} ，版本：{version}",

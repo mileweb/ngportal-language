@@ -1093,6 +1093,7 @@
 	"propertyVersion.accordion.title.advanced": "Advanced Settings",
 	"propertyVersion.accordion.title.certificate": "TLS Settings",
 	"propertyVersion.accordion.title.realTimeLogging": "Real Time Logging",
+	"propertyVersion.accordion.title.videoSeeking": "Video Seeking Setting",
 	"propertyVersion.clone.title": "Clone",
 	"propertyVersion.create.title": "Create Version",
 	"propertyVersion.edit.save.button.content": "Property: {name} , Version: {version}",
