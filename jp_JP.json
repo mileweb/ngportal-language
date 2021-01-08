@@ -1093,7 +1093,6 @@
 	"propertyVersion.accordion.title.advanced": "高度な設定",
 	"propertyVersion.accordion.title.certificate": "TLS設定",
 	"propertyVersion.accordion.title.realTimeLogging": "Real Time Logging",
-	"propertyVersion.accordion.title.videoSeeking": "ビデオシーク設定",
 	"propertyVersion.clone.title": "クローン",
 	"propertyVersion.create.title": "バージョンを作成",
 	"propertyVersion.edit.save.button.content": "プロパティ： {name} 、バージョン： {version}",
