@@ -1239,7 +1239,7 @@
 	"reportQuery.page.log.download.date.to": "End Time",
 	"reportQuery.page.log.download.download": "Download",
 	"reportQuery.page.log.download.file.size": "File Size(Bytes)",
-	"reportQuery.page.protocol": "Protocol",
+	"reportQuery.page.protocol": "Scheme",
 	"reportQuery.page.protocol.all": "All",
 	"reportQuery.page.protocol.http": "HTTP",
 	"reportQuery.page.protocol.https": "HTTPS",
