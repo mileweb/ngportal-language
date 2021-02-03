@@ -1466,6 +1466,7 @@
 	"sidebar.uiElements": "UI Elements",
 	"sidebar.uppy": "Uppy Uploader",
 	"sidebar.youtubeSearch": "Youtube Search",
+	"start.impersonation.popup.text": "Click the impersonating {impersonationIcon} icon to stop the impersonation.",
 	"start.impersonation.text.line1": "Click the impersonation {impersonationIcon} icon",
 	"start.impersonation.text.line2": "to stop the impersonation.",
 	"stop.impersonation.btn.text": "Stop Impersonating",
