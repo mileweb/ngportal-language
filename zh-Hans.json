@@ -24,19 +24,11 @@
 	"banner.create.edgehost.one": "您还没有边缘域名。单击{here}创建第一个。",
 	"banner.create.property.one": "您还没有加速项目。单击{here}创建第一个。",
 	"banner.create.text.here": "这里",
-<<<<<<< HEAD
-	"banner.info.certificate.more": "您有 {cntCertificateListAll} {resourceName}。 {cntCertificateListStaging} 部署到阶段， {cntCertificateListProd} 部署到生产。",
-	"banner.info.certificate.one": "您有 {cntCertificateListAll} {resourceName}。 {cntCertificateListStaging} 部署到暂存， {cntCertificateListProd} 部署到生产。",
-	"banner.info.edgehost.one": "您有 {cntEdgeHostList} {resourceName}。",
-	"banner.info.property.more": "您已将 {cntPropertyListAll} {resourceName}， {cntPropertyListStaging} 部署到登台， {cntPropertyListProd} 部署到生产。",
-	"banner.info.property.one": "您已经将 {cntPropertyListAll} {resourceName}， {cntPropertyListStaging} 部署到了阶段， {cntPropertyListProd} 部署到了生产。",
-=======
 	"banner.info.certificate.more": "您有{cntCertificateListAll}张{resourceName}。其中{cntCertificateListStaging}张部署到了演练环境，{cntCertificateListProd}张部署到了生产环境。",
 	"banner.info.certificate.one": "您有{cntCertificateListAll}张{resourceName}。其中{cntCertificateListStaging}张部署到了演练环境，{cntCertificateListProd}张部署到了生产环境。",
 	"banner.info.edgehost.one": "您已创建并部署了{cntEdgeHostList}个{resourceName}。",
 	"banner.info.property.more": "您已创建{cntPropertyListAll}个{resourceName}，其中{cntPropertyListStaging}个部署到了演练环境，{cntPropertyListProd}个部署到了生产环境。",
 	"banner.info.property.one": "您已创建{cntPropertyListAll}个{resourceName}，其中{cntPropertyListStaging}个部署到了演练环境，{cntPropertyListProd}个部署到了生产环境。",
->>>>>>> eafac1ecae3977374a88e43c35c6f433f732f9e1
 	"banner.info.text.certificate": "TLS证书",
 	"banner.info.text.certificate.plural": "TLS证书",
 	"banner.info.text.edgehost": "边缘域名",
