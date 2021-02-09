@@ -974,6 +974,7 @@
 	"products.title.cdn": "CDN",
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
+	"products.title.obd": "OBD",
 	"property.boolean.label.false": "いいえ",
 	"property.boolean.label.true": "はい",
 	"property.btn.add.origin": "新しく追加する",
