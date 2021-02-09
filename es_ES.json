@@ -974,6 +974,7 @@
 	"products.title.cdn": "CDN",
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
+	"products.title.obd": "OBD",
 	"property.boolean.label.false": "No",
 	"property.boolean.label.true": "Sí",
 	"property.btn.add.origin": "Añadir nuevo",
