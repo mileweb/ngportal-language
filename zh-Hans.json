@@ -203,7 +203,7 @@
 	"certificate.radio.option.generated": "自动生成",
 	"certificate.radio.option.upload": "上传",
 	"certificate.selfsign.template.delete.confirm.title": "您真的要删除此模板吗？",
-	"certificate.selfsign.template.exist.content": "“{new_name}”已经存在。您真的要覆盖 {old_name}吗？",
+	"certificate.selfsign.template.exist.content": "\"{new_name}\" 已经存在。您真的要覆盖 {old_name}吗？",
 	"certificate.selfsign.template.overwrite.confirm.title": "您真的要覆盖这个吗？",
 	"certificate.selfsign.template.overwrite.text": "是的，覆盖！",
 	"certificate.selfsign.template.save.button": "保存模板",

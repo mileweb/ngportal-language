@@ -203,7 +203,7 @@
 	"certificate.radio.option.generated": "Auto-Generate",
 	"certificate.radio.option.upload": "Upload",
 	"certificate.selfsign.template.delete.confirm.title": "Do you really want to delete this template?",
-	"certificate.selfsign.template.exist.content": "\"{new_name}\" does already exist. Do you really want to overwrite {old_name}?",
+	"certificate.selfsign.template.exist.content": "\"{new_name}\" already exists. Do you really want to overwrite {old_name}?",
 	"certificate.selfsign.template.overwrite.confirm.title": "Do you really want to overwrite this?",
 	"certificate.selfsign.template.overwrite.text": "Yes, Overwrite!",
 	"certificate.selfsign.template.save.button": "Save Template",

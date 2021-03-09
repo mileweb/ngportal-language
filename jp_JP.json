@@ -203,7 +203,7 @@
 	"certificate.radio.option.generated": "自動生成",
 	"certificate.radio.option.upload": "アップロード",
 	"certificate.selfsign.template.delete.confirm.title": "このテンプレートを本当に削除しますか？",
-	"certificate.selfsign.template.exist.content": "「{new_name}」はすでに存在します。本当に {old_name}を上書きしますか？",
+	"certificate.selfsign.template.exist.content": "\"{new_name}\" はすでに存在します。本当に {old_name}を上書きしますか？",
 	"certificate.selfsign.template.overwrite.confirm.title": "本当にこれを上書きしますか？",
 	"certificate.selfsign.template.overwrite.text": "はい、上書きします！",
 	"certificate.selfsign.template.save.button": "テンプレートを保存",
