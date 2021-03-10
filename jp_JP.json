@@ -634,6 +634,7 @@
 	"edgeHostname.update.success.modal.title": "Edge Hostnameが更新されました",
 	"edgeHostname.validation.error.desc.too.long": "説明は最大250文字です。",
 	"edgeHostnameListing.action.button": "行動",
+	"edgeHostnameListing.action.clone": "クローン",
 	"edgeHostnameListing.action.delete": "削除する",
 	"edgeHostnameListing.action.edit": "編集",
 	"edgeHostnameListing.button.createCname": "Edge Hostnameを作成",
