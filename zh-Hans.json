@@ -1053,6 +1053,7 @@
 	"property.label.videoSeeking.start.tips": "此URL参数用于标识视频拖拉的起始位置。",
 	"property.label.videoSeeking.title": "视频拖拉",
 	"property.label.videoSeeking.title.tips": "此功能可以启用URL参数进行视频拖拉。参数以字节为单位指定开始和结束位置。",
+	"property.manage.baseline.configuration.text": "管理基准配置",
 	"property.origin.action.addMoreOrigins": "添加更多源站",
 	"property.origin.addButton": "保存",
 	"property.origin.autoDetect": "自动检测",

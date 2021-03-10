@@ -1053,6 +1053,7 @@
 	"property.label.videoSeeking.start.tips": "The URL parameter indicating the beginning position of a video segment.",
 	"property.label.videoSeeking.title": "Video Seeking",
 	"property.label.videoSeeking.title.tips": "تتيح هذه الميزة البحث في مقطع فيديو باستخدام معلمات URL لتحديد مواضع البداية والنهاية بالبايت.",
+	"property.manage.baseline.configuration.text": "إدارة التكوين الأساسي",
 	"property.origin.action.addMoreOrigins": "Add More Origins",
 	"property.origin.addButton": "حفظ",
 	"property.origin.autoDetect": "اكتشاف تلقائي",
