@@ -634,6 +634,7 @@
 	"edgeHostname.update.success.modal.title": "边缘域名已更新",
 	"edgeHostname.validation.error.desc.too.long": "说明最多只可以包含250个字符。",
 	"edgeHostnameListing.action.button": "操作",
+	"edgeHostnameListing.action.clone": "克隆",
 	"edgeHostnameListing.action.delete": "删除",
 	"edgeHostnameListing.action.edit": "修改",
 	"edgeHostnameListing.button.createCname": "创建边缘域名",
