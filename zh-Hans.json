@@ -1525,7 +1525,7 @@
 	"task.time.line.remove.property.action.title": "卸载加速项目",
 	"task.time.line.version.id.parameter": "版本",
 	"task.undeploy.certificate.version.name": "卸载证书'{certificateName}'",
-	"task.undeploy.property.version.name": "卸载加速项目'{propertyName}'",
+	"task.undeploy.property.version.name": "由{userName}卸载加速项目'{propertyName}'",
 	"task.validate.property.version.name": "由{userName}验证加速项目“{propertyName}”的版本 {versionId} ",
 	"taskListing.column.id": "ID",
 	"taskListing.column.name": "任务名",

@@ -1525,7 +1525,7 @@
 	"task.time.line.remove.property.action.title": "속성 제거 ",
 	"task.time.line.version.id.parameter": "번역",
 	"task.undeploy.certificate.version.name": "인증서 '{certificateName}' 을 (를) 배포 취소하십시오",
-	"task.undeploy.property.version.name": "'{propertyName}' 속성을 배포 취소하십시오",
+	"task.undeploy.property.version.name": "{userName}의 '{propertyName}'속성 배포 취소",
 	"task.validate.property.version.name": "{userName}이 '{propertyName}'속성의 {versionId} 버전을 확인합니다.",
 	"taskListing.column.id": "신분증",
 	"taskListing.column.name": "작업 이름 ",
