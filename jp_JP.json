@@ -1506,7 +1506,7 @@
 	"stop.impersonation.text.line2": "{customerName}になりすましていますか？",
 	"sub.text.additional.location": "追加の場所のキャッシュ動作を設定します。",
 	"suffix.label.enforce.cache.time": "オリジンからのキャッシュコントロールヘッダーを無視します。",
-	"task.deploy.certificate.version.name": "証明書 '{certificateName}'のバージョン{version}を展開します",
+	"task.deploy.certificate.version.name": "{userName}による証明書 '{certificateName}'のバージョン{version}をデプロイします",
 	"task.deploy.property.version.name": "{userName}によってプロパティ '{propertyName}'のバージョン{versionId}をデプロイします",
 	"task.detail.actions.title": "行動：",
 	"task.detail.page.sub.title": "タスクID",

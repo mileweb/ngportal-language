@@ -1506,7 +1506,7 @@
 	"stop.impersonation.text.line2": "impersonating {customerName}?",
 	"sub.text.additional.location": "Set the cache behavior for additional locations.",
 	"suffix.label.enforce.cache.time": "Ignore the cache control headers from the origin.",
-	"task.deploy.certificate.version.name": "Deploy version {version} of certificate '{certificateName}'",
+	"task.deploy.certificate.version.name": "Implementar la versión {version} del certificado '{certificateName}' por {userName}",
 	"task.deploy.property.version.name": "Implementar la versión {versionId} de la propiedad '{propertyName}' por {userName}",
 	"task.detail.actions.title": "Actions:",
 	"task.detail.page.sub.title": "Task ID",

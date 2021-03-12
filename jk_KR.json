@@ -1506,7 +1506,7 @@
 	"stop.impersonation.text.line2": "{customerName}을 가장합니까? ",
 	"sub.text.additional.location": "추가 위치에 대한 캐시 동작을 설정하십시오. ",
 	"suffix.label.enforce.cache.time": "원점에서 캐시 제어 헤더를 무시하십시오. ",
-	"task.deploy.certificate.version.name": "인증서 '{certificateName}' 의 '{version}' 버전을 배포하십시오",
+	"task.deploy.certificate.version.name": "{userName}의 인증서 '{certificateName}'버전 {version} 배포",
 	"task.deploy.property.version.name": "{userName}에 의해 '{propertyName}'속성의 {versionId} 버전 배포",
 	"task.detail.actions.title": "행위:",
 	"task.detail.page.sub.title": "작업 ID ",
