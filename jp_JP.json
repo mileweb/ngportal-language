@@ -1526,7 +1526,7 @@
 	"task.time.line.version.id.parameter": "版",
 	"task.undeploy.certificate.version.name": "証明書 '{certificateName}'を展開解除します",
 	"task.undeploy.property.version.name": "プロパティ '{propertyName}'をアンデプロイします",
-	"task.validate.property.version.name": "プロパティ '{propertyName}'のバージョン{versionId}を検証します",
+	"task.validate.property.version.name": "プロパティ '{propertyName}'のバージョン{versionId}を{userName}で検証します",
 	"taskListing.column.id": "ID",
 	"taskListing.column.name": "タスク名",
 	"taskListing.column.status": "状態",

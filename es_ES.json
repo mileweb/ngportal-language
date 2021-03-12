@@ -1526,7 +1526,7 @@
 	"task.time.line.version.id.parameter": "Version",
 	"task.undeploy.certificate.version.name": "Undeploy certificate '{certificateName}'",
 	"task.undeploy.property.version.name": "Undeploy property '{propertyName}'",
-	"task.validate.property.version.name": "Validate version {versionId} of property '{propertyName}'",
+	"task.validate.property.version.name": "Validar la versión {versionId} de la propiedad '{propertyName}' por {userName}",
 	"taskListing.column.id": "ID",
 	"taskListing.column.name": "Task Name",
 	"taskListing.column.status": "Status",
