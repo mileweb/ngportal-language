@@ -1007,6 +1007,7 @@
 	"property.compare.versions.before.deploy.version": "version",
 	"property.compare.versions.page.subtitle": "Please select two versions of the property to compare.",
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
+	"property.create.default.description": "Creato da {userName}",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Spazio': richiama il completamento automatico",
 	"property.edgeLogic.editorHeight": "'Ctrl - + / -' - cambia l'altezza dell'editor",
 	"property.edgeLogic.shortCut": "Tasti rapidi:",

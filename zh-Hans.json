@@ -1007,6 +1007,7 @@
 	"property.compare.versions.before.deploy.version": "版本",
 	"property.compare.versions.page.subtitle": "请选择两个不同的版本进行比较。",
 	"property.confirm.cancel.edit": "您要取消修改此加速项目吗？",
+	"property.create.default.description": "由{userName}创建",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Space' - 启用自动完成",
 	"property.edgeLogic.editorHeight": "'Ctrl-+ /-' - 更改编辑器高度",
 	"property.edgeLogic.shortCut": "键盘快捷键：",
