@@ -1507,7 +1507,7 @@
 	"sub.text.additional.location": "设置其他路径下的缓存行为",
 	"suffix.label.enforce.cache.time": "忽略源站返回的缓存配置",
 	"task.deploy.certificate.version.name": "部署证书“{certificateName}”的版本 {version} ",
-	"task.deploy.property.version.name": "部署加速项目“{propertyName}”的版本{versionId} ",
+	"task.deploy.property.version.name": "由{userName}部署加速项目“{propertyName}”的版本{versionId} ",
 	"task.detail.actions.title": "操作：",
 	"task.detail.page.sub.title": "任务号",
 	"task.detail.page.title": "任务细节",

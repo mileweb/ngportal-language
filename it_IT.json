@@ -1507,7 +1507,7 @@
 	"sub.text.additional.location": "Set the cache behavior for additional locations.",
 	"suffix.label.enforce.cache.time": "Ignore the cache control headers from the origin.",
 	"task.deploy.certificate.version.name": "Deploy version {version} of certificate '{certificateName}'",
-	"task.deploy.property.version.name": "Deploy version {versionId} of property '{propertyName}'",
+	"task.deploy.property.version.name": "Distribuisci la versione {versionId} della proprietà ‘{propertyName}’ di {userName}",
 	"task.detail.actions.title": "Actions:",
 	"task.detail.page.sub.title": "Task ID",
 	"task.detail.page.title": "Task Details",
