@@ -1524,7 +1524,7 @@
 	"task.time.line.remove.cert.action.title": "Remove Certificate",
 	"task.time.line.remove.property.action.title": "Remove Property",
 	"task.time.line.version.id.parameter": "Version",
-	"task.undeploy.certificate.version.name": "Undeploy certificate '{certificateName}'",
+	"task.undeploy.certificate.version.name": "Anular la implementación del certificado '{certificateName}' de {userName}",
 	"task.undeploy.property.version.name": "Anular la implementación de la propiedad '{propertyName}' de {userName}",
 	"task.validate.property.version.name": "Validar la versión {versionId} de la propiedad '{propertyName}' por {userName}",
 	"taskListing.column.id": "ID",
