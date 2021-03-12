@@ -992,7 +992,7 @@
 	"property.btn.remove.origin": "Remove",
 	"property.btn.view.origin": "View",
 	"property.button.compare.versions": "Compare Versions",
-	"property.clone.version.description": "Cloned from version {version}",
+	"property.clone.version.description": "Cloned from version {version} by {userName}",
 	"property.compare.configuration.title": "Configuration",
 	"property.compare.deploy.title": "Deploy to ",
 	"property.compare.deployed.version.description": "Version {deployedVersion} - Current Version - Deployed",
