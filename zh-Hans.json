@@ -1017,7 +1017,7 @@
 	"property.label.beian.content.type": "备案服务内容",
 	"property.label.cache.key.scheme": "与HTTP分开缓存HTTPS内容",
 	"property.label.cachekey.hostname": "Cache Key里的主机名",
-	"property.label.disable.certificate.renew.automation": "禁用证书续订自动化",
+	"property.label.disable.certificate.renew.automation": "证书续签自动化",
 	"property.label.enable.certificate.ocsp.stapling": "启用OCSP装订",
 	"property.label.has.beian": "有ICP备案",
 	"property.label.hostnames": "加速域名 *",

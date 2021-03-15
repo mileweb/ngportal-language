@@ -1017,7 +1017,7 @@
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "Cache HTTPS contents separately from HTTP",
 	"property.label.cachekey.hostname": "Cache Key Hostname ",
-	"property.label.disable.certificate.renew.automation": "Désactiver l'automatisation du renouvellement des certificats",
+	"property.label.disable.certificate.renew.automation": "Automatisation du renouvellement des certificats",
 	"property.label.enable.certificate.ocsp.stapling": "Activer l'agrafage OCSP",
 	"property.label.has.beian": "Has ICP Beian",
 	"property.label.hostnames": "Hostnames *",
