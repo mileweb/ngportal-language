@@ -526,7 +526,7 @@
 	"deploy.standby.version.title": "Versión",
 	"deploy.success.modal.message": "The configuration has been successfully deployed in {environment}.",
 	"deploy.success.modal.title": "Configuration Deployed",
-	"deploy.target.label": "Destino de implementación *",
+	"deploy.target.label": "Objetivo *",
 	"deploy.target.production": "Production",
 	"deploy.target.staging": "Staging",
 	"deployment.confirm.certificate.deploy.again": "Do you want to deploy version {version} of certificate '{certificateName}' to {environment} again?",
