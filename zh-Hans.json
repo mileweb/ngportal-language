@@ -526,7 +526,7 @@
 	"deploy.standby.version.title": "版本",
 	"deploy.success.modal.message": "该配置已成功部署至{environment}环境中。",
 	"deploy.success.modal.title": "配置已部署",
-	"deploy.target.label": "部署目标环境 *",
+	"deploy.target.label": "目标 *",
 	"deploy.target.production": "生产",
 	"deploy.target.staging": "演练",
 	"deployment.confirm.certificate.deploy.again": "您是否要再次将证书“{certificateName}”的版本 {version} 部署到 {environment} 环境？",

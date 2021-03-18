@@ -526,7 +526,7 @@
 	"deploy.standby.version.title": "バージョン",
 	"deploy.success.modal.message": "構成は{environment}に正常にデプロイされました。",
 	"deploy.success.modal.title": "デプロイされた構成",
-	"deploy.target.label": "展開先*",
+	"deploy.target.label": "目標 *",
 	"deploy.target.production": "製造",
 	"deploy.target.staging": "ステージング",
 	"deployment.confirm.certificate.deploy.again": "証明書 '{certificateName}'のバージョン{version}を{environment}に再度展開しますか？",
