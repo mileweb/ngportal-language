@@ -225,6 +225,7 @@
 	"certificate.undeploy.inprogress.modal.title": "Undeploying Certificate",
 	"certificate.undeploy.success.modal.message": "The certificate has been successfully undeployed.",
 	"certificate.undeploy.success.modal.title": "Certificate Undeployed",
+	"certificate.update.create.default.comment": "تم إنشاؤه بواسطة {userName}",
 	"certificate.update.create.version.btn": "Create Version",
 	"certificate.update.edit.btn": "Edit",
 	"certificate.update.failed.title": "Certificate Update Failed!",

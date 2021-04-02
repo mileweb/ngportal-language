@@ -225,6 +225,7 @@
 	"certificate.undeploy.inprogress.modal.title": "배포 취소 인증서 ",
 	"certificate.undeploy.success.modal.message": "인증서가 성공적으로 배포 해제되었습니다. ",
 	"certificate.undeploy.success.modal.title": "배포되지 않은 인증서 ",
+	"certificate.update.create.default.comment": "작성자 : {userName}",
 	"certificate.update.create.version.btn": "버전 만들기 ",
 	"certificate.update.edit.btn": "편집하다",
 	"certificate.update.failed.title": "인증서 업데이트 실패! ",

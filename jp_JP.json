@@ -225,6 +225,7 @@
 	"certificate.undeploy.inprogress.modal.title": "証明書の展開解除",
 	"certificate.undeploy.success.modal.message": "証明書は正常にアンデプロイされました。",
 	"certificate.undeploy.success.modal.title": "展開されていない証明書",
+	"certificate.update.create.default.comment": "{userName}によって作成されました",
 	"certificate.update.create.version.btn": "バージョンを作成",
 	"certificate.update.edit.btn": "編集",
 	"certificate.update.failed.title": "証明書の更新に失敗しました！",

@@ -225,6 +225,7 @@
 	"certificate.undeploy.inprogress.modal.title": "正在卸载证书",
 	"certificate.undeploy.success.modal.message": "证书已被成功卸载。",
 	"certificate.undeploy.success.modal.title": "证书已被卸载",
+	"certificate.update.create.default.comment": "由{userName}创建",
 	"certificate.update.create.version.btn": "创建新版本",
 	"certificate.update.edit.btn": "编辑",
 	"certificate.update.failed.title": "证书更新失败！",
