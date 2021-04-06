@@ -519,6 +519,7 @@
 	"deploy.standby.run.taskname.deploy.common": " {certificate_cnt} {certificate} 및 {property_cnt} {property}의 대기 작업",
 	"deploy.standby.run.taskname.deploy.common.by": " {userName}이 {certificate_cnt} {certificate} 및 {property_cnt} {property}를 대기 작업과 함께 배포했습니다.",
 	"deploy.standby.run.taskname.deploy.one": " {cnt} {resource}의 대기 작업",
+	"deploy.standby.run.taskname.deploy.one.by": " {userName}이 대기 작업과 함께 {cnt} {resource}를 배포했습니다.",
 	"deploy.standby.run.taskname.deploy.property": " {property_cnt} 속성의 대기 작업",
 	"deploy.standby.run.taskname.deploy.property.and.certificate": " {certificate_cnt} 인증서 및 {property_cnt} 속성의 대기 작업",
 	"deploy.standby.run.tooltip": "대기 작업 실행",

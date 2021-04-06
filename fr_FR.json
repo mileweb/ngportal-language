@@ -519,6 +519,7 @@
 	"deploy.standby.run.taskname.deploy.common": "Tâche de veille de {certificate_cnt} {certificate} et {property_cnt} {property}",
 	"deploy.standby.run.taskname.deploy.common.by": "{userName} a déployé {certificate_cnt} {certificate} et {property_cnt} {property} avec une tâche de secours",
 	"deploy.standby.run.taskname.deploy.one": "Tâche de veille de {cnt} {resource}",
+	"deploy.standby.run.taskname.deploy.one.by": "{userName} a déployé {cnt} {resource} avec une tâche de secours",
 	"deploy.standby.run.taskname.deploy.property": "Tâche de veille de {property_cnt} propriétés",
 	"deploy.standby.run.taskname.deploy.property.and.certificate": "Tâche de secours des {certificate_cnt} certificats et {property_cnt} propriétés",
 	"deploy.standby.run.tooltip": "Exécuter des tâches de veille",

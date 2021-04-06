@@ -519,6 +519,7 @@
 	"deploy.standby.run.taskname.deploy.common": "مهمة الاستعداد لـ {certificate_cnt} {certificate} و {property_cnt} {property}",
 	"deploy.standby.run.taskname.deploy.common.by": "نشر {userName} {Certificate_cnt} {Certificate} و {property_cnt} {property} مع مهمة الاستعداد",
 	"deploy.standby.run.taskname.deploy.one": "مهمة الاستعداد لـ {cnt} {resource}",
+	"deploy.standby.run.taskname.deploy.one.by": "نشر {userName} {cnt} {resource} بمهمة الاستعداد",
 	"deploy.standby.run.taskname.deploy.property": "مهمة الاستعداد لـ {property_cnt} من الخصائص",
 	"deploy.standby.run.taskname.deploy.property.and.certificate": "مهمة الاستعداد لـ {certificate_cnt} الشهادات و {property_cnt} الخصائص",
 	"deploy.standby.run.tooltip": "قم بتشغيل مهام الاستعداد",

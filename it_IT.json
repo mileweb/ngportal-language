@@ -519,6 +519,7 @@
 	"deploy.standby.run.taskname.deploy.common": "Attività in standby di {certificate_cnt} {certificate} e {property_cnt} {property}",
 	"deploy.standby.run.taskname.deploy.common.by": "{userName} ha distribuito {certificate_cnt} {certificate} e {property_cnt} {property} con un'attività in standby",
 	"deploy.standby.run.taskname.deploy.one": "Attività in standby di {cnt} {resource}",
+	"deploy.standby.run.taskname.deploy.one.by": "{userName} ha distribuito {cnt} {resource} con un'attività in standby",
 	"deploy.standby.run.taskname.deploy.property": "Attività in standby di {property_cnt} proprietà",
 	"deploy.standby.run.taskname.deploy.property.and.certificate": "Attività in standby di {certificate_cnt} certificati e {property_cnt} proprietà",
 	"deploy.standby.run.tooltip": "Esegui attività in standby",

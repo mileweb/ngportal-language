@@ -519,6 +519,7 @@
 	"deploy.standby.run.taskname.deploy.common": "{certificate_cnt}张{certificate}和{property_cnt}个{property}的待命任务",
 	"deploy.standby.run.taskname.deploy.common.by": "{userName}通过待命任务部署了{certificate_cnt}张{certificate}和{property_cnt}个{property}",
 	"deploy.standby.run.taskname.deploy.one": "{cnt}个{resource}的待命任务",
+	"deploy.standby.run.taskname.deploy.one.by": "{userName}通过待命任务部署了{cnt}个{resource}",
 	"deploy.standby.run.taskname.deploy.property": "{property_cnt}个加速项目的待命任务",
 	"deploy.standby.run.taskname.deploy.property.and.certificate": "{certificate_cnt}张证书和{property_cnt}个加速项目的待命任务",
 	"deploy.standby.run.tooltip": "部署待命任务",
