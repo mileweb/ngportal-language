@@ -517,6 +517,7 @@
 	"deploy.standby.run.confirm.title.undeploy.property.and.certificate": "{property_cnt} プロパティと {certificate_cnt} 証明書は展開されません。",
 	"deploy.standby.run.taskname.deploy.certificate": " {certificate_cnt} 証明書のスタンバイタスク",
 	"deploy.standby.run.taskname.deploy.common": " {certificate_cnt} {certificate} および {property_cnt} {property}のスタンバイタスク",
+	"deploy.standby.run.taskname.deploy.common.by": " {userName}はスタンバイタスクで{certificate_cnt} {certificate}と{property_cnt} {property}をデプロイしました",
 	"deploy.standby.run.taskname.deploy.one": " {cnt} {resource}のスタンバイタスク",
 	"deploy.standby.run.taskname.deploy.property": " {property_cnt} プロパティのスタンバイタスク",
 	"deploy.standby.run.taskname.deploy.property.and.certificate": " {certificate_cnt} 証明書と {property_cnt} プロパティのスタンバイタスク",

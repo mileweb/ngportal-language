@@ -517,6 +517,7 @@
 	"deploy.standby.run.confirm.title.undeploy.property.and.certificate": "{property_cnt} properies and {certificate_cnt} certificates would be undeployed.",
 	"deploy.standby.run.taskname.deploy.certificate": "Standby task of {certificate_cnt} certificates",
 	"deploy.standby.run.taskname.deploy.common": "Standby task of {certificate_cnt} {certificate} and {property_cnt} {property}",
+	"deploy.standby.run.taskname.deploy.common.by": "{userName} deployed {certificate_cnt} {certificate} and {property_cnt} {property} with a standby task",
 	"deploy.standby.run.taskname.deploy.one": "Standby task of {cnt} {resource}",
 	"deploy.standby.run.taskname.deploy.property": "Standby task of {property_cnt} properties",
 	"deploy.standby.run.taskname.deploy.property.and.certificate": "Standby task of {certificate_cnt} certificates and {property_cnt} properties",
