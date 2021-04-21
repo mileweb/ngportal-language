@@ -1126,6 +1126,7 @@
 	"propertyCreate.model.save.version.confirm.tile": "このプロパティとバージョンを保存しますか？",
 	"propertyCreate.model.validate.version.confirm.title": "このプロパティバージョンを検証しますか？",
 	"propertyListing.action.button": "行動",
+	"propertyListing.action.clone": "クローン",
 	"propertyListing.action.compare": "バージョンを比較する",
 	"propertyListing.action.delete": "削除する",
 	"propertyListing.action.edit": "編集",

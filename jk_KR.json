@@ -1126,6 +1126,7 @@
 	"propertyCreate.model.save.version.confirm.tile": "이 속성과 버전을 저장 하시겠습니까? ",
 	"propertyCreate.model.validate.version.confirm.title": "이 속성 버전을 확인 하시겠습니까?",
 	"propertyListing.action.button": "행위",
+	"propertyListing.action.clone": "복제하다",
 	"propertyListing.action.compare": "버전 비교 ",
 	"propertyListing.action.delete": "지우다",
 	"propertyListing.action.edit": "편집하다",

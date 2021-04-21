@@ -1126,6 +1126,7 @@
 	"propertyCreate.model.save.version.confirm.tile": "您要保存此加速项目版本吗？",
 	"propertyCreate.model.validate.version.confirm.title": "验证此属性版本？",
 	"propertyListing.action.button": "操作",
+	"propertyListing.action.clone": "克隆",
 	"propertyListing.action.compare": "对比版本",
 	"propertyListing.action.delete": "删除",
 	"propertyListing.action.edit": "修改",
