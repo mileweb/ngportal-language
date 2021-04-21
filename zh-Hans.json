@@ -999,6 +999,7 @@
 	"property.btn.remove.origin": "删除",
 	"property.btn.view.origin": "查看",
 	"property.button.compare.versions": "比较版本",
+	"property.clone.description": "由{userName}从属性{property}版本{version}克隆",
 	"property.clone.version.description": "由{userName}从版本 {version}克隆",
 	"property.compare.configuration.title": "配置",
 	"property.compare.deploy.title": "部署至 ",

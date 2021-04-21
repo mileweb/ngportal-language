@@ -999,6 +999,7 @@
 	"property.btn.remove.origin": "Elimina",
 	"property.btn.view.origin": "vista",
 	"property.button.compare.versions": "Compare Versions",
+	"property.clone.description": "Clonato dalla proprietà {proprietà} versione {versione} da {userName}",
 	"property.clone.version.description": "Clonato dalla versione {version} da {userName}",
 	"property.compare.configuration.title": "Configuration",
 	"property.compare.deploy.title": "Deploy to ",
