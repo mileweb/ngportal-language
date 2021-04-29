@@ -547,7 +547,7 @@
 	"dirPurge.header.name.label": "Name",
 	"dirPurge.header.table.noData.placeholder": "List of directory purge headers",
 	"dirPurge.header.value.label": "Value",
-	"dirPurge.invalid.url.with.wildCard": "ワイルドカード付きの無効なディレクトリURL。 単一のワイルドカード「*」は、URLのファイル部分でのみ使用できます。 「**」はURLの最後でのみ使用でき、ディレクトリとそのサブディレクトリが削除されることを示します。",
+	"dirPurge.invalid.url.with.wildCard": "ワイルドカードを使用した無効なディレクトリURL。 URLの末尾で3種類のワイルドカードをサポートしています。「*。ext」はディレクトリ内の特定の拡張子を持つファイルに一致し、「*」はすべてのファイルに一致し、「**」はすべてのファイルとサブディレクトリに一致します。",
 	"dirPurge.table.noData.placeholder": "パージするディレクトリのリスト",
 	"dpa.change.agree.cdnetworks": "CDNetworksに同意します",
 	"dpa.change.agree.quantil": "Quantilに同意します",

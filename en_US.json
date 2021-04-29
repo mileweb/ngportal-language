@@ -547,7 +547,7 @@
 	"dirPurge.header.name.label": "Name",
 	"dirPurge.header.table.noData.placeholder": "List of directory purge headers",
 	"dirPurge.header.value.label": "Value",
-	"dirPurge.invalid.url.with.wildCard": "Invalid directory URL with wildcard. A single wildcard '*' can only be used in the file part of the URL. '**' can only be used at the end of a URL to indicate that a directory and its subdirectories will be purged.",
+	"dirPurge.invalid.url.with.wildCard": "Invalid directory URL with wildcard. We support 3 types of wildcard at the end of an URL: '*.ext' matches files with certain extension under a directory, '*' matches all files, and '**' matches all files and sub-directories.",
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
 	"dpa.change.agree.cdnetworks": "I agree to the CDNetworks",
 	"dpa.change.agree.quantil": "I agree to the Quantil",
