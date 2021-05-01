@@ -1830,7 +1830,7 @@
 	"validation.failed.modal.message": "検証中にエラーが発生しました。構成を確認してください。",
 	"validation.failed.modal.title": "検証に失敗しました",
 	"validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
-	"validation.inprogress.modal.message": "構成を検証しています。お待ちください。",
+	"validation.inprogress.modal.message": "構成を検証しています。数秒お待ちください。",
 	"validation.inprogress.modal.title": "設定の検証",
 	"validation.invalid.modal.message": "タスクIDが無効です。このポップアップを閉じて、もう一度検証してください。",
 	"validation.success.modal.message": "構成が検証され、展開する準備ができました。",

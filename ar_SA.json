@@ -1830,7 +1830,7 @@
 	"validation.failed.modal.message": "There was an error during validation. Please check the configuration.",
 	"validation.failed.modal.title": "Validation Failed",
 	"validation.failed.url.message": "There was an error during validation. Please check the logging URL format.",
-	"validation.inprogress.modal.message": "نحن نتحقق من صحة التكوين. ارجوك انتظر.",
+	"validation.inprogress.modal.message": "نحن نتحقق من صحة التكوين. من فضلك انتظر بضع ثوان.",
 	"validation.inprogress.modal.title": "Validating Configuration",
 	"validation.invalid.modal.message": "The task ID is invalid. Please close this pop-up and validate again.",
 	"validation.success.modal.message": "The configuration has been validated and is ready to deploy.",
