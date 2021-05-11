@@ -1196,7 +1196,7 @@
 	"purge.file.label": "Purge Files *",
 	"purge.file.out.of.limit.error": "The file purge daily quota has been reached",
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
-	"purge.file.section.title": "Add a file to be purged:",
+	"purge.file.section.title": "Add a file to be purged",
 	"purge.file.section.title2": "Add a file purge header:",
 	"purge.file.section.tooltip": "Veuillez saisir l'URL complète du fichier à purger.",
 	"purge.header.section.title": " Select an environment and action.",
