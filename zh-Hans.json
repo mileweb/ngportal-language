@@ -1187,6 +1187,7 @@
 	"purge.directory.label": "Purge Folders",
 	"purge.directory.section.title": "添加要刷新的目录：",
 	"purge.directory.section.title2": "添加一个目录刷新请求头：",
+	"purge.directory.section.tooltip": "以'**'结尾的目录URL清除所有文件和子目录。 以'*'结尾的目录URL仅清除所有文件。 以'* .ext'结尾的目录URL清除所有以文件扩展名'ext'结尾的文件。 例如，https：//domain.com/*.jpg清除所有JPEG文件。 否则，星号字符“ *”不应出现在目录URL中。 如果URL中的目录或文件名包含百分比字符'％'，请确保对其进行编码。",
 	"purge.error.duplicate.dir.purge.header": "该请求头已被添加。",
 	"purge.error.duplicate.file.purge.header": "该请求头已被添加。",
 	"purge.error.duplicate.url": "该URL已被添加。",

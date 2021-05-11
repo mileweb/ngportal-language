@@ -1187,6 +1187,7 @@
 	"purge.directory.label": "Purge Folders",
 	"purge.directory.section.title": "Add a directory to be purged:",
 	"purge.directory.section.title2": "Add a directory purge header:",
+	"purge.directory.section.tooltip": "End a directory URL with '**' to purge all files and subdirectories. End a directory URL with '*' to purge all files only. End a directory URL with '*.ext' to purge all files ending with a file extension, 'ext'. For example, https://domain.com/*.jpg purges all JPEG files. Otherwise, the asterisk character, '*', should not appear in a directory URL. If a directory or filename in a URL includes a percent character, '%', be sure to encode it.",
 	"purge.error.duplicate.dir.purge.header": "The header name has already been added.",
 	"purge.error.duplicate.file.purge.header": "The header name has already been added.",
 	"purge.error.duplicate.url": "The URL has already been added.",
