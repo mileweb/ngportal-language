@@ -1185,7 +1185,7 @@
 	"purge.dir.purge.recommendation": "You are purging many URLs under the same prefix. Do you want to use directory purge for {url} ?",
 	"purge.dir.quota.warning": "You have {available} of your daily directory purge quota available",
 	"purge.directory.label": "Purge Folders",
-	"purge.directory.section.title": "Add a directory to be purged:",
+	"purge.directory.section.title": "Add a directory to be purged",
 	"purge.directory.section.title2": "Add a directory purge header:",
 	"purge.directory.section.tooltip": "قم بإنهاء عنوان URL الخاص بالدليل بـ '**' لمسح جميع الملفات والأدلة الفرعية. قم بإنهاء عنوان URL الخاص بالدليل بـ '*' لمسح جميع الملفات فقط. قم بإنهاء عنوان URL للدليل بـ '* .ext' لحذف جميع الملفات التي تنتهي بامتداد ملف ، 'ext'. على سبيل المثال ، يقوم https://domain.com/*.jpg بمسح جميع ملفات JPEG. وبخلاف ذلك ، يجب ألا يظهر حرف النجمة '*' في عنوان URL للدليل. إذا كان دليل أو اسم ملف في عنوان URL يشتمل على حرف النسبة المئوية ، '٪' ، فتأكد من تشفيره.",
 	"purge.error.duplicate.dir.purge.header": "The header name has already been added.",

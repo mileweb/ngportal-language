@@ -1185,7 +1185,7 @@
 	"purge.dir.purge.recommendation": "You are purging many URLs under the same prefix. Do you want to use directory purge for {url} ?",
 	"purge.dir.quota.warning": "You have {available} of your daily directory purge quota available",
 	"purge.directory.label": "Purge Folders",
-	"purge.directory.section.title": "Add a directory to be purged:",
+	"purge.directory.section.title": "Add a directory to be purged",
 	"purge.directory.section.title2": "Add a directory purge header:",
 	"purge.directory.section.tooltip": "Termina l'URL di una directory con '**' per eliminare tutti i file e le sottodirectory. Termina l'URL di una directory con '*' per eliminare solo tutti i file. Termina l'URL di una directory con '* .ext' per eliminare tutti i file che terminano con l'estensione 'ext'. Ad esempio, https://domain.com/*.jpg elimina tutti i file JPEG. In caso contrario, il carattere asterisco '*' non dovrebbe apparire nell'URL di una directory. Se una directory o un nome di file in un URL include un carattere di percentuale, '%', assicurati di codificarlo.",
 	"purge.error.duplicate.dir.purge.header": "The header name has already been added.",
