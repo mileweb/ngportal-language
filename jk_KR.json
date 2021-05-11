@@ -1198,6 +1198,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "제거 할 파일 추가 : ",
 	"purge.file.section.title2": "파일 제거 헤더 추가 : ",
+	"purge.file.section.tooltip": "제거 할 파일의 전체 URL을 입력하십시오.",
 	"purge.header.section.title": "?환경과 행동을 선택하십시오. ",
 	"purge.item.list.column.header.name": "헤더 이름 ",
 	"purge.item.list.column.header.value": "헤더 값 ",

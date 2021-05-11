@@ -1198,6 +1198,7 @@
 	"purge.file.quota.warning": "您还有 {available} 个可用的每日文件刷新额度",
 	"purge.file.section.title": "添加一个需要刷新的文件：",
 	"purge.file.section.title2": "添加一个文件刷新请求头：",
+	"purge.file.section.tooltip": "请输入要清除的文件的完整URL。",
 	"purge.header.section.title": " 选择一个目标环境和操作。",
 	"purge.item.list.column.header.name": "Header名称",
 	"purge.item.list.column.header.value": "Header值",
