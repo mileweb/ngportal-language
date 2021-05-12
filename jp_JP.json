@@ -1190,7 +1190,7 @@
 	"purge.directory.label": "フォルダーの削除",
 	"purge.directory.section.title": "削除するディレクトリを追加します",
 	"purge.directory.section.title2": "Add a directory purge header:",
-	"purge.directory.section.tooltip": "ディレクトリURLを「**」で終了して、すべてのファイルとサブディレクトリを削除します。 すべてのファイルのみをパージするには、ディレクトリURLを「*」で終了します。 ディレクトリURLを「* .ext」で終了して、ファイル拡張子「ext」で終わるすべてのファイルを削除します。 たとえば、https：//domain.com/*.jpgはすべてのJPEGファイルを削除します。 それ以外の場合、アスタリスク文字「*」はディレクトリURLに表示されません。 URLのディレクトリまたはファイル名にパーセント文字「％」が含まれている場合は、必ずエンコードしてください。",
+	"purge.directory.section.tooltip": "ディレクトリURLを「**」で終了して、すべてのファイルとサブディレクトリを削除します。すべてのファイルのみをパージするには、「*」で終了します。 '* .ext'で終了して、特定の拡張子を持つすべてのファイルを削除します。それ以外の場合、アスタリスク文字「*」はディレクトリURLに表示されません。 URLにパーセント文字「%」が含まれている場合は、必ず「%25」にエンコードしてください。",
 	"purge.error.duplicate.dir.purge.header": "The header name has already been added.",
 	"purge.error.duplicate.file.purge.header": "ヘッダー名はすでに追加されています。",
 	"purge.error.duplicate.url": "URLは既に追加されています。",

@@ -1190,7 +1190,7 @@
 	"purge.directory.label": "폴더 삭제 ",
 	"purge.directory.section.title": "제거 할 디렉토리 추가",
 	"purge.directory.section.title2": "Add a directory purge header:",
-	"purge.directory.section.tooltip": "모든 파일과 하위 디렉터리를 제거하려면 '**'로 디렉터리 URL을 끝냅니다. 모든 파일 만 제거하려면 디렉토리 URL을 '*'로 끝내십시오. '* .ext'로 디렉토리 URL을 끝내면 파일 확장자 'ext'로 끝나는 모든 파일이 제거됩니다. 예를 들어 https://domain.com/*.jpg는 모든 JPEG 파일을 제거합니다. 그렇지 않으면 별표 문자 '*'가 디렉토리 URL에 나타나지 않아야합니다. URL의 디렉터리 또는 파일 이름에 퍼센트 문자 '%'가 포함되어 있으면 인코딩해야합니다.",
+	"purge.directory.section.tooltip": "모든 파일과 하위 디렉터리를 제거하려면 '**'로 디렉터리 URL을 끝냅니다. 모든 파일 만 제거하려면 '*'로 끝납니다. 특정 확장자를 가진 모든 파일을 제거하려면 '* .ext'로 끝납니다. 그렇지 않으면 별표 문자 '*'가 디렉토리 URL에 나타나지 않아야합니다. URL에 퍼센트 문자 '%'가 포함 된 경우 '% 25'로 인코딩해야합니다.",
 	"purge.error.duplicate.dir.purge.header": "The header name has already been added.",
 	"purge.error.duplicate.file.purge.header": "The header name has already been added.",
 	"purge.error.duplicate.url": "URL이 이미 추가되었습니다. ",
