@@ -553,7 +553,6 @@
 	"dirPurge.header.value.label": "Value",
 	"dirPurge.invalid.url.with.wildCard": "ワイルドカードを使用した無効なディレクトリURL。 URLの末尾で3種類のワイルドカードをサポートしています。「*。ext」はディレクトリ内の特定の拡張子を持つファイルに一致し、「*」はすべてのファイルに一致し、「**」はすべてのファイルとサブディレクトリに一致します。",
 	"dirPurge.table.noData.placeholder": "パージするディレクトリのリスト",
-	"dpa.change.agree": "",
 	"dpa.change.agree.cdnetworks": "CDNetworksに同意します",
 	"dpa.change.agree.quantil": "Quantilに同意します",
 	"dpa.changed.text1": "データ処理補遺（DPA）が変更されました",
