@@ -108,7 +108,7 @@
 	"cdn.plan.upgrade.coverage.na.city.sanjose": "San Jose",
 	"cdn.plan.upgrade.coverage.na.city.seattle": "Seattle",
 	"cdn.plan.upgrade.coverage.na.city.toronto": "Toronto",
-	"cdn.plan.upgrade.coverage.note": "La stessa città appare in diversi gruppi di server perché ogni città ha una posizione PoP diversa e il costo ISP.",
+	"cdn.plan.upgrade.coverage.note": "La stessa città appare in diversi gruppi di server perché ogni città ha una posizione PoP e un costo ISP diversi.",
 	"cdn.plan.upgrade.coverage.region.asia": "Asia e Oceania",
 	"cdn.plan.upgrade.coverage.region.china": "Cina",
 	"cdn.plan.upgrade.coverage.region.emea": "EMEA",

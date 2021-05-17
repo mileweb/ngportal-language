@@ -108,7 +108,7 @@
 	"cdn.plan.upgrade.coverage.na.city.sanjose": "산호세",
 	"cdn.plan.upgrade.coverage.na.city.seattle": "시애틀",
 	"cdn.plan.upgrade.coverage.na.city.toronto": "토론토",
-	"cdn.plan.upgrade.coverage.note": "각 도시마다 다른 PoP 위치와 ISP 비용이 있기 때문에 동일한 도시가 다른 서버 그룹에 나타납니다.",
+	"cdn.plan.upgrade.coverage.note": "각 도시마다 PoP 위치와 ISP 비용이 다르기 때문에 동일한 도시가 다른 서버 그룹에 나타납니다.",
 	"cdn.plan.upgrade.coverage.region.asia": "아시아 및 오세아니아",
 	"cdn.plan.upgrade.coverage.region.china": "중국",
 	"cdn.plan.upgrade.coverage.region.emea": "EMEA",

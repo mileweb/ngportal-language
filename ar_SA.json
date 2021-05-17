@@ -108,7 +108,7 @@
 	"cdn.plan.upgrade.coverage.na.city.sanjose": "سان خوسيه",
 	"cdn.plan.upgrade.coverage.na.city.seattle": "سياتل",
 	"cdn.plan.upgrade.coverage.na.city.toronto": "تورنتو",
-	"cdn.plan.upgrade.coverage.note": "تظهر المدينة نفسها في مجموعات خوادم مختلفة لأن لكل مدينة موقع PoP مختلفًا وتكلفة ISP.",
+	"cdn.plan.upgrade.coverage.note": "تظهر نفس المدينة في مجموعات خوادم مختلفة لأن لكل مدينة موقع PoP مختلف وتكلفة ISP.",
 	"cdn.plan.upgrade.coverage.region.asia": "آسيا وأوقيانوسيا",
 	"cdn.plan.upgrade.coverage.region.china": "الصين",
 	"cdn.plan.upgrade.coverage.region.emea": "أوروبا والشرق الأوسط وإفريقيا",

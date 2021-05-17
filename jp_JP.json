@@ -108,7 +108,7 @@
 	"cdn.plan.upgrade.coverage.na.city.sanjose": "サンノゼ",
 	"cdn.plan.upgrade.coverage.na.city.seattle": "シアトル",
 	"cdn.plan.upgrade.coverage.na.city.toronto": "トロント",
-	"cdn.plan.upgrade.coverage.note": "各都市には異なるPoPロケーションとISPコストがあるため、同じ都市は異なるサーバーグループに表示されます。",
+	"cdn.plan.upgrade.coverage.note": "各都市には異なるPoPロケーションとISPコストがあるため、同じ都市が異なるサーバーグループに表示されます。",
 	"cdn.plan.upgrade.coverage.region.asia": "アジア＆オセアニア",
 	"cdn.plan.upgrade.coverage.region.china": "中国",
 	"cdn.plan.upgrade.coverage.region.emea": "EMEA",
