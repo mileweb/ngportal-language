@@ -1004,6 +1004,7 @@
 	"property.btn.edit.origin": "Editar",
 	"property.btn.remove.origin": "Borrar",
 	"property.btn.view.origin": "Ver",
+	"property.button.compare": "Comparar",
 	"property.button.compare.versions": "Compare Versions",
 	"property.clone.description": "Clonado de la propiedad {propiedad} versión {versión} por {userName}",
 	"property.clone.version.description": "Clonado de la versión {version} por {userName}",

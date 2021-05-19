@@ -1004,6 +1004,7 @@
 	"property.btn.edit.origin": "편집하다",
 	"property.btn.remove.origin": "지우다",
 	"property.btn.view.origin": "전망",
+	"property.button.compare": "비교",
 	"property.button.compare.versions": "Compare Versions",
 	"property.clone.description": "{userName}이 속성 {property} 버전 {version}에서 복제했습니다.",
 	"property.clone.version.description": "{userName}이 {version} 버전에서 복제했습니다.",

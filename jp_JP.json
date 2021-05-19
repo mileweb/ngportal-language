@@ -1004,6 +1004,7 @@
 	"property.btn.edit.origin": "編集",
 	"property.btn.remove.origin": "削除",
 	"property.btn.view.origin": "見る",
+	"property.button.compare": "比較する",
 	"property.button.compare.versions": "Compare Versions",
 	"property.clone.description": "{userName}によってプロパティ{property}バージョン{version}から複製されました",
 	"property.clone.version.description": "{userName}によってバージョン{version}から複製されました",

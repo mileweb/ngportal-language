@@ -1004,6 +1004,7 @@
 	"property.btn.edit.origin": "تصحيح",
 	"property.btn.remove.origin": "حذف",
 	"property.btn.view.origin": "رأي",
+	"property.button.compare": "قارن",
 	"property.button.compare.versions": "Compare Versions",
 	"property.clone.description": "مستنسخ من الخاصية {property} الإصدار {version} بواسطة {userName}",
 	"property.clone.version.description": "مستنسخ من الإصدار {version} بواسطة {userName}",
