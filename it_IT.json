@@ -454,7 +454,7 @@
 	"deploy.standby.add.property.complete.description": "La proprietà \"{name}\" è stata aggiunta all'attività in standby.",
 	"deploy.standby.add.tooltip": "Aggiungi attività",
 	"deploy.standby.additem.already.exist.msg": "Questo {resource} è già stato aggiunto",
-	"deploy.standby.additem.cancel.content": "Tutte le attività aggiunte andranno perse.",
+	"deploy.standby.additem.cancel.content": "Tutte le attività che sono state aggiunte andranno perse.",
 	"deploy.standby.additem.cancel.ok.text": "Sì, annulla",
 	"deploy.standby.additem.cancel.title": "Annullare l'aggiunta di attività?",
 	"deploy.standby.additem.page.title": "Aggiungi attività a {target}",
