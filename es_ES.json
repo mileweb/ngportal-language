@@ -1066,6 +1066,7 @@
 	"property.label.tls.ciphers": "TLS Ciphers",
 	"property.label.tls.maxVersion": "TLS Maximum Version",
 	"property.label.tls.minVersion": "TLS Minimum Version",
+	"property.label.version.description": "Descripción de la versión",
 	"property.label.version.number": "Número de versión",
 	"property.label.videoSeeking.end": "End Parameter",
 	"property.label.videoSeeking.end.placeholder": "Enter a parameter to indicate the ending position",

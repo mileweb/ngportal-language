@@ -1066,6 +1066,7 @@
 	"property.label.tls.ciphers": "TLS暗号",
 	"property.label.tls.maxVersion": "TLS最大バージョン",
 	"property.label.tls.minVersion": "TLS最小バージョン",
+	"property.label.version.description": "バージョンの説明",
 	"property.label.version.number": "バージョンナンバー",
 	"property.label.videoSeeking.end": "終了パラメータ",
 	"property.label.videoSeeking.end.placeholder": "終了位置を示すパラメータを入力してください",

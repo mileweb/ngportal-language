@@ -1066,6 +1066,7 @@
 	"property.label.tls.ciphers": "TLS 加密套件",
 	"property.label.tls.maxVersion": "TLS最高版本",
 	"property.label.tls.minVersion": "TLS最低版本",
+	"property.label.version.description": "版本描述",
 	"property.label.version.number": "版本号",
 	"property.label.videoSeeking.end": "结束参数名",
 	"property.label.videoSeeking.end.placeholder": "输入标识结束位置的参数名",
