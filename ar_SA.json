@@ -454,7 +454,7 @@
 	"deploy.standby.add.property.complete.description": "تمت إضافة الخاصية \"{name}\" إلى مهمة الاستعداد.",
 	"deploy.standby.add.tooltip": "أضف المهام",
 	"deploy.standby.additem.already.exist.msg": "تمت إضافة {resource} بالفعل",
-	"deploy.standby.additem.cancel.content": "ستفقد جميع المهام المضافة.",
+	"deploy.standby.additem.cancel.content": "ستفقد جميع المهام التي تمت إضافتها.",
 	"deploy.standby.additem.cancel.ok.text": "نعم ، إلغاء",
 	"deploy.standby.additem.cancel.title": "هل تريد إلغاء إضافة المهام؟",
 	"deploy.standby.additem.page.title": "إضافة مهام إلى {target}",

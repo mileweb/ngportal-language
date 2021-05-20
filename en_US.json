@@ -454,7 +454,7 @@
 	"deploy.standby.add.property.complete.description": "The property '{name}' has been added to the standby task.",
 	"deploy.standby.add.tooltip": "Add tasks",
 	"deploy.standby.additem.already.exist.msg": "This {resource} has already been added",
-	"deploy.standby.additem.cancel.content": "All tasks added will be lost.",
+	"deploy.standby.additem.cancel.content": "All tasks that have been added will be lost.",
 	"deploy.standby.additem.cancel.ok.text": "Yes, cancel",
 	"deploy.standby.additem.cancel.title": "Cancel adding tasks?",
 	"deploy.standby.additem.page.title": "Add Tasks to {target}",

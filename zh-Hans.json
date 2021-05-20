@@ -454,7 +454,7 @@
 	"deploy.standby.add.property.complete.description": "加速项目'{name}'已添加到待命任务。",
 	"deploy.standby.add.tooltip": "添加任务",
 	"deploy.standby.additem.already.exist.msg": "此{resource}已被添加",
-	"deploy.standby.additem.cancel.content": "添加的所有任务都将丢失。",
+	"deploy.standby.additem.cancel.content": "所有已添加的任务都将丢失。",
 	"deploy.standby.additem.cancel.ok.text": "是的，取消",
 	"deploy.standby.additem.cancel.title": "取消添加任务？",
 	"deploy.standby.additem.page.title": "将任务添加到{target}",
