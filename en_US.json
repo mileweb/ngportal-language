@@ -1101,6 +1101,7 @@
 	"property.tooltip.allow.protocol.downgrade": "To downgrade protocol from HTTPS to HTTP when accessing the origin, and you understand the related security risk, set this to true. ",
 	"property.tooltip.clicktocopy.hostname": "Click to copy",
 	"property.tooltip.copied.hostname": "Copied!",
+	"property.tooltip.edge.logic": "Specify the desired behavior of the edge servers, such as cache policy, header modification, URL rewrite, etc. Read the <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro'>tutorial</a> for details.",
 	"property.unit.origin.keepalive.timeout": "seconds",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",
