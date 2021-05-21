@@ -1101,6 +1101,7 @@
 	"property.tooltip.allow.protocol.downgrade": "Pour rétrograder le protocole de HTTPS à HTTP lors de l'accès à l'origine et que vous comprenez le risque de sécurité associé, définissez-le sur true.",
 	"property.tooltip.clicktocopy.hostname": "Cliquez pour copier",
 	"property.tooltip.copied.hostname": "Copied!",
+	"property.tooltip.edge.logic": "Spécifiez le comportement souhaité des serveurs de périphérie, comme la politique de cache, la modification d'en-tête, la réécriture d'URL, etc. Lisez le <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>Didacticiel</a> pour plus de détails.",
 	"property.unit.origin.keepalive.timeout": "Secondes",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",

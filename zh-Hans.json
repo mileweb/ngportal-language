@@ -1101,6 +1101,7 @@
 	"property.tooltip.allow.protocol.downgrade": "要在访问源站时将协议从HTTPS降级为HTTP，并且您了解相关的安全风险，请将其设置为”是“。",
 	"property.tooltip.clicktocopy.hostname": "点击复制",
 	"property.tooltip.copied.hostname": "已复制!",
+	"property.tooltip.edge.logic": "指定边缘服务器的所需行为，例如高速缓存策略，标头修改，URL重写等。有关详细信息，请阅读<a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>指南</a>。",
 	"property.unit.origin.keepalive.timeout": "秒",
 	"property.version.beian.content.type.option.1": "即时通信",
 	"property.version.beian.content.type.option.10": "网上支付",

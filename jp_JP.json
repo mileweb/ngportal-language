@@ -1101,6 +1101,7 @@
 	"property.tooltip.allow.protocol.downgrade": "オリジンにアクセスするときにプロトコルをHTTPSからHTTPにダウングレードし、関連するセキュリティリスクを理解するには、これをtrueに設定します。",
 	"property.tooltip.clicktocopy.hostname": "クリックしてコピー",
 	"property.tooltip.copied.hostname": "コピーしました！",
+	"property.tooltip.edge.logic": "キャッシュポリシー、ヘッダーの変更、URLの書き換えなど、エッジサーバーの望ましい動作を指定します。詳細については、<a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>チュートリアル</a>をお読みください。",
 	"property.unit.origin.keepalive.timeout": "秒",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",

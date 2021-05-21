@@ -1101,6 +1101,7 @@
 	"property.tooltip.allow.protocol.downgrade": "Per eseguire il downgrade del protocollo da HTTPS a HTTP quando si accede all'origine e si comprende il relativo rischio per la sicurezza, impostarlo su true.",
 	"property.tooltip.clicktocopy.hostname": "Clicca per copiare",
 	"property.tooltip.copied.hostname": "Copied!",
+	"property.tooltip.edge.logic": "Specificare il comportamento desiderato dei server perimetrali, come criteri della cache, modifica dell'intestazione, riscrittura dell'URL, ecc. Leggere il <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>tutorial</a> per i dettagli.",
 	"property.unit.origin.keepalive.timeout": "secondi",
 	"property.version.beian.content.type.option.1": "Instant Messaging",
 	"property.version.beian.content.type.option.10": "Online Payment",
