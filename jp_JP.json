@@ -665,6 +665,7 @@
 	"edit.certificate.deployment.title": "展開",
 	"edit.certificate.version.title": "証明書のバージョン",
 	"edit.contact.profile": "プロファイル編集",
+	"edit.property.deployment.target": "展開ターゲット",
 	"edit.property.deployment.title": "展開",
 	"edit.property.version.title": "プロパティバージョン",
 	"edit.role.page.title": "役割を編集",
