@@ -1001,6 +1001,8 @@
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
+	"property.beian.no.tips": "Please do not CNAME this domain to an edge hostname with Beian. Otherwise requests directed to servers in mainland China will be rejected with status code 451.",
+	"property.beian.yes.tips": "Please CNAME this domain to an edge hostname with Beian to utilize the servers in mainland China.",
 	"property.boolean.label.false": "No",
 	"property.boolean.label.true": "Yes",
 	"property.btn.add.origin": "Add New",

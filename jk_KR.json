@@ -1001,6 +1001,8 @@
 	"products.title.ecp": "ECP ",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
+	"property.beian.no.tips": "Beian을 사용하여이 도메인을 에지 호스트 이름으로 CNAME하지 마십시오. 그렇지 않으면 중국 본토의 서버로 전송 된 요청이 상태 코드 451로 거부됩니다.",
+	"property.beian.yes.tips": "중국 본토의 서버를 활용하려면 Beian을 사용하여이 도메인을 에지 호스트 이름으로 CNAME하십시오.",
 	"property.boolean.label.false": "아니",
 	"property.boolean.label.true": "예",
 	"property.btn.add.origin": "새로운 걸 더하다",

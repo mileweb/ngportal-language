@@ -1001,6 +1001,8 @@
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
+	"property.beian.no.tips": "Si prega di non CNAME questo dominio su un hostname edge con Beian. In caso contrario, le richieste dirette ai server nella Cina continentale verranno rifiutate con codice di stato 451.",
+	"property.beian.yes.tips": "Per favore CNAME questo dominio a un hostname edge con Beian per utilizzare i server nella Cina continentale.",
 	"property.boolean.label.false": "No",
 	"property.boolean.label.true": "sì",
 	"property.btn.add.origin": "Aggiungere nuova",

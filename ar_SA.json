@@ -1001,6 +1001,8 @@
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
+	"property.beian.no.tips": "من فضلك لا تستخدم CNAME هذا المجال باسم مضيف edge مع Beian بخلاف ذلك ، سيتم رفض الطلبات الموجهة إلى الخوادم في الصين القارية برمز الحالة 451.",
+	"property.beian.yes.tips": "يرجى CNAME هذا المجال إلى اسم مضيف حافة مع Beian للاستفادة من الخوادم في الصين القارية.",
 	"property.boolean.label.false": "لا",
 	"property.boolean.label.true": "نعم فعلا",
 	"property.btn.add.origin": "اضف جديد",
