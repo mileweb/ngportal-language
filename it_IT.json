@@ -559,6 +559,8 @@
 	"dpa.changed.text2": "dall'ultima volta che l'hai accettato. Accetta il DPA per continuare.",
 	"dpa.required": "Si prega di leggere e accettare l'addendum sul trattamento dei dati.",
 	"dpa.text": "Addendum sul trattamento dei dati (DPA)",
+	"edgeHostname.beian.no.tips": "Il traffico non verrà indirizzato ai server nella Cina continentale.",
+	"edgeHostname.beian.yes.tips": "Utilizza questo nome host edge solo per i domini con Beian. In caso contrario, le richieste dirette ai server nella Cina continentale verranno rifiutate con codice di stato 451.",
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "Gli ISP client selezionati contengono \"Tutti\" e altri ISP. Seleziona solo \"Tutti\" o scegli altri ISP.",
 	"edgeHostname.client.isp.limit.size": "Scegli fino a 10 ISP.",

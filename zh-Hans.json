@@ -559,6 +559,8 @@
 	"dpa.changed.text2": "自从您最后一次同意。请同意DPA以继续。",
 	"dpa.required": "请阅读并接受数据处理附录。",
 	"dpa.text": "数据处理附录（DPA）",
+	"edgeHostname.beian.no.tips": "流量将不会定向到中国大陆的服务器。",
+	"edgeHostname.beian.yes.tips": "请仅将此边缘主机名用于具有备案的域名。 否则，针对中国大陆服务器的请求将被拒绝，状态码为451。",
 	"edgeHostname.cancel.btn": "取消",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "所选的客户端ISP包含“所有”和其他ISP。请仅选择“全部”或选择其他ISP。",
 	"edgeHostname.client.isp.limit.size": "请最多选择10个ISP。",

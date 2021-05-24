@@ -559,6 +559,8 @@
 	"dpa.changed.text2": "당신이 마지막으로 동의 한 이후로. 계속하려면 DPA에 동의하십시오.",
 	"dpa.required": "데이터 처리 부록을 읽고 동의하십시오.",
 	"dpa.text": "데이터 처리 부록 (DPA)",
+	"edgeHostname.beian.no.tips": "트래픽은 중국 본토의 서버로 전달되지 않습니다.",
+	"edgeHostname.beian.yes.tips": "Beian을 사용하는 도메인에만이 에지 호스트 이름을 사용하십시오. 그렇지 않으면 중국 본토의 서버로 전송 된 요청이 상태 코드 451로 거부됩니다.",
 	"edgeHostname.cancel.btn": "취소",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "선택한 클라이언트 ISP에는 \"모두\"및 기타 ISP가 포함됩니다. \"모두\"만 선택하거나 다른 ISP를 선택하십시오.",
 	"edgeHostname.client.isp.limit.size": "최대 10 개의 ISP를 선택하십시오.",

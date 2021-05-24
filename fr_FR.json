@@ -559,6 +559,8 @@
 	"dpa.changed.text2": "depuis que vous l'avez accepté pour la dernière fois. Veuillez accepter le DPA pour continuer.",
 	"dpa.required": "Veuillez lire et accepter l'addendum sur le traitement des données.",
 	"dpa.text": "Addendum sur le traitement des données (DPA)",
+	"edgeHostname.beian.no.tips": "Le trafic ne sera pas dirigé vers des serveurs en Chine continentale.",
+	"edgeHostname.beian.yes.tips": "Veuillez utiliser ce nom d'hôte périphérique uniquement pour les domaines avec Beian. Sinon, les demandes adressées aux serveurs en Chine continentale seront rejetées avec le code d'état 451.",
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "Les FAI clients sélectionnés contiennent \"Tous\" et d'autres FAI. Veuillez sélectionner \"Tous\" uniquement ou choisissez d'autres FAI.",
 	"edgeHostname.client.isp.limit.size": "Veuillez choisir jusqu'à 10 FAI.",
