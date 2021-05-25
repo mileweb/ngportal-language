@@ -560,7 +560,7 @@
 	"dpa.required": "데이터 처리 부록을 읽고 동의하십시오.",
 	"dpa.text": "데이터 처리 부록 (DPA)",
 	"edgeHostname.beian.no.tips": "트래픽은 중국 본토의 서버로 전달되지 않습니다.",
-	"edgeHostname.beian.yes.tips": "Beian을 사용하는 도메인에만이 에지 호스트 이름을 사용하십시오. 그렇지 않으면 중국 본토의 서버로 전송 된 요청이 상태 코드 451로 거부됩니다.",
+	"edgeHostname.beian.yes.tips": "중국 본토를 포함한 모든 지역의 서버가 사용됩니다. ICP Beian이있는 호스트 이름에만 사용되는지 확인하세요. 그렇지 않으면 중국 본토의 서버에서 상태 코드 451이 반환됩니다.",
 	"edgeHostname.cancel.btn": "취소",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "선택한 클라이언트 ISP에는 \"모두\"및 기타 ISP가 포함됩니다. \"모두\"만 선택하거나 다른 ISP를 선택하십시오.",
 	"edgeHostname.client.isp.limit.size": "최대 10 개의 ISP를 선택하십시오.",

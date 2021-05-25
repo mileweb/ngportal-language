@@ -560,7 +560,7 @@
 	"dpa.required": "Lea y acepte el Anexo sobre procesamiento de datos.",
 	"dpa.text": "Anexo de procesamiento de datos (DPA)",
 	"edgeHostname.beian.no.tips": "El tráfico no se dirigirá a servidores en China continental.",
-	"edgeHostname.beian.yes.tips": "Utilice este nombre de host de borde solo para dominios con Beian. De lo contrario, las solicitudes dirigidas a servidores en China continental serán rechazadas con el código de estado 451.",
+	"edgeHostname.beian.yes.tips": "Se utilizarán servidores en todas las regiones, incluida China continental. Asegúrese de que esto solo se use para nombres de host que tengan ICP Beian; de lo contrario, los servidores en China continental devolverán el código de estado 451.",
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "Los ISP del cliente seleccionados contienen \"Todos\" y otros ISP (s). Seleccione \"Todos\" solamente o elija otro (s) ISP (s).",
 	"edgeHostname.client.isp.limit.size": "Elija hasta 10 ISP.",

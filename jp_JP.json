@@ -560,7 +560,7 @@
 	"dpa.required": "データ処理補遺を読んで同意してください。",
 	"dpa.text": "データ処理補遺（DPA）",
 	"edgeHostname.beian.no.tips": "トラフィックは中国本土のサーバーに転送されません。",
-	"edgeHostname.beian.yes.tips": "このエッジホスト名は、Beianを使用するドメインにのみ使用してください。 それ以外の場合、中国本土のサーバーに送信された要求は、ステータスコード451で拒否されます。",
+	"edgeHostname.beian.yes.tips": "中国本土を含むすべての地域のサーバーが使用されます。 これがICPBeianを持つホスト名にのみ使用されることを確認してください。そうしないと、ステータスコード451が中国本土のサーバーから返されます。",
 	"edgeHostname.cancel.btn": "キャンセル",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "選択したクライアントISPには、「すべて」およびその他のISPが含まれています。 「すべて」のみを選択するか、他のISPを選択してください。",
 	"edgeHostname.client.isp.limit.size": "最大10のISPを選択してください。",
