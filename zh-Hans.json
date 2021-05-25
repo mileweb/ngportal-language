@@ -1002,7 +1002,7 @@
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "并非所有主机名都具有ICP备案。中国大陆的服务器将不提供此加速项目，并且将返回状态码451。使用备案的边缘域名也将设置为“否”，流量将定向到其他区域中的服务器。 单击<a href='https://docs.quantil.com/cdn/docs/edge-logic/faq#china-delivery-and-beian' target='_blank'>这里</a>以获取详细信息。",
-	"property.beian.yes.tips": "请通过备案将此加速项目的域名别名设置为边缘域名，以利用中国大陆的服务器。",
+	"property.beian.yes.tips": "所有主机名均具有ICP备案。使用了备案的边缘域名也会设置为“是”，以使用包括中国大陆在内的所有地区的服务器。 单击<a href='https://docs.quantil.com/cdn/docs/edge-logic/faq#china-delivery-and-beian' target='_blank'>这里</a>以获取详细信息。",
 	"property.boolean.label.false": "否",
 	"property.boolean.label.true": "是",
 	"property.btn.add.origin": "添加新源站",

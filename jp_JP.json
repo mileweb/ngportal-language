@@ -1002,7 +1002,7 @@
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "すべてのホスト名にICPBeianがあるわけではありません。 中国本土のサーバーはこのプロパティを配信せず、ステータスコード451が返されます。 Beianも「いいえ」に設定されたエッジホスト名を使用して、トラフィックを他のリージョンのサーバーに転送します。 詳細については、<a href='https://docs.quantil.com/cdn/docs/edge-logic/faq#china-delivery-and-beian' target='_blank'>ここに</a>をクリックしてください。",
-	"property.beian.yes.tips": "中国本土のサーバーを利用するには、このプロパティのホスト名をBeianのエッジホスト名にCNAMEしてください。",
+	"property.beian.yes.tips": "すべてのホスト名にはICPBeianがあります。 中国本土を含むすべての地域のサーバーを利用するには、Beianも「はい」に設定されたエッジホスト名を使用します。 詳細については、<a href='https://docs.quantil.com/cdn/docs/edge-logic/faq#china-delivery-and-beian' target='_blank'>ここに</a>をクリックしてください。",
 	"property.boolean.label.false": "いいえ",
 	"property.boolean.label.true": "はい",
 	"property.btn.add.origin": "新しく追加する",
