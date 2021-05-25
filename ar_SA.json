@@ -1001,7 +1001,7 @@
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
-	"property.beian.no.tips": "الرجاء عدم CNAME أسماء المضيف لهذه الخاصية إلى اسم مضيف الحافة مع Beian. خلاف ذلك ، سيتم رفض الطلبات الموجهة إلى الخوادم في الصين القارية برمز الحالة 451.",
+	"property.beian.no.tips": "ليست كل أسماء المضيف لها برنامج المقارنات الدولية Beian. لن تقدم الخوادم في الصين القارية هذه الخاصية وسيتم إرجاع رمز الحالة 451. استخدم اسم مضيف حافة مع ضبط Beian أيضًا على \"No\" لتوجيه حركة المرور إلى الخوادم في مناطق أخرى. انقر فوق <a href='https://docs.quantil.com/cdn/docs/edge-logic/faq#china-delivery-and-beian' target='_blank'>هنا</a> للحصول على التفاصيل.",
 	"property.beian.yes.tips": "يرجى CNAME باسم المضيفين لهذه الخاصية إلى اسم مضيف الحافة مع Beian للاستفادة من الخوادم في الصين القارية.",
 	"property.boolean.label.false": "لا",
 	"property.boolean.label.true": "نعم فعلا",

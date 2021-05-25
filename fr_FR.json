@@ -1001,7 +1001,7 @@
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
-	"property.beian.no.tips": "Veuillez ne pas CNAME les noms d'hôte de cette propriété vers un nom d'hôte périphérique avec Beian. Sinon, les demandes adressées aux serveurs en Chine continentale seront rejetées avec le code d'état 451.",
+	"property.beian.no.tips": "Tous les noms d'hôte n'ont pas ICP Beian. Les serveurs en Chine continentale ne fourniront pas cette propriété et le code d'état 451 sera retourné. Utilisez un nom d'hôte Edge avec Beian également défini sur \"Non\" pour diriger le trafic vers les serveurs d'autres régions. Cliquez sur <a href='https://docs.quantil.com/cdn/docs/edge-logic/faq#china-delivery-and-beian' target='_blank'>ici</a> pour plus de détails.",
 	"property.beian.yes.tips": "Veuillez CNAME les noms d'hôte de cette propriété à un nom d'hôte périphérique avec Beian pour utiliser les serveurs en Chine continentale.",
 	"property.boolean.label.false": "Non",
 	"property.boolean.label.true": "Oui",

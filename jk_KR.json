@@ -1001,7 +1001,7 @@
 	"products.title.ecp": "ECP ",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
-	"property.beian.no.tips": "Beian을 사용하여이 속성의 호스트 이름을 에지 호스트 이름으로 CNAME하지 마십시오. 그렇지 않으면 중국 본토의 서버로 전송 된 요청이 상태 코드 451로 거부됩니다.",
+	"property.beian.no.tips": "모든 호스트 이름에 ICP Beian이있는 것은 아닙니다. 중국 본토에있는 서버는이 속성을 제공하지 않으며 상태 코드 451이 반환됩니다. Beian도 \"No\"로 설정된 에지 호스트 이름을 사용하여 트래픽을 다른 지역의 서버로 보냅니다. 자세한 내용을 보려면 <a href='https://docs.quantil.com/cdn/docs/edge-logic/faq#china-delivery-and-beian' target='_blank'>여기</a>를 클릭하십시오.",
 	"property.beian.yes.tips": "중국 본토의 서버를 활용하려면 Beian을 사용하여이 속성의 호스트 이름을 에지 호스트 이름으로 CNAME하십시오.",
 	"property.boolean.label.false": "아니",
 	"property.boolean.label.true": "예",
