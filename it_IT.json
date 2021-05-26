@@ -560,7 +560,7 @@
 	"dpa.required": "Si prega di leggere e accettare l'addendum sul trattamento dei dati.",
 	"dpa.text": "Addendum sul trattamento dei dati (DPA)",
 	"edgeHostname.beian.no.tips": "Il traffico non verrà indirizzato ai server nella Cina continentale.",
-	"edgeHostname.beian.yes.tips": "Verranno utilizzati server in tutte le regioni, inclusa la Cina continentale. Assicurati che sia utilizzato solo per i nomi host che hanno ICP Beian, altrimenti il codice di stato 451 verrà restituito dai server nella Cina continentale.",
+	"edgeHostname.beian.yes.tips": "Verranno utilizzati server in tutte le regioni, inclusa la Cina continentale. Assicurati che sia usato solo per i nomi host che hanno ICP Beian. In caso contrario, le richieste dirette ai server nella Cina continentale verranno rifiutate con il codice di stato 451.",
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "Gli ISP client selezionati contengono \"Tutti\" e altri ISP. Seleziona solo \"Tutti\" o scegli altri ISP.",
 	"edgeHostname.client.isp.limit.size": "Scegli fino a 10 ISP.",
