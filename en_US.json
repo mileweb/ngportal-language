@@ -560,7 +560,7 @@
 	"dpa.required": "Please read and accept the Data Processing Addendum.",
 	"dpa.text": "Data Processing Addendum (DPA)",
 	"edgeHostname.beian.no.tips": "Traffic will not be directed to servers in mainland China.",
-	"edgeHostname.beian.yes.tips": "Servers in all regions including mainland China will be used. Please make sure this is only used for hostnames that have ICP Beian. Otherwise, requests directed to servers in mainland China will be rejected with status code 451.",
+	"edgeHostname.beian.yes.tips": "Servers in all regions including mainland China will be used. Please make sure this is used only for hostnames that have ICP Beian. Otherwise, requests directed to servers in mainland China will be rejected with status code 451.",
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "The selected client ISPs contain \"All\" and other ISP(s). Please select \"All\" only or chose other ISP(s).",
 	"edgeHostname.client.isp.limit.size": "Please choose up to 10 ISPs.",
