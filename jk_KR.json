@@ -1080,7 +1080,7 @@
 	"property.label.videoSeeking.end": "끝 매개 변수",
 	"property.label.videoSeeking.end.placeholder": "종료 위치를 나타내는 매개 변수를 입력하세요",
 	"property.label.videoSeeking.end.tips": "비디오 세그먼트의 끝 위치를 나타내는 URL 매개 변수입니다.",
-	"property.label.videoSeeking.start": "시작 매개 변수",
+	"property.label.videoSeeking.start": "시작 매개 변수 *",
 	"property.label.videoSeeking.start.placeholder": "시작 위치를 나타내는 매개 변수를 입력하세요.",
 	"property.label.videoSeeking.start.tips": "동영상 세그먼트의 시작 위치를 나타내는 URL 매개 변수입니다.",
 	"property.label.videoSeeking.title": "비디오 찾기",
