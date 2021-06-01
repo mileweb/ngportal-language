@@ -468,6 +468,7 @@
 	"deploy.standby.button.title.add": "추가",
 	"deploy.standby.button.title.delete.all": "모두 삭제",
 	"deploy.standby.button.title.delete.one": "삭제",
+	"deploy.standby.button.title.deploy": "배포",
 	"deploy.standby.button.title.no": "아니요",
 	"deploy.standby.button.title.run": "실행",
 	"deploy.standby.button.view.detail": "세부 정보보기",

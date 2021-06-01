@@ -468,6 +468,7 @@
 	"deploy.standby.button.title.add": "添加",
 	"deploy.standby.button.title.delete.all": "删除所有",
 	"deploy.standby.button.title.delete.one": "删除",
+	"deploy.standby.button.title.deploy": "部署",
 	"deploy.standby.button.title.no": "不用了",
 	"deploy.standby.button.title.run": "部署",
 	"deploy.standby.button.view.detail": "查看详情",

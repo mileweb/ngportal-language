@@ -468,6 +468,7 @@
 	"deploy.standby.button.title.add": "Add",
 	"deploy.standby.button.title.delete.all": "Delete all",
 	"deploy.standby.button.title.delete.one": "Delete",
+	"deploy.standby.button.title.deploy": "Deploy",
 	"deploy.standby.button.title.no": "No",
 	"deploy.standby.button.title.run": "Run",
 	"deploy.standby.button.view.detail": "View Details",

@@ -468,6 +468,7 @@
 	"deploy.standby.button.title.add": "إضافة",
 	"deploy.standby.button.title.delete.all": "حذف الكل",
 	"deploy.standby.button.title.delete.one": "حذف",
+	"deploy.standby.button.title.deploy": "نشر",
 	"deploy.standby.button.title.no": "لا",
 	"deploy.standby.button.title.run": "يركض",
 	"deploy.standby.button.view.detail": "عرض التفاصيل",

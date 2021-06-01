@@ -468,6 +468,7 @@
 	"deploy.standby.button.title.add": "追加",
 	"deploy.standby.button.title.delete.all": "すべて削除",
 	"deploy.standby.button.title.delete.one": "削除",
+	"deploy.standby.button.title.deploy": "配置する",
 	"deploy.standby.button.title.no": "いいえ",
 	"deploy.standby.button.title.run": "実行する",
 	"deploy.standby.button.view.detail": "詳細を見る",

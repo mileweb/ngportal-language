@@ -468,6 +468,7 @@
 	"deploy.standby.button.title.add": "Inserisci",
 	"deploy.standby.button.title.delete.all": "Cancella tutto",
 	"deploy.standby.button.title.delete.one": "Elimina",
+	"deploy.standby.button.title.deploy": "schierare",
 	"deploy.standby.button.title.no": "No",
 	"deploy.standby.button.title.run": "Correre",
 	"deploy.standby.button.view.detail": "Visualizza dettagli",
