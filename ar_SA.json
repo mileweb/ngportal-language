@@ -461,6 +461,7 @@
 	"deploy.standby.additem.page.title": "إضافة مهام إلى {target}",
 	"deploy.standby.additem.ref.certificate.confirm.title": "هل تريد إضافة أحدث إصدارات الشهادات إلى مهمة الاستعداد؟",
 	"deploy.standby.additem.ref.certificate.confirm.title.singular": "هل تريد إضافة أحدث إصدار من الشهادة إلى مهمة الاستعداد؟",
+	"deploy.standby.additem.version.required": "الرجاء تحديد إصدار للنشر",
 	"deploy.standby.addtostandby.button.tooltip": "أضف هنا للنشر مع المهام الأخرى مرة واحدة",
 	"deploy.standby.button.hide": "إخفاء",
 	"deploy.standby.button.label.add.to.standby.task": "أضف إلى مهمة الاستعداد",

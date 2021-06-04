@@ -461,6 +461,7 @@
 	"deploy.standby.additem.page.title": " {target}にタスクを追加",
 	"deploy.standby.additem.ref.certificate.confirm.title": "最新バージョンの証明書をスタンバイタスクに追加しますか？",
 	"deploy.standby.additem.ref.certificate.confirm.title.singular": "最新バージョンの証明書をスタンバイタスクに追加しますか？",
+	"deploy.standby.additem.version.required": "デプロイするバージョンを選択してください",
 	"deploy.standby.addtostandby.button.tooltip": "ここに追加して、他のタスクを一度にデプロイします",
 	"deploy.standby.button.hide": "隠す",
 	"deploy.standby.button.label.add.to.standby.task": "スタンバイタスクに追加",

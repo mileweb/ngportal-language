@@ -461,6 +461,7 @@
 	"deploy.standby.additem.page.title": "Aggiungi attività a {target}",
 	"deploy.standby.additem.ref.certificate.confirm.title": "Aggiungere le ultime versioni dei certificati all'attività in standby?",
 	"deploy.standby.additem.ref.certificate.confirm.title.singular": "Aggiungere l'ultima versione del certificato all'attività in standby?",
+	"deploy.standby.additem.version.required": "Seleziona una versione da distribuire",
 	"deploy.standby.addtostandby.button.tooltip": "Aggiungi qui per eseguire il deployment con altre attività contemporaneamente",
 	"deploy.standby.button.hide": "Nascondere",
 	"deploy.standby.button.label.add.to.standby.task": "Aggiungi all'attività in standby",

@@ -461,6 +461,7 @@
 	"deploy.standby.additem.page.title": "Agregar tareas a {target}",
 	"deploy.standby.additem.ref.certificate.confirm.title": "¿Agregar las últimas versiones de certificados a la tarea en espera?",
 	"deploy.standby.additem.ref.certificate.confirm.title.singular": "¿Agregar la última versión del certificado a la tarea en espera?",
+	"deploy.standby.additem.version.required": "Seleccione una versión para implementar",
 	"deploy.standby.addtostandby.button.tooltip": "Agregue aquí para implementar con otras tareas a la vez",
 	"deploy.standby.button.hide": "Esconder",
 	"deploy.standby.button.label.add.to.standby.task": "Agregar a la tarea en espera",

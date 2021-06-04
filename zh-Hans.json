@@ -461,6 +461,7 @@
 	"deploy.standby.additem.page.title": "将任务添加到{target}",
 	"deploy.standby.additem.ref.certificate.confirm.title": "是否将最新版本的证书添加到待命任务？",
 	"deploy.standby.additem.ref.certificate.confirm.title.singular": "将最新版本的证书添加到备用任务？",
+	"deploy.standby.additem.version.required": "请选择要部署的版本",
 	"deploy.standby.addtostandby.button.tooltip": "点击此处添加以立即与其他任务一起部署",
 	"deploy.standby.button.hide": "隐藏",
 	"deploy.standby.button.label.add.to.standby.task": "添加到待命任务",
