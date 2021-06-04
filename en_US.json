@@ -461,6 +461,7 @@
 	"deploy.standby.additem.page.title": "Add Tasks to {target}",
 	"deploy.standby.additem.ref.certificate.confirm.title": "Add the latest versions of certificates to the standby task?",
 	"deploy.standby.additem.ref.certificate.confirm.title.singular": "Add the latest version of certificate to the standby task?",
+	"deploy.standby.additem.version.required": "Please select a version to deploy",
 	"deploy.standby.addtostandby.button.tooltip": "Add here to deploy with other tasks at once",
 	"deploy.standby.button.hide": "Hide",
 	"deploy.standby.button.label.add.to.standby.task": "Add to Standby task",

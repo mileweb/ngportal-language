@@ -461,6 +461,7 @@
 	"deploy.standby.additem.page.title": " {target}에 할 일 추가",
 	"deploy.standby.additem.ref.certificate.confirm.title": "최신 버전의 인증서를 대기 작업에 추가 하시겠습니까?",
 	"deploy.standby.additem.ref.certificate.confirm.title.singular": "대기 작업에 최신 버전의 인증서를 추가 하시겠습니까?",
+	"deploy.standby.additem.version.required": "배포 할 버전을 선택하십시오",
 	"deploy.standby.addtostandby.button.tooltip": "한 번에 다른 작업과 함께 배포하려면 여기에 추가하세요.",
 	"deploy.standby.button.hide": "숨기기",
 	"deploy.standby.button.label.add.to.standby.task": "대기 작업에 추가",
