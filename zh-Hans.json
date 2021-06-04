@@ -556,7 +556,6 @@
 	"dirPurge.header.value.label": "值",
 	"dirPurge.invalid.url.with.wildCard": "带有通配符的无效目录URL。我们在URL的末尾支持3种通配符：'* .ext'匹配目录下具有特定扩展名的文件，'*'匹配所有文件，'**'匹配所有文件和子目录。",
 	"dirPurge.table.noData.placeholder": "需要刷新的目录列表",
-	"dpa.change.agree": "",
 	"dpa.change.agree.cdnetworks": "我同意CDNetworks",
 	"dpa.change.agree.quantil": "我同意Quantil",
 	"dpa.changed.text1": "数据处理附录（DPA）已更改",

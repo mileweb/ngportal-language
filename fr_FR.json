@@ -556,7 +556,6 @@
 	"dirPurge.header.value.label": "Value",
 	"dirPurge.invalid.url.with.wildCard": "URL de répertoire non valide avec un caractère générique. Nous prenons en charge 3 types de caractères génériques à la fin d'une URL: «* .ext» correspond aux fichiers avec une certaine extension dans un répertoire, «*» correspond à tous les fichiers et «**» correspond à tous les fichiers et sous-répertoires.",
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
-	"dpa.change.agree": "",
 	"dpa.change.agree.cdnetworks": "J'accepte les CDNetworks",
 	"dpa.change.agree.quantil": "J'accepte les Quantil",
 	"dpa.changed.text1": "Le Data Processing Addendum (DPA) a changé",

@@ -556,7 +556,6 @@
 	"dirPurge.header.value.label": "Value",
 	"dirPurge.invalid.url.with.wildCard": "URL di directory non valido con carattere jolly. Supportiamo 3 tipi di caratteri jolly alla fine di un URL: \"* .ext\" corrisponde a file con una certa estensione in una directory, \"*\" corrisponde a tutti i file e \"**\" corrisponde a tutti i file e le sottodirectory.",
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
-	"dpa.change.agree": "",
 	"dpa.change.agree.cdnetworks": "Accetto CDNetworks",
 	"dpa.change.agree.quantil": "Accetto Quantil",
 	"dpa.changed.text1": "L'addendum sul trattamento dei dati (DPA) è stato modificato",

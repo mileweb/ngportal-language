@@ -556,7 +556,6 @@
 	"dirPurge.header.value.label": "Value",
 	"dirPurge.invalid.url.with.wildCard": "عنوان URL للدليل غير صالح مع حرف بدل. ندعم ثلاثة أنواع من أحرف البدل في نهاية عنوان URL: يطابق \"* .ext\" الملفات بامتداد معين ضمن دليل ، ويطابق \"*\" جميع الملفات ، ويطابق \"**\" جميع الملفات والأدلة الفرعية.",
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
-	"dpa.change.agree": "",
 	"dpa.change.agree.cdnetworks": "أوافق على CDNetworks",
 	"dpa.change.agree.quantil": "أوافق على Quantil",
 	"dpa.changed.text1": "تم تغيير ملحق معالجة البيانات (DPA)",

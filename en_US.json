@@ -556,7 +556,6 @@
 	"dirPurge.header.value.label": "Value",
 	"dirPurge.invalid.url.with.wildCard": "Invalid directory URL with wildcard. We support 3 types of wildcard at the end of an URL: '*.ext' matches files with certain extension under a directory, '*' matches all files, and '**' matches all files and sub-directories.",
 	"dirPurge.table.noData.placeholder": "List of directories to be purged",
-	"dpa.change.agree": "",
 	"dpa.change.agree.cdnetworks": "I agree to the CDNetworks",
 	"dpa.change.agree.quantil": "I agree to the Quantil",
 	"dpa.changed.text1": "The Data Processing Addendum (DPA) has changed",
