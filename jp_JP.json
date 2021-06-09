@@ -1088,6 +1088,7 @@
 	"property.label.videoSeeking.start.tips": "ビデオセグメントの開始位置を示すURLパラメータ。",
 	"property.label.videoSeeking.title": "ビデオシーク",
 	"property.label.videoSeeking.title.tips": "この機能により、URLパラメータを使用してビデオをシークし、開始位置と終了位置をバイト単位で指定できます。",
+	"property.location.path.invaild": "場所のパスを \"/\" で始めることはできません",
 	"property.manage.baseline.configuration.text": "ベースライン構成の管理",
 	"property.origin.action.addMoreOrigins": "オリジンを追加する",
 	"property.origin.addButton": "保存する",
