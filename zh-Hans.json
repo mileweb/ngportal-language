@@ -277,7 +277,7 @@
 	"certificateUpdate.cloneVersion.error.modal.title": "Clone Error",
 	"certificateVersion.clone.title": "克隆版本",
 	"certificateVersion.create.title": "创建版本",
-	"change.impersonation.btn.text": "更改",
+	"change.impersonation.btn.text": "切换",
 	"checkbox.label.false": "False",
 	"checkbox.label.true": "True",
 	"checkout.billingform.address": "Address",
