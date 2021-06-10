@@ -277,6 +277,7 @@
 	"certificateUpdate.cloneVersion.error.modal.title": "복제 오류 ",
 	"certificateVersion.clone.title": "클론 버전 ",
 	"certificateVersion.create.title": "버전 만들기 ",
+	"change.impersonation.btn.text": "변화",
 	"checkbox.label.false": "그릇된",
 	"checkbox.label.true": "참된",
 	"checkout.billingform.address": "주소",

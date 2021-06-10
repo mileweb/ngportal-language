@@ -277,6 +277,7 @@
 	"certificateUpdate.cloneVersion.error.modal.title": "クローンエラー",
 	"certificateVersion.clone.title": "クローンバージョン",
 	"certificateVersion.create.title": "バージョンを作成",
+	"change.impersonation.btn.text": "変化する",
 	"checkbox.label.false": "FALSE",
 	"checkbox.label.true": "TRUE",
 	"checkout.billingform.address": "住所",
