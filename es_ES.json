@@ -277,6 +277,7 @@
 	"certificateUpdate.cloneVersion.error.modal.title": "Clone Error",
 	"certificateVersion.clone.title": "Clone Version",
 	"certificateVersion.create.title": "Create Version",
+	"change.impersonation.btn.text": "cambio",
 	"checkbox.label.false": "False",
 	"checkbox.label.true": "True",
 	"checkout.billingform.address": "Dirección",
