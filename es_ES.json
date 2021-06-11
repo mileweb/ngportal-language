@@ -1149,6 +1149,7 @@
 	"property.version.beian.content.type.placeholder": "Select a Beian content type",
 	"property.videoSeeking.end.invalid": "El parámetro final debe comenzar con una letra y solo puede incluir a-z, A-Z, 0-9.",
 	"property.videoSeeking.end.length": "El parámetro final debe tener como máximo 31 caracteres.",
+	"property.videoSeeking.inequal": "El parámetro de inicio y el parámetro de fin no pueden ser iguales.",
 	"property.videoSeeking.start.invalid": "El parámetro de inicio debe comenzar con una letra y solo puede incluir a-z, A-Z, 0-9.",
 	"property.videoSeeking.start.length": "El parámetro de inicio debe tener como máximo 31 caracteres.",
 	"propertyCreate.modal.validate.version.confirm.content": "Esta versión de propiedad se validó por última vez con la versión del servidor '{lastValidatedServerVersion}'. ¿Quieres volver a validarlo?",
