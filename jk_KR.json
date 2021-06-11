@@ -890,6 +890,7 @@
 	"impersonation.error.text": "가장하는 동안 오류가 발생했습니다. 다시 시도하십시오! ",
 	"impersonation.text": "다음으로 가장하고 있습니다.",
 	"impersonation.title": "명의 도용 정보",
+	"impersonation.tooltip.text": "가장",
 	"info.add.origin": "마법사를 사용하려면 하나 이상의 원점을 추가하십시오. ",
 	"info.add.two.versions": "비교할 속성에서 두 가지 버전을 선택하십시오. ",
 	"input.select.placeholder": "고르다",
