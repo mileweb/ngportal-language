@@ -890,6 +890,7 @@
 	"impersonation.error.text": "An error occurred while impersonating. Please try again!",
 	"impersonation.text": "Te estás haciendo pasar por",
 	"impersonation.title": "Información de suplantación de identidad",
+	"impersonation.tooltip.text": "Personificar",
 	"info.add.origin": "Please add at least one origin to use the wizard.",
 	"info.add.two.versions": "Please select two versions of the property to compare.",
 	"input.select.placeholder": "Select",

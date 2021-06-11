@@ -890,6 +890,7 @@
 	"impersonation.error.text": "身份切换时发生错误，请重试！",
 	"impersonation.text": "你在冒充",
 	"impersonation.title": "假冒信息",
+	"impersonation.tooltip.text": "模仿",
 	"info.add.origin": "请添加至少一个源站以使用向导。",
 	"info.add.two.versions": "请选择两个不同的版本进行比较。",
 	"input.select.placeholder": "选择",
