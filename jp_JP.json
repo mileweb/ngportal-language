@@ -890,6 +890,7 @@
 	"impersonation.error.text": "なりすまし中にエラーが発生しました。もう一度やり直してください！",
 	"impersonation.text": "あなたはなりすましている",
 	"impersonation.title": "なりすまし情報",
+	"impersonation.tooltip.text": "偽装",
 	"info.add.origin": "ウィザードを使用するには、少なくとも1つのオリジンを追加してください。",
 	"info.add.two.versions": "プロパティから2つのバージョンを選択して比較してください。",
 	"input.select.placeholder": "選択する",
