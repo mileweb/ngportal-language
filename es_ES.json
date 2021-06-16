@@ -995,7 +995,7 @@
 	"placeholder.property.cache.key": "Enter a hostname to use instead of the incoming Host header value.",
 	"placeholder.property.cipher": "Please refer to https://www.openssl.org/docs/man1.1.1/man1/ciphers.html",
 	"placeholder.property.desc": "What does this property do? Add a description.",
-	"placeholder.property.hostname": "Enter one or more hostnames.",
+	"placeholder.property.hostname": "Ingrese uno o más nombres de host para acelerar.",
 	"placeholder.property.loadbalancer.hashkey": "Enter a load balancer hash key.",
 	"placeholder.property.name": "Enter a name for your property.",
 	"placeholder.property.origin.list": "No origins have been set.",

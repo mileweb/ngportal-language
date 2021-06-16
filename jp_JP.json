@@ -995,7 +995,7 @@
 	"placeholder.property.cache.key": "着信Hostヘッダー値の代わりに使用するホスト名を入力します。",
 	"placeholder.property.cipher": "https://www.openssl.org/docs/man1.1.1/man1/ciphers.htmlを参照してください",
 	"placeholder.property.desc": "このプロパティは何をしますか？説明を追加。",
-	"placeholder.property.hostname": "1つ以上のホスト名を入力します。",
+	"placeholder.property.hostname": "加速する1つ以上のホスト名を入力します。",
 	"placeholder.property.loadbalancer.hashkey": "Enter a load balancer hash key.",
 	"placeholder.property.name": "プロパティの名前を入力します。",
 	"placeholder.property.origin.list": "原点は設定されていません。",

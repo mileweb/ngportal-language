@@ -995,7 +995,7 @@
 	"placeholder.property.cache.key": "输入要在Cache Key里使用的主机名。默认将使用传入的Host请求头。",
 	"placeholder.property.cipher": "请参考https://www.openssl.org/docs/man1.1.1/man1/ciphers.html",
 	"placeholder.property.desc": "增加一个说明描述此加速项目的用途",
-	"placeholder.property.hostname": "输入一个或多个主机名。",
+	"placeholder.property.hostname": "输入一个或多个需要加速的域名。",
 	"placeholder.property.loadbalancer.hashkey": "输入负载均衡器hash key。",
 	"placeholder.property.name": "输入此加速项目的名称。",
 	"placeholder.property.origin.list": "尚未设置源站。",

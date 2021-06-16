@@ -995,7 +995,7 @@
 	"placeholder.property.cache.key": "수신 호스트 헤더 값 대신 사용할 호스트 이름을 입력하십시오. ",
 	"placeholder.property.cipher": "https://www.openssl.org/docs/man1.1.1/man1/ciphers.html을 참조하십시오",
 	"placeholder.property.desc": "이 속성은 무엇을합니까? 설명을 추가하십시오. ",
-	"placeholder.property.hostname": "하나 이상의 호스트 이름을 입력하십시오. ",
+	"placeholder.property.hostname": "가속화 할 호스트 이름을 하나 이상 입력하십시오.",
 	"placeholder.property.loadbalancer.hashkey": "Enter a load balancer hash key.",
 	"placeholder.property.name": "속성 이름을 입력하십시오. ",
 	"placeholder.property.origin.list": "원점이 설정되지 않았습니다. ",
