@@ -55,6 +55,7 @@
 	"button.text.previous": "이전",
 	"button.title.next": "다음",
 	"button.upgrade.title": "업그레이드",
+	"cache.setting.location.path": "위치 경로 *",
 	"cache.setting.notification.text": "계속을 클릭하면 'Edge Logic'이 자동 생성 된 코드로 바뀝니다. ",
 	"cache.setting.notification.title": "에지 로직 교체 ",
 	"cache.setting.origin.select": "원점 * ",

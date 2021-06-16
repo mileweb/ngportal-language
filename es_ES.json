@@ -55,6 +55,7 @@
 	"button.text.previous": "Previous",
 	"button.title.next": "Next",
 	"button.upgrade.title": "Mejorar",
+	"cache.setting.location.path": "Ruta de ubicación *",
 	"cache.setting.notification.text": "Tenga en cuenta que al hacer clic en \"continuar\", Edge Logic se reemplazará con el código generado automáticamente.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",
