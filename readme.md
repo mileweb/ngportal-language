@@ -2,6 +2,7 @@
 This repository is the [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) of 
 [NG Portal](https://github.com/mileweb/ngportal) implementing i18n in portal UI. 
 ## Documents:  
+We need to make sure the main keywords are translated consistently according to this table:
 * [i18n Proper Noun Lookup Table](https://docs.google.com/spreadsheets/d/1068zI3pqrDOeNGgDbvH6bWBMIQQ834xI_u7iVwmReiM/edit#gid=0)
 ## Naming Convention
 * ar_SA.json: Arabic (Saudi Arabia)
@@ -11,6 +12,7 @@ This repository is the [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-
 * it_IT.json: Italian (Italy)
 * jk_KR.json: Korean (Korea)
 * jp_JP.json: Japanese (Japan)
+* ru_RU.json: Russian (Russia)
 * zh-Hans.json: Simplified Chinese (China)
 ## How It Works
 NG portal used [React Intl](https://www.npmjs.com/package/react-intl) to support internationalization by loading
