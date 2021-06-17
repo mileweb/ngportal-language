@@ -1231,7 +1231,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "Agregar un archivo para purgar",
 	"purge.file.section.title2": "Add a file purge header:",
-	"purge.file.section.tooltip": "Introduzca la URL completa del archivo que se va a depurar.",
+	"purge.file.section.tooltip": "Ingrese la URL completa del archivo que se va a depurar. Si el archivo tiene varias variaciones debido a la clave de caché personalizada, debe utilizar el tipo de purga \"Directorio\".",
 	"purge.header.section.title": " Select an environment and action.",
 	"purge.item.list.column.header.name": "Header Name",
 	"purge.item.list.column.header.value": "Header Value",

@@ -1231,7 +1231,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "パージするファイルを追加します",
 	"purge.file.section.title2": "ファイル削除ヘッダーを追加します。",
-	"purge.file.section.tooltip": "削除するファイルの完全なURLを入力してください。",
+	"purge.file.section.tooltip": "削除するファイルの完全なURLを入力してください。カスタマイズされたキャッシュキーのためにファイルに複数のバリエーションがある場合は、「ディレクトリ」パージタイプを使用する必要があります。",
 	"purge.header.section.title": " 環境とアクションを選択します。",
 	"purge.item.list.column.header.name": "ヘッダー名",
 	"purge.item.list.column.header.value": "ヘッダー値",

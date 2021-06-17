@@ -1231,7 +1231,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "Ajouter un fichier à purger",
 	"purge.file.section.title2": "Add a file purge header:",
-	"purge.file.section.tooltip": "Veuillez saisir l'URL complète du fichier à purger.",
+	"purge.file.section.tooltip": "Veuillez saisir l'URL complète du fichier à purger. Si le fichier présente plusieurs variantes en raison d'une clé de cache personnalisée, vous devez utiliser le type de purge \"Répertoire\".",
 	"purge.header.section.title": " Select an environment and action.",
 	"purge.item.list.column.header.name": "Header Name",
 	"purge.item.list.column.header.value": "Header Value",
