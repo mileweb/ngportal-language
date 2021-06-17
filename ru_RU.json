@@ -55,6 +55,7 @@
 	"button.text.previous": "Previous",
 	"button.title.next": "Next",
 	"button.upgrade.title": "Upgrade",
+	"cache.setting.location.path": "Путь к локации *",
 	"cache.setting.notification.text": "Please note that by clicking “Continue”, the Edge Logic will be replaced with auto-generated code.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",

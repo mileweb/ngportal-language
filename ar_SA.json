@@ -55,6 +55,7 @@
 	"button.text.previous": "Previous",
 	"button.title.next": "Next",
 	"button.upgrade.title": "تطوير",
+	"cache.setting.location.path": "مسار الموقع *",
 	"cache.setting.notification.text": "يرجى ملاحظة أنه بالنقر فوق \"متابعة\" ، سيتم استبدال Edge Logic برمز تم إنشاؤه تلقائيًا.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",
