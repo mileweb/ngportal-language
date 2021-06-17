@@ -1231,7 +1231,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "Aggiungi un file da eliminare",
 	"purge.file.section.title2": "Add a file purge header:",
-	"purge.file.section.tooltip": "Inserisci l'URL completo del file da eliminare. Se il file presenta più varianti a causa della chiave cache personalizzata, è necessario utilizzare il tipo di eliminazione \"Directory\".",
+	"purge.file.section.tooltip": "Inserisci l'URL completo del file da eliminare. Se il file presenta più varianti a causa di una chiave cache personalizzata, scegli il tipo di eliminazione \"Directory\".",
 	"purge.header.section.title": " Select an environment and action.",
 	"purge.item.list.column.header.name": "Header Name",
 	"purge.item.list.column.header.value": "Header Value",

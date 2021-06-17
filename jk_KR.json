@@ -1231,7 +1231,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "제거 할 파일 추가",
 	"purge.file.section.title2": "파일 제거 헤더 추가 : ",
-	"purge.file.section.tooltip": "제거 할 파일의 전체 URL을 입력하십시오. 사용자 정의 된 캐시 키로 인해 파일에 여러 변형이있는 경우 \"디렉토리\"제거 유형을 사용해야합니다.",
+	"purge.file.section.tooltip": "제거 할 파일의 전체 URL을 입력하십시오. 사용자 정의 캐시 키로 인해 파일에 여러 변형이있는 경우 \"디렉터리\"제거 유형을 선택합니다.",
 	"purge.header.section.title": "?환경과 행동을 선택하십시오. ",
 	"purge.item.list.column.header.name": "헤더 이름 ",
 	"purge.item.list.column.header.value": "헤더 값 ",
