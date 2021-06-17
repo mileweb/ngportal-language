@@ -1457,7 +1457,7 @@
 	"secret.create.success.modal.title": "Segreto creato!",
 	"secret.create.title": "Crea un segreto",
 	"secret.delete.confirm.button": "Sì, cancella",
-	"secret.delete.modalText": "Questo segreto non sarà disponibile per le nuove versioni di proprietà.<br>Qualsiasi versione della proprietà che fa ancora riferimento a questo segreto non passerà la convalida a meno che il segreto non venga rimosso da esso.\nAnche se la versione della proprietà è stata convalidata in precedenza, non può essere distribuita.",
+	"secret.delete.modalText": "Questo segreto non sarà disponibile per le nuove versioni di proprietà.<br>Qualsiasi versione della proprietà che fa ancora riferimento a questo segreto non passerà la convalida a meno che il segreto non venga rimosso da esso.<br>Anche se la versione della proprietà è stata convalidata in precedenza, non può essere distribuita.",
 	"secret.delete.title": "Eliminare questo segreto?",
 	"secret.description.placeholder": "Cosa fa questo segreto? Aggiungi una descrizione",
 	"secret.detail.title": "SEGRETO",

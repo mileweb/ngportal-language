@@ -1457,7 +1457,7 @@
 	"secret.create.success.modal.title": "Secret créé !",
 	"secret.create.title": "Créer un secret",
 	"secret.delete.confirm.button": "Oui, supprimer",
-	"secret.delete.modalText": "Ce secret ne sera pas disponible pour les nouvelles versions de propriété.<br>Toute version de propriété faisant encore référence à ce secret ne passera pas la validation à moins que le secret ne lui soit supprimé.\nMême si la version de la propriété a été validée auparavant, elle ne peut pas être déployée.",
+	"secret.delete.modalText": "Ce secret ne sera pas disponible pour les nouvelles versions de propriété.<br>Toute version de propriété faisant encore référence à ce secret ne passera pas la validation à moins que le secret ne lui soit supprimé.<br>Même si la version de la propriété a été validée auparavant, elle ne peut pas être déployée.",
 	"secret.delete.title": "Supprimer ce secret ?",
 	"secret.description.placeholder": "A quoi sert ce secret ? ajouter une description",
 	"secret.detail.title": "Secret",

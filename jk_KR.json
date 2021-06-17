@@ -1457,7 +1457,7 @@
 	"secret.create.success.modal.title": "비밀이 만들어졌습니다!",
 	"secret.create.title": "비밀 만들기",
 	"secret.delete.confirm.button": "예, 삭제하십시오.",
-	"secret.delete.modalText": "이 비밀은 새 속성 버전에 사용할 수 없습니다.<br>이 비밀을 참조하는 속성 버전은 비밀이 제거되지 않는 한 유효성 검사를 통과하지 못합니다.\n속성 버전이 이전에 확인 되었더라도 배포 할 수 없습니다.",
+	"secret.delete.modalText": "이 비밀은 새 속성 버전에 사용할 수 없습니다.<br>이 비밀을 참조하는 속성 버전은 비밀이 제거되지 않는 한 유효성 검사를 통과하지 못합니다.<br>속성 버전이 이전에 확인 되었더라도 배포 할 수 없습니다.",
 	"secret.delete.title": "이 비밀을 삭제 하시겠습니까?",
 	"secret.description.placeholder": "이 비밀은 무엇을합니까? 설명 추가",
 	"secret.detail.title": "비밀",

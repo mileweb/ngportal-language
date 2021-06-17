@@ -1457,7 +1457,7 @@
 	"secret.create.success.modal.title": "Secret Created!",
 	"secret.create.title": "Create a Secret",
 	"secret.delete.confirm.button": "Yes, delete",
-	"secret.delete.modalText": "This secret will not be available for any new property versions.<br>Any property version still referring to this secret will not pass validation unless the secret is removed from it.\nEven if the property version was validated before, it can’t be deployed.",
+	"secret.delete.modalText": "This secret will not be available for any new property versions.<br>Any property version still referring to this secret will not pass validation unless the secret is removed from it.<br>Even if the property version was validated before, it can’t be deployed.",
 	"secret.delete.title": "Delete this Secret?",
 	"secret.description.placeholder": "Purpose of the secret? Add a description",
 	"secret.detail.title": "Secret",

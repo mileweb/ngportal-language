@@ -1457,7 +1457,7 @@
 	"secret.create.success.modal.title": "シークレット作成！",
 	"secret.create.title": "シークレットを作成する",
 	"secret.delete.confirm.button": "はい、削除します",
-	"secret.delete.modalText": "このシークレットは、新しいプロパティバージョンでは使用できません。<br>このシークレットをまだ参照しているプロパティバージョンは、シークレットが削除されない限り、検証に合格しません。\nプロパティのバージョンが以前に検証されていても、デプロイすることはできません。",
+	"secret.delete.modalText": "このシークレットは、新しいプロパティバージョンでは使用できません。<br>このシークレットをまだ参照しているプロパティバージョンは、シークレットが削除されない限り、検証に合格しません。<br>プロパティのバージョンが以前に検証されていても、デプロイすることはできません。",
 	"secret.delete.title": "この秘密を削除しますか？",
 	"secret.description.placeholder": "このSecretは何をしますか？説明を追加",
 	"secret.detail.title": "秘密の",

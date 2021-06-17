@@ -1457,7 +1457,7 @@
 	"secret.create.success.modal.title": "Secret Created!",
 	"secret.create.title": "Create a Secret",
 	"secret.delete.confirm.button": "Да, удалить",
-	"secret.delete.modalText": "Этот секрет не будет доступен ни для каких новых версий собственности.<br>Любая версия свойства, все еще относящаяся к этому секрету, не пройдет проверку, если секрет не будет удален из нее.\nДаже если версия свойства была проверена ранее, ее нельзя развернуть.",
+	"secret.delete.modalText": "Этот секрет не будет доступен ни для каких новых версий собственности.<br>Любая версия свойства, все еще относящаяся к этому секрету, не пройдет проверку, если секрет не будет удален из нее.<br>Даже если версия свойства была проверена ранее, ее нельзя развернуть.",
 	"secret.delete.title": "Удалить этот секрет?",
 	"secret.description.placeholder": "Purpose of the secret? Add a description",
 	"secret.detail.title": "Secret",

@@ -1457,7 +1457,7 @@
 	"secret.create.success.modal.title": "保密信息创造成功！",
 	"secret.create.title": "创建一个保密信息",
 	"secret.delete.confirm.button": "是的，删除",
-	"secret.delete.modalText": "此保密信息将不适用于任何新的加速项版本。<br>任何仍然引用此保密信息的加速项版本都不会通过验证，除非从其中删除保密信息。\n即使之前验证了加速项版本，也无法部署。",
+	"secret.delete.modalText": "此保密信息将不适用于任何新的加速项版本。<br>任何仍然引用此保密信息的加速项版本都不会通过验证，除非从其中删除保密信息<br>\n即使之前验证了加速项版本，也无法部署。",
 	"secret.delete.title": "删除此保密信息？",
 	"secret.description.placeholder": "此保密信息有什么作用？增加一个说明",
 	"secret.detail.title": "保密信息",
