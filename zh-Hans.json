@@ -1088,7 +1088,7 @@
 	"property.label.videoSeeking.end.tips": "此URL参数用于标识视频片段的结束位置。",
 	"property.label.videoSeeking.start": "起始参数名 *",
 	"property.label.videoSeeking.start.placeholder": "输入标识起始位置的参数名",
-	"property.label.videoSeeking.start.tips": "此功能可以启用URL参数进行视频拖拉。参数以字节为单位指定开始和结束位置。",
+	"property.label.videoSeeking.start.tips": "此URL参数用于标识视频拖拉的起始位置。",
 	"property.label.videoSeeking.title": "视频拖拉",
 	"property.label.videoSeeking.title.tips": "此功能可以启用URL参数进行视频拖拉。参数以字节为单位指定开始和结束位置。",
 	"property.location.path.invaild": "路径不能以“/”开头",
