@@ -416,7 +416,7 @@
 	"customer.impersonation.column.status": "状態",
 	"customer.impersonation.column.type": "タイプ",
 	"customer.impersonation.list": "Customer Impersonation",
-	"customer.impersonation.page.sub.title": "You can perform some operations on behalf of your customers, please select a customer that you want to impersonate.",
+	"customer.impersonation.page.sub.title": "顧客に代わっていくつかの操作を実行できます。 なりすましをしたい顧客を選択してください。",
 	"customer.impersonation.page.title": "Customers",
 	"customer.impersonation.search.placeholder": "Enter a customer ID or name",
 	"customer.list": "顧客リスト",

@@ -416,7 +416,7 @@
 	"customer.impersonation.column.status": "状态",
 	"customer.impersonation.column.type": "类型",
 	"customer.impersonation.list": "客户身份切换",
-	"customer.impersonation.page.sub.title": "您可以切换成客户身份执行一些操作，请选择要切换的客户。",
+	"customer.impersonation.page.sub.title": "您可以切换成客户身份执行一些操作。请选择要切换的客户。",
 	"customer.impersonation.page.title": "客户",
 	"customer.impersonation.search.placeholder": "Enter a customer ID or name",
 	"customer.list": "客户列表",
