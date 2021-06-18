@@ -1399,7 +1399,7 @@
 	"reportQuery.page.title.type.fastVol": "Fast Route Traffic Volume Chart",
 	"reportQuery.page.title.type.flow": "Edge vs Origin Traffic Volume Chart",
 	"reportQuery.page.title.type.hit": "Edge vs Origin Requests Chart",
-	"reportQuery.page.title.type.originStatusDetails": "",
+	"reportQuery.page.title.type.originStatusDetails": "Origin Status Code Details Chart",
 	"reportQuery.page.title.type.statusDetails": "Status Code Details Chart",
 	"reportQuery.page.title.type.volSummary": "Edge Traffic Volume Summary Chart",
 	"reportQuery.page.validation.dateRangeEndAfterStart": "The end date must be after start date.",
