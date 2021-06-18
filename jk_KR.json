@@ -416,7 +416,7 @@
 	"customer.impersonation.column.status": "지위",
 	"customer.impersonation.column.type": "유형",
 	"customer.impersonation.list": "Customer Impersonation",
-	"customer.impersonation.page.sub.title": "You can perform some operations on behalf of your customers, please select a customer that you want to impersonate.",
+	"customer.impersonation.page.sub.title": "고객을 대신하여 일부 작업을 수행 할 수 있습니다. 가장 할 고객을 선택하십시오.",
 	"customer.impersonation.page.title": "Customers",
 	"customer.impersonation.search.placeholder": "Enter a customer ID or name",
 	"customer.list": "고객 목록 ",
