@@ -1086,7 +1086,7 @@
 	"property.label.videoSeeking.end": "结束参数名",
 	"property.label.videoSeeking.end.placeholder": "输入标识结束位置的参数名",
 	"property.label.videoSeeking.end.tips": "此URL参数用于标识视频片段的结束位置。",
-	"property.label.videoSeeking.start": "起始参数名 *",
+	"property.label.videoSeeking.start": "起始参数名",
 	"property.label.videoSeeking.start.placeholder": "输入标识起始位置的参数名",
 	"property.label.videoSeeking.start.tips": "此URL参数用于标识视频拖拉的起始位置。",
 	"property.label.videoSeeking.title": "视频拖拉",

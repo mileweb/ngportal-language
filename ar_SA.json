@@ -1086,7 +1086,7 @@
 	"property.label.videoSeeking.end": "End Parameter",
 	"property.label.videoSeeking.end.placeholder": "Enter a parameter to indicate the ending position",
 	"property.label.videoSeeking.end.tips": "The URL parameter indicating the ending position of a video segment.",
-	"property.label.videoSeeking.start": "بدء المعلمة *",
+	"property.label.videoSeeking.start": "بدء المعلمة",
 	"property.label.videoSeeking.start.placeholder": "Enter a parameter to indicate the starting position",
 	"property.label.videoSeeking.start.tips": "The URL parameter indicating the beginning position of a video segment.",
 	"property.label.videoSeeking.title": "Video Seeking",

@@ -1086,7 +1086,7 @@
 	"property.label.videoSeeking.end": "終了パラメータ",
 	"property.label.videoSeeking.end.placeholder": "終了位置を示すパラメータを入力してください",
 	"property.label.videoSeeking.end.tips": "ビデオセグメントの終了位置を示すURLパラメータ。",
-	"property.label.videoSeeking.start": "開始パラメータ *",
+	"property.label.videoSeeking.start": "開始パラメータ",
 	"property.label.videoSeeking.start.placeholder": "開始位置を示すパラメータを入力します",
 	"property.label.videoSeeking.start.tips": "ビデオセグメントの開始位置を示すURLパラメータ。",
 	"property.label.videoSeeking.title": "ビデオシーク",
