@@ -593,7 +593,7 @@
 	"edgeHostname.create.success.modal.content": "边缘域名已被成功创建。",
 	"edgeHostname.create.success.modal.title": "边缘域名已创建！",
 	"edgeHostname.create.title": "创建边缘域名",
-	"edgeHostname.delete.retry.confirm.content": "边缘域名名仍在使用中。",
+	"edgeHostname.delete.retry.confirm.content": "此边缘域名名仍在使用中。",
 	"edgeHostname.delete.retry.confirm.title": "您确定要删除它吗？",
 	"edgeHostname.description.placeholder": "添加有关此边缘域名的描述。",
 	"edgeHostname.edit.btn": "修改",
