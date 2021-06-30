@@ -56,6 +56,7 @@
 	"button.title.next": "Next",
 	"button.upgrade.title": "aggiornamento",
 	"cache.setting.location.path": "Percorso posizione *",
+	"cache.setting.location.tooltip": "Questa procedura guidata supporta solo posizioni corrispondenti per prefisso URI. È possibile modificare direttamente Edge Logic per utilizzare metodi di corrispondenza più avanzati come l'espressione regolare. Fare clic su <a href='{href}' target='_blank'>Qui</a> per i dettagli.",
 	"cache.setting.notification.text": "Si noti che facendo clic su \"continua\", Edge Logic verrà sostituito con il codice generato automaticamente.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",

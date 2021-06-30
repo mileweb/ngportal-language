@@ -56,6 +56,7 @@
 	"button.title.next": "Next",
 	"button.upgrade.title": "Améliorer",
 	"cache.setting.location.path": "Chemin d'accès *",
+	"cache.setting.location.tooltip": "Cet assistant prend uniquement en charge les emplacements correspondants par préfixe URI. Vous pouvez modifier directement Edge Logic pour utiliser des méthodes de correspondance plus avancées telles que l'expression régulière. Cliquez sur <a href='{href}' target='_blank'>ici</a> pour plus de détails.",
 	"cache.setting.notification.text": "Veuillez noter qu'en cliquant sur «continuer», Edge Logic sera remplacé par du code généré automatiquement.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",

@@ -56,6 +56,7 @@
 	"button.title.next": "Next",
 	"button.upgrade.title": "Upgrade",
 	"cache.setting.location.path": "Location Path *",
+	"cache.setting.location.tooltip": "This wizard only supports matching locations by URI prefix. You can edit the Edge Logic directly to use more advanced matching methods such as regular expression. Click <a href='{href}' target='_blank'>here</a> for details.",
 	"cache.setting.notification.text": "Please note that by clicking “Continue”, the Edge Logic will be replaced with auto-generated code.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",

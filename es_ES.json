@@ -56,6 +56,7 @@
 	"button.title.next": "Next",
 	"button.upgrade.title": "Mejorar",
 	"cache.setting.location.path": "Ruta de ubicación *",
+	"cache.setting.location.tooltip": "Este asistente solo admite ubicaciones coincidentes por prefijo URI. Puede editar Edge Logic directamente para utilizar métodos de coincidencia más avanzados, como la expresión regular. Haga clic en <a href='{href}' target='_blank'>aquí</a> para obtener más detalles.",
 	"cache.setting.notification.text": "Tenga en cuenta que al hacer clic en \"continuar\", Edge Logic se reemplazará con el código generado automáticamente.",
 	"cache.setting.notification.title": "Replace Edge Logic",
 	"cache.setting.origin.select": "Origin *",
