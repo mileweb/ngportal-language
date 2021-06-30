@@ -1617,7 +1617,7 @@
 	"stop.impersonation.error.text": "가장을 중지하는 동안 오류가 발생했습니다. 다시 시도하십시오! ",
 	"stop.impersonation.text.line1": " {customerName}명의를 도용하고 있습니다.",
 	"stop.impersonation.text.line2": "중지 하시겠습니까?",
-	"sub.text.additional.location": "추가 위치에 대한 캐시 동작을 설정하십시오. ",
+	"sub.text.additional.location": "추가 위치에 대한 캐시 동작을 설정하십시오",
 	"suffix.label.enforce.cache.time": "원점에서 캐시 제어 헤더를 무시하십시오. ",
 	"task.deploy.certificate.version.name": "{userName}의 인증서 '{certificateName}'버전 {version} 배포",
 	"task.deploy.property.version.name": "{userName}에 의해 '{propertyName}'속성의 {versionId} 버전 배포",

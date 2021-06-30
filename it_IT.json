@@ -1617,7 +1617,7 @@
 	"stop.impersonation.error.text": "An error occurred while stopping impersonation. Please try again!",
 	"stop.impersonation.text.line1": "Stai impersonando {customerName}",
 	"stop.impersonation.text.line2": "Vorresti fermarti?",
-	"sub.text.additional.location": "Set the cache behavior for additional locations.",
+	"sub.text.additional.location": "Imposta il comportamento della cache per posizioni aggiuntive",
 	"suffix.label.enforce.cache.time": "Ignore the cache control headers from the origin.",
 	"task.deploy.certificate.version.name": "Distribuisci la versione {version} del certificato '{certificateName}' di {userName}",
 	"task.deploy.property.version.name": "Distribuisci la versione {versionId} della proprietà ‘{propertyName}’ di {userName}",

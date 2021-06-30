@@ -1617,7 +1617,7 @@
 	"stop.impersonation.error.text": "An error occurred while stopping impersonation. Please try again!",
 	"stop.impersonation.text.line1": "أنت تنتحل شخصية {customerName}",
 	"stop.impersonation.text.line2": "هل تود التوقف؟",
-	"sub.text.additional.location": "Set the cache behavior for additional locations.",
+	"sub.text.additional.location": "اضبط سلوك ذاكرة التخزين المؤقت لمواقع إضافية",
 	"suffix.label.enforce.cache.time": "Ignore the cache control headers from the origin.",
 	"task.deploy.certificate.version.name": "نشر الإصدار {version} من الشهادة '{CertificateName}' بواسطة {userName}",
 	"task.deploy.property.version.name": "نشر الإصدار {versionId} للخاصية '{propertyName}' بواسطة {userName}",

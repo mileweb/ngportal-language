@@ -1617,7 +1617,7 @@
 	"stop.impersonation.error.text": "An error occurred while stopping impersonation. Please try again!",
 	"stop.impersonation.text.line1": "You are impersonating {customerName}",
 	"stop.impersonation.text.line2": "Would you like to stop?",
-	"sub.text.additional.location": "Set the cache behavior for additional locations.",
+	"sub.text.additional.location": "Установите поведение кеша для дополнительных мест",
 	"suffix.label.enforce.cache.time": "Ignore the cache control headers from the origin.",
 	"task.deploy.certificate.version.name": "Deploy version {version} of certificate '{certificateName}' by {userName}",
 	"task.deploy.property.version.name": "Deploy version {versionId} of property '{propertyName}' by {userName}",
