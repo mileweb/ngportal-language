@@ -990,7 +990,7 @@
 	"password.reset.verify.code.title": "코드 확인 ",
 	"permission.name.placeholder": "권한 이름을 입력하십시오 ",
 	"placeholder.cache.setting.textarea": "Edge Logic 코드를 입력하십시오.",
-	"placeholder.location.path": "위치 경로를 입력하십시오 ",
+	"placeholder.location.path": "'/'로 시작하는 URI 접두사를 입력하세요.",
 	"placeholder.origin.select": "원점 선택 ",
 	"placeholder.origin.server.http": "HTTP 포트 ",
 	"placeholder.origin.server.https": "HTTPS 포트 ",

@@ -990,7 +990,7 @@
 	"password.reset.verify.code.title": "验证码",
 	"permission.name.placeholder": "输入权限名称",
 	"placeholder.cache.setting.textarea": "输入边缘逻辑代码。",
-	"placeholder.location.path": "请输入一个路径",
+	"placeholder.location.path": "请输入以“/”开头的URI前缀",
 	"placeholder.origin.select": "选择源站",
 	"placeholder.origin.server.http": "HTTP端口",
 	"placeholder.origin.server.https": "HTTPS端口",

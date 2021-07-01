@@ -990,7 +990,7 @@
 	"password.reset.verify.code.title": "コードを確認する",
 	"permission.name.placeholder": "許可名を入力してください",
 	"placeholder.cache.setting.textarea": "Edge Logicコードを入力します。",
-	"placeholder.location.path": "ロケーションパスを入力してください",
+	"placeholder.location.path": "'/'で始まるURIプレフィックスを入力してください",
 	"placeholder.origin.select": "原点を選択",
 	"placeholder.origin.server.http": "HTTPポート",
 	"placeholder.origin.server.https": "HTTPSポート",

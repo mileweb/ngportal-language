@@ -990,7 +990,7 @@
 	"password.reset.verify.code.title": "Verify Code",
 	"permission.name.placeholder": "Enter a permission name",
 	"placeholder.cache.setting.textarea": "Enter Edge Logic code.",
-	"placeholder.location.path": "Please enter location path",
+	"placeholder.location.path": "Ingrese un prefijo de URI a partir de '/'",
 	"placeholder.origin.select": "Select Origin",
 	"placeholder.origin.server.http": "HTTP Port",
 	"placeholder.origin.server.https": "HTTPS Port",
