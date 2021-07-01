@@ -930,6 +930,7 @@
 	"newsletter.agreed.quantil": "I would like to sign up for Quantil's weekly digest and newsletter.",
 	"notes.ChoseColor": "Choose a color for your note",
 	"notes.addNote": "Add New Note",
+	"notification.title": "Notification",
 	"origin.auto.detect.popup.msg": "We have detected '{ip}' as your origin. Would you like to use it as the origin server? Note: this will replace the first server entry.",
 	"origin.auto.detect.popup.title": "Auto Detection",
 	"origin.server.add.new": "Add new",
