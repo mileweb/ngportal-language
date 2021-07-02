@@ -931,6 +931,7 @@
 	"newsletter.agreed.quantil": "Quantilの週刊ダイジェストとニュースレターに登録したいと思います。",
 	"notes.ChoseColor": "メモの色を選択してください",
 	"notes.addNote": "新しいメモを追加",
+	"notification.title": "お知らせ",
 	"origin.auto.detect.popup.msg": "起源として「{ip}」が検出されました。オリジンサーバーとして使用しますか？注：これにより、最初のサーバーエントリが置き換えられます。",
 	"origin.auto.detect.popup.title": "自動検出",
 	"origin.server.add.new": "新しく追加する",
