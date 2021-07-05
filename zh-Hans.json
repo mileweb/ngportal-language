@@ -55,6 +55,7 @@
 	"button.text.previous": "Previous",
 	"button.title.next": "Next",
 	"button.upgrade.title": "升级",
+	"cache.setting.location.delete.tooltip": "删除此location",
 	"cache.setting.location.path": "位置路径 *",
 	"cache.setting.location.tooltip": "此向导仅支持按 URI 前缀匹配位置。 您可以直接编辑边缘逻辑以使用更高级的匹配方法，例如正则表达式。 单击<a href='{href}' target='_blank'>此处</a>了解详细信息。",
 	"cache.setting.notification.text": "请注意，单击“继续”将导致边缘逻辑被自动生成的代码所覆盖。",

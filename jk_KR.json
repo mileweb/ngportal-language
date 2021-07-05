@@ -55,6 +55,7 @@
 	"button.text.previous": "이전",
 	"button.title.next": "다음",
 	"button.upgrade.title": "업그레이드",
+	"cache.setting.location.delete.tooltip": "이 위치 삭제",
 	"cache.setting.location.path": "위치 경로 *",
 	"cache.setting.location.tooltip": "이 마법사는 URI 접두사별로 일치하는 위치만 지원합니다. Edge Logic을 직접 편집하여 정규식과 같은 고급 일치 방법을 사용할 수 있습니다. 자세한 내용을 보려면 <a href='{href}' target='_blank'>여기</a>를 클릭하세요.",
 	"cache.setting.notification.text": "계속을 클릭하면 'Edge Logic'이 자동 생성 된 코드로 바뀝니다. ",

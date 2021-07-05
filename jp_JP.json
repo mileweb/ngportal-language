@@ -55,6 +55,7 @@
 	"button.text.previous": "前",
 	"button.title.next": "次",
 	"button.upgrade.title": "アップグレード",
+	"cache.setting.location.delete.tooltip": "この場所を削除します",
 	"cache.setting.location.path": "ロケーションパス*",
 	"cache.setting.location.tooltip": "このウィザードは、URIプレフィックスによる一致する場所のみをサポートします。 Edge Logicを直接編集して、正規表現などのより高度なマッチング方法を使用できます。 詳細については、<a href='{href}' target='_blank'>ここに</a>をクリックしてください。",
 	"cache.setting.notification.text": "[続行]をクリックすると、「エッジロジック」が自動生成コードに置き換えられることに注意してください。",
