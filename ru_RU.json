@@ -991,7 +991,7 @@
 	"password.reset.verify.code.title": "Код подтверждения",
 	"permission.name.placeholder": "Введите имя разрешения",
 	"placeholder.cache.setting.textarea": "Введите Edge Logic-код.",
-	"placeholder.location.path": "Введите location",
+	"placeholder.location.path": "Введите префикс URI (location), начинающийся с '/'",
 	"placeholder.origin.select": "Выберете origin",
 	"placeholder.origin.server.http": "HTTP порт",
 	"placeholder.origin.server.https": "HTTPS порт",
