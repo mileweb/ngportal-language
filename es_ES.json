@@ -932,6 +932,8 @@
 	"newsletter.agreed.quantil": "Me gustaría suscribirme al boletín y el resumen semanal de Quantil.",
 	"notes.ChoseColor": "Elige un color para tu nota",
 	"notes.addNote": "Añadir nueva nota",
+	"notification.empty": "[sin contenido]",
+	"notification.loading": "Cargando",
 	"notification.title": "Notificaciones",
 	"origin.auto.detect.popup.msg": "We have detected '{ip}' as your origin. Would you like to use it as the origin server? Note: this will replace the first server entry.",
 	"origin.auto.detect.popup.title": "Auto Detection",

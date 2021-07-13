@@ -932,6 +932,8 @@
 	"newsletter.agreed.quantil": "我想注册Quantil的每周摘要和时事通讯。",
 	"notes.ChoseColor": "Choose a color for your note",
 	"notes.addNote": "Add New Note",
+	"notification.empty": "[无内容]",
+	"notification.loading": "加载中",
 	"notification.title": "通知",
 	"origin.auto.detect.popup.msg": "已检测到'{ip}'为您的服务器IP。您想将其用作源站服务器吗？注意：这将替换第一个服务器条目。",
 	"origin.auto.detect.popup.title": "自动侦测",

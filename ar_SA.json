@@ -932,6 +932,8 @@
 	"newsletter.agreed.quantil": "أود الاشتراك في الملخص الأسبوعي والرسائل الإخبارية الخاصة بـ Quantil.",
 	"notes.ChoseColor": "اختر لونا لملاحظتك",
 	"notes.addNote": "إضافة ملاحظة جديدة",
+	"notification.empty": "[لا يوجد محتوى]",
+	"notification.loading": "جار التحميل",
 	"notification.title": "إخطارات",
 	"origin.auto.detect.popup.msg": "We have detected '{ip}' as your origin. Would you like to use it as the origin server? Note: this will replace the first server entry.",
 	"origin.auto.detect.popup.title": "Auto Detection",

@@ -932,6 +932,8 @@
 	"newsletter.agreed.quantil": "Я хочу подписаться на еженедельный дайджест и информационный письма от      Quantil.",
 	"notes.ChoseColor": "Выберите цвет для своей заметки",
 	"notes.addNote": "Добавить заметку",
+	"notification.empty": "[без содержания]",
+	"notification.loading": "погрузка",
 	"notification.title": "Уведомления",
 	"origin.auto.detect.popup.msg": "Мы определили \"{ip}\" как ваш origin. Хотели бы вы использовать его в качестве origin-сервера? Примечание: это заменит первую запись о сервере.",
 	"origin.auto.detect.popup.title": "Автоматическое определение",
