@@ -1043,7 +1043,7 @@
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.create.default.description": "تم إنشاؤه بواسطة {userName}",
 	"property.deploy.retry.confirm.title": "هل أنت متأكد أنك تريد نشره على أي حال؟",
-	"property.deployment.production.target.link": "تحتاج إلى إنشاء {edgehostname} وتعديل إعدادات DNS الخاصة بك لتوجيه حركة المرور إلى النظام الأساسي لإنتاج CDN360.",
+	"property.deployment.production.target.link": "تحتاج إلى إنشاء سجل CNAME باستخدام {edgehostname} على خادم DNS الخاص بك لتوجيه حركة مرور العملاء إلى النظام الأساسي للإنتاج.",
 	"property.deployment.production.target.link.line2": "انقر فوق {here} للحصول على التفاصيل.",
 	"property.deployment.staging.target.link": "فيما يلي عناوين IP للوصول إلى الخوادم المرحلية. انقر فوق {here} للحصول على التفاصيل.",
 	"property.edgeLogic.autoCompletion": "\"Ctrl-2/Space\" - استدعاء الإكمال التلقائي",

@@ -1043,7 +1043,7 @@
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.create.default.description": "Créé par {userName}",
 	"property.deploy.retry.confirm.title": "Êtes-vous sûr de vouloir le déployer quand même ?",
-	"property.deployment.production.target.link": "Vous devez créer un {edgehostname} et modifier vos paramètres DNS pour diriger le trafic vers la plate-forme de production CDN360.",
+	"property.deployment.production.target.link": "Vous devez créer un enregistrement CNAME avec un {edgehostname} sur votre serveur DNS pour diriger le trafic des clients vers la plate-forme de production.",
 	"property.deployment.production.target.link.line2": "Cliquez sur {here} pour plus de détails.",
 	"property.deployment.staging.target.link": "Voici les adresses IP pour accéder aux serveurs de transfert. Cliquez sur {here} pour plus de détails.",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Espace' - invoque la saisie semi-automatique",
