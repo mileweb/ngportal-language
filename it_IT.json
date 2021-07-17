@@ -206,6 +206,8 @@
 	"certificate.radio.label": "Metodo di creazione",
 	"certificate.radio.option.generated": "Genera automaticamente",
 	"certificate.radio.option.upload": "Caricare",
+	"certificate.select.loading": "Caricamento nome",
+	"certificate.select.none": "[nessuna]",
 	"certificate.selfsign.template.delete.confirm.title": "Vuoi davvero eliminare questo modello?",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" esiste già. Vuoi davvero sovrascrivere {old_name}?",
 	"certificate.selfsign.template.overwrite.confirm.title": "Vuoi davvero sovrascriverlo?",

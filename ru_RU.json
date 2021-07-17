@@ -206,6 +206,8 @@
 	"certificate.radio.label": "Метод создания",
 	"certificate.radio.option.generated": "Автоматическая генерация",
 	"certificate.radio.option.upload": "Загрузка",
+	"certificate.select.loading": "Имя загрузки",
+	"certificate.select.none": "[никто]",
 	"certificate.selfsign.template.delete.confirm.title": "Вы действительно хотите удалить этот шаблон?",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" шаблон уже существует. Вы хотите его перезаписать на {old_name}?",
 	"certificate.selfsign.template.overwrite.confirm.title": "Вы действительно хотите перезаписать?",

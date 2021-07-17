@@ -206,6 +206,8 @@
 	"certificate.radio.label": "생성 방법",
 	"certificate.radio.option.generated": "자동 생성",
 	"certificate.radio.option.upload": "업로드",
+	"certificate.select.loading": "로드 이름",
+	"certificate.select.none": "[없음]",
 	"certificate.selfsign.template.delete.confirm.title": "이 템플릿을 정말로 삭제 하시겠습니까?",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" 이 (가) 이미 존재합니다. {old_name}을 (를) 덮어 쓰시겠습니까?",
 	"certificate.selfsign.template.overwrite.confirm.title": "정말로 덮어 쓰시겠습니까?",

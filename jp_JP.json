@@ -206,6 +206,8 @@
 	"certificate.radio.label": "作成方法",
 	"certificate.radio.option.generated": "自動生成",
 	"certificate.radio.option.upload": "アップロード",
+	"certificate.select.loading": "名前を読み込んでいます",
+	"certificate.select.none": "[無し]",
 	"certificate.selfsign.template.delete.confirm.title": "このテンプレートを本当に削除しますか？",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" はすでに存在します。本当に {old_name}を上書きしますか？",
 	"certificate.selfsign.template.overwrite.confirm.title": "本当にこれを上書きしますか？",
