@@ -1671,6 +1671,7 @@
 	"tls.certificate.select.default": "选择TLS证书",
 	"tls.certificate.select.invalid.certId.comment": "（您使用的证书不再可用。请选择另一个证书加载到您的加速项目）",
 	"tls.certificate.select.loading": "正在加载名称",
+	"tls.certificate.select.loading.list": "正在加载证书列表",
 	"tls.certificate.select.none": "[无]",
 	"tls.select.default": "选择TLS版本",
 	"toggle.addItem": "Add Item",

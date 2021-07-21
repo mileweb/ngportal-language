@@ -1671,6 +1671,7 @@
 	"tls.certificate.select.default": "Выберите сертификат TLS",
 	"tls.certificate.select.invalid.certId.comment": "(Сертификат, который вы использовали, больше не доступен. Выберите другой сертификат)",
 	"tls.certificate.select.loading": "Имя загрузки",
+	"tls.certificate.select.loading.list": "Загрузка списка сертификатов",
 	"tls.certificate.select.none": "[никто]",
 	"tls.select.default": "Выберите TLS-версию",
 	"toggle.addItem": "Добавить",

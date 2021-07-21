@@ -1671,6 +1671,7 @@
 	"tls.certificate.select.default": "Select TLS Certificate",
 	"tls.certificate.select.invalid.certId.comment": "(The certificate you were using is no longer available. Please select another certificate to use with your property)",
 	"tls.certificate.select.loading": "Caricamento nome",
+	"tls.certificate.select.loading.list": "Caricamento elenco certificati",
 	"tls.certificate.select.none": "[nessuna]",
 	"tls.select.default": "Select TLS Version",
 	"toggle.addItem": "Rimuovi oggetto",

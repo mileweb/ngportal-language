@@ -1671,6 +1671,7 @@
 	"tls.certificate.select.default": "Select TLS Certificate",
 	"tls.certificate.select.invalid.certId.comment": "(The certificate you were using is no longer available. Please select another certificate to use with your property)",
 	"tls.certificate.select.loading": "اسم التحميل",
+	"tls.certificate.select.loading.list": "تحميل قائمة الشهادات",
 	"tls.certificate.select.none": "[لا أحد]",
 	"tls.select.default": "Select TLS Version",
 	"toggle.addItem": "اضافة عنصر",

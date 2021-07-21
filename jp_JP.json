@@ -1671,6 +1671,7 @@
 	"tls.certificate.select.default": "TLS証明書を選択",
 	"tls.certificate.select.invalid.certId.comment": "（使用していた証明書は使用できなくなりました。プロパティで使用する別の証明書を選択してください）",
 	"tls.certificate.select.loading": "名前を読み込んでいます",
+	"tls.certificate.select.loading.list": "証明書リストを読み込んでいます",
 	"tls.certificate.select.none": "[無し]",
 	"tls.select.default": "TLSバージョンを選択",
 	"toggle.addItem": "アイテムを追加",

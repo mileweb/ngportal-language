@@ -1671,6 +1671,7 @@
 	"tls.certificate.select.default": "TLS 인증서 선택 ",
 	"tls.certificate.select.invalid.certId.comment": "(사용중인 인증서를 더 이상 사용할 수 없습니다. 속성에 사용할 다른 인증서를 선택하십시오) ",
 	"tls.certificate.select.loading": "로드 이름",
+	"tls.certificate.select.loading.list": "인증서 목록 로드 중",
 	"tls.certificate.select.none": "[없음]",
 	"tls.select.default": "TLS 버전 선택 ",
 	"toggle.addItem": "아이템 추가",
