@@ -1010,7 +1010,7 @@
 	"placeholder.property.version.desc": "Что изменилось в этой вресии?",
 	"popover.tooltip.cache.time": "Установите время кеширования для кодов ответа 200, 301 и 302.",
 	"prod.deployment.not.allowed": "У вас нет разрешения на развертывание в продуктивной среде. Обратитесь в службу поддержки.",
-	"products.switch.to": "Переключиться на",
+	"products.switch.to": "Выбрать",
 	"products.title.cdn": "CDN",
 	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
