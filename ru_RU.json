@@ -1133,7 +1133,7 @@
 	"property.tooltip.allow.protocol.downgrade": "Чтобы понизить протокол с HTTPS до HTTP при доступе к origin, и вы понимаете связанный с этим риск безопасности, установите для этого параметра в значение \"да\".",
 	"property.tooltip.clicktocopy.hostname": "Нажмите, чтобы скопировать",
 	"property.tooltip.copied.hostname": "Скопировано!",
-	"property.tooltip.edge.logic": "Укажите желаемое поведение edge-серверов, например политику кеширования, изменение заголовка, перезапись URL-адреса и т.д. Прочтите <a href = 'https: //docs.quantil.com/cdn/docs/edge-logic/intro' target = '_ blank'> руководство </a> для получения подробной информации.",
+	"property.tooltip.edge.logic": "Укажите желаемое поведение edge-серверов, например политику кеширования, перезапись URL и т.д. Ознакомьтесь с <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>документацией</a> для получения подробной информации.",
 	"property.tooltip.staging.clicktocopy.ipaddress": "Скопировать IP",
 	"property.tooltip.staging.copied.ipaddress": "Скопирована в буфер обмена",
 	"property.tooltip.staging.copy.failed.ipaddress": "Копирование в буфер обмена не удалось",
