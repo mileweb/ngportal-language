@@ -1935,7 +1935,7 @@
 	"validation.error.name.too.long": "Имя может содержать до 128 символов.",
 	"validation.error.not.integer": "Значение пропускной способности должно быть целым положительным числом.",
 	"validation.error.regions.not.match": "Некоторые регионы, которые вы только что удалили, в настоящее время используются правилами. Чтобы удалить эти регионы, измените правило клиентского региона.",
-	"validation.error.required": "Обязательный",
+	"validation.error.required": "Обязательное поле",
 	"validation.error.san.invalid": "SAN (Subject Alternative Name) должен состоять из действительных доменных имен",
 	"validation.error.wrong.password": "Неверный пароль или имя пользователя. Пожалуйста, попробуйте еще раз.",
 	"validation.failed.ip.message": "Нам не удалось обнаружить IP для этого URL. Убедитесь, что вы ввели правильный URL с протоколом http/https, и повторите попытку.",
