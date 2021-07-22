@@ -1007,7 +1007,7 @@
 	"placeholder.property.loadbalancer.hashkey": "Введите hash key балансировщика нагрузки",
 	"placeholder.property.name": "Введите имя для своей настройки.",
 	"placeholder.property.origin.list": "Нет выбранных origin.",
-	"placeholder.property.version.desc": "Что изменилось в этой вресии?",
+	"placeholder.property.version.desc": "Что изменилось в этой версии?",
 	"popover.tooltip.cache.time": "Установите время кеширования для кодов ответа 200, 301 и 302.",
 	"prod.deployment.not.allowed": "У вас нет разрешения на развертывание в продуктивной среде. Обратитесь в службу поддержки.",
 	"products.switch.to": "Выбрать",
