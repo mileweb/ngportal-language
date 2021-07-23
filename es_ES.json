@@ -206,6 +206,7 @@
 	"certificate.radio.label": "Método de creación",
 	"certificate.radio.option.generated": "Autogenerar",
 	"certificate.radio.option.upload": "Subir",
+	"certificate.radio.option.upload.tips": "Sube solo los archivos que necesitas cambiar además de la última versión actual.",
 	"certificate.selfsign.template.delete.confirm.title": "¿Realmente quieres eliminar esta plantilla?",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" ya existe. ¿Realmente desea sobrescribir {old_name}?",
 	"certificate.selfsign.template.overwrite.confirm.title": "¿De verdad quieres sobrescribir esto?",
