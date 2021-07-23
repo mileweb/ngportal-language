@@ -206,6 +206,7 @@
 	"certificate.radio.label": "创建方法",
 	"certificate.radio.option.generated": "自动生成",
 	"certificate.radio.option.upload": "上传",
+	"certificate.radio.option.upload.tips": "仅上传您需要在当前最新版本之上更改的文件。",
 	"certificate.selfsign.template.delete.confirm.title": "您真的要删除此模板吗？",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" 已经存在。您真的要覆盖 {old_name}吗？",
 	"certificate.selfsign.template.overwrite.confirm.title": "您真的要覆盖这个吗？",

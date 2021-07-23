@@ -206,6 +206,7 @@
 	"certificate.radio.label": "طريقة الخلق",
 	"certificate.radio.option.generated": "توليد تلقائي",
 	"certificate.radio.option.upload": "تحميل",
+	"certificate.radio.option.upload.tips": "قم بتحميل الملفات التي تريد تغييرها فقط فوق أحدث إصدار حالي.",
 	"certificate.selfsign.template.delete.confirm.title": "هل تريد حقًا حذف هذا النموذج؟",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" موجود بالفعل. هل تريد حقًا استبدال {old_name}؟",
 	"certificate.selfsign.template.overwrite.confirm.title": "هل تريد حقًا الكتابة فوق هذا؟",

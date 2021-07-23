@@ -206,6 +206,7 @@
 	"certificate.radio.label": "Méthode de création",
 	"certificate.radio.option.generated": "Générer automatiquement",
 	"certificate.radio.option.upload": "Télécharger",
+	"certificate.radio.option.upload.tips": "Téléchargez uniquement les fichiers que vous devez modifier en plus de la dernière version actuelle.",
 	"certificate.selfsign.template.delete.confirm.title": "Voulez-vous vraiment supprimer ce modèle?",
 	"certificate.selfsign.template.exist.content": "\"{new_name}\" existe déjà. Voulez-vous vraiment écraser {old_name}?",
 	"certificate.selfsign.template.overwrite.confirm.title": "Voulez-vous vraiment écraser ceci?",
