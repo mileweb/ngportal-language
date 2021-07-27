@@ -446,6 +446,7 @@
 	"dashboard.report.selector.options.vol": "Traffic Volume",
 	"deploy.btn.title": "Deploy Configuration",
 	"deploy.btn.title.deploy": "نشر",
+	"deploy.btn.title.deploy.it": "انشرها",
 	"deploy.btn.title.deploy.now": "انشر الآن",
 	"deploy.env.select.default": "Select Environment",
 	"deploy.failed.modal.message": "The deployment of this configuration has failed.",

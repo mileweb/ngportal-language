@@ -446,6 +446,7 @@
 	"dashboard.report.selector.options.vol": "Объем трафика",
 	"deploy.btn.title": "Инсталлированные конфигурации",
 	"deploy.btn.title.deploy": "развертывание",
+	"deploy.btn.title.deploy.it": "развернуть",
 	"deploy.btn.title.deploy.now": "Инсталлированная сейчас",
 	"deploy.env.select.default": "Выберете окружение",
 	"deploy.failed.modal.message": "Установка настроек произошла неудачно.",

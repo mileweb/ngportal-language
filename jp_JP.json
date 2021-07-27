@@ -446,6 +446,7 @@
 	"dashboard.report.selector.options.vol": "Traffic Volume",
 	"deploy.btn.title": "構成の展開",
 	"deploy.btn.title.deploy": "配置する",
+	"deploy.btn.title.deploy.it": "デプロイする",
 	"deploy.btn.title.deploy.now": "今すぐデプロイ",
 	"deploy.env.select.default": "環境を選択",
 	"deploy.failed.modal.message": "この構成の展開は失敗しました。",

@@ -446,6 +446,7 @@
 	"dashboard.report.selector.options.vol": "Traffic Volume",
 	"deploy.btn.title": "구성 배포 ",
 	"deploy.btn.title.deploy": "배포",
+	"deploy.btn.title.deploy.it": "배포",
 	"deploy.btn.title.deploy.now": "지금 배포",
 	"deploy.env.select.default": "환경 선택 ",
 	"deploy.failed.modal.message": "이 구성을 배포하지 못했습니다. ",

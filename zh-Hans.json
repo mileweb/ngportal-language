@@ -446,6 +446,7 @@
 	"dashboard.report.selector.options.vol": "数据流量",
 	"deploy.btn.title": "部署配置",
 	"deploy.btn.title.deploy": "部署",
+	"deploy.btn.title.deploy.it": "立即部署",
 	"deploy.btn.title.deploy.now": "立即部署",
 	"deploy.env.select.default": "选择部署环境",
 	"deploy.failed.modal.message": "The deployment of this configuration has failed.",
