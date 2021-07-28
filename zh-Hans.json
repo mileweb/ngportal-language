@@ -164,6 +164,7 @@
 	"certificate.csr.company": "公司",
 	"certificate.csr.country": "国家",
 	"certificate.csr.department": "部门",
+	"certificate.csr.download.tooltip": "下载基于当前最新版本的证书签名请求。您可以将其发送给 CA 以获取新证书，然后作为新版本进行上传。",
 	"certificate.csr.email": "Email",
 	"certificate.csr.label.san": "SAN",
 	"certificate.csr.san": "SAN *",

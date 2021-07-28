@@ -164,6 +164,7 @@
 	"certificate.csr.company": "Компания",
 	"certificate.csr.country": "Страна",
 	"certificate.csr.department": "Департамент",
+	"certificate.csr.download.tooltip": "Загрузите запрос на подпись сертификата на основе последней версии. Вы можете отправить его в ЦС для получения нового сертификата, а затем вернуться и загрузить новую версию.",
 	"certificate.csr.email": "Email",
 	"certificate.csr.label.san": "SAN",
 	"certificate.csr.san": "SAN *",

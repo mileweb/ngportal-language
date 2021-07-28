@@ -164,6 +164,7 @@
 	"certificate.csr.company": "会社",
 	"certificate.csr.country": "国",
 	"certificate.csr.department": "部門",
+	"certificate.csr.download.tooltip": "現在の最新バージョンに基づいた証明書署名要求をダウンロードします。それをCAに送信して新しい証明書を取得してから、戻って新しいバージョンとしてアップロードすることができます。",
 	"certificate.csr.email": "Eメール",
 	"certificate.csr.label.san": "さん",
 	"certificate.csr.san": "さん *",
