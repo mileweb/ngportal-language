@@ -12,7 +12,7 @@
     <preset_collections/>
     <framework>react-json</framework>
     <filename>ngportal-languange.babel</filename>
-    <source_root_dir>../ngportal</source_root_dir>
+    <source_root_dir/>
     <folder_node>
         <name/>
         <children>
@@ -1953,6 +1953,51 @@
             </concept_node>
             <concept_node>
                 <name>button.compare.version</name>
+                <definition_loaded>false</definition_loaded>
+                <description/>
+                <comment/>
+                <default_text/>
+                <translations>
+                    <translation>
+                        <language>ar-SA</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>en-US</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>es-ES</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>fr-FR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>it-IT</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ja-JP</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ko-KR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ru-RU</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>zh-CN</language>
+                        <approved>false</approved>
+                    </translation>
+                </translations>
+            </concept_node>
+            <concept_node>
+                <name>button.menu.text.deployment.history</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
@@ -19998,6 +20043,96 @@
             </concept_node>
             <concept_node>
                 <name>deploy.btn.title</name>
+                <definition_loaded>false</definition_loaded>
+                <description/>
+                <comment/>
+                <default_text/>
+                <translations>
+                    <translation>
+                        <language>ar-SA</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>en-US</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>es-ES</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>fr-FR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>it-IT</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ja-JP</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ko-KR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ru-RU</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>zh-CN</language>
+                        <approved>false</approved>
+                    </translation>
+                </translations>
+            </concept_node>
+            <concept_node>
+                <name>deploy.btn.title.deploy</name>
+                <definition_loaded>false</definition_loaded>
+                <description/>
+                <comment/>
+                <default_text/>
+                <translations>
+                    <translation>
+                        <language>ar-SA</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>en-US</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>es-ES</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>fr-FR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>it-IT</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ja-JP</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ko-KR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ru-RU</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>zh-CN</language>
+                        <approved>false</approved>
+                    </translation>
+                </translations>
+            </concept_node>
+            <concept_node>
+                <name>deploy.btn.title.deploy.it</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
