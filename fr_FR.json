@@ -164,6 +164,7 @@
 	"certificate.csr.company": "Company",
 	"certificate.csr.country": "Country",
 	"certificate.csr.department": "Department",
+	"certificate.csr.download.tooltip": "Téléchargez une demande de signature de certificat basée sur la dernière version actuelle. Vous pouvez l'envoyer à une autorité de certification pour obtenir un nouveau certificat, puis revenir pour le télécharger en tant que nouvelle version.",
 	"certificate.csr.email": "Email",
 	"certificate.csr.label.san": "SAN",
 	"certificate.csr.san": "SAN *",

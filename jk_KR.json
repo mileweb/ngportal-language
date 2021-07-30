@@ -164,6 +164,7 @@
 	"certificate.csr.company": "회사",
 	"certificate.csr.country": "국가",
 	"certificate.csr.department": "부서",
+	"certificate.csr.download.tooltip": "현재 최신 버전을 기반으로 인증서 서명 요청을 다운로드합니다. CA에 보내서 새 인증서를 얻은 다음 다시 돌아와서 새 버전으로 업로드할 수 있습니다.",
 	"certificate.csr.email": "이메일",
 	"certificate.csr.label.san": "SAN ",
 	"certificate.csr.san": "SAN * ",
