@@ -1673,6 +1673,7 @@
 	"themeSwitcher.Topbar": "Topbar",
 	"themeSwitcher.purchase": "PURCHAGE NOW",
 	"themeSwitcher.settings": "Settings",
+	"timezone.auto": "自动",
 	"title.cache.setting.additional.location": "更多Locations",
 	"tls.certificate.id.2.tooltip": "“TLS证书”和“附加TLS证书”必须为不同类型，比如一个RSA和一个EC。",
 	"tls.certificate.select.default": "选择TLS证书",

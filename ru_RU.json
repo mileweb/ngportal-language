@@ -1673,6 +1673,7 @@
 	"themeSwitcher.Topbar": "Топбар",
 	"themeSwitcher.purchase": "Купить сейчас",
 	"themeSwitcher.settings": "Настройки",
+	"timezone.auto": "АВТО",
 	"title.cache.setting.additional.location": "Дополнительные location",
 	"tls.certificate.id.2.tooltip": "'Сертификат TLS' and 'Дополнительные сертификаты TLS' должны иметь разный тип, например первый RSA, другой EC.",
 	"tls.certificate.select.default": "Выберите сертификат TLS",

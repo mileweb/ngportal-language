@@ -1673,6 +1673,7 @@
 	"themeSwitcher.Topbar": "トップバー",
 	"themeSwitcher.purchase": "今すぐ購入",
 	"themeSwitcher.settings": "設定",
+	"timezone.auto": "自動",
 	"title.cache.setting.additional.location": "追加の場所",
 	"tls.certificate.id.2.tooltip": "「TLS証明書」と「追加TLS証明書」は、異なるタイプ、つまり1つのRSAと1つのECである必要があります。",
 	"tls.certificate.select.default": "TLS証明書を選択",

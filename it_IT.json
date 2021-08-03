@@ -1673,6 +1673,7 @@
 	"themeSwitcher.Topbar": "sfondo",
 	"themeSwitcher.purchase": "IMPOSTAZIONI",
 	"themeSwitcher.settings": "Selezionare",
+	"timezone.auto": "Auto",
 	"title.cache.setting.additional.location": "Additional Locations",
 	"tls.certificate.id.2.tooltip": "The 'TLS Certificate' and 'Additional TLS Certificate' must be of different types, i.e. one RSA and one EC.",
 	"tls.certificate.select.default": "Select TLS Certificate",

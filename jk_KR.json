@@ -1673,6 +1673,7 @@
 	"themeSwitcher.Topbar": "톱바 ",
 	"themeSwitcher.purchase": "PURCHAGE NOW ",
 	"themeSwitcher.settings": "설정 ",
+	"timezone.auto": "자동",
 	"title.cache.setting.additional.location": "추가 위치 ",
 	"tls.certificate.id.2.tooltip": "'TLS 인증서'와 '추가 TLS 인증서'는 서로 다른 유형 (즉, 하나의 RSA와 하나의 EC)이어야합니다. ",
 	"tls.certificate.select.default": "TLS 인증서 선택 ",
