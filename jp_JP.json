@@ -953,6 +953,7 @@
 	"page.iam.menu.users": "ユーザー",
 	"page.iam.subtitle": "アクセスを制御するユーザーロールを作成および管理できるのは管理者のみです",
 	"page.iam.title": "アイデンティティおよびアクセス管理",
+	"page.of.total.item": " {total} アイテムの{position} ",
 	"page.of.total.items": " {total} アイテムの{position} ",
 	"page.resetPassDescription": "新しいパスワードを入力して確認します。",
 	"page.resetPassSave": "セーブ",

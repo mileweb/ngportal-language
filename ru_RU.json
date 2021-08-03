@@ -953,6 +953,7 @@
 	"page.iam.menu.users": "Пользователи",
 	"page.iam.subtitle": "Только администраторы могут создавать пользователей, управлять пользователями и их ролями для контроля доступа",
 	"page.iam.title": "Управление идентификацией и доступом",
+	"page.of.total.item": "{position} из {total} элемента",
 	"page.of.total.items": "{position} из {total} элементов",
 	"page.resetPassDescription": "Dведите новый пароль и подтвердите его.",
 	"page.resetPassSave": "Сохранить",
