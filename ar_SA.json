@@ -952,6 +952,7 @@
 	"page.iam.menu.users": "Users",
 	"page.iam.subtitle": "Only administrators can create and manage users and use roles to control access.",
 	"page.iam.title": "Identity & Access Management",
+	"page.of.total.items": "{position} من {total} من العناصر",
 	"page.resetPassDescription": "أدخل كلمة مرور جديدة وقم بتأكيدها.",
 	"page.resetPassSave": "حفظ",
 	"page.resetPassSubTitle": "إعادة تعيين كلمة المرور",
