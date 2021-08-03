@@ -1183,7 +1183,7 @@
 	"propertyCreate.model.validate.version.confirm.title": "Проверить эту версию настройки?",
 	"propertyListing.action.button": "Действия",
 	"propertyListing.action.clone": "Скопировать",
-	"propertyListing.action.compare": "Сравнить с версиями",
+	"propertyListing.action.compare": "Сравнить версии",
 	"propertyListing.action.delete": "Удалить",
 	"propertyListing.action.edit": "Редактировать",
 	"propertyListing.action.undeploy.prod": "Деинсталлировать с продакшена",
