@@ -1899,6 +1899,7 @@
 	"updateCertificate.label.version.number": "رقم الإصدار",
 	"updateCertificate.section.version.title": "Certificate Versions",
 	"upload.file.size.tooBig.message": "Size of the file '{file}' exceeds the maximum allowed size 36KB.",
+	"user.add.save.and.invite": "حفظ ودعوة",
 	"user.invite.confirm.btn": "Save & Join",
 	"user.invite.desc.primary": "Create your account",
 	"user.invite.desc.secondary": "You're almost there. Complete your account details so that you can get started.",
