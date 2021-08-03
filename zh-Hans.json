@@ -952,7 +952,7 @@
 	"page.iam.menu.users": "用户",
 	"page.iam.subtitle": "仅限管理员创建和管理用户权限",
 	"page.iam.title": "用户和权限管理",
-	"page.of.total.items": "{position} 项，共 {total} 项",
+	"page.of.total.items": "{position} 条，共 {total} 条",
 	"page.resetPassDescription": "Enter new password and confirm it.",
 	"page.resetPassSave": "Save",
 	"page.resetPassSubTitle": "Reset Password",
