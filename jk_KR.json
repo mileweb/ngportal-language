@@ -919,6 +919,7 @@
 	"link.text.additional.location": "새 위치 추가 + ",
 	"login.account.name": "계정",
 	"loginCustomer.text": "관리자: ",
+	"logout.in.some.seconds": " {seconds} 초 후에 로그아웃합니다.",
 	"modal.confirm.cancel.changes": "속성 변경 사항을 취소 하시겠습니까? ",
 	"modal.confirm.cancel.createProperty": "속성 만들기를 종료 하시겠습니까? ",
 	"modal.confirm.cancel.createPurge": "제거 요청 작성을 종료 하시겠습니까? ",

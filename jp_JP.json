@@ -919,6 +919,7 @@
 	"link.text.additional.location": "新しい場所を追加+",
 	"login.account.name": "アカウント",
 	"loginCustomer.text": "管理者：",
+	"logout.in.some.seconds": " {seconds} 秒でログアウトします。",
 	"modal.confirm.cancel.changes": "プロパティへの変更をキャンセルしますか？",
 	"modal.confirm.cancel.createProperty": "プロパティの作成を終了しますか？",
 	"modal.confirm.cancel.createPurge": "パージ要求の作成を終了しますか？",

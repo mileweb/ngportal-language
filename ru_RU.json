@@ -919,6 +919,7 @@
 	"link.text.additional.location": "Добавить location +",
 	"login.account.name": "Учетная запись",
 	"loginCustomer.text": "Администратор: ",
+	"logout.in.some.seconds": "Выйти через {seconds} секунд.",
 	"modal.confirm.cancel.changes": "Вы хотите отменить изменения в настройках?",
 	"modal.confirm.cancel.createProperty": "Вы хотите отказаться от создания настройки?",
 	"modal.confirm.cancel.createPurge": "Вы хотите прекратить создание запроса на очистку (Purge)?",
