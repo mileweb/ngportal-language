@@ -919,6 +919,7 @@
 	"link.text.additional.location": "添加一个Location +",
 	"login.account.name": "帐户",
 	"loginCustomer.text": "Administrator: ",
+	"logout.in.seconds": " {seconds} 秒后退出。",
 	"logout.in.some.seconds": " {seconds} 秒后退出登录。",
 	"modal.confirm.cancel.changes": "您要取消对该加速项目的修改吗？",
 	"modal.confirm.cancel.createProperty": "您要取消创建这个加速项目吗？",

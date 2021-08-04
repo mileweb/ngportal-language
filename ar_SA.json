@@ -919,6 +919,7 @@
 	"link.text.additional.location": "Add new location +",
 	"login.account.name": "Account",
 	"loginCustomer.text": "Administrator: ",
+	"logout.in.seconds": "تسجيل الخروج في {seconds} ثانية.",
 	"logout.in.some.seconds": "تسجيل الخروج في {seconds} ثانية.",
 	"modal.confirm.cancel.changes": "Do you want to cancel the changes to the property?",
 	"modal.confirm.cancel.createProperty": "Do you want to quit creating a property?",
