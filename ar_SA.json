@@ -926,7 +926,7 @@
 	"modal.confirm.cancel.createPurge": "Do you want to quit creating a purge request?",
 	"modal.content.propertySaved": "The property has been successfully saved.",
 	"modal.continue": "Continue",
-	"modal.dismiss": "Cancel",
+	"modal.dismiss": "إلغاء",
 	"modal.error.title": "Error",
 	"modal.title.areYouStillThere": "أنت لا تزال هناك؟",
 	"modal.title.confirm": "Confirmation",

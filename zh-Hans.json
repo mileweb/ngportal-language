@@ -926,7 +926,7 @@
 	"modal.confirm.cancel.createPurge": "您要取消创建这个刷新请求吗？",
 	"modal.content.propertySaved": "该加速项目已成功保存。",
 	"modal.continue": "Continue",
-	"modal.dismiss": "Cancel",
+	"modal.dismiss": "取消",
 	"modal.error.title": "Error",
 	"modal.title.areYouStillThere": "您还在吗？",
 	"modal.title.confirm": "确认",
