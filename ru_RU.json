@@ -346,7 +346,7 @@
 	"contact.placeholder.address2": "Введите дополнительный адрес",
 	"contact.placeholder.city": "Введите город",
 	"contact.placeholder.country": "Введите страну",
-	"contact.placeholder.desc": "Введите описание этого пользователя. Будте внимательными, Пожалуйста будьте внимательны и не вводите приватную информацию",
+	"contact.placeholder.desc": "Введите описание этого пользователя. Пожалуйста, будьте внимательны и не вводите приватную информацию",
 	"contact.placeholder.email": "Введите email пользователя",
 	"contact.placeholder.office.no": "Введите номер офиса",
 	"contact.placeholder.phone.no": "Введите номер телефона",
