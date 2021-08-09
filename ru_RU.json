@@ -1052,6 +1052,7 @@
 	"property.confirm.cancel.edit": "Вы хотите отменить обновление?",
 	"property.create.default.description": "Создано {userName}",
 	"property.deploy.retry.confirm.title": "Вы уверены, что все равно хотите развернуть?",
+	"property.deploy.retry.with.cert.confirm.title": "Вы все еще хотите продолжить, несмотря на риск?",
 	"property.deployment.production.target.link": "Вам необходимо создать запись CNAME с {edgehostname} на вашем DNS-сервере, чтобы направлять клиентский трафик на рабочую платформу.",
 	"property.deployment.production.target.link.line2": "Нажмите {here} для получения дополнительной информации",
 	"property.deployment.staging.target.link": "IP для доступа к стейджинг серверам. Для получения дополнительной информации нажмите {here} .",

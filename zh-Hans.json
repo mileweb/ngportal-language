@@ -1052,6 +1052,7 @@
 	"property.confirm.cancel.edit": "您要取消修改此加速项目吗？",
 	"property.create.default.description": "由{userName}创建",
 	"property.deploy.retry.confirm.title": "您确定要部署它吗？",
+	"property.deploy.retry.with.cert.confirm.title": "尽管存在风险，您仍想继续吗？",
 	"property.deployment.production.target.link": "您需要在DNS服务器上创建一个CNAME记录指向一个{edgehostname}，以将客户端流量定向到生产平台。",
 	"property.deployment.production.target.link.line2": "单击 {here} 以获取详细信息。",
 	"property.deployment.staging.target.link": "这是演练服务器的IP地址。单击 {here} 了解详细信息。",
