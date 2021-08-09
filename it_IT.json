@@ -1052,6 +1052,7 @@
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.create.default.description": "Creato da {userName}",
 	"property.deploy.retry.confirm.title": "Sei sicuro di volerlo distribuire comunque?",
+	"property.deploy.retry.with.cert.confirm.title": "Vuoi continuare nonostante il rischio?",
 	"property.deployment.production.target.link": "Devi creare un record CNAME con un {edgehostname} sul tuo server DNS per indirizzare il traffico dei clienti alla piattaforma di produzione.",
 	"property.deployment.production.target.link.line2": "Fare clic su {here} per i dettagli.",
 	"property.deployment.staging.target.link": "Ecco gli indirizzi IP per accedere ai server di staging. Fare clic su {here} per i dettagli.",
