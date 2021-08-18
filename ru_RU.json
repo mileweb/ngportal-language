@@ -47,6 +47,7 @@
 	"button.cancel.title": "Отмена",
 	"button.close.title": "Закрыть",
 	"button.compare.version": "Сравнить",
+	"button.hide.title": "Скрыть",
 	"button.menu.text.deployment.history": "история",
 	"button.menu.text.deploymentHistory": "История установок",
 	"button.menu.text.propertyReport": "Отчет",
@@ -69,8 +70,7 @@
 	"cache.setting.pop.up.sub.text": "Установить стандартные настройки cache.",
 	"cache.setting.sub.text": "Введите настройки cache, или используйте мастера настроек для создания предварительных настроек.",
 	"cdn.plan.menu.text": "Тарифный план",
-	"cdn.plan.upgrade.billing.method.pay.by.traffic.text":
-  "Цена показывается за GB за месяц использования. Вы будете платить только за используемые ресурсы. Вы можете приобрести или освободить ресурсы по запросу.",
+	"cdn.plan.upgrade.billing.method.pay.by.traffic.text": "Цена показывается за GB за месяц использования. Вы будете платить только за используемые ресурсы. Вы можете приобрести или освободить ресурсы по запросу.",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.title": "Оплата за Тариф",
 	"cdn.plan.upgrade.billing.method.title": "Способ выставления счета",
 	"cdn.plan.upgrade.coverage.ao.city.bangkok": "Бангкок",
