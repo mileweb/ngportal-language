@@ -4,6 +4,34 @@ This repository is the [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-
 ## Documents:  
 We need to make sure the main keywords are translated consistently according to this table:
 * [i18n Proper Noun Lookup Table](https://docs.google.com/spreadsheets/d/1068zI3pqrDOeNGgDbvH6bWBMIQQ834xI_u7iVwmReiM/edit#gid=0)
+
+| Context | English | Chinese | Korean | Japanese | Russian | French |
+| --- | --- | --- | --- | --- | --- | --- |
+| property | property | 加速项 | 설정 | プロパティ | свойство | Configuration |
+|  | edge configurations | 边缘配置 | 에지구성 | エッジ構成 | edge-конфигурация | Parametres |
+|  | version | 版本 | 버전 | バージョン | версия | Version |
+|  | hostname | 域名 | 호스트명 | ホスト名 | имя хоста | Nom d'hôte |
+|  | report | 报表 | 리포트 | レポート | отчет | Rapport |
+|  | report interval | 报表粒度 | 리포트 간격 | レポートの粒度 | интервал отчета | Delai de rapport |
+|  | origin | 源站 | 오리진 | オリジン | источник | Origine |
+|  | certificate | 证书 | 인증서 | 証明書 | сертификат | Certificat |
+|  | action | 操作 | 액션 | アクション | действие | Action |
+|  | edge logic | 边缘逻辑 | 엣지 로직  | エッジロジック | скрипт | Script server |
+| deploy | staging | 演练 | 가상 환경 | ステージング | стейджинг | Platforme de test |
+|  | production | 生产 | 실제 환경 | プロダクション | продуктив | Production |
+|  | environment | 环境 | 환경 | 実環境 | окружение  | Environement |
+|  | deploy | 发布 | 적용 | 適用 | развернуть | Deployé |
+|  | undeploy | 卸载 | 비적용 | 非適用 | откатить | Non déployé |
+| edge hostname | edge hostname | 边缘域名 | 에지호스트명 | エッジ　ホスト名 | имя edge-хоста | Nom d'hôte |
+|  | client zone | 访客分区 | 클라이언트 지역 | クライアントゾーン | регион клиента | Région client |
+|  | rule | 规则 | 룰 | ルール | правило | Regle |
+|  | deliver | 分发 | 서비스 | 配信 | доставить | Delivré |
+|  | reject | 拒绝 | 거부 | 拒否 | отклонить | Rejeté |
+|  | redirect | 跳转 | 리다이렉트 | リダイレクト | перенаправить | Redirection |
+|  | purge | 刷新 | 비우기 | パージ | отчиска | Purger |
+|  | prefetch | 预取 | 미리가져오기 | プリフェッチ | пердварительная загрузка | Préchauffer |
+| Secret | secret | 保密信息 | 비밀 | 秘密情報 | секрет | Secret |
+
 ## Naming Convention
 * ar_SA.json: Arabic (Saudi Arabia)
 * en_US.json: English (United States)
