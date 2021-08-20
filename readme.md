@@ -6,7 +6,7 @@ We need to make sure the main keywords are translated consistently according to 
 * [i18n Proper Noun Lookup Table](https://docs.google.com/spreadsheets/d/1068zI3pqrDOeNGgDbvH6bWBMIQQ834xI_u7iVwmReiM/edit#gid=0)
 
 | Context | English | Chinese | Korean | Japanese | Russian | French |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | :---: | --- | --- | --- | --- |
 | property | property | 加速项 | 설정 | プロパティ | свойство | Configuration |
 |  | edge configurations | 边缘配置 | 에지구성 | エッジ構成 | edge-конфигурация | Parametres |
 |  | version | 版本 | 버전 | バージョン | версия | Version |
