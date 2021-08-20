@@ -3,10 +3,8 @@ This repository is the [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-
 [NG Portal](https://github.com/mileweb/ngportal) implementing i18n in portal UI. 
 ## Documents:  
 We need to make sure the main keywords are translated consistently according to this table:
-* [i18n Proper Noun Lookup Table](https://docs.google.com/spreadsheets/d/1068zI3pqrDOeNGgDbvH6bWBMIQQ834xI_u7iVwmReiM/edit#gid=0)
-
 | Context | English | Chinese | Korean | Japanese | Russian | French |
-| --- | --- | :---: | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | property | property | 加速项 | 설정 | プロパティ | свойство | Configuration |
 |  | edge configurations | 边缘配置 | 에지구성 | エッジ構成 | edge-конфигурация | Parametres |
 |  | version | 版本 | 버전 | バージョン | версия | Version |
@@ -31,6 +29,7 @@ We need to make sure the main keywords are translated consistently according to 
 |  | purge | 刷新 | 비우기 | パージ | отчиска | Purger |
 |  | prefetch | 预取 | 미리가져오기 | プリフェッチ | пердварительная загрузка | Préchauffer |
 | Secret | secret | 保密信息 | 비밀 | 秘密情報 | секрет | Secret |
+| Account | impersonate | 身份切换 |  |  | Выдавать себя за другое лицо |  |
 
 ## Naming Convention
 * ar_SA.json: Arabic (Saudi Arabia)
