@@ -44,7 +44,7 @@ We need to make sure the main keywords are translated consistently according to 
 ## How It Works
 NG portal used [React Intl](https://www.npmjs.com/package/react-intl) to support internationalization by loading
 the JSON file corresponding to the language chosen by the customer. Texts are stored in key-value pairs in these JSON
-files, for example "Start Purge" or "开始 Purge" in Chinese are sharing the same key "purge.button.start". Developers can
+files, for example "Start Purge" or "开始刷新" in Chinese are sharing the same key "purge.button.start". Developers can
 conveniently load the text in their components:
 ```javascript
 import {injectIntl} from "react-intl";
