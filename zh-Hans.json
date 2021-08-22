@@ -156,6 +156,7 @@
 	"cdn360.service.text": "CDN360服务",
 	"cert.auto.renew.off.title": "Off",
 	"cert.auto.renew.on.title": "Let's Encrypt",
+	"cert.auto.renew.on.title.tooltip": "请按照 <a href='{href}' target='_blank'>此处</a> 的说明自动更新此证书。",
 	"cert.detail.label.auto.renew": "自动更新",
 	"certificate.auto.generated.cipher.type": "公钥算法 *",
 	"certificate.auto.generated.sub.title": "请填写以下信息以生成证书：",

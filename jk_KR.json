@@ -156,6 +156,7 @@
 	"cdn360.service.text": "CDN360의 서비스",
 	"cert.auto.renew.off.title": "떨어져서",
 	"cert.auto.renew.on.title": "Let's Encrypt ",
+	"cert.auto.renew.on.title.tooltip": "이 인증서를 자동으로 갱신하려면 <a href='{href}' target='_blank'>여기</a> 의 지침을 따르십시오.",
 	"cert.detail.label.auto.renew": "자동 갱신 ",
 	"certificate.auto.generated.cipher.type": "공개 키 알고리즘 *",
 	"certificate.auto.generated.sub.title": "인증서를 생성하려면 다음 정보를 작성하십시오. ",
