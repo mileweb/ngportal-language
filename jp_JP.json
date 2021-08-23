@@ -156,6 +156,7 @@
 	"cdn360.service.text": "CDN360のサービス",
 	"cert.auto.renew.off.title": "オフ",
 	"cert.auto.renew.on.title": "Let's Encrypt",
+	"cert.auto.renew.on.title.tooltip": "この証明書を自動的に更新するには、ここの <a href='{href}' target='_blank'>の指示に従ってください</a> 。",
 	"cert.detail.label.auto.renew": "自動更新",
 	"certificate.auto.generated.cipher.type": "公開鍵アルゴリズム*",
 	"certificate.auto.generated.sub.title": "証明書を生成するには、次の情報を入力してください。",

@@ -156,6 +156,7 @@
 	"cdn360.service.text": "сервисам CDN360",
 	"cert.auto.renew.off.title": "отключено",
 	"cert.auto.renew.on.title": "Let's Encrypt",
+	"cert.auto.renew.on.title.tooltip": "Следуйте <a href='{href}' target='_blank'>инструкциям здесь</a> , чтобы автоматически продлить этот сертификат.",
 	"cert.detail.label.auto.renew": "Автоматическое обновление",
 	"certificate.auto.generated.cipher.type": "Алгоритм публичной части ключа *",
 	"certificate.auto.generated.sub.title": "Пожалуйста введите следующую инфомарцию для создания сертификата:",
