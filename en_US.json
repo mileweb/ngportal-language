@@ -146,7 +146,7 @@
 	"cdn.plan.upgrade.pricing.note2.line1": "$0.99 will be charged per million HTTPS requests.",
 	"cdn.plan.upgrade.pricing.note2.line2": "You will be billed $50 per month. If your usage charges exceed $50, then you will be billed for the actual usage according to the above table at the beginning of the following month.",
 	"cdn.plan.upgrade.pricing.note2.line3": "Note: 1 GB is defined as 1,000,000,000 bytes.  Your invoice's billing traffic volume will be 8% higher than the value returned by our report API to account for network overhead at all layers, such as various protocol headers, TCP and TLS handshakes, and TCP retransmission.",
-	"cdn.plan.upgrade.pricing.note2.line4.part1": "For a minimum commitment of $3000 per month, our sales department can set up a customized pricing plan. For more information, please contact the {contactLink}",
+	"cdn.plan.upgrade.pricing.note2.line4.part1": "For a minimum commitment of $3000 per month, our sales department can set up a customized pricing plan. For more information, please contact the {contactLink}.",
 	"cdn.plan.upgrade.pricing.note2.line4.part2": "closest regional office",
 	"cdn.plan.upgrade.pricing.per.gb": "per GB",
 	"cdn.plan.upgrade.pricing.title": "Pricing",
