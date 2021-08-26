@@ -271,7 +271,7 @@
 	"certificateListing.action.download.csr": "Download CSR",
 	"certificateListing.action.edit": "Edit",
 	"certificateListing.button.createCertificate": "Create New Certificate",
-	"certificateListing.column.autoRenew": "Auto Renew",
+	"certificateListing.column.autoRenew": "AUTO RENOVACIÓN",
 	"certificateListing.column.expirationTime": "Expiration Time",
 	"certificateListing.column.name": "Certificate Name",
 	"certificateListing.column.ownership": "Ownership",

@@ -271,7 +271,7 @@
 	"certificateListing.action.download.csr": "CSR 다운로드 ",
 	"certificateListing.action.edit": "편집하다",
 	"certificateListing.button.createCertificate": "새 인증서 만들기 ",
-	"certificateListing.column.autoRenew": "자동<br>갱신",
+	"certificateListing.column.autoRenew": "자동 갱신",
 	"certificateListing.column.expirationTime": "만료 시간 ",
 	"certificateListing.column.name": "인증서 이름 ",
 	"certificateListing.column.ownership": "소유권",
