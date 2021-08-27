@@ -1293,7 +1293,7 @@
 	"real.time.log.escape.default.value": "默认值：无",
 	"real.time.log.label.escape": "转义方式",
 	"real.time.log.label.format": "格式",
-	"real.time.log.label.info.popover": "N 值表示每 N 个请求有一个日志条目。 0 关闭日志记录。将其留空会导致默认值 10。该值可以被位置级别的指令 {realtime_log_downsample} 覆盖。",
+	"real.time.log.label.info.popover": "N值表示每N个请求有一个日志条目 。0表示关闭日志记录。如果将其留空，其默认值将会是10。该值可以被位置级别的指令 {realtime_log_downsample} 覆盖。",
 	"real.time.log.label.loginUrl": "上报URL",
 	"real.time.log.label.sampleRate": "采样率",
 	"real.time.log.logging.url.validation.failure": "我们暂时无法验证此上报URL，不过您仍然可以保存此配置。",
