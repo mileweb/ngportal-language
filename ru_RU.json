@@ -1103,6 +1103,7 @@
 	"property.label.tls.certificate1": "TLS сертификат",
 	"property.label.tls.certificate2": "Дополнительный TLS сертификат",
 	"property.label.tls.ciphers": "TLS шифр",
+	"property.label.tls.ciphers.tooltip": "Установите поддерживаемые шифры для рукопожатий TLS. См. Формат, указанный в <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>документации openssl</a>. Значение по умолчанию - ECDHE:DHE, если оно оставлено пустым.",
 	"property.label.tls.maxVersion": "TLS максимальная версия",
 	"property.label.tls.minVersion": "TLS минимальная версия",
 	"property.label.version.description": "Описание версии",
