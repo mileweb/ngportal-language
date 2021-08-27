@@ -1103,6 +1103,7 @@
 	"property.label.tls.certificate1": "TLS Certificate",
 	"property.label.tls.certificate2": "Additional TLS Certificate",
 	"property.label.tls.ciphers": "TLS Ciphers",
+	"property.label.tls.ciphers.tooltip": "Imposta le cifre supportate per gli handshake TLS. Fare riferimento al formato specificato nella <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>documentazione di openssl</a>. Il valore predefinito è `ECDHE:DHE` se lasciato vuoto.",
 	"property.label.tls.maxVersion": "TLS Maximum Version",
 	"property.label.tls.minVersion": "TLS Minimum Version",
 	"property.label.version.description": "Descrizione della versione",

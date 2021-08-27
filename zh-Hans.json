@@ -1103,6 +1103,7 @@
 	"property.label.tls.certificate1": "TLS证书",
 	"property.label.tls.certificate2": "附加TLS证书",
 	"property.label.tls.ciphers": "TLS 加密套件",
+	"property.label.tls.ciphers.tooltip": "为 TLS 握手设置支持的密码。请参阅 <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>openssl 文档</a> 中指定的格式。如果留空，则默认值为 `ECDHE:DHE`。",
 	"property.label.tls.maxVersion": "TLS最高版本",
 	"property.label.tls.minVersion": "TLS最低版本",
 	"property.label.version.description": "版本描述",
