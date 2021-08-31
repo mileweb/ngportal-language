@@ -1057,6 +1057,7 @@
 	"property.compare.versions.page.subtitle": "Please select two versions of the property to compare.",
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.create.default.description": "Creado por {userName}",
+	"property.deploy.invalid.target.error": "Como nuevo cliente, actualmente no puede implementar en producción. Se habilitará automáticamente una vez que realice algunos <a href='{href}' target='_blank'>solicitudes de prueba a los servidores de ensayo</a>.",
 	"property.deploy.retry.confirm.title": "¿Estás seguro de que quieres implementarlo de todos modos?",
 	"property.deploy.retry.with.cert.confirm.title": "¿Quiere continuar a pesar del riesgo?",
 	"property.deployment.production.target.link": "Debe crear un registro CNAME con un {edgehostname} en su servidor DNS para dirigir el tráfico de los clientes a la plataforma de producción.",

@@ -1057,6 +1057,7 @@
 	"property.compare.versions.page.subtitle": "Please select two versions of the property to compare.",
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.create.default.description": "تم إنشاؤه بواسطة {userName}",
+	"property.deploy.invalid.target.error": "كعميل جديد ، لا يُسمح لك حاليًا بالنشر في الإنتاج. سيتم تمكينه تلقائيًا بمجرد إنشاء عدد قليل من <a href='{href}' target='_blank'>طلبات الاختبار إلى خوادم التدريج</a>.",
 	"property.deploy.retry.confirm.title": "هل أنت متأكد أنك تريد نشره على أي حال؟",
 	"property.deploy.retry.with.cert.confirm.title": "هل مازلت تريد المضي قدما على الرغم من المخاطر؟",
 	"property.deployment.production.target.link": "تحتاج إلى إنشاء سجل CNAME باستخدام {edgehostname} على خادم DNS الخاص بك لتوجيه حركة مرور العملاء إلى النظام الأساسي للإنتاج.",

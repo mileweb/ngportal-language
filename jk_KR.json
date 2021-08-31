@@ -1057,6 +1057,7 @@
 	"property.compare.versions.page.subtitle": "에지 로직 코드와 버전을 비교할 수 있습니다. 비교할 속성의 두 가지 버전을 선택하십시오. ",
 	"property.confirm.cancel.edit": "Do you want to discard the property update?",
 	"property.create.default.description": "작성자 : {userName}",
+	"property.deploy.invalid.target.error": "신규 고객은 현재 프로덕션에 배포할 수 없습니다. 몇 가지 <a href='{href}' target='_blank'>스테이징 서버에 대한 테스트 요청</a>를 만들면 자동으로 활성화됩니다.",
 	"property.deploy.retry.confirm.title": "그래도 배포 하시겠습니까?",
 	"property.deploy.retry.with.cert.confirm.title": "위험에도 불구하고 계속 진행하시겠습니까?",
 	"property.deployment.production.target.link": "클라이언트의 트래픽을 프로덕션 플랫폼으로 보내려면 DNS 서버에서 {edgehostname} 으로 CNAME 레코드를 만들어야 합니다.",
