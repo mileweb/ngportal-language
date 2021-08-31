@@ -271,7 +271,7 @@
 	"certificateListing.action.download.csr": "CSRをダウンロード",
 	"certificateListing.action.edit": "編集",
 	"certificateListing.button.createCertificate": "新しい証明書を作成",
-	"certificateListing.column.autoRenew": "自動更新",
+	"certificateListing.column.autoRenew": "自動<br/>更新",
 	"certificateListing.column.expirationTime": "有効期限",
 	"certificateListing.column.name": "証明書名",
 	"certificateListing.column.ownership": "所有権",
