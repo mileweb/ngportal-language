@@ -1057,6 +1057,7 @@
 	"property.compare.versions.page.subtitle": "Выберите две версии настроек для сравнения.",
 	"property.confirm.cancel.edit": "Вы хотите отменить обновление?",
 	"property.create.default.description": "Создано {userName}",
+	"property.deploy.invalid.target.error": "Как новый клиент, в настоящее время вам не разрешено развертывание в производственной среде. Он будет включен автоматически после того, как вы сделаете несколько <a href='{href}' target='_blank'>тестовые запросы к промежуточным серверам</a>.",
 	"property.deploy.retry.confirm.title": "Вы уверены, что все равно хотите развернуть?",
 	"property.deploy.retry.with.cert.confirm.title": "Вы все еще хотите продолжить, несмотря на риск?",
 	"property.deployment.production.target.link": "Вам необходимо создать запись CNAME с {edgehostname} на вашем DNS-сервере, чтобы направлять клиентский трафик на рабочую платформу.",
