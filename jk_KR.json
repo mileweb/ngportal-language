@@ -1288,6 +1288,8 @@
 	"purge.type.directory": "예배 규칙서",
 	"purge.type.file": "파일",
 	"purge.type.label": "퍼지 유형 * ",
+	"range.picker.end.later.than.start": "종료 날짜는 시작 날짜 이후여야 합니다.",
+	"range.picker.not.empty.message": "시작일 또는 종료일을 선택하세요.",
 	"real.time.log.down.sample.link.text": "realtime_log_downsample",
 	"real.time.log.error.invalid.header": "헤더 이름 {header} 이 (가) 유효하지 않습니다",
 	"real.time.log.error.invalid.url": "Invalid url",

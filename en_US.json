@@ -1288,6 +1288,8 @@
 	"purge.type.directory": "Directory",
 	"purge.type.file": "File",
 	"purge.type.label": "Purge Type *",
+	"range.picker.end.later.than.start": "The end date must be after start date.",
+	"range.picker.not.empty.message": "Please select start date or end date.",
 	"real.time.log.down.sample.link.text": "realtime_log_downsample",
 	"real.time.log.error.invalid.header": "The header name {header} is invalid",
 	"real.time.log.error.invalid.url": "The entered logging URL is not valid",

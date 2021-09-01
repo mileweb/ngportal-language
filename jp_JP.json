@@ -1288,6 +1288,8 @@
 	"purge.type.directory": "ディレクトリ",
 	"purge.type.file": "ファイル",
 	"purge.type.label": "パージタイプ*",
+	"range.picker.end.later.than.start": "終了日は開始日より後でなければなりません。",
+	"range.picker.not.empty.message": "開始日または終了日を選択してください。",
 	"real.time.log.down.sample.link.text": "realtime_log_downsample",
 	"real.time.log.error.invalid.header": "ヘッダー名 {header} は無効です",
 	"real.time.log.error.invalid.url": "Invalid url",
