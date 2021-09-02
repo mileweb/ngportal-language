@@ -1288,6 +1288,8 @@
 	"purge.type.directory": "Директория",
 	"purge.type.file": "Файл",
 	"purge.type.label": "Тип очистки (Purge) *",
+	"range.picker.end.later.than.start": "Дата окончания должна быть позже даты начала.",
+	"range.picker.not.empty.message": "Пожалуйста, выберите дату начала или дату окончания.",
 	"real.time.log.down.sample.link.text": "realtime_log_downsample",
 	"real.time.log.error.invalid.header": "Имя HTTP-заголовка {header} невалидное",
 	"real.time.log.error.invalid.url": "Введеное значение URL для логирования невалидное",

@@ -1288,6 +1288,8 @@
 	"purge.type.directory": "目录",
 	"purge.type.file": "文件",
 	"purge.type.label": "刷新类型*",
+	"range.picker.end.later.than.start": "结束日期必须晚于开始日期。",
+	"range.picker.not.empty.message": "请选择开始或结束日期。",
 	"real.time.log.down.sample.link.text": "realtime_log_downsample",
 	"real.time.log.error.invalid.header": "请求头名称 {header} 不符合规范",
 	"real.time.log.error.invalid.url": "输入的上报URL不符合规范",
