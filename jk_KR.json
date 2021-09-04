@@ -1067,6 +1067,7 @@
 	"property.edgeLogic.editorHeight": "편집기 높이 변경",
 	"property.edgeLogic.shortCut": "키보드 단축키:",
 	"property.edgeLogic.showHelp": "커서 지시문에 대한 문서를 표시합니다",
+	"property.edgeLogic.softWrap": "소프트 랩 텍스트",
 	"property.label.allow.protocol.downgrade": "프로토콜 다운 그레이드 허용 ",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "HTTP와 별도로 HTTPS 컨텐츠 캐시 ",

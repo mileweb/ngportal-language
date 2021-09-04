@@ -1067,6 +1067,7 @@
 	"property.edgeLogic.editorHeight": "تغيير ارتفاع المحرر",
 	"property.edgeLogic.shortCut": "اختصارات لوحة المفاتيح:",
 	"property.edgeLogic.showHelp": "إظهار مستند حول التوجيه في المؤشر",
+	"property.edgeLogic.softWrap": "نص التفاف ناعم",
 	"property.label.allow.protocol.downgrade": "Allow Protocol Downgrade",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "Cache HTTPS contents separately from HTTP",

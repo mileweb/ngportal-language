@@ -1067,6 +1067,7 @@
 	"property.edgeLogic.editorHeight": "изменить высоту редактора",
 	"property.edgeLogic.shortCut": "Горячие клавиши: ",
 	"property.edgeLogic.showHelp": "показать документ о директиве под курсором",
+	"property.edgeLogic.softWrap": "Мягкий перенос текста",
 	"property.label.allow.protocol.downgrade": "Разрешить понижение версии протокола",
 	"property.label.beian.content.type": "Тип контента Beian",
 	"property.label.cache.key.scheme": "Кешировать HTTPS контент отдельно от HTTP",

@@ -1067,6 +1067,7 @@
 	"property.edgeLogic.editorHeight": "change la hauteur de l'éditeur",
 	"property.edgeLogic.shortCut": "Raccourcis clavier:",
 	"property.edgeLogic.showHelp": "affiche le document sur la directive au curseur",
+	"property.edgeLogic.softWrap": "Texte d'habillage souple",
 	"property.label.allow.protocol.downgrade": "Allow Protocol Downgrade",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "Cache HTTPS contents separately from HTTP",

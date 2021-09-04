@@ -1067,6 +1067,7 @@
 	"property.edgeLogic.editorHeight": "更改编辑器高度",
 	"property.edgeLogic.shortCut": "键盘快捷键：",
 	"property.edgeLogic.showHelp": "显示光标处指令的文档",
+	"property.edgeLogic.softWrap": "文本软换行",
 	"property.label.allow.protocol.downgrade": "允许协议降级",
 	"property.label.beian.content.type": "备案服务内容",
 	"property.label.cache.key.scheme": "与HTTP分开缓存HTTPS内容",
