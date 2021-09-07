@@ -951,6 +951,8 @@
 	"origin.auto.detect.popup.msg": "Мы определили \"{ip}\" как ваш origin. Хотели бы вы использовать его в качестве origin-сервера? Примечание: это заменит первую запись о сервере.",
 	"origin.auto.detect.popup.title": "Автоматическое определение",
 	"origin.server.add.new": "Добавить новый origin-сервер",
+	"ownership.me": "Я",
+	"ownership.parent": "Родитель",
 	"page.forgetPassDescription": "Введите свой email, и мы отправим вам ссылку для сброса.",
 	"page.forgetPassSubTitle": "Забыли пароль?",
 	"page.forgetPassTitle": "Изоморфный",

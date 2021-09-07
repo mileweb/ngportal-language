@@ -951,6 +951,8 @@
 	"origin.auto.detect.popup.msg": "已检测到'{ip}'为您的服务器IP。您想将其用作源站服务器吗？注意：这将替换第一个服务器条目。",
 	"origin.auto.detect.popup.title": "自动侦测",
 	"origin.server.add.new": "添加",
+	"ownership.me": "我自己",
+	"ownership.parent": "父级",
 	"page.forgetPassDescription": "Enter your email and we send you a reset link.",
 	"page.forgetPassSubTitle": "Forgot Password?",
 	"page.forgetPassTitle": "Isomorphic",

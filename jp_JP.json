@@ -951,6 +951,8 @@
 	"origin.auto.detect.popup.msg": "起源として「{ip}」が検出されました。オリジンサーバーとして使用しますか？注：これにより、最初のサーバーエントリが置き換えられます。",
 	"origin.auto.detect.popup.title": "自動検出",
 	"origin.server.add.new": "新しく追加する",
+	"ownership.me": "私",
+	"ownership.parent": "親",
 	"page.forgetPassDescription": "メールを入力すると、リセットリンクが送信されます。",
 	"page.forgetPassSubTitle": "パスワードをお忘れですか？",
 	"page.forgetPassTitle": "同型",
