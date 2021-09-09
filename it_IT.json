@@ -951,6 +951,8 @@
 	"origin.auto.detect.popup.msg": "We have detected '{ip}' as your origin. Would you like to use it as the origin server? Note: this will replace the first server entry.",
 	"origin.auto.detect.popup.title": "Auto Detection",
 	"origin.server.add.new": "Add new",
+	"ownership.me": "me",
+	"ownership.parent": "Genitore",
 	"page.forgetPassDescription": "Invia richiesta",
 	"page.forgetPassSubTitle": "Inserisci la tua email e ti inviamo un collegamento di ripristino.",
 	"page.forgetPassTitle": "Ha dimenticato la password?",
