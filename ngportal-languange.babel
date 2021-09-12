@@ -40382,7 +40382,7 @@
                 </translations>
             </concept_node>
             <concept_node>
-                <name>hint.directive.break</name>
+                <name>hint.evalfunc.BASE64_ENCODE</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
@@ -40427,7 +40427,7 @@
                 </translations>
             </concept_node>
             <concept_node>
-                <name>hint.directive.if</name>
+                <name>hint.evalfunc.MD5</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
@@ -40472,7 +40472,7 @@
                 </translations>
             </concept_node>
             <concept_node>
-                <name>hint.evalFunc.BASE64_ENCODE</name>
+                <name>hint.evalfunc.SHA256</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
@@ -40517,7 +40517,7 @@
                 </translations>
             </concept_node>
             <concept_node>
-                <name>hint.evalFunc.MD5</name>
+                <name>hint.imperative.break</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
@@ -40562,7 +40562,7 @@
                 </translations>
             </concept_node>
             <concept_node>
-                <name>hint.evalFunc.SHA256</name>
+                <name>hint.imperative.if</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
