@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "номер версии собственности.",
 	"hint.variable.$qtl_req_id": "уникальный идентификатор запроса",
 	"hint.variable.$qtl_upstream_cache_status": "крайний кеш HIT, MISS и т. д.",
+	"hint.variable.$random_N": "случайное целое число в [0, N-1]. N в [2,1e9]",
 	"hint.variable.$realtime_log_ds_factor": "Коэффициент уменьшения логарифмической шкалы RT N",
 	"hint.variable.$realtime_log_ds_ratio": "Коэффициент уменьшения логарифмической шкалы RT 0.xx",
 	"hint.variable.$remote_user": "имя пользователя, извлеченное из базовой аутентификации",

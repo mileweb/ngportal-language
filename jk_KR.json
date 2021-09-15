@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "속성 버전 번호.",
 	"hint.variable.$qtl_req_id": "요청에 대한 고유 ID",
 	"hint.variable.$qtl_upstream_cache_status": "에지 캐시 HIT, MISS 등",
+	"hint.variable.$random_N": "[0,N-1]의 임의의 정수. [2,1e9]의 N",
 	"hint.variable.$realtime_log_ds_factor": "RT 로그 다운샘플링 인자 N",
 	"hint.variable.$realtime_log_ds_ratio": "RT 로그 다운샘플링 비율 0.xx",
 	"hint.variable.$remote_user": "기본 인증에서 추출한 사용자 이름",

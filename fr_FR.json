@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "numéro de version de la propriété.",
 	"hint.variable.$qtl_req_id": "ID unique de la demande",
 	"hint.variable.$qtl_upstream_cache_status": "cache de bord HIT, MISS etc.",
+	"hint.variable.$random_N": "un entier aléatoire dans [0,N-1]. N dans [2,1e9]",
 	"hint.variable.$realtime_log_ds_factor": "Facteur de sous-échantillonnage du journal RT N",
 	"hint.variable.$realtime_log_ds_ratio": "Ratio de sous-échantillonnage du journal RT 0.xx",
 	"hint.variable.$remote_user": "nom d'utilisateur extrait de l'authentification de base",

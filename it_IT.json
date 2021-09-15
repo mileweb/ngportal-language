@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "numero di versione della proprietà.",
 	"hint.variable.$qtl_req_id": "ID univoco per la richiesta",
 	"hint.variable.$qtl_upstream_cache_status": "edge cache HIT, MISS ecc.",
+	"hint.variable.$random_N": "un intero casuale in [0,N-1]. N in [2,1e9]",
 	"hint.variable.$realtime_log_ds_factor": "Fattore di downsampling log RT N",
 	"hint.variable.$realtime_log_ds_ratio": "Rapporto di downsampling log RT 0.xx",
 	"hint.variable.$remote_user": "nome utente estratto da Basic auth",

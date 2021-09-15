@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "加速项的版本号",
 	"hint.variable.$qtl_req_id": "请求的唯一 ID",
 	"hint.variable.$qtl_upstream_cache_status": "边缘缓存HIT、MISS等状态",
+	"hint.variable.$random_N": "一个[0,N-1]中的随机整数，N的范围是[2,1e9]",
 	"hint.variable.$realtime_log_ds_factor": "实时日志的采样系数",
 	"hint.variable.$realtime_log_ds_ratio": "实时日志的采样比例(0-1)",
 	"hint.variable.$remote_user": "从基本身份验证中提取的用户名",

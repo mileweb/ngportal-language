@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "プロパティのバージョン番号。",
 	"hint.variable.$qtl_req_id": "リクエストの一意のID",
 	"hint.variable.$qtl_upstream_cache_status": "エッジキャッシュHIT、MISSなど。",
+	"hint.variable.$random_N": "[0、N-1]のランダムな整数。 [2,1e9]のN",
 	"hint.variable.$realtime_log_ds_factor": "RTログダウンサンプル係数N",
 	"hint.variable.$realtime_log_ds_ratio": "RTログダウンサンプル比0.xx",
 	"hint.variable.$remote_user": "基本認証から抽出されたユーザー名",

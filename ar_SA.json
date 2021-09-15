@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "رقم إصدار الملكية.",
 	"hint.variable.$qtl_req_id": "معرّف فريد للطلب",
 	"hint.variable.$qtl_upstream_cache_status": "حافة ذاكرة التخزين المؤقت HIT ، MISS إلخ.",
+	"hint.variable.$random_N": "عدد صحيح عشوائي في [0 ، N-1]. N في [2،1e9]",
 	"hint.variable.$realtime_log_ds_factor": "RT عامل الاختزال N",
 	"hint.variable.$realtime_log_ds_ratio": "نسبة الاختزال في سجل RT 0.xx",
 	"hint.variable.$remote_user": "اسم المستخدم المستخرج من المصادقة الأساسية",

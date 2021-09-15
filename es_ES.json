@@ -1025,6 +1025,7 @@
 	"hint.variable.$property_ver": "número de versión de la propiedad.",
 	"hint.variable.$qtl_req_id": "ID único para la solicitud",
 	"hint.variable.$qtl_upstream_cache_status": "caché de borde HIT, MISS, etc.",
+	"hint.variable.$random_N": "un número entero aleatorio en [0, N-1]. N en [2,1e9]",
 	"hint.variable.$realtime_log_ds_factor": "RT log factor de reducción de la muestra N",
 	"hint.variable.$realtime_log_ds_ratio": "Relación de reducción de muestra del registro de RT 0.xx",
 	"hint.variable.$remote_user": "nombre de usuario extraído de la autenticación básica",
