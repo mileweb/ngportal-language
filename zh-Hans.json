@@ -1406,7 +1406,7 @@
 	"purge.button.addDir": "添加目录",
 	"purge.button.addFile": "添加文件",
 	"purge.button.addHeader": "添加请求头",
-	"purge.button.purgeAgain": "再次清除",
+	"purge.button.purgeAgain": "再次刷新",
 	"purge.button.start": "开始刷新",
 	"purge.create.title": "刷新",
 	"purge.detail.directory.purge.count.title": "刷新的目录总数：",
