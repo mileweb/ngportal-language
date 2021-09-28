@@ -1406,6 +1406,7 @@
 	"purge.button.addDir": "Add Directory",
 	"purge.button.addFile": "Add File",
 	"purge.button.addHeader": "Add Header",
+	"purge.button.purgeAgain": "Purgar de nuevo",
 	"purge.button.start": "Start Purge",
 	"purge.create.title": "Purge",
 	"purge.detail.directory.purge.count.title": "Total directories purged: ",

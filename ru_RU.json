@@ -1406,6 +1406,7 @@
 	"purge.button.addDir": "Добавить директорию",
 	"purge.button.addFile": "Добавить файл",
 	"purge.button.addHeader": "Добавить HTTP заголовок",
+	"purge.button.purgeAgain": "Очистить снова",
 	"purge.button.start": "Начать очистку (Purge)",
 	"purge.create.title": "Очистка (Purge)",
 	"purge.detail.directory.purge.count.title": "Всего очищено директорий: ",
