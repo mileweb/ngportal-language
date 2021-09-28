@@ -1406,6 +1406,7 @@
 	"purge.button.addDir": "ディレクトリを追加",
 	"purge.button.addFile": "ファイルを追加",
 	"purge.button.addHeader": "Add Header",
+	"purge.button.purgeAgain": "もう一度パージ",
 	"purge.button.start": "パージを開始",
 	"purge.create.title": "パージ",
 	"purge.detail.directory.purge.count.title": "削除されたディレクトリの合計：",

@@ -1406,6 +1406,7 @@
 	"purge.button.addDir": "디렉토리 추가 ",
 	"purge.button.addFile": "파일 추가",
 	"purge.button.addHeader": "Add Header",
+	"purge.button.purgeAgain": "다시 퍼지",
 	"purge.button.start": "퍼지 시작 ",
 	"purge.create.title": "숙청",
 	"purge.detail.directory.purge.count.title": "제거 된 총 디렉토리 : ",
