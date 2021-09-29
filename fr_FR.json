@@ -615,6 +615,7 @@
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",
 	"edgeHostname.label.has.beian": "A ICP Beian",
+	"edgeHostname.label.has.beian.new": "Besoin de résoudre ce nom d'hôte pour les serveurs Edge en Chine continentale",
 	"edgeHostname.label.list.service.regions": "Client Zone Rules",
 	"edgeHostname.label.name": "Hostname *",
 	"edgeHostname.label.pci": "Is PCI Required *",
