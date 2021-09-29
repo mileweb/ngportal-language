@@ -615,6 +615,7 @@
 	"edgeHostname.label.advanced.accordion": "Расширенные опции",
 	"edgeHostname.label.bandwidth": "Расчетная пропускная способность",
 	"edgeHostname.label.has.beian": "Имеет ICP Beian",
+	"edgeHostname.label.has.beian.new": "Необходимо разрешить это имя хоста для пограничных серверов в материковом Китае.",
 	"edgeHostname.label.list.service.regions": "Правила клиентской зоны",
 	"edgeHostname.label.name": "Имя хоста *",
 	"edgeHostname.label.pci": "Требует PCI *",

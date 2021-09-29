@@ -615,6 +615,7 @@
 	"edgeHostname.label.advanced.accordion": "高度な設定",
 	"edgeHostname.label.bandwidth": "推定帯域幅",
 	"edgeHostname.label.has.beian": "ICP Beianがいます",
+	"edgeHostname.label.has.beian.new": "このホスト名を中国本土のエッジサーバーに解決する必要があります",
 	"edgeHostname.label.list.service.regions": "Client Zone Rules",
 	"edgeHostname.label.name": "Hostname *",
 	"edgeHostname.label.pci": "PCIが必要ですか*",

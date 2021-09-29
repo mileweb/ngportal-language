@@ -615,6 +615,7 @@
 	"edgeHostname.label.advanced.accordion": "고급 설정 ",
 	"edgeHostname.label.bandwidth": "예상 대역폭 ",
 	"edgeHostname.label.has.beian": "ICP Beian이 있음 ",
+	"edgeHostname.label.has.beian.new": "중국 본토의 에지 서버로 확인하려면 이 호스트 이름이 필요합니다.",
 	"edgeHostname.label.list.service.regions": "Client Zone Rules",
 	"edgeHostname.label.name": "Hostname * ",
 	"edgeHostname.label.pci": "PCI가 필요합니다 * ",
