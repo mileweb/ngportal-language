@@ -1082,6 +1082,7 @@
 	"info.add.two.versions": "Please select two versions of the property to compare.",
 	"input.select.placeholder": "Select",
 	"internal.error.modal.message": "An error occurred. Please try again.",
+	"invalid.country.code": "Codice paese non valido",
 	"invalid.domain.ip.error": "Enter valid URL or IP address",
 	"invalid.port.value.error": "Valid values: 1-65535",
 	"invalid.tls.max.version": "'TLS Maximum Version' must be greater than or equal to 'TLS Minimum Version'.",
