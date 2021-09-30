@@ -1082,6 +1082,7 @@
 	"info.add.two.versions": "비교할 속성에서 두 가지 버전을 선택하십시오. ",
 	"input.select.placeholder": "고르다",
 	"internal.error.modal.message": "오류가 발생하였습니다. 다시 시도하십시오. ",
+	"invalid.country.code": "잘못된 국가 코드",
 	"invalid.domain.ip.error": "유효한 URL 또는 IP 주소를 입력하십시오 ",
 	"invalid.port.value.error": "유효한 값 : 1-65535 ",
 	"invalid.tls.max.version": "'TLS 최대 버전'은 'TLS 최소 버전'이상이어야합니다. ",

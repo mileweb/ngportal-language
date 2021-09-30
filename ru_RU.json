@@ -1082,6 +1082,7 @@
 	"info.add.two.versions": "Выберите две версии найстройки для сравнения",
 	"input.select.placeholder": "Выбор",
 	"internal.error.modal.message": "Ошибка. Попробуйте позже.",
+	"invalid.country.code": "Неверный код страны",
 	"invalid.domain.ip.error": "Введите URL или IP адрес",
 	"invalid.port.value.error": "Допустимые значения: 1-65535",
 	"invalid.tls.max.version": "'TLS максимальная версия' должна быть больше или равна 'TLS минимальной версии'.",

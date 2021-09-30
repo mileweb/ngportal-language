@@ -1082,6 +1082,7 @@
 	"info.add.two.versions": "プロパティから2つのバージョンを選択して比較してください。",
 	"input.select.placeholder": "選択する",
 	"internal.error.modal.message": "エラーが発生しました。もう一度やり直してください。",
+	"invalid.country.code": "無効な国コード",
 	"invalid.domain.ip.error": "有効なURLまたはIPアドレスを入力してください",
 	"invalid.port.value.error": "有効な値：1〜65535",
 	"invalid.tls.max.version": "「TLS最大バージョン」は「TLS最小バージョン」以上でなければなりません。",
