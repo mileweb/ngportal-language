@@ -1092,6 +1092,7 @@
 	"label.cache.time": "캐시 시간 ",
 	"label.description": "기술",
 	"label.enforce.cache.timeout": "캐시 시간 적용 ",
+	"languageId": "kr",
 	"languageSwitcher.label": "언어 변경 ",
 	"link.more.details": "자세한 내용은...",
 	"link.text.additional.location": "새 위치 추가 + ",

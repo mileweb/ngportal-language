@@ -1092,6 +1092,7 @@
 	"label.cache.time": "Cache-время",
 	"label.description": "Описание",
 	"label.enforce.cache.timeout": "Принудительное Cache-время",
+	"languageId": "ru",
 	"languageSwitcher.label": "Сменить язык",
 	"link.more.details": "Больше деталей...",
 	"link.text.additional.location": "Добавить location +",

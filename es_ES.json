@@ -1092,6 +1092,7 @@
 	"label.cache.time": "Cache Time",
 	"label.description": "Description",
 	"label.enforce.cache.timeout": "Enforce Cache Time",
+	"languageId": "es",
 	"languageSwitcher.label": "Cambiar idioma",
 	"link.more.details": "More Details...",
 	"link.text.additional.location": "Add new location +",

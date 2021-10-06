@@ -1092,6 +1092,7 @@
 	"label.cache.time": "キャッシュの時間",
 	"label.description": "説明",
 	"label.enforce.cache.timeout": "キャッシュ時間を強制する",
+	"languageId": "jp",
 	"languageSwitcher.label": "言語を変えてください",
 	"link.more.details": "詳細...",
 	"link.text.additional.location": "新しい場所を追加+",
