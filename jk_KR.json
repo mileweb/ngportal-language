@@ -2088,6 +2088,8 @@
 	"undeployment.confirm.msg": "이 인증서를 배포 취소 하시겠습니까? ",
 	"undeployment.confirm.title": "배포 취소 확인 ",
 	"update.property.deploy.cert": "이 속성을 배포하기 전에 연결된 인증서 '{certId}'를 배포하십시오. ",
+	"update.property.deploy.expired.single.cert": "'{Certificate}' 인증서가 만료되었습니다. 인증서 만료 확인을 건너뛰시겠습니까?",
+	"update.property.deploy.expired.two.certs": "인증서 '{Certificate}' 및 '{Certificate1}'이(가) 만료되었습니다. 인증서 만료 확인을 건너뛰시겠습니까?",
 	"update.property.deploy.single.cert": "다음 인증서가 {target}에 배포되지 않았습니다. 최신 버전을 배포하고 계속 하시겠습니까? ",
 	"update.property.deploy.two.certs": "다음 인증서는 {target}에 배포되지 않았습니다. 최신 버전을 배포하고 계속 하시겠습니까? ",
 	"update.property.go.to.cert": "인증서로 이동 ",

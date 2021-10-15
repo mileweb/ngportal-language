@@ -2088,6 +2088,8 @@
 	"undeployment.confirm.msg": "Вы уверены, что хотите отменить развертывание этого сертификата?",
 	"undeployment.confirm.title": "Подтверждение",
 	"update.property.deploy.cert": "Разверните связанный сертификат '{certId}' перед развертыванием.",
+	"update.property.deploy.expired.single.cert": "Срок действия сертификата \"{Certificate}\" истек. Хотите обойти проверку срока действия сертификата?",
+	"update.property.deploy.expired.two.certs": "Срок действия сертификатов \"{Certificate}\" и \"{Certificate1}\" истек. Хотите обойти проверку срока действия сертификата?",
 	"update.property.deploy.single.cert": "Следующий сертификат не был развернут на {target}. Вы хотите развернуть самую последнюю версию и продолжить?",
 	"update.property.deploy.two.certs": "Следующие сертификаты не были развернуты на {target}. Вы хотите развернуть их самые последние версии и продолжить?",
 	"update.property.go.to.cert": "Перейти на сертификат",

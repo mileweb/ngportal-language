@@ -2088,6 +2088,8 @@
 	"undeployment.confirm.msg": "この証明書を展開解除してもよろしいですか？",
 	"undeployment.confirm.title": "展開解除の確認",
 	"update.property.deploy.cert": "このプロパティを展開する前に、リンクされた証明書「{certId}」を展開してください。",
+	"update.property.deploy.expired.single.cert": "証明書 '{Certificate}'の有効期限が切れています。証明書の有効期限チェックをバイパスしますか？",
+	"update.property.deploy.expired.two.certs": "証明書 '{Certificate}'および '{Certificate1}'の有効期限が切れています。証明書の有効期限チェックをバイパスしますか？",
 	"update.property.deploy.single.cert": "次の証明書は{target}に展開されていません。最新バージョンを展開して続行しますか？",
 	"update.property.deploy.two.certs": "次の証明書は{target}に展開されていません。最新バージョンを展開して続行しますか？",
 	"update.property.go.to.cert": "証明書に移動",

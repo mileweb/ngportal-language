@@ -2088,6 +2088,8 @@
 	"undeployment.confirm.msg": "Are you sure you want to undeploy this certificate?",
 	"undeployment.confirm.title": "Undeployment Confirmation",
 	"update.property.deploy.cert": "Please deploy the linked certificate '{certId}' before deploying this property.",
+	"update.property.deploy.expired.single.cert": "El certificado '{Certificate}' caducó. ¿Desea omitir la verificación de caducidad del certificado?",
+	"update.property.deploy.expired.two.certs": "Los certificados '{Certificate}' y '{Certificate1}' caducaron. ¿Desea omitir la verificación de caducidad del certificado?",
 	"update.property.deploy.single.cert": "The following certificate has not been deployed to {target}. Do you want to deploy its most recent version and continue?",
 	"update.property.deploy.two.certs": "The following certificates have not been deployed to {target}. Do you want to deploy their most recent versions and continue?",
 	"update.property.go.to.cert": "Go To Certificate",
