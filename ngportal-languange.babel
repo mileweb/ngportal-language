@@ -54062,6 +54062,51 @@
                 </translations>
             </concept_node>
             <concept_node>
+                <name>prefetch.fetch.error.title</name>
+                <definition_loaded>false</definition_loaded>
+                <description/>
+                <comment/>
+                <default_text/>
+                <translations>
+                    <translation>
+                        <language>ar-SA</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>en-US</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>es-ES</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>fr-FR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>it-IT</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ja-JP</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ko-KR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ru-RU</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>zh-CN</language>
+                        <approved>false</approved>
+                    </translation>
+                </translations>
+            </concept_node>
+            <concept_node>
                 <name>prefetch.history</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
@@ -54287,6 +54332,51 @@
                 </translations>
             </concept_node>
             <concept_node>
+                <name>prefetch.list.page.columns.rate</name>
+                <definition_loaded>false</definition_loaded>
+                <description/>
+                <comment/>
+                <default_text/>
+                <translations>
+                    <translation>
+                        <language>ar-SA</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>en-US</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>es-ES</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>fr-FR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>it-IT</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ja-JP</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ko-KR</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>ru-RU</language>
+                        <approved>false</approved>
+                    </translation>
+                    <translation>
+                        <language>zh-CN</language>
+                        <approved>false</approved>
+                    </translation>
+                </translations>
+            </concept_node>
+            <concept_node>
                 <name>prefetch.list.page.columns.submission.time</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
@@ -54332,7 +54422,7 @@
                 </translations>
             </concept_node>
             <concept_node>
-                <name>prefetch.list.page.columns.success.rate</name>
+                <name>prefetch.list.page.columns.success</name>
                 <definition_loaded>false</definition_loaded>
                 <description/>
                 <comment/>
