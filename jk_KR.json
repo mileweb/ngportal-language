@@ -1201,7 +1201,7 @@
 	"popover.tooltip.cache.time": "응답 코드 200: 301 및 302에 대한 캐시 시간을 설정하십시오. ",
 	"prefetch.create": "프리페치 생성",
 	"prefetch.detail.page.completion.time": "완료 시간",
-	"prefetch.detail.page.files": "파일 프리페치",
+	"prefetch.detail.page.files": "미리 가져온 파일",
 	"prefetch.detail.page.id": "프리페치 ID",
 	"prefetch.detail.page.name": "프리페치 이름",
 	"prefetch.detail.page.region": "부위",

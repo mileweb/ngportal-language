@@ -1201,7 +1201,7 @@
 	"popover.tooltip.cache.time": "Установите время кеширования для кодов ответа 200, 301 и 302.",
 	"prefetch.create": "Создать предварительную выборку",
 	"prefetch.detail.page.completion.time": "время завершения",
-	"prefetch.detail.page.files": "Файлы предварительной загрузки",
+	"prefetch.detail.page.files": "Предварительно загруженные файлы",
 	"prefetch.detail.page.id": "ID предварительной выборки",
 	"prefetch.detail.page.name": "Имя предварительной выборки",
 	"prefetch.detail.page.region": "область",

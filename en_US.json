@@ -1201,7 +1201,7 @@
 	"popover.tooltip.cache.time": "Set cache time for response codes 200, 301, and 302.",
 	"prefetch.create": "Create Prefetch",
 	"prefetch.detail.page.completion.time": "Completion Time",
-	"prefetch.detail.page.files": "Prefetch Files",
+	"prefetch.detail.page.files": "Prefetched Files",
 	"prefetch.detail.page.id": "Prefetch ID",
 	"prefetch.detail.page.name": "Prefetch Name",
 	"prefetch.detail.page.region": "Region",

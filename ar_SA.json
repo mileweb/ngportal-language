@@ -1201,7 +1201,7 @@
 	"popover.tooltip.cache.time": "Set cache time for response codes 200, 301, and 302.",
 	"prefetch.create": "إنشاء الجلب المسبق",
 	"prefetch.detail.page.completion.time": "وقت الإنجاز",
-	"prefetch.detail.page.files": "ملفات الجلب المسبق",
+	"prefetch.detail.page.files": "الملفات التي تم إحضارها مسبقًا",
 	"prefetch.detail.page.id": "معرف الجلب المسبق",
 	"prefetch.detail.page.name": "اسم الجلب المسبق",
 	"prefetch.detail.page.region": "منطقة",

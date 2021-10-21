@@ -1201,7 +1201,7 @@
 	"popover.tooltip.cache.time": "応答コード200、301、および302のキャッシュ時間を設定します。",
 	"prefetch.create": "プリフェッチを作成する",
 	"prefetch.detail.page.completion.time": "完了時間",
-	"prefetch.detail.page.files": "ファイルのプリフェッチ",
+	"prefetch.detail.page.files": "プリフェッチされたファイル",
 	"prefetch.detail.page.id": "プリフェッチID",
 	"prefetch.detail.page.name": "プリフェッチ名",
 	"prefetch.detail.page.region": "領域",
