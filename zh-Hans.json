@@ -1099,7 +1099,7 @@
 	"label.description": "描述",
 	"label.enforce.cache.timeout": "强制缓存时间",
 	"languageId": "zh",
-	"languageSwitcher.label": "Change Language",
+	"languageSwitcher.label": "切换语言",
 	"link.more.details": "More Details...",
 	"link.text.additional.location": "添加一个Location +",
 	"login.account.name": "帐户",
