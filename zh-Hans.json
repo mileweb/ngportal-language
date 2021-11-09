@@ -1251,6 +1251,7 @@
 	"property.edgeLogic.softWrap": "文本软换行",
 	"property.impersonation.image.click.to": "切换至该客户",
 	"property.impersonation.image.click.to.edit": "切换至该客户进行编辑",
+	"property.impersonation.image.this.is.me": "这就是我。",
 	"property.label.allow.protocol.downgrade": "允许协议降级",
 	"property.label.beian.content.type": "备案服务内容",
 	"property.label.cache.key.scheme": "与HTTP分开缓存HTTPS内容",

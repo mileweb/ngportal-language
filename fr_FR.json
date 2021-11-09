@@ -1251,6 +1251,7 @@
 	"property.edgeLogic.softWrap": "Texte d'habillage souple",
 	"property.impersonation.image.click.to": "Cliquez pour imiter",
 	"property.impersonation.image.click.to.edit": "Cliquez pour usurper l'identité pour modifier",
+	"property.impersonation.image.this.is.me": "C'est moi.",
 	"property.label.allow.protocol.downgrade": "Allow Protocol Downgrade",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "Cache HTTPS contents separately from HTTP",

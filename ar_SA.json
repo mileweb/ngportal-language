@@ -1251,6 +1251,7 @@
 	"property.edgeLogic.softWrap": "نص التفاف ناعم",
 	"property.impersonation.image.click.to": "انقر لانتحال الشخصية",
 	"property.impersonation.image.click.to.edit": "انقر لانتحال الشخصية للتعديل",
+	"property.impersonation.image.this.is.me": "هذا أنا.",
 	"property.label.allow.protocol.downgrade": "Allow Protocol Downgrade",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "Cache HTTPS contents separately from HTTP",

@@ -1251,6 +1251,7 @@
 	"property.edgeLogic.softWrap": "소프트 랩 텍스트",
 	"property.impersonation.image.click.to": "가장하려면 클릭하세요.",
 	"property.impersonation.image.click.to.edit": "편집하려면 가장하려면 클릭하세요.",
+	"property.impersonation.image.this.is.me": "이것은 나 입니다.",
 	"property.label.allow.protocol.downgrade": "프로토콜 다운 그레이드 허용 ",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "HTTP와 별도로 HTTPS 컨텐츠 캐시 ",

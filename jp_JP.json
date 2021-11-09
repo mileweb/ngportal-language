@@ -1251,6 +1251,7 @@
 	"property.edgeLogic.softWrap": "ソフトラップテキスト",
 	"property.impersonation.image.click.to": "クリックしてなりすまし",
 	"property.impersonation.image.click.to.edit": "クリックして偽装して編集",
+	"property.impersonation.image.this.is.me": "これが私です。",
 	"property.label.allow.protocol.downgrade": "プロトコルのダウングレードを許可",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "HTTPSコンテンツをHTTPとは別にキャッシュする",
