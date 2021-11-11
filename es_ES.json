@@ -1251,6 +1251,7 @@
 	"property.edgeLogic.softWrap": "Texto de ajuste suave",
 	"property.impersonation.image.click.to": "Haga clic para suplantar",
 	"property.impersonation.image.click.to.edit": "Haz clic para suplantar y editar",
+	"property.impersonation.image.this.is.me": "Este soy yo.",
 	"property.label.allow.protocol.downgrade": "Allow Protocol Downgrade",
 	"property.label.beian.content.type": "Beian Content Type",
 	"property.label.cache.key.scheme": "Cache HTTPS contents separately from HTTP",

@@ -1251,6 +1251,7 @@
 	"property.edgeLogic.softWrap": "Мягкий перенос текста",
 	"property.impersonation.image.click.to": "Нажмите, чтобы выдать себя за другое лицо",
 	"property.impersonation.image.click.to.edit": "Нажмите, чтобы выдать себя за другое лицо, чтобы редактировать",
+	"property.impersonation.image.this.is.me": "Это я.",
 	"property.label.allow.protocol.downgrade": "Разрешить понижение версии протокола",
 	"property.label.beian.content.type": "Тип контента Beian",
 	"property.label.cache.key.scheme": "Кешировать HTTPS контент отдельно от HTTP",
