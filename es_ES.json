@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "HMAC con llave hexagonal",
 	"hint.evalfunc.MD5": "digerir",
 	"hint.evalfunc.REPLACE": "reemplazo de cuerda",
+	"hint.evalfunc.RSA_SIGN": "firmar $ msg con la clave privada",
+	"hint.evalfunc.RSA_VERIFY": "verificar la firma",
 	"hint.evalfunc.SHA256": "digerir",
 	"hint.evalfunc.SUBSTR": "igual que substr () de Javascript",
 	"hint.evalfunc.TO_LOWER": "convertir una cadena a minúsculas",

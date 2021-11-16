@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "HMAC con chiave esadecimale",
 	"hint.evalfunc.MD5": "digerire",
 	"hint.evalfunc.REPLACE": "sostituzione della stringa",
+	"hint.evalfunc.RSA_SIGN": "firma $msg con la chiave privata",
+	"hint.evalfunc.RSA_VERIFY": "verifica la firma",
 	"hint.evalfunc.SHA256": "digerire",
 	"hint.evalfunc.SUBSTR": "come substr() di Javascript",
 	"hint.evalfunc.TO_LOWER": "convertire una stringa in minuscolo",

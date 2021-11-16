@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "HMAC w/ hex key",
 	"hint.evalfunc.MD5": "digest",
 	"hint.evalfunc.REPLACE": "string replacement",
+	"hint.evalfunc.RSA_SIGN": "sign $msg with the private key",
+	"hint.evalfunc.RSA_VERIFY": "verify the signature",
 	"hint.evalfunc.SHA256": "digest",
 	"hint.evalfunc.SUBSTR": "same as substr() of Javascript",
 	"hint.evalfunc.TO_LOWER": "convert a string to lower case",

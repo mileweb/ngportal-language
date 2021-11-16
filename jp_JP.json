@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "六角レンチ付きHMAC",
 	"hint.evalfunc.MD5": "ダイジェスト",
 	"hint.evalfunc.REPLACE": "文字列の置換",
+	"hint.evalfunc.RSA_SIGN": "秘密鍵で$ msgに署名する",
+	"hint.evalfunc.RSA_VERIFY": "署名を確認する",
 	"hint.evalfunc.SHA256": "ダイジェスト",
 	"hint.evalfunc.SUBSTR": "Javascriptのsubstr（）と同じ",
 	"hint.evalfunc.TO_LOWER": "文字列を小文字に変換する",

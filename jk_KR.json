@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "16진수 문자열 키가 있는 HMAC",
 	"hint.evalfunc.MD5": "해시 알고리즘",
 	"hint.evalfunc.REPLACE": "문자열 교체",
+	"hint.evalfunc.RSA_SIGN": "개인 키로 $msg 서명",
+	"hint.evalfunc.RSA_VERIFY": "서명을 확인",
 	"hint.evalfunc.SHA256": "해시 알고리즘",
 	"hint.evalfunc.SUBSTR": "자바스크립트의 substr()과 동일",
 	"hint.evalfunc.TO_LOWER": "문자열을 소문자로 변환",

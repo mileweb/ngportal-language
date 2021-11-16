@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "HMAC مع مفتاح سداسي",
 	"hint.evalfunc.MD5": "استوعب",
 	"hint.evalfunc.REPLACE": "استبدال السلسلة",
+	"hint.evalfunc.RSA_SIGN": "وقع $ msg بالمفتاح الخاص",
+	"hint.evalfunc.RSA_VERIFY": "تحقق من التوقيع",
 	"hint.evalfunc.SHA256": "استوعب",
 	"hint.evalfunc.SUBSTR": "مثل substr () من جافا سكريبت",
 	"hint.evalfunc.TO_LOWER": "تحويل سلسلة إلى أحرف صغيرة",

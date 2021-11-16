@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "用十六进制字符串密钥的HMAC",
 	"hint.evalfunc.MD5": "哈希算法",
 	"hint.evalfunc.REPLACE": "字符串替换",
+	"hint.evalfunc.RSA_SIGN": "用私钥对 $msg 签名",
+	"hint.evalfunc.RSA_VERIFY": "用公钥验证签名 $sig",
 	"hint.evalfunc.SHA256": "哈希算法",
 	"hint.evalfunc.SUBSTR": "与Javascript的substr()相同",
 	"hint.evalfunc.TO_LOWER": "将字符串转换为小写",

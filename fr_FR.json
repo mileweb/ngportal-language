@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "HMAC avec clé hexagonale",
 	"hint.evalfunc.MD5": "Digérer",
 	"hint.evalfunc.REPLACE": "remplacement de chaîne",
+	"hint.evalfunc.RSA_SIGN": "signer $msg avec la clé privée",
+	"hint.evalfunc.RSA_VERIFY": "vérifier la signature",
 	"hint.evalfunc.SHA256": "Digérer",
 	"hint.evalfunc.SUBSTR": "identique à substr() de Javascript",
 	"hint.evalfunc.TO_LOWER": "convertir une chaîne en minuscule",

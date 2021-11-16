@@ -980,6 +980,8 @@
 	"hint.evalfunc.HMAC_HEXKEY": "HMAC с hex-ключом",
 	"hint.evalfunc.MD5": "digest",
 	"hint.evalfunc.REPLACE": "замена строки",
+	"hint.evalfunc.RSA_SIGN": "подписать $ msg закрытым ключом",
+	"hint.evalfunc.RSA_VERIFY": "проверить подпись",
 	"hint.evalfunc.SHA256": "digest",
 	"hint.evalfunc.SUBSTR": "аналог substr() в Javascript",
 	"hint.evalfunc.TO_LOWER": "преобразовать строку в нижний регистр",
