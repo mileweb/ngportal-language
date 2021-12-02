@@ -1454,7 +1454,7 @@
 	"purge.file.quota.warning": "您还有 {available} 个可用的每日文件刷新额度",
 	"purge.file.section.title": "添加要清除的文件",
 	"purge.file.section.title2": "添加一个文件刷新请求头：",
-	"purge.file.section.tooltip": "请输入要刷新的文件的完整 URL。如果文件由于自定义缓存键而存在多个变体，请选择“目录”刷新类型。",
+	"purge.file.section.tooltip": "请输入要清除的文件的完整 URL。如果文件由于自定义缓存键而有多个变体，请选择“通配符”清除类型。",
 	"purge.header.section.title": " 选择一个目标环境和操作。",
 	"purge.item.list.column.header.name": "Header名称",
 	"purge.item.list.column.header.value": "Header值",
