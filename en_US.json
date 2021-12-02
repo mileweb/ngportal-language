@@ -1454,7 +1454,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "Add files to purge",
 	"purge.file.section.title2": "Add a file purge header:",
-	"purge.file.section.tooltip": "Please enter the complete URL of the file to be purged. If the file has multiple variations due to a custom cache key, choose the \"Directory\" purge type.",
+	"purge.file.section.tooltip": "Please enter the complete URL of the file to be purged. If the file has multiple variations due to a custom cache key, choose the \"Wildcard\" purge type.",
 	"purge.header.section.title": " Select an environment and action.",
 	"purge.item.list.column.header.name": "Header Name",
 	"purge.item.list.column.header.value": "Header Value",

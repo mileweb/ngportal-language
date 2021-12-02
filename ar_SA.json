@@ -1454,7 +1454,7 @@
 	"purge.file.quota.warning": "You have {available} of your daily file purge quota available",
 	"purge.file.section.title": "أضف الملفات المراد مسحها",
 	"purge.file.section.title2": "Add a file purge header:",
-	"purge.file.section.tooltip": "الرجاء إدخال عنوان URL الكامل للملف المراد إزالته. إذا كان الملف يحتوي على أشكال متعددة بسبب مفتاح ذاكرة تخزين مؤقت مخصص ، فاختر نوع مسح \"الدليل\".",
+	"purge.file.section.tooltip": "الرجاء إدخال عنوان URL الكامل للملف المراد إزالته. إذا كان الملف يحتوي على أشكال متعددة بسبب مفتاح ذاكرة تخزين مؤقت مخصص ، فاختر نوع المسح \"Wildcard\".",
 	"purge.header.section.title": " Select an environment and action.",
 	"purge.item.list.column.header.name": "Header Name",
 	"purge.item.list.column.header.value": "Header Value",

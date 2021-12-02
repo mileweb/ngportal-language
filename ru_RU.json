@@ -1454,7 +1454,7 @@
 	"purge.file.quota.warning": "У вас есть {available} из вашей ежедневной квоты на удаление файлов.",
 	"purge.file.section.title": "Добавить файлы для очистки",
 	"purge.file.section.title2": "Добавить HTTP-заголовок:",
-	"purge.file.section.tooltip": "Введите полный URL-адрес файла, который нужно удалить. Если файл имеет несколько вариантов имен, то используйте очистку директории.",
+	"purge.file.section.tooltip": "Введите полный URL-адрес файла, который нужно удалить. Если файл имеет несколько вариантов из-за настраиваемого ключа кеша, выберите тип очистки «Подстановочный знак».",
 	"purge.header.section.title": " Настройка окружения и действий.",
 	"purge.item.list.column.header.name": "Имя HTTP-заголовка",
 	"purge.item.list.column.header.value": "Значение HTTP-заголовка",
