@@ -1646,6 +1646,7 @@
 	"role.delete.confirm.zero.btn": "Yes, delete!",
 	"role.desc.placeholder": "이 역할에 대한 설명을 입력하십시오 ",
 	"role.global.label": "전 세계 : 모든 고객이이 역할을 사용할 수 있습니다. ",
+	"role.in.use.text": "삭제하려면 사용자의 역할 할당을 취소하세요.",
 	"role.list.button.actions": "행위",
 	"role.list.button.actions.delete": "지우다",
 	"role.list.button.actions.edit": "편집하다",
