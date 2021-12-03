@@ -1646,6 +1646,7 @@
 	"role.delete.confirm.zero.btn": "Да, удалить!",
 	"role.desc.placeholder": "Введите описание этой роли",
 	"role.global.label": "Глобальная настройка: все клиенты могут использовать эту роль.",
+	"role.in.use.text": "Отмените назначение роли (-ей) пользователю (-ам) для удаления.",
 	"role.list.button.actions": "Действия",
 	"role.list.button.actions.delete": "Удалить",
 	"role.list.button.actions.edit": "Редактировать",

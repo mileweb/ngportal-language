@@ -1646,6 +1646,7 @@
 	"role.delete.confirm.zero.btn": "Yes, delete!",
 	"role.desc.placeholder": "Enter description about this role",
 	"role.global.label": "Global: All customers can use this role.",
+	"role.in.use.text": "قم بإلغاء تعيين الدور (الأدوار) من المستخدم (المستخدمين) من أجل الحذف.",
 	"role.list.button.actions": "Actions",
 	"role.list.button.actions.delete": "Delete",
 	"role.list.button.actions.edit": "Edit",

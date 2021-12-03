@@ -1646,6 +1646,7 @@
 	"role.delete.confirm.zero.btn": "Yes, delete!",
 	"role.desc.placeholder": "Enter description about this role",
 	"role.global.label": "Global: All customers can use this role.",
+	"role.in.use.text": "从用户取消分配角色以删除。",
 	"role.list.button.actions": "操作",
 	"role.list.button.actions.delete": "删除",
 	"role.list.button.actions.edit": "修改",
