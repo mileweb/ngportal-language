@@ -1679,6 +1679,7 @@
 	"roles.delete.confirm.msg": "{roleCount}ロールを削除しようとしています。",
 	"roles.delete.confirm.title": "役割を削除してもよろしいですか？",
 	"roles.delete.confirm.user": "{userCount} {user} {verb} been assigned to the {role}.",
+	"roles.delete.err.msg": "次の役割を削除できませんでした： {roleNames}。削除する役割がユーザーに割り当てられていないことを確認して、再試行してください。",
 	"search.component.reset.title": "リセットする",
 	"secret.confirm.cancel.create": "このシークレットの作成を終了しますか?",
 	"secret.confirm.cancel.edit": "このシークレットの更新を破棄しますか?",

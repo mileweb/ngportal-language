@@ -1679,6 +1679,7 @@
 	"roles.delete.confirm.msg": "Вы пытаетесь удалить {roleCount} {role}.",
 	"roles.delete.confirm.title": "Вы уверены, что хотите удалить {determiner} {role}?",
 	"roles.delete.confirm.user": "{userCount} {user} {verb} был назначен на {role}.",
+	"roles.delete.err.msg": "Не удалось удалить следующие роли: {roleNames}. Убедитесь, что удаляемая роль не назначена пользователям, и повторите попытку.",
 	"search.component.reset.title": "Cброс",
 	"secret.confirm.cancel.create": "Вы хотите прекратить создание этого секрета?",
 	"secret.confirm.cancel.edit": "Вы хотите отказаться от обновления этого Секрета?",

@@ -1679,6 +1679,7 @@
 	"roles.delete.confirm.msg": "You are trying to delete {roleCount} {role}.",
 	"roles.delete.confirm.title": "Are you sure you want to delete {determiner} {role}?",
 	"roles.delete.confirm.user": "{userCount} {user} {verb} been assigned to the {role}.",
+	"roles.delete.err.msg": "Impossibile eliminare i seguenti ruoli: {roleNames}. Verifica che il ruolo da eliminare non sia assegnato agli utenti e riprova.",
 	"search.component.reset.title": "Reset",
 	"secret.confirm.cancel.create": "Vuoi smettere di creare questo Segreto?",
 	"secret.confirm.cancel.edit": "Vuoi scartare l'aggiornamento di questo Segreto?",
