@@ -1687,6 +1687,7 @@
 	"roles.delete.confirm.msg": "You are trying to delete {roleCount} {role}.",
 	"roles.delete.confirm.title": "Are you sure you want to delete {determiner} {role}?",
 	"roles.delete.confirm.user": "{userCount} {user} {verb} been assigned to the {role}.",
+	"roles.delete.err.msg": "No se pudieron eliminar las siguientes funciones: {roleNames}. Compruebe que la función que se va a eliminar no esté asignada a los usuarios y vuelva a intentarlo.",
 	"search.component.reset.title": "Reset",
 	"secret.confirm.cancel.create": "¿Quieres dejar de crear este secreto?",
 	"secret.confirm.cancel.edit": "¿Quieres descartar la actualización de este secreto?",

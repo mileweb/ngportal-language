@@ -1687,6 +1687,7 @@
 	"roles.delete.confirm.msg": "You are trying to delete {roleCount} {role}.",
 	"roles.delete.confirm.title": "Are you sure you want to delete {determiner} {role}?",
 	"roles.delete.confirm.user": "{userCount} {user} {verb} been assigned to the {role}.",
+	"roles.delete.err.msg": "The following role(s) could not be deleted: {roleNames}. Please check that the role to be deleted is not assigned to users and try again.",
 	"search.component.reset.title": "Reset",
 	"secret.confirm.cancel.create": "Do you want to quit creating this Secret?",
 	"secret.confirm.cancel.edit": "Do you want to discard the update of this Secret?",

@@ -1687,6 +1687,7 @@
 	"roles.delete.confirm.msg": "You are trying to delete {roleCount} {role}.",
 	"roles.delete.confirm.title": "Are you sure you want to delete {determiner} {role}?",
 	"roles.delete.confirm.user": "{userCount} {user} {verb} been assigned to the {role}.",
+	"roles.delete.err.msg": "无法删除以下角色： {roleNames}。请检查要删除的角色是否未分配给用户，然后重试。",
 	"search.component.reset.title": "Reset",
 	"secret.confirm.cancel.create": "您要停止创建此保密信息吗？",
 	"secret.confirm.cancel.edit": "您要放弃对此保密信息的更新吗？",

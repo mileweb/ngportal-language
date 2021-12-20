@@ -1687,6 +1687,7 @@
 	"roles.delete.confirm.msg": "You are trying to delete {roleCount} {role}.",
 	"roles.delete.confirm.title": "Are you sure you want to delete {determiner} {role}?",
 	"roles.delete.confirm.user": "{userCount} {user} {verb} been assigned to the {role}.",
+	"roles.delete.err.msg": "تعذر حذف الأدوار التالية: {roleNames}. يرجى التحقق من أن الدور المراد حذفه لم يتم تعيينه للمستخدمين وحاول مرة أخرى.",
 	"search.component.reset.title": "Reset",
 	"secret.confirm.cancel.create": "هل تريد إنهاء إنشاء هذا السر؟",
 	"secret.confirm.cancel.edit": "هل تريد تجاهل تحديث هذا السر؟",
