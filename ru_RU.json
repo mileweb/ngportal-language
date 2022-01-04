@@ -1128,7 +1128,7 @@
 	"msg.purge.invalid.regex.url": "URL-адрес регулярного выражения очистки \"{purgeUrl}\" недействителен.",
 	"msg.purge.invalid.target": "Цель '{target}' недействительна. Разрешены только «продакшн» и «стейджинг».",
 	"msg.purge.invalid.too.big.quantifier": "Верхний предел любого квантификатора не может быть больше {limitCnt}.",
-	"msg.purge.invalid.too.many.unlimited.quantifier": "Шаблон регулярного выражения очистки может содержать до {limitCnt} неограниченного количества квантификаторов{quantifiers}.",
+	"msg.purge.invalid.too.many.unlimited.quantifier": "Шаблон регулярного выражения очистки может содержать до {limitCnt} неограниченных квантификаторов{quantifiers}.",
 	"msg.purge.invalid.url": "URL-адрес очистки \"{purgeUrl}\" недействителен. Необходимо закодировать специальные буквы.",
 	"navigation.prompt.confirmation": "Подтверждение",
 	"navigation.prompt.no": "Нет",
