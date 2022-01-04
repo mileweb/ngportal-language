@@ -1486,7 +1486,7 @@
 	"purge.progress-bar.success.message": "内容已被成功刷新。",
 	"purge.progress-bar.success.title": "内容已被刷新",
 	"purge.regex.section.title": "添加要清除的正则表达式",
-	"purge.regex.section.tooltip": " ",
+	"purge.regex.section.tooltip": "指定与以 {scheme}://{hostname}/ 开头的缓存键条目匹配的正则表达式，其中方案是 http 或 https。主机名后的模式长度必须少于 126 个字符。它最多可以包含两个无限的限定符（“*”、“+”或“，N}”）。量词 N 的上限必须是 <= 59 个字符。",
 	"purge.single.directory.task.name": "刷新目录'{dir}'",
 	"purge.single.file.task.name": "刷新文件'{file}'",
 	"purge.single.regex.task.name": "刷新正则表达式'{regex}'",
