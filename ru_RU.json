@@ -1486,7 +1486,7 @@
 	"purge.progress-bar.success.message": "Контент успешно удален.",
 	"purge.progress-bar.success.title": "Контент успешно удален",
 	"purge.regex.section.title": "",
-	"purge.regex.section.tooltip": "",
+	"purge.regex.section.tooltip": "Укажите соответствие регулярному выражению для ключевых записей кеша, начинающихся с {scheme}: //{hostname}/, где схема - http или https. Длина шаблона после имени хоста должна быть менее 126 символов. Он может содержать до двух неограниченных квалификаторов («*», «+» или «, N}»). Верхний предел квантификатора N должен быть <= 59 символов.",
 	"purge.single.directory.task.name": "Очистка директории '{dir}' ",
 	"purge.single.file.task.name": "Удаление файла '{file}' ",
 	"purge.single.regex.task.name": "",
