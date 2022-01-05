@@ -1486,7 +1486,7 @@
 	"purge.progress-bar.success.message": "The content has been successfully purged.",
 	"purge.progress-bar.success.title": "Content Purged",
 	"purge.regex.section.title": "Add regular expressions to purge",
-	"purge.regex.section.tooltip": "حدد تعبيرًا عاديًا يطابق إدخالات مفتاح ذاكرة التخزين المؤقت التي تبدأ بـ {scheme}: //{hostname}/ حيث يكون المخطط http أو https. يجب أن يكون طول النمط بعد اسم المضيف أقل من 126 حرفًا. يمكن أن تحتوي على ما يصل إلى اثنين من المؤهلات غير المحدودة (\"*\" ، \"+\" أو \"، N}\"). يجب أن يكون الحد الأعلى للمُحدد الكمي N <= 59 حرفًا.",
+	"purge.regex.section.tooltip": "حدد تعبيرًا عاديًا يطابق إدخالات مفتاح ذاكرة التخزين المؤقت التي تبدأ بـ {scheme}: //{hostname}/ حيث يكون المخطط http أو https. يجب أن يكون طول النمط بعد اسم المضيف أقل من 126 حرفًا. يمكن أن تحتوي على ما يصل إلى اثنين من المحددات الكمية غير المحدودة (\"*\" ، \"+\" أو \"، N}\"). يجب أن يكون الحد الأعلى للمُحدد الكمي N <= 59 حرفًا.",
 	"purge.single.directory.task.name": "Purge directory '{dir}' ",
 	"purge.single.file.task.name": "Purge file '{file}' ",
 	"purge.single.regex.task.name": "Purge regex '{regex}' ",

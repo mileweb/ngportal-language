@@ -1486,7 +1486,7 @@
 	"purge.progress-bar.success.message": "The content has been successfully purged.",
 	"purge.progress-bar.success.title": "Content Purged",
 	"purge.regex.section.title": "Add regular expressions to purge",
-	"purge.regex.section.tooltip": "Spécifiez une expression régulière correspondant aux entrées de clé de cache commençant par {scheme}://{hostname}/où le schéma est http ou https. La longueur du modèle après le nom d'hôte doit être inférieure à 126 caractères. Il peut contenir jusqu'à deux qualificatifs illimités (\"*\", \"+\" ou \",N}\"). La limite supérieure d'un quantificateur N doit être <= 59 caractères.",
+	"purge.regex.section.tooltip": "Spécifiez une expression régulière correspondant aux entrées de clé de cache commençant par {scheme}://{hostname}/où le schéma est http ou https. La longueur du modèle après le nom d'hôte doit être inférieure à 126 caractères. Il peut contenir jusqu'à deux quantificateurs illimités (\"*\", \"+\" ou \",N}\"). La limite supérieure d'un quantificateur N doit être <= 59 caractères.",
 	"purge.single.directory.task.name": "Purge directory '{dir}' ",
 	"purge.single.file.task.name": "Purge file '{file}' ",
 	"purge.single.regex.task.name": "Purge regex '{regex}' ",

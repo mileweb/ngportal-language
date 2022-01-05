@@ -1486,7 +1486,7 @@
 	"purge.progress-bar.success.message": "コンテンツは正常に削除されました。",
 	"purge.progress-bar.success.title": "パージされたコンテンツ",
 	"purge.regex.section.title": "Add regular expressions to purge",
-	"purge.regex.section.tooltip": " {scheme}：//{hostname}で始まるキャッシュキーエントリに一致する正規表現を指定します。ここで、スキームはhttpまたはhttpsです。ホスト名の後のパターンの長さは、126文字未満である必要があります。最大2つの無制限の修飾子（ \"*\"、 \"+\"、または \"、N}\"）を含めることができます。数量詞Nの上限は59文字未満である必要があります。",
+	"purge.regex.section.tooltip": " {scheme}：//{hostname}で始まるキャッシュキーエントリに一致する正規表現を指定します。ここで、スキームはhttpまたはhttpsです。ホスト名の後のパターンの長さは、126文字未満である必要があります。最大2つの無制限の数量詞（ \"*\"、 \"+\"、または \"、N}\"）を含めることができます。数量詞Nの上限は59文字未満である必要があります。",
 	"purge.single.directory.task.name": "ディレクトリ '{dir}'を削除します ",
 	"purge.single.file.task.name": "ファイル '{file}'を削除します",
 	"purge.single.regex.task.name": "Purge regex '{regex}' ",
