@@ -1279,6 +1279,7 @@
 	"property.label.http2.disable": "Desactivar",
 	"property.label.http2.enable": "Habilitar",
 	"property.label.id": "Property ID",
+	"property.label.load.balancer.logic": "Lógica del equilibrador de carga",
 	"property.label.loadbalancer.hashkey": "Load Balancer Hash Key",
 	"property.label.ngnix.server": "Edge Logic *",
 	"property.label.ngnix.server.section.title": "Asistente de lógica de borde",

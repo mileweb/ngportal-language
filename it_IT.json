@@ -1279,6 +1279,7 @@
 	"property.label.http2.disable": "disattivare",
 	"property.label.http2.enable": "Abilitare",
 	"property.label.id": "Property ID",
+	"property.label.load.balancer.logic": "Logica del bilanciamento del carico",
 	"property.label.loadbalancer.hashkey": "Load Balancer Hash Key",
 	"property.label.ngnix.server": "Edge Logic *",
 	"property.label.ngnix.server.section.title": "Procedura guidata Edge Logic",

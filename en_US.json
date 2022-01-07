@@ -1279,6 +1279,7 @@
 	"property.label.http2.disable": "Disable",
 	"property.label.http2.enable": "Enable",
 	"property.label.id": "Property ID",
+	"property.label.load.balancer.logic": "Load Balancer Logic",
 	"property.label.loadbalancer.hashkey": "Load Balancer Hash Key",
 	"property.label.ngnix.server": "Edge Logic *",
 	"property.label.ngnix.server.section.title": "Edge Logic Wizard",

@@ -1279,6 +1279,7 @@
 	"property.label.http2.disable": "無効にする",
 	"property.label.http2.enable": "有効にする",
 	"property.label.id": "物件ID",
+	"property.label.load.balancer.logic": "ロードバランサーロジック",
 	"property.label.loadbalancer.hashkey": "Load Balancer Hash Key",
 	"property.label.ngnix.server": "エッジロジック*",
 	"property.label.ngnix.server.section.title": "エッジロジックウィザード",

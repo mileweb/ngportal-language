@@ -1279,6 +1279,7 @@
 	"property.label.http2.disable": "تعطيل",
 	"property.label.http2.enable": "يمكن",
 	"property.label.id": "Property ID",
+	"property.label.load.balancer.logic": "منطق تحميل الموازن",
 	"property.label.loadbalancer.hashkey": "Load Balancer Hash Key",
 	"property.label.ngnix.server": "Edge Logic *",
 	"property.label.ngnix.server.section.title": "معالج منطق الحافة",

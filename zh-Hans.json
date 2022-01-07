@@ -1279,6 +1279,7 @@
 	"property.label.http2.disable": "禁用",
 	"property.label.http2.enable": "启用",
 	"property.label.id": "加速项目ID",
+	"property.label.load.balancer.logic": "负载均衡器逻辑",
 	"property.label.loadbalancer.hashkey": "负载均衡器Hash Key",
 	"property.label.ngnix.server": "边缘逻辑 *",
 	"property.label.ngnix.server.section.title": "边缘逻辑向导",
