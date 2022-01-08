@@ -1069,7 +1069,7 @@
 	"hint.variable.$upstream_response_time": "从上游收完响应的总时间，以秒单位保持3位小数",
 	"hint.variable.$upstream_server_type": "上游类型，O为源站; C为父节点",
 	"hint.variable.$upstream_trailer_*": "从边缘逻辑传递的来的尾部",
-	"hint.variable.$uri": "不带查询串的归一化的URI (可能被该写过)",
+	"hint.variable.$uri": "不带查询串,可能被rewrite过,归一化的URI",
 	"http.header.value.table.column.name": "请求头名称",
 	"http.header.value.table.column.value": "请求头值",
 	"http.header.value.table.empty": "没有定义任何请求头",
