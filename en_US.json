@@ -914,7 +914,7 @@
 	"hint.directive.auth_request_set": "set a variable based on auth result",
 	"hint.directive.client_body_timeout": "timeout to wait for req body",
 	"hint.directive.client_header_timeout": "timeout to wait for req header",
-	"hint.directive.client_max_body_size": "max allowed request body",
+	"hint.directive.client_max_body_size": "maximum allowed request body",
 	"hint.directive.client_send_timeout": "timeout to send resp to client",
 	"hint.directive.custom_log_field": "set the value of a custom log field",
 	"hint.directive.deny": "specify the denied client IP range",
