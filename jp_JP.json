@@ -1244,6 +1244,8 @@
 	"property.btn.view.origin": "見る",
 	"property.button.compare": "比較する",
 	"property.button.compare.versions": "Compare Versions",
+	"property.check.domain.beian.confirm.content": "このプロパティのすべてのドメインにはICPBeianがあります。",
+	"property.check.domain.beian.confirm.title": "中国本土で提供したいですか？",
 	"property.clone.description": "{userName}によってプロパティ{property}バージョン{version}から複製されました",
 	"property.clone.version.description": "{userName}によってバージョン{version}から複製されました",
 	"property.compare.configuration.title": "Configuration",
