@@ -1244,6 +1244,8 @@
 	"property.btn.view.origin": "Просмотреть",
 	"property.button.compare": "Сравнить",
 	"property.button.compare.versions": "Сравнить версии",
+	"property.check.domain.beian.confirm.content": "Все домены в этом объекте имеют ICP Beian.",
+	"property.check.domain.beian.confirm.title": "Вы хотите, чтобы его подавали в материковом Китае?",
 	"property.clone.description": "Скопировать {property} версию {version} пользователь {userName}",
 	"property.clone.version.description": "Скопирована версия {version} пользователь {userName}",
 	"property.compare.configuration.title": "Настройки",

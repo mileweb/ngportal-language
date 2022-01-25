@@ -1244,6 +1244,8 @@
 	"property.btn.view.origin": "vista",
 	"property.button.compare": "Confrontare",
 	"property.button.compare.versions": "Compare Versions",
+	"property.check.domain.beian.confirm.content": "Tutti i domini in questa proprietà hanno ICP Beian.",
+	"property.check.domain.beian.confirm.title": "Vuoi che venga servito nella Cina continentale?",
 	"property.clone.description": "Clonato dalla proprietà {proprietà} versione {versione} da {userName}",
 	"property.clone.version.description": "Clonato dalla versione {version} da {userName}",
 	"property.compare.configuration.title": "Configuration",

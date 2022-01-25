@@ -1244,6 +1244,8 @@
 	"property.btn.view.origin": "查看",
 	"property.button.compare": "比较",
 	"property.button.compare.versions": "比较版本",
+	"property.check.domain.beian.confirm.content": "此属性中的所有域都有 ICP Beian。",
+	"property.check.domain.beian.confirm.title": "您希望它在中国大陆供应吗？",
 	"property.clone.description": "由{userName}从加速项目{property}版本{version}克隆",
 	"property.clone.version.description": "由{userName}从版本 {version}克隆",
 	"property.compare.configuration.title": "配置",
