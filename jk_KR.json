@@ -1463,6 +1463,8 @@
 	"propertyListing.column.version": "번역",
 	"propertyListing.delete.error": "속성을 삭제하는 동안 오류가 발생했습니다. ",
 	"propertyListing.fetch.error": "속성을 가져 오는 중에 오류가 발생했습니다. ",
+	"propertyListing.modal.clone.confirm.content": "최신 버전을 복제하시겠습니까? 프로덕션 환경에 배포되지 않았으며 일부 실험적 변경 사항이 포함될 수 있습니다.",
+	"propertyListing.modal.clone.confirm.title": "클론 확인",
 	"propertyListing.modal.delete.confirm.title": "이 속성을 정말로 삭제 하시겠습니까? ",
 	"propertyListing.modal.undeploy.cancel.btn": "아니",
 	"propertyListing.modal.undeploy.confirm.btn": "예, 배포를 해제하십시오! ",

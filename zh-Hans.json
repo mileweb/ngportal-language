@@ -1463,6 +1463,8 @@
 	"propertyListing.column.version": "版本",
 	"propertyListing.delete.error": "删除加速项目时发生错误。",
 	"propertyListing.fetch.error": "An error occurred while fetching properties.",
+	"propertyListing.modal.clone.confirm.content": "您确定要克隆最新版本吗？它未部署在生产中，可能包含一些实验性更改。",
+	"propertyListing.modal.clone.confirm.title": "克隆确认",
 	"propertyListing.modal.delete.confirm.title": "您真的要删除此加速项目吗？",
 	"propertyListing.modal.undeploy.cancel.btn": "No",
 	"propertyListing.modal.undeploy.confirm.btn": "Yes, 卸载!",
