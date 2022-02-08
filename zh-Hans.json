@@ -438,6 +438,7 @@
 	"customer.list.search.placeholder": "搜索",
 	"customer.list.tab.all": "All Customers",
 	"customer.status.active": "Active",
+	"customer.status.pending": "Pending",
 	"customer.status.suspended": "Suspended",
 	"customer.type.partner": "合作伙伴",
 	"customer.type.regular": "常规客户",

@@ -438,6 +438,7 @@
 	"customer.list.search.placeholder": "검색",
 	"customer.list.tab.all": "모든 고객 ",
 	"customer.status.active": "Active",
+	"customer.status.pending": "Pending",
 	"customer.status.suspended": "Suspended",
 	"customer.type.partner": "파트너",
 	"customer.type.regular": "전통적인",

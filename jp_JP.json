@@ -438,6 +438,7 @@
 	"customer.list.search.placeholder": "調べる",
 	"customer.list.tab.all": "すべての顧客",
 	"customer.status.active": "Active",
+	"customer.status.pending": "Pending",
 	"customer.status.suspended": "Suspended",
 	"customer.type.partner": "相棒",
 	"customer.type.regular": "レギュラー",
