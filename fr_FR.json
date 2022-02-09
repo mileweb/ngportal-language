@@ -1463,6 +1463,8 @@
 	"propertyListing.column.version": "Version",
 	"propertyListing.delete.error": "An error occurred while deleting the property.",
 	"propertyListing.fetch.error": "An error occurred while fetching properties.",
+	"propertyListing.modal.clone.confirm.content": "Voulez-vous vraiment cloner la dernière version ? Il n'est pas déployé en production et peut contenir des modifications expérimentales.",
+	"propertyListing.modal.clone.confirm.title": "Cloner la confirmation",
 	"propertyListing.modal.delete.confirm.title": "Do you really want to delete this property?",
 	"propertyListing.modal.undeploy.cancel.btn": "No",
 	"propertyListing.modal.undeploy.confirm.btn": "Yes, undeploy!",

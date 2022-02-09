@@ -1463,6 +1463,8 @@
 	"propertyListing.column.version": "Версия",
 	"propertyListing.delete.error": "Произошла ошибка при удалении.",
 	"propertyListing.fetch.error": "Произошла ошибка при получении.",
+	"propertyListing.modal.clone.confirm.content": "Вы уверены, что хотите копировать последнюю версию? Она не инсталлирована в продакшене и может содержать некоторые экспериментальные изменения.",
+	"propertyListing.modal.clone.confirm.title": "Подтверждение копирования",
 	"propertyListing.modal.delete.confirm.title": "Вы действительно хотите удалить?",
 	"propertyListing.modal.undeploy.cancel.btn": "Нет",
 	"propertyListing.modal.undeploy.confirm.btn": "Да, деинсталлировать!",

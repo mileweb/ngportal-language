@@ -1463,6 +1463,8 @@
 	"propertyListing.column.version": "版",
 	"propertyListing.delete.error": "プロパティの削除中にエラーが発生しました。",
 	"propertyListing.fetch.error": "プロパティの取得中にエラーが発生しました。",
+	"propertyListing.modal.clone.confirm.content": "最新バージョンのクローンを作成してもよろしいですか？本番環境にはデプロイされておらず、実験的な変更が含まれている可能性があります。",
+	"propertyListing.modal.clone.confirm.title": "クローンの確認",
 	"propertyListing.modal.delete.confirm.title": "このプロパティを本当に削除しますか？",
 	"propertyListing.modal.undeploy.cancel.btn": "番号",
 	"propertyListing.modal.undeploy.confirm.btn": "はい、アンデプロイします！",
