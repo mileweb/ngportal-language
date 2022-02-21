@@ -306,6 +306,7 @@
 	"certificate.version.chain.cert.collapse.title.single": "1 chain certificate",
 	"certificate.version.chain.cert.expirationTime": "Expiration date: {expirationTime}",
 	"certificate.version.chain.cert.info.line": "Certificate {id}: {info}",
+	"certificate.version.chain.cert.issuer": "Émetteur : {issuer}",
 	"certificate.version.chain.cert.none": "None",
 	"certificate.version.chain.cert.subject": "Subject: {subject}",
 	"certificate.version.comment": "Version Comments",

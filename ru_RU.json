@@ -306,6 +306,7 @@
 	"certificate.version.chain.cert.collapse.title.single": "1 chain-сертификат",
 	"certificate.version.chain.cert.expirationTime": "Действителен до: {expirationTime}",
 	"certificate.version.chain.cert.info.line": "Сертификат {id}: {info}",
+	"certificate.version.chain.cert.issuer": "Эмитент: {issuer}",
 	"certificate.version.chain.cert.none": "Не выбрано",
 	"certificate.version.chain.cert.subject": "Тема: {subject}",
 	"certificate.version.comment": "Версия комментариев",

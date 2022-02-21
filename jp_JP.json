@@ -306,6 +306,7 @@
 	"certificate.version.chain.cert.collapse.title.single": "1チェーン証明書",
 	"certificate.version.chain.cert.expirationTime": "有効期限：{expirationTime}",
 	"certificate.version.chain.cert.info.line": "証明書{id}：{info}",
+	"certificate.version.chain.cert.issuer": "発行者： {issuer}",
 	"certificate.version.chain.cert.none": "無し",
 	"certificate.version.chain.cert.subject": "件名： {subject}",
 	"certificate.version.comment": "バージョンコメント",

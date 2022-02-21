@@ -306,6 +306,7 @@
 	"certificate.version.chain.cert.collapse.title.single": "1 chain certificate",
 	"certificate.version.chain.cert.expirationTime": "만료 날짜 : {expirationTime} ",
 	"certificate.version.chain.cert.info.line": "인증서 {id} : {info} ",
+	"certificate.version.chain.cert.issuer": "발급기관: {issuer}",
 	"certificate.version.chain.cert.none": "없음 ",
 	"certificate.version.chain.cert.subject": "제목 : {subject}",
 	"certificate.version.comment": "버전 설명 ",
