@@ -313,6 +313,7 @@
 	"certificate.version.creationDate": "作成日時",
 	"certificate.version.expirationDate": "有効期限",
 	"certificate.version.fingerprint": "フィンガープリント",
+	"certificate.version.issuer": "発行者",
 	"certificate.version.public.key.algorithm": "アルゴリズム",
 	"certificate.version.public.key.length": "キーの長さ",
 	"certificate.version.serialNo": "シリアルナンバー",

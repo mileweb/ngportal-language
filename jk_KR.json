@@ -313,6 +313,7 @@
 	"certificate.version.creationDate": "생성 날짜 및 시간 ",
 	"certificate.version.expirationDate": "만료 날짜 ",
 	"certificate.version.fingerprint": "핑거프린트",
+	"certificate.version.issuer": "발급사",
 	"certificate.version.public.key.algorithm": "연산",
 	"certificate.version.public.key.length": "키 길이 ",
 	"certificate.version.serialNo": "일련 번호 ",

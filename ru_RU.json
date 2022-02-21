@@ -313,6 +313,7 @@
 	"certificate.version.creationDate": "Дата создания",
 	"certificate.version.expirationDate": "Действителен до",
 	"certificate.version.fingerprint": "Fingerprint",
+	"certificate.version.issuer": "Эмитент",
 	"certificate.version.public.key.algorithm": "Алгоритм",
 	"certificate.version.public.key.length": "Размер ключа",
 	"certificate.version.serialNo": "Серийный номер",

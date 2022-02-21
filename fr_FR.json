@@ -313,6 +313,7 @@
 	"certificate.version.creationDate": "Creation Date & Time",
 	"certificate.version.expirationDate": "Expiration Date",
 	"certificate.version.fingerprint": "Fingerprint",
+	"certificate.version.issuer": "Émetteur",
 	"certificate.version.public.key.algorithm": "Algorithm",
 	"certificate.version.public.key.length": "Key Length",
 	"certificate.version.serialNo": "Serial Number",

@@ -313,6 +313,7 @@
 	"certificate.version.creationDate": "创建日期和时间",
 	"certificate.version.expirationDate": "过期时间",
 	"certificate.version.fingerprint": "指纹",
+	"certificate.version.issuer": "颁发者",
 	"certificate.version.public.key.algorithm": "公钥算法",
 	"certificate.version.public.key.length": "密钥长度",
 	"certificate.version.serialNo": "序列号",
