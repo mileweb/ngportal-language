@@ -301,7 +301,7 @@
 	"certificate.update.version.cancel.btn": "取消",
 	"certificate.update.version.save.btn": "保存",
 	"certificate.version.chain.cert": "链证书",
-	"certificate.version.chain.cert.algorithm": "<b>签名算法：<b>{algorithm}",
+	"certificate.version.chain.cert.algorithm": "<b>签名算法：</b>{algorithm}",
 	"certificate.version.chain.cert.collapse.title.multiple": "{total} 本链证书",
 	"certificate.version.chain.cert.collapse.title.single": "1本链证书",
 	"certificate.version.chain.cert.expirationTime": "<b>过期时间：</b> {expirationTime}",
