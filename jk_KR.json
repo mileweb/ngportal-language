@@ -2301,7 +2301,7 @@
 	"validation.invalid.modal.message": "작업 ID가 유효하지 않습니다. 이 팝업을 닫고 다시 확인하십시오. ",
 	"validation.success.modal.message": "구성이 확인되었으며 배포 할 준비가되었습니다. ",
 	"validation.success.modal.title": "구성 검증 ",
-	"version.select.created": "만들어진:",
+	"version.select.created": "만들어진: ",
 	"version.select.deployed.prod": "생산에 적극적 ",
 	"version.select.deployed.prod.stag": "준비 및 생산에 적극적 ",
 	"version.select.deployed.stag": "준비 중 ",

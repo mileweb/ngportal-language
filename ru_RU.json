@@ -2301,7 +2301,7 @@
 	"validation.invalid.modal.message": "ID задачи недействителен. Закройте это всплывающее окно и попробуйте еще раз.",
 	"validation.success.modal.message": "Конфигурация проверена и готова к развертыванию.",
 	"validation.success.modal.title": "Конфигурация подтверждена",
-	"version.select.created": "Создано:",
+	"version.select.created": "Создано: ",
 	"version.select.deployed.prod": "Работает на Продакшене",
 	"version.select.deployed.prod.stag": "Работает на Стейджинге и Продакшенe",
 	"version.select.deployed.stag": "Работает на Стейджинге",

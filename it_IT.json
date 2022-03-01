@@ -2301,7 +2301,7 @@
 	"validation.invalid.modal.message": "The task ID is invalid. Please close this pop-up and validate again.",
 	"validation.success.modal.message": "The configuration has been validated and is ready to deploy.",
 	"validation.success.modal.title": "Configuration Validated",
-	"version.select.created": "creato:",
+	"version.select.created": "creato: ",
 	"version.select.deployed.prod": "Active in Production",
 	"version.select.deployed.prod.stag": "Active in Staging & Production",
 	"version.select.deployed.stag": "Active in Staging",
