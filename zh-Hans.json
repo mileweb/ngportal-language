@@ -2301,6 +2301,7 @@
 	"validation.invalid.modal.message": "The task ID is invalid. Please close this pop-up and validate again.",
 	"validation.success.modal.message": "该配置已通过验证，可以部署。",
 	"validation.success.modal.title": "配置验证已完成",
+	"version.select.created": "创建于：",
 	"version.select.deployed.prod": "已部署在生产环境",
 	"version.select.deployed.prod.stag": "已部署在演练和生产环境",
 	"version.select.deployed.stag": "已部署在演练环境",

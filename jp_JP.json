@@ -2301,6 +2301,7 @@
 	"validation.invalid.modal.message": "タスクIDが無効です。このポップアップを閉じて、もう一度検証してください。",
 	"validation.success.modal.message": "構成が検証され、展開する準備ができました。",
 	"validation.success.modal.title": "検証済みの構成",
+	"version.select.created": "作成した：",
 	"version.select.deployed.prod": "実動でアクティブ",
 	"version.select.deployed.prod.stag": "ステージングとプロダクションでアクティブ",
 	"version.select.deployed.stag": "ステージングでアクティブ",
