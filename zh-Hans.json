@@ -1808,6 +1808,7 @@
 	"role.update.success.title": "Role Saved!",
 	"role.user.label": "Users",
 	"role.user.select.number": "user(s) selected",
+	"role.with.children.label": "我的账户+孩子：这个账户和孩子客户可以使用这个角色。",
 	"roleListing.column.actions": "操作",
 	"roleListing.column.description": "Description",
 	"roleListing.column.name": "角色名",

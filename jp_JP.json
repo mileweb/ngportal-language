@@ -1808,6 +1808,7 @@
 	"role.update.success.title": "役割が保存されました！",
 	"role.user.label": "ユーザー",
 	"role.user.select.number": "選択されたユーザー",
+	"role.with.children.label": "マイアカウント+子：このアカウントと子のお客様は、この役割を使用できます。",
 	"roleListing.column.actions": "行動",
 	"roleListing.column.description": "説明",
 	"roleListing.column.name": "ロール名",

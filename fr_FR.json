@@ -1808,6 +1808,7 @@
 	"role.update.success.title": "Role Saved!",
 	"role.user.label": "Users",
 	"role.user.select.number": "user(s) selected",
+	"role.with.children.label": "Mon compte + enfants : ce compte et les clients enfants peuvent utiliser ce rôle.",
 	"roleListing.column.actions": "Actions",
 	"roleListing.column.description": "Description",
 	"roleListing.column.name": "Role Name",

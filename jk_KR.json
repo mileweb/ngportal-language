@@ -1808,6 +1808,7 @@
 	"role.update.success.title": "역할이 저장되었습니다! ",
 	"role.user.label": "사용자 ",
 	"role.user.select.number": "선택한 사용자 ",
+	"role.with.children.label": "내 계정 + 자녀: 이 계정과 자녀 고객이 이 역할을 사용할 수 있습니다.",
 	"roleListing.column.actions": "행위",
 	"roleListing.column.description": "기술",
 	"roleListing.column.name": "역할 이름 ",
