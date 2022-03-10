@@ -50,7 +50,7 @@
 	"accesslog.download.noMatchFound.text": "Nessun risultato trovato",
 	"accesslog.download.page.information.creating.link.text": "creazione di una configurazione di registro",
 	"accesslog.download.page.information.text": "Ottieni i log specificando il nome host e l'intervallo di date. I log sono disponibili solo se hai definito il formato con {creatinglink} che copre il nome host. Fare clic su {here} per i dettagli.",
-	"accesslog.download.search.placeholder": "inserire un nome host",
+	"accesslog.download.search.placeholder": "Inserisci un nome host",
 	"accesslog.download.tableInformation.text": "Questi registri contengono i dati delle richieste effettuate 2 o più ore prima.",
 	"accesslog.download.title": "Scaricare",
 	"accesslog.download.validation.invalidDateRangeNoInterval": "L'intervallo di date non deve superare i 30 giorni.",
