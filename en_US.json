@@ -50,7 +50,7 @@
 	"accesslog.download.noMatchFound.text": "No matches found",
 	"accesslog.download.page.information.creating.link.text": "creating a log configuration",
 	"accesslog.download.page.information.text": "Get logs by specifying the hostname and date range. Logs are only available if you have defined the format by {creatinglink} that covers the hostname. Click {here} for details.",
-	"accesslog.download.search.placeholder": "enter a host name",
+	"accesslog.download.search.placeholder": "Enter a host name",
 	"accesslog.download.tableInformation.text": "These logs contain data from requests made 2 or more hours earlier.",
 	"accesslog.download.title": "Download",
 	"accesslog.download.validation.invalidDateRangeNoInterval": "The date range should be no longer than 30 days.",
