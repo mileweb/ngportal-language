@@ -1515,7 +1515,7 @@
 	"propertyListing.advancedFilter.duplicate.hasConfig.message": "تمت إضافة هذا hasConfig بالفعل",
 	"propertyListing.advancedFilter.fieldName.text": "اسم الحقل",
 	"propertyListing.advancedFilter.hasConfig.title": "HasConfig",
-	"propertyListing.advancedFilter.info.hasConfig.text": "يمكنك البحث عن الخصائص حسب المعرف والاسم والوصف وأيضًا باستخدام صيغة الاستعلام المبسطة الخاصة بنا HasConfig. {يتعلم أكثر]",
+	"propertyListing.advancedFilter.info.hasConfig.text": "يمكنك البحث عن الخصائص حسب المعرف والاسم والوصف وأيضًا باستخدام صيغة الاستعلام المبسطة الخاصة بنا HasConfig. {learnmore}",
 	"propertyListing.advancedFilter.invalid.value.message": "قيمة غير صالحة",
 	"propertyListing.advancedFilter.keyword.title": "الكلمات الدالة",
 	"propertyListing.advancedFilter.tooltip.button": "تصفية متقدم",

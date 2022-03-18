@@ -1515,7 +1515,7 @@
 	"propertyListing.advancedFilter.duplicate.hasConfig.message": "Этот hasConfig уже добавлен",
 	"propertyListing.advancedFilter.fieldName.text": "Имя поля",
 	"propertyListing.advancedFilter.hasConfig.title": "Хасконфиг",
-	"propertyListing.advancedFilter.info.hasConfig.text": "Вы можете искать свойства по идентификатору, имени, описанию, а также используя упрощенный синтаксис запроса наш HasConfig. {узнать больше]",
+	"propertyListing.advancedFilter.info.hasConfig.text": "Вы можете искать свойства по идентификатору, имени, описанию, а также используя упрощенный синтаксис запроса наш HasConfig. {learnmore}",
 	"propertyListing.advancedFilter.invalid.value.message": "Неверное значение",
 	"propertyListing.advancedFilter.keyword.title": "ключевые слова",
 	"propertyListing.advancedFilter.tooltip.button": "Расширенный фильтр",

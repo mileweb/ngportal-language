@@ -1515,7 +1515,7 @@
 	"propertyListing.advancedFilter.duplicate.hasConfig.message": "이 hasConfig는 이미 추가되었습니다.",
 	"propertyListing.advancedFilter.fieldName.text": "분야 명",
 	"propertyListing.advancedFilter.hasConfig.title": "HasConfig",
-	"propertyListing.advancedFilter.info.hasConfig.text": "ID, 이름, 설명을 기준으로 속성을 검색할 수 있으며 HasConfig의 간소화된 쿼리 구문을 사용할 수도 있습니다. {더 알아보기]",
+	"propertyListing.advancedFilter.info.hasConfig.text": "ID, 이름, 설명을 기준으로 속성을 검색할 수 있으며 HasConfig의 간소화된 쿼리 구문을 사용할 수도 있습니다. {learnmore}",
 	"propertyListing.advancedFilter.invalid.value.message": "잘못된 값",
 	"propertyListing.advancedFilter.keyword.title": "키워드",
 	"propertyListing.advancedFilter.tooltip.button": "고급 필터",

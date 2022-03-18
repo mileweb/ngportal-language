@@ -1515,7 +1515,7 @@
 	"propertyListing.advancedFilter.duplicate.hasConfig.message": "このhasConfigはすでに追加されています",
 	"propertyListing.advancedFilter.fieldName.text": "フィールド名",
 	"propertyListing.advancedFilter.hasConfig.title": "HasConfig",
-	"propertyListing.advancedFilter.info.hasConfig.text": "ID、名前、説明、およびHasConfigの簡略化されたクエリ構文を使用してプロパティを検索できます。 {もっと詳しく知る]",
+	"propertyListing.advancedFilter.info.hasConfig.text": "ID、名前、説明、およびHasConfigの簡略化されたクエリ構文を使用してプロパティを検索できます。 {learnmore}",
 	"propertyListing.advancedFilter.invalid.value.message": "無効な値",
 	"propertyListing.advancedFilter.keyword.title": "キーワード",
 	"propertyListing.advancedFilter.tooltip.button": "高度なフィルタ",
