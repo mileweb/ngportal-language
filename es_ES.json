@@ -1515,7 +1515,7 @@
 	"propertyListing.advancedFilter.duplicate.hasConfig.message": "Este hasConfig ya ha sido agregado",
 	"propertyListing.advancedFilter.fieldName.text": "Nombre del campo",
 	"propertyListing.advancedFilter.hasConfig.title": "HasConfig",
-	"propertyListing.advancedFilter.info.hasConfig.text": "Puede buscar propiedades por ID, nombre, descripción y también utilizando la sintaxis de consulta simplificada de nuestro HasConfig. {learnmore}",
+	"propertyListing.advancedFilter.info.hasConfig.text": "Puede buscar propiedades por ID, nombre, descripción y también su configuración utilizando nuestra sencilla interfaz de usuario o la sintaxis de consulta hasConfig. <{learnmore}>",
 	"propertyListing.advancedFilter.invalid.value.message": "Valor no válido",
 	"propertyListing.advancedFilter.keyword.title": "Palabras clave",
 	"propertyListing.advancedFilter.tooltip.button": "Filtro avanzado",

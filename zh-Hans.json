@@ -1515,7 +1515,7 @@
 	"propertyListing.advancedFilter.duplicate.hasConfig.message": "此 hasConfig 已添加",
 	"propertyListing.advancedFilter.fieldName.text": "栏位名称",
 	"propertyListing.advancedFilter.hasConfig.title": "HasConfig",
-	"propertyListing.advancedFilter.info.hasConfig.text": "您可以按 ID、名称、描述搜索属性，也可以使用我们的 HasConfig 的简化查询语法。 {learnmore}",
+	"propertyListing.advancedFilter.info.hasConfig.text": "您可以使用我们简单的用户界面或 hasConfig 查询语法按 ID、名称、描述以及它们的设置来搜索属性。 <{learnmore}>",
 	"propertyListing.advancedFilter.invalid.value.message": "无效值",
 	"propertyListing.advancedFilter.keyword.title": "关键词",
 	"propertyListing.advancedFilter.tooltip.button": "进阶筛选",
