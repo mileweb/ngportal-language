@@ -1675,6 +1675,8 @@
 	"reportQuery.page.dateRange": "日付範囲*",
 	"reportQuery.page.edgeHostNames": "エッジホスト名",
 	"reportQuery.page.edgeHostNames.placeHolder": "全てのエッジホスト名",
+	"reportQuery.page.generateReport.error.timeout": "レポートを生成するためにタイムアウトしました。",
+	"reportQuery.page.generateReport.error.title": "レポートを生成できませんでした",
 	"reportQuery.page.group.by": "グループ化",
 	"reportQuery.page.group.by.customerIds": "カスタマーID",
 	"reportQuery.page.group.by.hostAndServer": "ホスト名 + サーバーグループ",

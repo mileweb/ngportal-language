@@ -1675,6 +1675,8 @@
 	"reportQuery.page.dateRange": "日期 *",
 	"reportQuery.page.edgeHostNames": "边缘域名",
 	"reportQuery.page.edgeHostNames.placeHolder": "所有边缘域名",
+	"reportQuery.page.generateReport.error.timeout": "生成报表超时。",
+	"reportQuery.page.generateReport.error.title": "未能生成报表",
 	"reportQuery.page.group.by": "分组按",
 	"reportQuery.page.group.by.customerIds": "用户ID",
 	"reportQuery.page.group.by.hostAndServer": "域名 + 服务群",

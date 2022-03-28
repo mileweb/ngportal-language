@@ -1675,6 +1675,8 @@
 	"reportQuery.page.dateRange": "Date Range *",
 	"reportQuery.page.edgeHostNames": "Edge Hostnames",
 	"reportQuery.page.edgeHostNames.placeHolder": "All Edge Hostnames",
+	"reportQuery.page.generateReport.error.timeout": "Se agotó el tiempo para generar el informe.",
+	"reportQuery.page.generateReport.error.title": "Error al generar informe",
 	"reportQuery.page.group.by": "Group By",
 	"reportQuery.page.group.by.customerIds": "Customer Ids",
 	"reportQuery.page.group.by.hostAndServer": "Hostnames + Server Groups",

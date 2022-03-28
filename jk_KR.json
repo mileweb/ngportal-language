@@ -1675,6 +1675,8 @@
 	"reportQuery.page.dateRange": "날짜 범위 *",
 	"reportQuery.page.edgeHostNames": "Edge Hostnames",
 	"reportQuery.page.edgeHostNames.placeHolder": "All Edge Hostnames",
+	"reportQuery.page.generateReport.error.timeout": "리포트 생성 시간이 초과되었습니다.",
+	"reportQuery.page.generateReport.error.title": "리포트 생성 실패",
 	"reportQuery.page.group.by": "Group By",
 	"reportQuery.page.group.by.customerIds": "Customer Ids",
 	"reportQuery.page.group.by.hostAndServer": "Hostnames + Server Groups",

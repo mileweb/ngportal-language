@@ -1675,6 +1675,8 @@
 	"reportQuery.page.dateRange": "Диапазон дат *",
 	"reportQuery.page.edgeHostNames": "Edge-имена хостов",
 	"reportQuery.page.edgeHostNames.placeHolder": "Все Edge-имена хостов",
+	"reportQuery.page.generateReport.error.timeout": "Превышено время создания отчет.",
+	"reportQuery.page.generateReport.error.title": "Не удалось создать отчет",
 	"reportQuery.page.group.by": "Группировать по",
 	"reportQuery.page.group.by.customerIds": "ID клиентов",
 	"reportQuery.page.group.by.hostAndServer": "Имена хостов + Группы серверов",
