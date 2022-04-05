@@ -1455,7 +1455,7 @@
 	"property.saved.title": "Configuration saved!",
 	"property.select.redirect.http2https": "Yes, redirect with status code {code}",
 	"property.server.blank.msg": "The Edge Logic field cannot be empty.",
-	"property.server.noOriginPassWithBreak.msg": "Please check the Edge Logic configuration format. A 'location' block that contains the 'break' directive or uses the 'break' flag in the 'rewrite' directive must contain the 'origin_pass' directive.",
+	"property.server.noOriginPassWithBreak.msg": "Please check the Edge Logic configuration format. A 'location' block that contains the 'break' directive or uses the 'break' flag in the 'rewrite' directive must contain the 'origin_pass' directive either directly or in the same level as break.",
 	"property.server.noURLHandler.msg": "Please check the Edge Logic configuration format. Make sure each 'location' block has an 'origin_pass' or a 'return' directive. A top-level 'if' block must not contain an 'origin_pass' directive. A location directive for the default path '/' is also required.",
 	"property.spin.loading": "Loading ...",
 	"property.spin.saving": "Saving ...",
