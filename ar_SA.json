@@ -1659,7 +1659,7 @@
 	"report.domainGroup.createGroup.modal.title": "احفظ المجموعة",
 	"report.domainGroup.deleteGroup.modal.content": "هل تريد حقًا حذف هذه المجموعة \"{groupName}\"؟",
 	"report.domainGroup.deleteGroup.modal.title": "حذف المجموعة",
-	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" موجودة بالفعل. هل تريد الكتابة فوق {groupName}؟",
+	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" موجود بالفعل. هل تريد استبدال {groupName}؟",
 	"report.domainGroup.overwriteGroup.modal.title": "هل تريد حقًا الكتابة فوق هذا؟",
 	"report.domainGroup.save.button": "+ حفظ أسماء المضيف المحددة كمجموعة",
 	"report.edgeHostnameReq.label.requests": "Requests",

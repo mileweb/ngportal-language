@@ -1659,7 +1659,7 @@
 	"report.domainGroup.createGroup.modal.title": "Save a group",
 	"report.domainGroup.deleteGroup.modal.content": "Do you really want to delete this group \"{groupName}\"?",
 	"report.domainGroup.deleteGroup.modal.title": "Delete group",
-	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" already exist. Do you wanna to overwrite {groupName}?",
+	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" already exists. Do you want to overwrite {groupName}?",
 	"report.domainGroup.overwriteGroup.modal.title": "Do you really want to overwrite this?",
 	"report.domainGroup.save.button": "+ Save selected hostnames as a group",
 	"report.edgeHostnameReq.label.requests": "Requests",
