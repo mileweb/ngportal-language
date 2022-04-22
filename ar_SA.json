@@ -1659,6 +1659,8 @@
 	"report.domainGroup.createGroup.modal.title": "احفظ المجموعة",
 	"report.domainGroup.deleteGroup.modal.content": "هل تريد حقًا حذف هذه المجموعة \"{groupName}\"؟",
 	"report.domainGroup.deleteGroup.modal.title": "حذف المجموعة",
+	"report.domainGroup.groups.label": "المجموعات",
+	"report.domainGroup.hostnames.label": "أسماء المضيفين",
 	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" موجود بالفعل. هل تريد استبدال {groupName}؟",
 	"report.domainGroup.overwriteGroup.modal.title": "هل تريد حقًا الكتابة فوق هذا؟",
 	"report.domainGroup.save.button": "+ حفظ أسماء المضيف المحددة كمجموعة",

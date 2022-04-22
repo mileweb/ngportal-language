@@ -1659,6 +1659,8 @@
 	"report.domainGroup.createGroup.modal.title": "그룹 저장",
 	"report.domainGroup.deleteGroup.modal.content": "이 그룹 \"{groupName}\"을(를) 삭제하시겠습니까?",
 	"report.domainGroup.deleteGroup.modal.title": "그룹 삭제",
+	"report.domainGroup.groups.label": "여러 떼",
+	"report.domainGroup.hostnames.label": "호스트 이름",
 	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\"이(가) 이미 존재합니다. {groupName}을(를) 덮어쓰시겠습니까?",
 	"report.domainGroup.overwriteGroup.modal.title": "정말로 덮어 쓰시겠습니까?",
 	"report.domainGroup.save.button": "+ 선택한 호스트 이름을 그룹으로 저장",
