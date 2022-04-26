@@ -1659,6 +1659,8 @@
 	"report.domainGroup.createGroup.modal.title": "Сохранить группу",
 	"report.domainGroup.deleteGroup.modal.content": "Вы действительно хотите удалить эту группу \"{groupName}\"?",
 	"report.domainGroup.deleteGroup.modal.title": "Удалить группу",
+	"report.domainGroup.groups.label": "Группы",
+	"report.domainGroup.hostnames.label": "Имена хостов",
 	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" уже существует. Вы хотите перезаписать {groupName}?",
 	"report.domainGroup.overwriteGroup.modal.title": "Вы действительно хотите перезаписать это?",
 	"report.domainGroup.save.button": "+ Сохранить выбранные имена хостов как группу",

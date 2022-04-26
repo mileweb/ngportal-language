@@ -1659,6 +1659,8 @@
 	"report.domainGroup.createGroup.modal.title": "グループを保存する",
 	"report.domainGroup.deleteGroup.modal.content": "このグループ「{groupName}」を本当に削除しますか？",
 	"report.domainGroup.deleteGroup.modal.title": "グループを削除",
+	"report.domainGroup.groups.label": "グループ",
+	"report.domainGroup.hostnames.label": "ホスト名",
 	"report.domainGroup.overwriteGroup.modal.content": "「{groupName}」はすでに存在します。 {groupName}を上書きしますか？",
 	"report.domainGroup.overwriteGroup.modal.title": "本当にこれを上書きしますか？",
 	"report.domainGroup.save.button": "+選択したホスト名をグループとして保存します",

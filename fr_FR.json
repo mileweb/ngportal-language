@@ -1659,6 +1659,8 @@
 	"report.domainGroup.createGroup.modal.title": "Enregistrer un groupe",
 	"report.domainGroup.deleteGroup.modal.content": "Voulez-vous vraiment supprimer ce groupe \"{groupName}\" ?",
 	"report.domainGroup.deleteGroup.modal.title": "Supprimer le groupe",
+	"report.domainGroup.groups.label": "Groupes",
+	"report.domainGroup.hostnames.label": "Noms d'hôte",
 	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" existe déjà. Voulez-vous remplacer {groupName}?",
 	"report.domainGroup.overwriteGroup.modal.title": "Voulez-vous vraiment écraser ceci?",
 	"report.domainGroup.save.button": "+ Enregistrer les noms d'hôte sélectionnés en tant que groupe",
