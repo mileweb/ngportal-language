@@ -689,6 +689,7 @@
 	"edgeHostname.placeholder.name": "输入边缘域名的前半部分",
 	"edgeHostname.return.list.btn": "Return List",
 	"edgeHostname.save.btn": "保存边缘域名",
+	"edgeHostname.server.group.deluxe": "豪华",
 	"edgeHostname.server.group.premium": "premium",
 	"edgeHostname.server.group.premiumplus": "premium+",
 	"edgeHostname.server.group.standard": "standard",

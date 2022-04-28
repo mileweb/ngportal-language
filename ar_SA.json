@@ -689,6 +689,7 @@
 	"edgeHostname.placeholder.name": "Enter the first part of the Edge Hostname",
 	"edgeHostname.return.list.btn": "Return List",
 	"edgeHostname.save.btn": "قم بإنشاء Edge Hostname",
+	"edgeHostname.server.group.deluxe": "فاخر",
 	"edgeHostname.server.group.premium": "premium",
 	"edgeHostname.server.group.premiumplus": "premium+",
 	"edgeHostname.server.group.standard": "standard",
