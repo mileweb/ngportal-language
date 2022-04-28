@@ -689,6 +689,7 @@
 	"edgeHostname.placeholder.name": "Edge Hostname입력 ",
 	"edgeHostname.return.list.btn": "반품 목록 ",
 	"edgeHostname.save.btn": "Edge Hostname만들기 ",
+	"edgeHostname.server.group.deluxe": "디럭스",
 	"edgeHostname.server.group.premium": "premium",
 	"edgeHostname.server.group.premiumplus": "premium+",
 	"edgeHostname.server.group.standard": "표준",

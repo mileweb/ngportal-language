@@ -689,6 +689,7 @@
 	"edgeHostname.placeholder.name": "Введите первую часть Edge-имени хоста",
 	"edgeHostname.return.list.btn": "Список возврата",
 	"edgeHostname.save.btn": "Создать Edge-имя хоста",
+	"edgeHostname.server.group.deluxe": "делюкс",
 	"edgeHostname.server.group.premium": "Премиум",
 	"edgeHostname.server.group.premiumplus": "Премиум+",
 	"edgeHostname.server.group.standard": "Cтандарт",

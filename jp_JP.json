@@ -689,6 +689,7 @@
 	"edgeHostname.placeholder.name": "Edge Hostnameを入力",
 	"edgeHostname.return.list.btn": "リストを返す",
 	"edgeHostname.save.btn": "Edge Hostnameを作成",
+	"edgeHostname.server.group.deluxe": "デラックス",
 	"edgeHostname.server.group.premium": "premium",
 	"edgeHostname.server.group.premiumplus": "premium+",
 	"edgeHostname.server.group.standard": "標準",
