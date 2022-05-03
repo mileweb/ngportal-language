@@ -1766,6 +1766,7 @@
 	"reportQuery.page.reportRange.selfChildren": "This Account + Children",
 	"reportQuery.page.reportRange.selfOnly": "This Account Only",
 	"reportQuery.page.reportServerGroup": "Server Groups",
+	"reportQuery.page.reportServerGroup.deluxe": "Deluxe",
 	"reportQuery.page.reportServerGroup.placeholder": "All Server Groups",
 	"reportQuery.page.reportServerGroup.premium": "Premium",
 	"reportQuery.page.reportServerGroup.premiumPlus": "Premium+",

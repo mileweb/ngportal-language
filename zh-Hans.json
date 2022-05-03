@@ -1766,6 +1766,7 @@
 	"reportQuery.page.reportRange.selfChildren": "本用户+子用户域名",
 	"reportQuery.page.reportRange.selfOnly": "仅包含本用户域名",
 	"reportQuery.page.reportServerGroup": "服务群",
+	"reportQuery.page.reportServerGroup.deluxe": "豪华",
 	"reportQuery.page.reportServerGroup.placeholder": "所有服务群",
 	"reportQuery.page.reportServerGroup.premium": "Premium",
 	"reportQuery.page.reportServerGroup.premiumPlus": "Premium+",
