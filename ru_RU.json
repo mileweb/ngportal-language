@@ -1766,6 +1766,7 @@
 	"reportQuery.page.reportRange.selfChildren": "Эта учетная запись + дочерние",
 	"reportQuery.page.reportRange.selfOnly": "Эта учетная запись",
 	"reportQuery.page.reportServerGroup": "Группы серверов",
+	"reportQuery.page.reportServerGroup.deluxe": "делюкс",
 	"reportQuery.page.reportServerGroup.placeholder": "Все группы серверов",
 	"reportQuery.page.reportServerGroup.premium": "Премиум",
 	"reportQuery.page.reportServerGroup.premiumPlus": "Премиум+",
