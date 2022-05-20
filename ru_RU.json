@@ -457,6 +457,7 @@
 	"contentListing.column.hostNames": "Имена хостов",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "%",
+	"contentListing.column.regex": "Регулярные выражения",
 	"contentListing.column.submissionTime": "Начато",
 	"contentListing.column.success": "Выполнено",
 	"contentListing.column.target": "Цель",

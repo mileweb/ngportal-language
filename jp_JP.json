@@ -457,6 +457,7 @@
 	"contentListing.column.hostNames": "ホスト名",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "割合",
+	"contentListing.column.regex": "正規表現",
 	"contentListing.column.submissionTime": "提出時間",
 	"contentListing.column.success": "成功",
 	"contentListing.column.target": "ターゲット",
