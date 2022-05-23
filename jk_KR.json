@@ -457,6 +457,7 @@
 	"contentListing.column.hostNames": "호스트 이름",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "Rate",
+	"contentListing.column.regex": "정규식",
 	"contentListing.column.submissionTime": "제출 시간",
 	"contentListing.column.success": "Success",
 	"contentListing.column.target": "Target",

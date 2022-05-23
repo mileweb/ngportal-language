@@ -457,6 +457,7 @@
 	"contentListing.column.hostNames": "Nomi host",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "Rate",
+	"contentListing.column.regex": "Espressione regolare",
 	"contentListing.column.submissionTime": "Submitted",
 	"contentListing.column.success": "Success",
 	"contentListing.column.target": "Target",
