@@ -1574,6 +1574,8 @@
 	"purge.detail.regex.purge.count.title": "Всего очищено регулярных выражений:",
 	"purge.detail.task.action": "Действия:",
 	"purge.detail.task.end.time": "Время завершения:",
+	"purge.detail.task.label.api.user": "Пользователь API",
+	"purge.detail.task.label.portal.user": "Пользователь портала",
 	"purge.detail.task.start.time": "Время начала:",
 	"purge.detail.task.status": "Статус:",
 	"purge.detail.task.target": "Окружение:",

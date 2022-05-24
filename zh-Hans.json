@@ -1574,6 +1574,8 @@
 	"purge.detail.regex.purge.count.title": "被刷新的正则表达式总数:",
 	"purge.detail.task.action": "刷新方式：",
 	"purge.detail.task.end.time": "结束时间：",
+	"purge.detail.task.label.api.user": "API用户",
+	"purge.detail.task.label.portal.user": "门户用户",
 	"purge.detail.task.start.time": "开始时间：",
 	"purge.detail.task.status": "任务状态：",
 	"purge.detail.task.target": "目标环境：",

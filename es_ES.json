@@ -1574,6 +1574,8 @@
 	"purge.detail.regex.purge.count.title": "Total regular expressions purged: ",
 	"purge.detail.task.action": "Purge Action:",
 	"purge.detail.task.end.time": "End Time:",
+	"purge.detail.task.label.api.user": "Usuario API",
+	"purge.detail.task.label.portal.user": "Usuario del portal",
 	"purge.detail.task.start.time": "Start Time:",
 	"purge.detail.task.status": "Task Status:",
 	"purge.detail.task.target": "Target Environment:",

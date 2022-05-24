@@ -1574,6 +1574,8 @@
 	"purge.detail.regex.purge.count.title": "Total regular expressions purged: ",
 	"purge.detail.task.action": "제거 조치 : ",
 	"purge.detail.task.end.time": "종료 시간 : ",
+	"purge.detail.task.label.api.user": "API 사용자",
+	"purge.detail.task.label.portal.user": "포털 사용자",
 	"purge.detail.task.start.time": "시작 시간:",
 	"purge.detail.task.status": "작업 상태 : ",
 	"purge.detail.task.target": "대상 환경 : ",
