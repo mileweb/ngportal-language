@@ -1665,6 +1665,8 @@
 	"report.domainGroup.deleteGroup.modal.title": "您真的要删除此群组吗？",
 	"report.domainGroup.groups.label": "组",
 	"report.domainGroup.hostnames.label": "主机名",
+	"report.domainGroup.invalidDomain.label": "无效的主机名",
+	"report.domainGroup.invalidDomain.message": "您不能创建域组。其中一个域无效",
 	"report.domainGroup.overwriteGroup.modal.button": "是的，覆盖",
 	"report.domainGroup.overwriteGroup.modal.content": "“{groupName}”已经存在。您要覆盖 {groupName}吗？",
 	"report.domainGroup.overwriteGroup.modal.title": "您真的要覆盖这个吗？",

@@ -1665,6 +1665,8 @@
 	"report.domainGroup.deleteGroup.modal.title": "Вы действительно хотите удалить эту группу?",
 	"report.domainGroup.groups.label": "Группы",
 	"report.domainGroup.hostnames.label": "Имена хостов",
+	"report.domainGroup.invalidDomain.label": "Недействительное имя хоста",
+	"report.domainGroup.invalidDomain.message": "Вы не можете создать группу. Одно из имен хостов недействительно",
 	"report.domainGroup.overwriteGroup.modal.button": "Да, перезаписать",
 	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" уже существует. Вы хотите перезаписать {groupName}?",
 	"report.domainGroup.overwriteGroup.modal.title": "Вы действительно хотите перезаписать это?",
