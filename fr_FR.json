@@ -1665,6 +1665,8 @@
 	"report.domainGroup.deleteGroup.modal.title": "Voulez-vous vraiment supprimer ce groupe ?",
 	"report.domainGroup.groups.label": "Groupes",
 	"report.domainGroup.hostnames.label": "Noms d'hôte",
+	"report.domainGroup.invalidDomain.label": "Nom d'hôte invalide",
+	"report.domainGroup.invalidDomain.message": "Vous ne pouvez pas créer de groupe de domaine. L'un des domaines est invalide",
 	"report.domainGroup.overwriteGroup.modal.button": "Oui, écraser",
 	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" existe déjà. Voulez-vous remplacer {groupName}?",
 	"report.domainGroup.overwriteGroup.modal.title": "Voulez-vous vraiment écraser ceci?",

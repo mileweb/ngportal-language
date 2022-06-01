@@ -1665,6 +1665,8 @@
 	"report.domainGroup.deleteGroup.modal.title": "هل تريد حقا حذف هذه المجموعة؟",
 	"report.domainGroup.groups.label": "المجموعات",
 	"report.domainGroup.hostnames.label": "أسماء المضيفين",
+	"report.domainGroup.invalidDomain.label": "اسم مضيف غير صالح",
+	"report.domainGroup.invalidDomain.message": "لا يمكنك إنشاء مجموعة مجال. أحد المجالات غير صالح",
 	"report.domainGroup.overwriteGroup.modal.button": "نعم ، الكتابة",
 	"report.domainGroup.overwriteGroup.modal.content": "\"{groupName}\" موجود بالفعل. هل تريد استبدال {groupName}؟",
 	"report.domainGroup.overwriteGroup.modal.title": "هل تريد حقًا الكتابة فوق هذا؟",

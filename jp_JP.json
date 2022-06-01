@@ -1665,6 +1665,8 @@
 	"report.domainGroup.deleteGroup.modal.title": "このグループを本当に削除しますか？",
 	"report.domainGroup.groups.label": "グループ",
 	"report.domainGroup.hostnames.label": "ホスト名",
+	"report.domainGroup.invalidDomain.label": "無効なホスト名",
+	"report.domainGroup.invalidDomain.message": "ドメイングループを作成することはできません。ドメインの1つが無効です",
 	"report.domainGroup.overwriteGroup.modal.button": "はい、上書きします",
 	"report.domainGroup.overwriteGroup.modal.content": "「{groupName}」はすでに存在します。 {groupName}を上書きしますか？",
 	"report.domainGroup.overwriteGroup.modal.title": "本当にこれを上書きしますか？",
