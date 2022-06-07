@@ -2379,6 +2379,8 @@
 	"validation.error.loadbalancer.hashkey.variables": "Hash key балансировщика нагрузки должен содержать от 1 до 3 переменных. Допустимые префиксы переменных: $ http_, $ cookie_ и $ arg_.",
 	"validation.error.missing.beian.content.type": "Пожалуйста, выберите тип Beian.",
 	"validation.error.name.too.long": "Имя может содержать до 128 символов.",
+	"validation.error.description.too.long": "Описание может содержать до 256 символов.",
+	"validation.error.editing.version.description.too.long": "Описание версии может содержать до 256 символов.",
 	"validation.error.not.integer": "Значение пропускной способности должно быть целым положительным числом.",
 	"validation.error.regions.not.match": "Некоторые регионы, которые вы только что удалили, в настоящее время используются правилами. Чтобы удалить эти регионы, измените правило клиентского региона.",
 	"validation.error.required": "Обязательное поле",

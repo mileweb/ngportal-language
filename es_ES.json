@@ -2379,6 +2379,8 @@
 	"validation.error.loadbalancer.hashkey.variables": "The load balancer hash key must contain 1 to 3 variables. The allowed variable prefixes are $http_, $cookie_ and $arg_.",
 	"validation.error.missing.beian.content.type": "Elija un tipo de contenido de Beian.",
 	"validation.error.name.too.long": "The name can be up to 128 characters.",
+	"validation.error.description.too.long": "La descripción puede tener hasta 256 caracteres.",
+	"validation.error.editing.version.description.too.long": "La descripción de la versión puede tener hasta 256 caracteres.",
 	"validation.error.not.integer": "The bandwidth value must be a positive whole number.",
 	"validation.error.regions.not.match": "Some server regions you just removed are currently used by a client region rule. To delete those server regions, please modify the client region rule to use other server regions first.",
 	"validation.error.required": "Required",

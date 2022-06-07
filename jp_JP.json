@@ -2379,6 +2379,8 @@
 	"validation.error.loadbalancer.hashkey.variables": "The load balancer hash key must contain 1 to 3 variables. The allowed variable prefixes are $http_, $cookie_ and $arg_.",
 	"validation.error.missing.beian.content.type": "Beianのコンテンツタイプを選択してください。",
 	"validation.error.name.too.long": "名前は最大128文字です。",
+	"validation.error.description.too.long": "説明は最大256文字です。",
+	"validation.error.editing.version.description.too.long": "バージョンの説明は最大256文字です。",
 	"validation.error.not.integer": "帯域幅の値は正の整数でなければなりません。",
 	"validation.error.regions.not.match": "削除したばかりのサーバーリージョンは現在、クライアントリージョンルールで使用されています。これらのサーバー地域を削除するには、最初に他のサーバー地域を使用するようにクライアント地域ルールを変更してください。",
 	"validation.error.required": "必須",
