@@ -2379,6 +2379,8 @@
 	"validation.error.loadbalancer.hashkey.variables": "The load balancer hash key must contain 1 to 3 variables. The allowed variable prefixes are $http_, $cookie_ and $arg_.",
 	"validation.error.missing.beian.content.type": "Beian 컨텐츠 유형을 선택하십시오.",
 	"validation.error.name.too.long": "이름은 최대 128 자입니다. ",
+	"validation.error.description.too.long": "설명은 최대 256자까지 가능합니다.",
+	"validation.error.editing.version.description.too.long": "버전 설명은 최대 256자까지 가능합니다.",
 	"validation.error.not.integer": "대역폭 값은 양의 정수 여야합니다. ",
 	"validation.error.regions.not.match": "방금 제거한 일부 서버 영역은 현재 클라이언트 영역 규칙에 의해 사용됩니다. 해당 서버 지역을 삭제하려면 먼저 다른 서버 지역을 사용하도록 클라이언트 지역 규칙을 수정하십시오. ",
 	"validation.error.required": "필수 ",

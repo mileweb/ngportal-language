@@ -2379,6 +2379,8 @@
 	"validation.error.loadbalancer.hashkey.variables": "负载均衡器的哈希键必须包含1到3个变量。允许的变量前缀为$http _，$cookie_和$arg_。",
 	"validation.error.missing.beian.content.type": "请选择该配置中域名的服务内容.",
 	"validation.error.name.too.long": "The name can be up to 128 characters.",
+	"validation.error.description.too.long": "描述最多可包含 256 个字符。",
+	"validation.error.editing.version.description.too.long": "版本说明最多可包含 256 个字符。",
 	"validation.error.not.integer": "The bandwidth value must be a positive whole number.",
 	"validation.error.regions.not.match": "Some server regions you just removed are currently used by a client region rule. To delete those server regions, please modify the client region rule to use other server regions first.",
 	"validation.error.required": "必填",
