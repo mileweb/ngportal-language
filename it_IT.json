@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "Eliminare questa annotazione?",
 	"report.flags.confirm.deletion": "Confermare la cancellazione",
 	"report.flags.confirm.yes.deletion": "Sì, cancella",
+	"report.flags.error.general.all.and.other.client.regions": "Le regioni client selezionate contengono \"Tutte\" e altre regioni client. Seleziona solo \"Tutti\" o scegli altre regioni client.",
+	"report.flags.error.general.all.and.other.server.regions": "Le regioni server selezionate contengono \"Tutti\" e altre regioni server. Seleziona solo \"Tutti\" o scegli altre regioni del server.",
 	"report.flags.error.general.create": "Crea un errore di annotazione del rapporto",
 	"report.flags.error.general.delete": "Elimina errore di annotazione rapporto",
 	"report.flags.error.general.update": "Errore di annotazione del rapporto di aggiornamento",

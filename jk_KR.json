@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "이 주석을 삭제하시겠습니까?",
 	"report.flags.confirm.deletion": "삭제 확인",
 	"report.flags.confirm.yes.deletion": "예, 삭제하십시오.",
+	"report.flags.error.general.all.and.other.client.regions": "선택한 클라이언트 영역에는 \"전체\" 및 기타 클라이언트 영역이 포함됩니다. \"전체\"만 선택하거나 다른 클라이언트 지역을 선택하십시오.",
+	"report.flags.error.general.all.and.other.server.regions": "선택한 서버 영역에는 \"전체\" 및 기타 서버 영역이 포함됩니다. \"전체\"만 선택하거나 다른 서버 지역을 선택하십시오.",
 	"report.flags.error.general.create": "보고서 주석 생성 오류",
 	"report.flags.error.general.delete": "보고서 주석 오류 삭제",
 	"report.flags.error.general.update": "보고서 주석 오류 업데이트",

@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "Delete this annotation?",
 	"report.flags.confirm.deletion": "Confirm Deletion",
 	"report.flags.confirm.yes.deletion": "Yes, Delete",
+	"report.flags.error.general.all.and.other.client.regions": "The selected client regions contain \"All\" and other client regions. Please select \"All\" only or choose other client regions.",
+	"report.flags.error.general.all.and.other.server.regions": "The selected server regions contain \"All\" and other server regions. Please select \"All\" only or choose other server regions.",
 	"report.flags.error.general.create": "Create Report Annotation Error",
 	"report.flags.error.general.delete": "Delete Report Annotation Error",
 	"report.flags.error.general.update": "Update Report Annotation Error",

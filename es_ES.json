@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "¿Eliminar esta anotación?",
 	"report.flags.confirm.deletion": "Confirmar la eliminación",
 	"report.flags.confirm.yes.deletion": "Si borrar",
+	"report.flags.error.general.all.and.other.client.regions": "Las regiones de cliente seleccionadas contienen \"Todos\" y otras regiones de cliente. Seleccione solo \"Todos\" o elija otras regiones de clientes.",
+	"report.flags.error.general.all.and.other.server.regions": "Las regiones de servidor seleccionadas contienen \"Todos\" y otras regiones de servidor. Seleccione solo \"Todos\" o elija otras regiones de servidor.",
 	"report.flags.error.general.create": "Crear error de anotación de informe",
 	"report.flags.error.general.delete": "Eliminar error de anotación de informe",
 	"report.flags.error.general.update": "Error de anotación de informe de actualización",

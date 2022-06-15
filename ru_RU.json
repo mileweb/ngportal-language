@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "Удалить эту аннотацию?",
 	"report.flags.confirm.deletion": "Подтвердить удаление",
 	"report.flags.confirm.yes.deletion": "Да, удалить",
+	"report.flags.error.general.all.and.other.client.regions": "Выбранные клиентские регионы содержат «Все» и другие клиентские регионы. Пожалуйста, выберите только «Все» или выберите другие клиентские регионы.",
+	"report.flags.error.general.all.and.other.server.regions": "Выбранные серверные регионы содержат «Все» и другие серверные регионы. Выберите только «Все» или выберите другие регионы сервера.",
 	"report.flags.error.general.create": "Ошибка создания аннотации к отчету",
 	"report.flags.error.general.delete": "Удалить ошибку аннотации отчета",
 	"report.flags.error.general.update": "Обновить ошибку аннотации отчета",
