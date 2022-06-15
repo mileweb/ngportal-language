@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "删除此注释？",
 	"report.flags.confirm.deletion": "确认删除",
 	"report.flags.confirm.yes.deletion": "是的，删除",
+	"report.flags.error.general.all.and.other.client.regions": "选定的客户区域包含“全部”和其他客户区域。请仅选择“全部”或选择其他客户区域。",
+	"report.flags.error.general.all.and.other.server.regions": "选定的服务器区域包含“全部”和其他服务器区域。请仅选择“全部”或选择其他服务器区域。",
 	"report.flags.error.general.create": "创建报告注释错误",
 	"report.flags.error.general.delete": "删除报告注释错误",
 	"report.flags.error.general.update": "更新报告注释错误",

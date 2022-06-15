@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "حذف هذا التعليق التوضيحي؟",
 	"report.flags.confirm.deletion": "تأكيد الحذف",
 	"report.flags.confirm.yes.deletion": "نعم احذف",
+	"report.flags.error.general.all.and.other.client.regions": "تحتوي مناطق العملاء المحددة على \"الكل\" ومناطق العملاء الأخرى. الرجاء تحديد \"الكل\" فقط أو اختيار مناطق العملاء الأخرى.",
+	"report.flags.error.general.all.and.other.server.regions": "تحتوي مناطق الخادم المحددة على \"الكل\" ومناطق الخادم الأخرى. الرجاء تحديد \"الكل\" فقط أو اختيار مناطق الخادم الأخرى.",
 	"report.flags.error.general.create": "إنشاء تقرير خطأ في التعليق التوضيحي",
 	"report.flags.error.general.delete": "حذف تقرير خطأ التعليق التوضيحي",
 	"report.flags.error.general.update": "خطأ في تحديث تقرير التعليق التوضيحي",

@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "Supprimer cette annotation ?",
 	"report.flags.confirm.deletion": "Confirmer la suppression",
 	"report.flags.confirm.yes.deletion": "Oui, supprimer",
+	"report.flags.error.general.all.and.other.client.regions": "Les régions clientes sélectionnées contiennent \"Toutes\" et d'autres régions clientes. Veuillez sélectionner \"Tous\" uniquement ou choisir d'autres régions clientes.",
+	"report.flags.error.general.all.and.other.server.regions": "Les régions de serveur sélectionnées contiennent \"Tous\" et d'autres régions de serveur. Veuillez sélectionner \"Tous\" uniquement ou choisir d'autres régions de serveur.",
 	"report.flags.error.general.create": "Créer une erreur d'annotation de rapport",
 	"report.flags.error.general.delete": "Supprimer l'erreur d'annotation du rapport",
 	"report.flags.error.general.update": "Erreur d'annotation de rapport de mise à jour",

@@ -1690,6 +1690,8 @@
 	"report.flags.confirm.content.deletion": "この注釈を削除しますか？",
 	"report.flags.confirm.deletion": "削除の確認",
 	"report.flags.confirm.yes.deletion": "はい、削除します",
+	"report.flags.error.general.all.and.other.client.regions": "選択したクライアントリージョンには、「すべて」およびその他のクライアントリージョンが含まれています。 「すべて」のみを選択するか、他のクライアントリージョンを選択してください。",
+	"report.flags.error.general.all.and.other.server.regions": "選択したサーバーリージョンには、「すべて」およびその他のサーバーリージョンが含まれます。 「すべて」のみを選択するか、他のサーバーリージョンを選択してください。",
 	"report.flags.error.general.create": "レポート注釈の作成エラー",
 	"report.flags.error.general.delete": "レポート注釈エラーの削除",
 	"report.flags.error.general.update": "レポート注釈エラーの更新",
