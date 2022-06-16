@@ -1891,6 +1891,8 @@
 	"role.save.error.dialog.title": "The role cannot be saved!",
 	"role.select.number": "role(s) selected",
 	"role.status.label": "Role Status",
+	"role.table.column.features": "caractéristiques",
+	"role.table.column.operations": "Opérations",
 	"role.unassign.user.dialog.msg": "Are you sure you want to unassign this role for selected users?",
 	"role.unassign.user.dialog.title": "Unassign User(s)",
 	"role.update.cancel.confirm.msg": "All unsaved changes will be lost. Do you wish to continue?",

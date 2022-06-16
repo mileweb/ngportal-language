@@ -1891,6 +1891,8 @@
 	"role.save.error.dialog.title": "役割を保存できません！",
 	"role.select.number": "role(s) selected",
 	"role.status.label": "役割のステータス",
+	"role.table.column.features": "特徴",
+	"role.table.column.operations": "オペレーション",
 	"role.unassign.user.dialog.msg": "選択したユーザーのこの役割の割り当てを解除してもよろしいですか？",
 	"role.unassign.user.dialog.title": "ユーザーの割り当て解除",
 	"role.update.cancel.confirm.msg": "未保存の変更はすべて失われます。続行しますか？",

@@ -1891,6 +1891,8 @@
 	"role.save.error.dialog.title": "角色无法保存！",
 	"role.select.number": "选择的角色",
 	"role.status.label": "角色状态",
+	"role.table.column.features": "特征",
+	"role.table.column.operations": "操作",
 	"role.unassign.user.dialog.msg": "确定要为选定用户取消分配此角色吗？",
 	"role.unassign.user.dialog.title": "取消分配用户",
 	"role.update.cancel.confirm.msg": "所有未保存的更改都将丢失。你想继续吗？",

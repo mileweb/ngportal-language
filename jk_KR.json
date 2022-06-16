@@ -1891,6 +1891,8 @@
 	"role.save.error.dialog.title": "역할을 저장할 수 없습니다! ",
 	"role.select.number": "role(s) selected",
 	"role.status.label": "역할 상태 ",
+	"role.table.column.features": "풍모",
+	"role.table.column.operations": "운영",
 	"role.unassign.user.dialog.msg": "선택한 사용자에 대해이 역할을 할당 해제 하시겠습니까? ",
 	"role.unassign.user.dialog.title": "사용자 할당 해제 ",
 	"role.update.cancel.confirm.msg": "저장하지 않은 모든 변경 사항이 손실됩니다. 계속 하시겠습니까? ",
