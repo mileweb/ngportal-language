@@ -1891,6 +1891,8 @@
 	"role.save.error.dialog.title": "Роль не может быть сохранена!",
 	"role.select.number": "выбранные роли",
 	"role.status.label": "Статус роли",
+	"role.table.column.features": "Характеристики",
+	"role.table.column.operations": "операции",
 	"role.unassign.user.dialog.msg": "Вы действительно хотите отменить эту роль для выбранных пользователей?",
 	"role.unassign.user.dialog.title": "Отмененные пользователи",
 	"role.update.cancel.confirm.msg": "Все несохраненные изменения будут потеряны. Вы хотите продолжить?",
