@@ -1909,7 +1909,6 @@
 	"roleListing.column.actions": "Actions",
 	"roleListing.column.description": "Description",
 	"roleListing.column.name": "Role Name",
-	"roleListing.column.name": "Role Name",
 	"roles.delete.confirm.msg.single": "أنت تحاول حذف دور واحد.",
 	"roles.delete.confirm.msg.multiple": "أنت تحاول حذف {roleCount} من الأدوار.",
 	"roles.delete.confirm.title.single": "هل أنت متأكد أنك تريد حذف هذا الدور؟",
