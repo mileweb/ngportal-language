@@ -1741,6 +1741,7 @@
 	"report.requests.label.requests.per.sec": "الطلبات / الثانية",
 	"report.statusDetails.label.all": "all",
 	"report.statusDetails.label.requests": "Request",
+	"report.validation.error.comment.too.long": "يمكن أن يصل الوصف إلى 250 حرفًا ، ويمتد إلى 10 أسطر على الأكثر",
 	"report.vol.label.edge.traffic": "Edge Traffic",
 	"report.vol.label.origin.traffic": "Origin Traffic",
 	"report.vol.label.traffic.vol": "Traffic Volume",

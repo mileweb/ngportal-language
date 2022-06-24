@@ -1741,6 +1741,7 @@
 	"report.requests.label.requests.per.sec": "请求/秒",
 	"report.statusDetails.label.all": "全部",
 	"report.statusDetails.label.requests": "请求数",
+	"report.validation.error.comment.too.long": "描述最多可包含 250 个字符，最多 10 行",
 	"report.vol.label.edge.traffic": "边缘节点流量",
 	"report.vol.label.origin.traffic": "回源流量",
 	"report.vol.label.traffic.vol": "数据流量",

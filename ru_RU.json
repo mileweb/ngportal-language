@@ -1741,6 +1741,7 @@
 	"report.requests.label.requests.per.sec": "Запросы / Сек",
 	"report.statusDetails.label.all": "все",
 	"report.statusDetails.label.requests": "Запросы",
+	"report.validation.error.comment.too.long": "Описание может содержать до 250 символов и занимать не более 10 строк.",
 	"report.vol.label.edge.traffic": "Edge-трафик",
 	"report.vol.label.origin.traffic": "Origin-трафик",
 	"report.vol.label.traffic.vol": "Объем трафика",

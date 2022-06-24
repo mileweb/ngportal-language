@@ -1741,6 +1741,7 @@
 	"report.requests.label.requests.per.sec": "요청 / 초",
 	"report.statusDetails.label.all": "모두",
 	"report.statusDetails.label.requests": "의뢰",
+	"report.validation.error.comment.too.long": "설명은 최대 250자(최대 10줄)까지 가능합니다.",
 	"report.vol.label.edge.traffic": "엣지 트래픽",
 	"report.vol.label.origin.traffic": "오리진 트래픽",
 	"report.vol.label.traffic.vol": "트래픽량",
