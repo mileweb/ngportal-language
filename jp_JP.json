@@ -2136,6 +2136,8 @@
 	"sign.up.success.info": "サインアッププロセスを完了するには、受信トレイを確認してください。",
 	"sign.up.success.title": "成功",
 	"sign.up.text.cookie.policy": "クッキーポリシー",
+	"sign.up.text.error.msg.duplicate.account": "すでに {brandName} CDNProにアクセスできます。 {portalUrl} からアカウントにログインして使用してください。",
+	"sign.up.text.error.msg.multiple.users": "連絡先にリンクされた複数のユーザー。",
 	"sign.up.text.link.aup": "AUP",
 	"sign.up.text.link.dpa": "DPA",
 	"sign.up.text.new.letter.cdnetworks": "CDNetworksの週刊ダイジェストとニュースレターにサインアップしたいと思います。",

@@ -2136,6 +2136,8 @@
 	"sign.up.success.info": "Пожалуйста, проверьте свой почтовый ящик, чтобы завершить процесс регистрации.",
 	"sign.up.success.title": "успех",
 	"sign.up.text.cookie.policy": "Политика использования файлов cookie",
+	"sign.up.text.error.msg.duplicate.account": "У вас уже есть доступ к {brandName} CDN Pro. Пожалуйста, войдите в свою учетную запись через {portalUrl} , чтобы использовать ее.",
+	"sign.up.text.error.msg.multiple.users": "Несколько пользователей, связанных с контактом.",
 	"sign.up.text.link.aup": "АУП",
 	"sign.up.text.link.dpa": "ДПД",
 	"sign.up.text.new.letter.cdnetworks": "Я хотел бы подписаться на еженедельный дайджест и информационный бюллетень CDNetworks.",

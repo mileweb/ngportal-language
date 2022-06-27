@@ -2136,6 +2136,8 @@
 	"sign.up.success.info": "Por favor revise su bandeja de entrada para completar el proceso de registro.",
 	"sign.up.success.title": "Éxito",
 	"sign.up.text.cookie.policy": "Política de cookies",
+	"sign.up.text.error.msg.duplicate.account": "Ya tienes acceso a {brandName} CDN Pro. Inicie sesión en su cuenta a través de {portalUrl} para usarla.",
+	"sign.up.text.error.msg.multiple.users": "Múltiples usuarios vinculados con el contacto.",
 	"sign.up.text.link.aup": "PUA",
 	"sign.up.text.link.dpa": "DPA",
 	"sign.up.text.new.letter.cdnetworks": "Me gustaría suscribirme al boletín y resumen semanal de CDNetworks.",

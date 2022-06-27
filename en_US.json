@@ -2136,6 +2136,8 @@
 	"sign.up.success.info": "Please check your inbox to complete the sign up process.",
 	"sign.up.success.title": "Success",
 	"sign.up.text.cookie.policy": "Cookie Policy",
+	"sign.up.text.error.msg.duplicate.account": "You already have access to {brandName} CDN Pro. Please log in to your account through {portalUrl} to use it.",
+	"sign.up.text.error.msg.multiple.users": "Multiple users linked with contact.",
 	"sign.up.text.link.aup": "AUP",
 	"sign.up.text.link.dpa": "DPA",
 	"sign.up.text.new.letter.cdnetworks": "I would like to sign up for CDNetworks' weekly digest and newsletter.",

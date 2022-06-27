@@ -2136,6 +2136,8 @@
 	"sign.up.success.info": "请检查您的收件箱以完成注册过程。",
 	"sign.up.success.title": "成功",
 	"sign.up.text.cookie.policy": "Cookie政策",
+	"sign.up.text.error.msg.duplicate.account": "您已经可以访问 {brandName} CDN Pro。请通过 {portalUrl} 登录您的帐户以使用它。",
+	"sign.up.text.error.msg.multiple.users": "多个用户与联系人链接。",
 	"sign.up.text.link.aup": "AUP",
 	"sign.up.text.link.dpa": "DPA",
 	"sign.up.text.new.letter.cdnetworks": "我想订阅 CDNetworks 的每周摘要和时事通讯。",
