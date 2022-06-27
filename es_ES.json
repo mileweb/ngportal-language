@@ -1732,6 +1732,8 @@
 	"report.general.button.download.raw.data": "Download Raw Data",
 	"report.general.label.cache.hit.ratio": "Cache Hit Ratio",
 	"report.general.label.subtitle.zoom.in": "Click and drag in the plot area to zoom in",
+	"report.reqSummary.label.fast.requests": "Fast Route Requests",
+	"report.reqSummary.label.requests": "Edge Requests",
 	"report.requests.label.edge.requests": "Edge Requests",
 	"report.requests.label.edgeHostname.requests": "Edge Hostname Requests",
 	"report.requests.label.fast.route.requests": "Fast Route Requests",

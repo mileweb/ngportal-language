@@ -1732,6 +1732,8 @@
 	"report.general.button.download.raw.data": "下载原始数据",
 	"report.general.label.cache.hit.ratio": "缓存命中率",
 	"report.general.label.subtitle.zoom.in": "点击并拖动以放大",
+	"report.reqSummary.label.fast.requests": "快速通道请求数",
+	"report.reqSummary.label.requests": "边缘请求数",
 	"report.requests.label.edge.requests": "边缘节点请求数",
 	"report.requests.label.edgeHostname.requests": "边缘域名解析请求",
 	"report.requests.label.fast.route.requests": "快速通道请求数",

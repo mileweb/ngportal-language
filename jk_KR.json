@@ -1732,6 +1732,8 @@
 	"report.general.button.download.raw.data": "원시 데이터 다운로드 ",
 	"report.general.label.cache.hit.ratio": "캐시 적중률 ",
 	"report.general.label.subtitle.zoom.in": "플롯 영역을 클릭하고 끌어서 확대합니다. ",
+	"report.reqSummary.label.fast.requests": "Fast Route Requests",
+	"report.reqSummary.label.requests": "Edge Requests",
 	"report.requests.label.edge.requests": "엣지 요청",
 	"report.requests.label.edgeHostname.requests": "Edge Hostname Requests",
 	"report.requests.label.fast.route.requests": "Fast Route Requests",

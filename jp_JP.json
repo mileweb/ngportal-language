@@ -1732,6 +1732,8 @@
 	"report.general.button.download.raw.data": "生データをダウンロードする",
 	"report.general.label.cache.hit.ratio": "キャッシュヒット率",
 	"report.general.label.subtitle.zoom.in": "拡大するには、プロットをクリックしてドラッグします",
+	"report.reqSummary.label.fast.requests": "Fast Route Requests",
+	"report.reqSummary.label.requests": "Edge Requests",
 	"report.requests.label.edge.requests": "エッジリクエスト",
 	"report.requests.label.edgeHostname.requests": "エッジホスト名のリクエスト",
 	"report.requests.label.fast.route.requests": "高速ルートのリクエスト",
