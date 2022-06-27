@@ -1728,7 +1728,6 @@
 	"report.flags.tooltip.help": "주석을 클릭하면 세부정보를 볼 수 있습니다.",
 	"report.flags.tooltip.hostname.all": "모두",
 	"report.flags.tooltip.objects.and.others": "{object_value} 및 {cnt} 기타",
-	"report.general.button.download.options": "다운로드 옵션 ",
 	"report.general.button.download.raw.data": "원시 데이터 다운로드 ",
 	"report.general.label.cache.hit.ratio": "캐시 적중률 ",
 	"report.general.label.subtitle.zoom.in": "플롯 영역을 클릭하고 끌어서 확대합니다. ",

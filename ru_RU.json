@@ -1728,7 +1728,6 @@
 	"report.flags.tooltip.help": "Щелкните аннотацию, чтобы просмотреть подробности.",
 	"report.flags.tooltip.hostname.all": "все",
 	"report.flags.tooltip.objects.and.others": "{object_value} и {cnt} др.(а)",
-	"report.general.button.download.options": "Опции скачивания",
 	"report.general.button.download.raw.data": "Скачивание сырых данных",
 	"report.general.label.cache.hit.ratio": "Коэффициент попадания в кеш",
 	"report.general.label.subtitle.zoom.in": "Нажмите и перетащите область графика, чтобы увеличить",
