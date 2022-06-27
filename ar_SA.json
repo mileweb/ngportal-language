@@ -1728,7 +1728,6 @@
 	"report.flags.tooltip.help": "انقر فوق التعليق التوضيحي لعرض التفاصيل.",
 	"report.flags.tooltip.hostname.all": "الكل",
 	"report.flags.tooltip.objects.and.others": "{object_value} و {cnt} آخرون",
-	"report.general.button.download.options": "Download Options",
 	"report.general.button.download.raw.data": "Download Raw Data",
 	"report.general.label.cache.hit.ratio": "Cache Hit Ratio",
 	"report.general.label.subtitle.zoom.in": "Click and drag in the plot area to zoom in",

@@ -1728,7 +1728,6 @@
 	"report.flags.tooltip.help": "单击注释以查看详细信息。",
 	"report.flags.tooltip.hostname.all": "所有",
 	"report.flags.tooltip.objects.and.others": "{object_value} 和另外 {cnt} 个",
-	"report.general.button.download.options": "下载选项",
 	"report.general.button.download.raw.data": "下载原始数据",
 	"report.general.label.cache.hit.ratio": "缓存命中率",
 	"report.general.label.subtitle.zoom.in": "点击并拖动以放大",

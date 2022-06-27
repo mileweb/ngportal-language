@@ -1728,7 +1728,6 @@
 	"report.flags.tooltip.help": "詳細を表示するには、注釈をクリックしてください。",
 	"report.flags.tooltip.hostname.all": "すべて",
 	"report.flags.tooltip.objects.and.others": "{object_value} および {cnt} その他",
-	"report.general.button.download.options": "ダウンロードオプション",
 	"report.general.button.download.raw.data": "生データをダウンロードする",
 	"report.general.label.cache.hit.ratio": "キャッシュヒット率",
 	"report.general.label.subtitle.zoom.in": "拡大するには、プロットをクリックしてドラッグします",
