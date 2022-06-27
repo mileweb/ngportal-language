@@ -2136,6 +2136,8 @@
 	"sign.up.success.info": "받은 편지함을 확인하여 가입 절차를 완료하세요.",
 	"sign.up.success.title": "성공",
 	"sign.up.text.cookie.policy": "쿠키 정책",
+	"sign.up.text.error.msg.duplicate.account": "이미 {brandName} CDN Pro에 액세스할 수 있습니다. 사용하려면 {portalUrl} 을(를) 통해 계정에 로그인하십시오.",
+	"sign.up.text.error.msg.multiple.users": "연락처와 연결된 여러 사용자.",
 	"sign.up.text.link.aup": "AUP",
 	"sign.up.text.link.dpa": "DPA",
 	"sign.up.text.new.letter.cdnetworks": "CDNetworks의 주간 다이제스트 및 뉴스레터를 구독하고 싶습니다.",
