@@ -1834,6 +1834,7 @@
 	"reportQuery.page.summary.bandwidth.95top": "Top 95% Bandwidth",
 	"reportQuery.page.summary.bandwidth.average": "Average Bandwidth",
 	"reportQuery.page.summary.bandwidth.peak": "Peak Bandwidth",
+	"reportQuery.page.summary.edge.requests": "Edge Requests",
 	"reportQuery.page.summary.fast.req": "Total Fast Route Requests",
 	"reportQuery.page.summary.fast.vol.down": "Total Download Traffic",
 	"reportQuery.page.summary.fast.vol.up": "Total Upload Traffic",

@@ -1834,6 +1834,7 @@
 	"reportQuery.page.summary.bandwidth.95top": "95%最高数据带宽",
 	"reportQuery.page.summary.bandwidth.average": "平均数据带宽",
 	"reportQuery.page.summary.bandwidth.peak": "峰值数据带宽",
+	"reportQuery.page.summary.edge.requests": "边缘请求数",
 	"reportQuery.page.summary.fast.req": "快速通道总请求数",
 	"reportQuery.page.summary.fast.vol.down": "总下载流量",
 	"reportQuery.page.summary.fast.vol.up": "总上传流量",
