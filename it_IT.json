@@ -1741,7 +1741,7 @@
 	"report.requests.label.requests.per.sec": "Richieste / secondo",
 	"report.statusDetails.label.all": "all",
 	"report.statusDetails.label.requests": "Request",
-	"report.validation.error.comment.too.long": "La descrizione può essere composta da un massimo di 250 caratteri, per un massimo di 10 righe",
+	"report.validation.error.comment.too.long": "La descrizione può essere composta da un massimo di 250 caratteri, per un massimo di 5 righe",
 	"report.vol.label.edge.traffic": "Edge Traffic",
 	"report.vol.label.origin.traffic": "Origin Traffic",
 	"report.vol.label.traffic.vol": "Traffic Volume",

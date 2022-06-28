@@ -1741,7 +1741,7 @@
 	"report.requests.label.requests.per.sec": "Demandes / seconde",
 	"report.statusDetails.label.all": "all",
 	"report.statusDetails.label.requests": "Request",
-	"report.validation.error.comment.too.long": "La description peut comporter jusqu'à 250 caractères, répartis sur 10 lignes au maximum.",
+	"report.validation.error.comment.too.long": "La description peut comporter jusqu'à 250 caractères, répartis sur 5 lignes au maximum.",
 	"report.vol.label.edge.traffic": "Edge Traffic",
 	"report.vol.label.origin.traffic": "Origin Traffic",
 	"report.vol.label.traffic.vol": "Traffic Volume",
