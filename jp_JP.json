@@ -1740,7 +1740,7 @@
 	"report.requests.label.requests.per.sec": "リクエスト/秒",
 	"report.statusDetails.label.all": "すべて",
 	"report.statusDetails.label.requests": "リクエスト",
-	"report.validation.error.comment.too.long": "説明は最大250文字で、最大10行にまたがることができます。",
+	"report.validation.error.comment.too.long": "説明は最大250文字で、最大5行にまたがることができます。",
 	"report.vol.label.edge.traffic": "エッジトラフィック",
 	"report.vol.label.origin.traffic": "オリジントラフィック",
 	"report.vol.label.traffic.vol": "トラフィック量",
