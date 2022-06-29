@@ -1664,6 +1664,8 @@
 	"report.cpu.time.label.cpu.time": "エッジサーバーのCPU時間",
 	"report.cpu.time.label.cpu.time.cores": "CPUコア",
 	"report.cpu.time.label.cpu.time.sec": "秒",
+	"report.cpuSummary.label.edge.time": "Edge CPU Time",
+	"report.cpuSummary.label.interm.time": "Intermediate CPU Time",
 	"report.domainGroup.createGroup.modal.error": "グループ名が必要です",
 	"report.domainGroup.createGroup.modal.placeholder": "グループ名を入力してください",
 	"report.domainGroup.createGroup.modal.title": "グループとして保存",

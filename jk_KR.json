@@ -1664,6 +1664,8 @@
 	"report.cpu.time.label.cpu.time": "Edge Server CPU Time",
 	"report.cpu.time.label.cpu.time.cores": "CPU Cores",
 	"report.cpu.time.label.cpu.time.sec": "Seconds",
+	"report.cpuSummary.label.edge.time": "Edge CPU Time",
+	"report.cpuSummary.label.interm.time": "Intermediate CPU Time",
 	"report.domainGroup.createGroup.modal.error": "그룹 이름은 필수 항목입니다.",
 	"report.domainGroup.createGroup.modal.placeholder": "그룹 이름을 입력하세요",
 	"report.domainGroup.createGroup.modal.title": "그룹으로 저장",

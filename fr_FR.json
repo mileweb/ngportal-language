@@ -1664,6 +1664,8 @@
 	"report.cpu.time.label.cpu.time": "Edge Server CPU Time",
 	"report.cpu.time.label.cpu.time.cores": "CPU Cores",
 	"report.cpu.time.label.cpu.time.sec": "Seconds",
+	"report.cpuSummary.label.edge.time": "Edge CPU Time",
+	"report.cpuSummary.label.interm.time": "Intermediate CPU Time",
 	"report.domainGroup.createGroup.modal.error": "Le nom du groupe est requis",
 	"report.domainGroup.createGroup.modal.placeholder": "Entrez un nom de groupe",
 	"report.domainGroup.createGroup.modal.title": "Enregistrer en groupe",
