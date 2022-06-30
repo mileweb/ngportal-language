@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "Fine del tempo",
 	"accesslog.download.column.start.time": "Orario di inizio",
 	"accesslog.download.create.text.here": "Qui",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "L'intervallo di date non deve superare {logDownloadStorageDays} giorni.",
 	"accesslog.download.exportLog.button.text": "Esporta registri",
 	"accesslog.download.noMatch.confirmToCreate.text": "Non sono presenti registri per l'intervallo di date richiesto per \"{hostname}\". Vuoi creare una nuova configurazione di log?",
 	"accesslog.download.noMatchFound.text": "Nessun risultato trovato",

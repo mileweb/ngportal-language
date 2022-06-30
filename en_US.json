@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "End Time",
 	"accesslog.download.column.start.time": "Start Time",
 	"accesslog.download.create.text.here": "here",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "The date range should be no longer than {logDownloadStorageDays} days.",
 	"accesslog.download.exportLog.button.text": "Export Logs",
 	"accesslog.download.noMatch.confirmToCreate.text": "There are no logs for the requested date range for ‘{hostname}’. Do you want to create a new log configuration?",
 	"accesslog.download.noMatchFound.text": "No matches found",

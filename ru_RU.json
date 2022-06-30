@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "Время окончания",
 	"accesslog.download.column.start.time": "Начальное время",
 	"accesslog.download.create.text.here": "вот",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "Диапазон дат не должен превышать {logDownloadStorageDays} дней.",
 	"accesslog.download.exportLog.button.text": "Экспорт журналов",
 	"accesslog.download.noMatch.confirmToCreate.text": "Нет журналов для запрошенного диапазона дат для ‘{hostname}’. Вы хотите создать новую конфигурацию журнала?",
 	"accesslog.download.noMatchFound.text": "Совпадений не найдено",

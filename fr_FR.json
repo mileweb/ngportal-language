@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "Heure de fin",
 	"accesslog.download.column.start.time": "Heure de début",
 	"accesslog.download.create.text.here": "ici",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "La plage de dates ne doit pas dépasser {logDownloadStorageDays} jours.",
 	"accesslog.download.exportLog.button.text": "Exporter les journaux",
 	"accesslog.download.noMatch.confirmToCreate.text": "Il n'y a pas de journaux pour la plage de dates demandée pour «{hostname}». Voulez-vous créer une nouvelle configuration de journal ?",
 	"accesslog.download.noMatchFound.text": "Aucun résultat",

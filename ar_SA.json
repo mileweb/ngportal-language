@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "وقت النهاية",
 	"accesslog.download.column.start.time": "وقت البدء",
 	"accesslog.download.create.text.here": "هنا",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "يجب ألا يزيد النطاق الزمني عن {logDownloadStorageDays} يوم.",
 	"accesslog.download.exportLog.button.text": "تصدير السجلات",
 	"accesslog.download.noMatch.confirmToCreate.text": "لا توجد سجلات للنطاق الزمني المطلوب لـ \"{hostname}\". هل تريد إنشاء تكوين سجل جديد؟",
 	"accesslog.download.noMatchFound.text": "لم يتم العثور على تطابق",

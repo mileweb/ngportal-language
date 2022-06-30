@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "hora de finalización",
 	"accesslog.download.column.start.time": "Hora de inicio",
 	"accesslog.download.create.text.here": "aquí",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "El intervalo de fechas no debe ser superior a {logDownloadStorageDays} días.",
 	"accesslog.download.exportLog.button.text": "Exportar registros",
 	"accesslog.download.noMatch.confirmToCreate.text": "No hay registros para el rango de fechas solicitado para '{hostname}'. ¿Desea crear una nueva configuración de registro?",
 	"accesslog.download.noMatchFound.text": "No se encontraron coincidencias",
