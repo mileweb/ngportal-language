@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "时间结束",
 	"accesslog.download.column.start.time": "开始时间",
 	"accesslog.download.create.text.here": "这里",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "日期范围不应超过 {logDownloadStorageDays} 天。",
 	"accesslog.download.exportLog.button.text": "导出日志",
 	"accesslog.download.noMatch.confirmToCreate.text": "“{hostname}”的请求日期范围没有日志。是否要创建新的日志配置？",
 	"accesslog.download.noMatchFound.text": "未找到匹配项",

@@ -45,6 +45,7 @@
 	"accesslog.download.column.end.time": "終了時間",
 	"accesslog.download.column.start.time": "始まる時間",
 	"accesslog.download.create.text.here": "ここに",
+	"accesslog.download.error.dateRange.daysToStoreLogs": "日付範囲は {logDownloadStorageDays} 日以内にする必要があります。",
 	"accesslog.download.exportLog.button.text": "ログのエクスポート",
 	"accesslog.download.noMatch.confirmToCreate.text": "「{hostname}」の要求された日付範囲のログはありません。新しいログ構成を作成しますか？",
 	"accesslog.download.noMatchFound.text": "一致するものが見つかりません",
