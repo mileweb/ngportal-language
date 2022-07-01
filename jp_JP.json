@@ -1843,7 +1843,7 @@
 	"reportQuery.page.summary.fast.vol.down": "Total Download Traffic",
 	"reportQuery.page.summary.fast.vol.up": "Total Upload Traffic",
 	"reportQuery.page.summary.general.cache.hit.ratio": "キャッシュヒット率",
-	"reportQuery.page.summary.interm.cpu.time": "Total Interm CPU Time",
+	"reportQuery.page.summary.interm.cpu.time": "Total Intermediate CPU Time",
 	"reportQuery.page.summary.origin.requests": "オリジンへのリクエスト",
 	"reportQuery.page.summary.origin.traffic": "オリジンへのトラフィック",
 	"reportQuery.page.summary.total.cpu.time": "総計CPU時間",

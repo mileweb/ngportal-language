@@ -1843,7 +1843,7 @@
 	"reportQuery.page.summary.fast.vol.down": "Total Download Traffic",
 	"reportQuery.page.summary.fast.vol.up": "Total Upload Traffic",
 	"reportQuery.page.summary.general.cache.hit.ratio": "캐시 적중률 ",
-	"reportQuery.page.summary.interm.cpu.time": "Total Interm CPU Time",
+	"reportQuery.page.summary.interm.cpu.time": "Total Intermediate CPU Time",
 	"reportQuery.page.summary.origin.requests": "원산지 요청 ",
 	"reportQuery.page.summary.origin.traffic": "원산지 교통 ",
 	"reportQuery.page.summary.total.cpu.time": "Total CPU Time",
