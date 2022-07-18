@@ -1480,6 +1480,7 @@
 	"property.shield.origin.option.enableShield.yes": "Yes",
 	"property.shield.origin.placeholder.selectShield": "Select a shield",
 	"property.shield.origin.popover.enableShield": "The shield is an extra caching layer between the CDN Pro edge servers and origin. The shield helps offload your origin and improve the cache hit ratio. {link}",
+	"property.shield.origin.popover.learnMore": "Learn More",
 	"property.shield.origin.popover.shield": "Select a shield location that is the most appropriate location for the origin. Your property must have ICP Beian in order to use a shield in China. {link}",
 	"property.shield.origin.popover.shieldReadOnly": "Please add these IP addresses to your origin server's approved IP list.",
 	"property.shield.origin.successMessage.copyIpAddresses": "Copied semicolon-separated {ip_list_text} addresses to clipboard",

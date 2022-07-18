@@ -1480,6 +1480,7 @@
 	"property.shield.origin.option.enableShield.yes": "Oui",
 	"property.shield.origin.placeholder.selectShield": "Sélectionnez un bouclier",
 	"property.shield.origin.popover.enableShield": "Le bouclier est une couche de mise en cache supplémentaire entre les serveurs périphériques CDN Pro et l'origine. Le bouclier aide à décharger votre origine et à améliorer le taux d'accès au cache. {link}",
+	"property.shield.origin.popover.learnMore": "apprendre encore plus",
 	"property.shield.origin.popover.shield": "Sélectionnez un emplacement de blindage qui est l'emplacement le plus approprié pour l'origine. Votre propriété doit avoir ICP Beian afin d'utiliser un bouclier en Chine. {link}",
 	"property.shield.origin.popover.shieldReadOnly": "Veuillez ajouter ces adresses IP à la liste d'adresses IP approuvées de votre serveur d'origine.",
 	"property.shield.origin.successMessage.copyIpAddresses": "Adresses {ip_list_text} séparées par des points-virgules copiées dans le presse-papiers",

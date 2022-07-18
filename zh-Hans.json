@@ -1480,6 +1480,7 @@
 	"property.shield.origin.option.enableShield.yes": "是",
 	"property.shield.origin.placeholder.selectShield": "选择盾牌",
 	"property.shield.origin.popover.enableShield": "屏蔽是 CDN Pro 边缘服务器和源之间的额外缓存层。盾牌有助于卸载您的来源并提高缓存命中率。 {link}",
+	"property.shield.origin.popover.learnMore": "学到更多",
 	"property.shield.origin.popover.shield": "选择一个最适合原点的屏蔽位置。您的财产必须有 ICP Beian 才能在中国使用盾牌。 {link}",
 	"property.shield.origin.popover.shieldReadOnly": "请将这些 IP 地址添加到您的源服务器的批准 IP 列表中。",
 	"property.shield.origin.successMessage.copyIpAddresses": "将分号分隔的 {ip_list_text} 地址复制到剪贴板",

@@ -1480,6 +1480,7 @@
 	"property.shield.origin.option.enableShield.yes": "sì",
 	"property.shield.origin.placeholder.selectShield": "Scegli uno scudo",
 	"property.shield.origin.popover.enableShield": "Lo scudo è un ulteriore livello di memorizzazione nella cache tra i server perimetrali CDN Pro e l'origine. Lo scudo aiuta a scaricare la tua origine e migliorare il rapporto di hit della cache. {link}",
+	"property.shield.origin.popover.learnMore": "Per saperne di più",
 	"property.shield.origin.popover.shield": "Seleziona una posizione dello scudo che sia la posizione più appropriata per l'origine. La tua proprietà deve avere ICP Beian per poter utilizzare uno scudo in Cina. {link}",
 	"property.shield.origin.popover.shieldReadOnly": "Aggiungi questi indirizzi IP all'elenco IP approvato del tuo server di origine.",
 	"property.shield.origin.successMessage.copyIpAddresses": "Indirizzi {ip_list_text} separati da punto e virgola copiati negli appunti",
