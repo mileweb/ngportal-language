@@ -2170,7 +2170,7 @@
 	"sign.up.user.invite.complete": "Complete sign up",
 	"sign.up.user.invite.desc.primary": "You are almost there",
 	"sign.up.user.invite.desc.secondary": "Please provide login details to access our system.",
-	"sign.up.user.invite.error.in.use.username": "The username is in use, please enter a different username.",
+	"sign.up.user.invite.error.in.use.username": "The username is in use. Please enter a different username.",
 	"sign.up.user.invite.error.link.invalid.expired": "The verification link is invalid or has expired.",
 	"sign.up.user.invite.error.phone.invalid": "The phone number is invalid",
 	"sign.up.user.invite.error.phone.too.long": "The phone number is too long.",
