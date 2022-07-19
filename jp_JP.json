@@ -2276,6 +2276,7 @@
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "助けて",
 	"topbar.help.email": "{emailAddress}までご連絡ください。",
+	"topbar.help.on.this.page": "このページのヘルプ",
 	"topbar.logout": "ログアウト",
 	"topbar.quickstart": "入門",
 	"topbar.support": "サポート",

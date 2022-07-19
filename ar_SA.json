@@ -2276,6 +2276,7 @@
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Help",
 	"topbar.help.email": "يرجى الاتصال بنا على {emailAddress}.",
+	"topbar.help.on.this.page": "مساعدة في هذه الصفحة",
 	"topbar.logout": "Logout",
 	"topbar.quickstart": "ابدء",
 	"topbar.support": "الدعم",

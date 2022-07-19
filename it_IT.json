@@ -2276,6 +2276,7 @@
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Aiuto",
 	"topbar.help.email": "Contattaci all'indirizzo {emailAddress}.",
+	"topbar.help.on.this.page": "Aiuto in questa pagina",
 	"topbar.logout": "Disconnettersi",
 	"topbar.quickstart": "Iniziare",
 	"topbar.support": "Supporto",

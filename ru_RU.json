@@ -2276,6 +2276,7 @@
 	"topbar.dropdown.title": "Информация о пользователе",
 	"topbar.help": "Помощь",
 	"topbar.help.email": "Пожалуйста, свяжитесь с нами {emailAddress}.",
+	"topbar.help.on.this.page": "Помощь на этой странице",
 	"topbar.logout": "Выход",
 	"topbar.quickstart": "Начало работы",
 	"topbar.support": "Служба поддержки",
