@@ -300,6 +300,8 @@
 	"certificate.update.create.default.comment": "{userName}によって作成されました",
 	"certificate.update.create.version.btn": "バージョンを作成",
 	"certificate.update.edit.btn": "編集",
+	"certificate.update.error.invalidCert": "証明書が存在しません。",
+	"certificate.update.error.other":"証明書の取得中にエラーが発生しました。",
 	"certificate.update.failed.title": "証明書の更新に失敗しました！",
 	"certificate.update.save.btn": "証明書を保存",
 	"certificate.update.success.msg": "証明書が正常に更新されました。",
