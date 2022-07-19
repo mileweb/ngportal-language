@@ -1480,6 +1480,7 @@
 	"property.shield.origin.option.enableShield.yes": "да",
 	"property.shield.origin.placeholder.selectShield": "Выберите щит",
 	"property.shield.origin.popover.enableShield": "Экран — это дополнительный уровень кэширования между пограничными серверами CDN Pro и источником. Щит помогает разгрузить ваш источник и улучшить коэффициент попаданий в кеш. {link}",
+	"property.shield.origin.popover.learnMore": "Учить больше",
 	"property.shield.origin.popover.shield": "Выберите расположение щита, которое является наиболее подходящим местом для источника. Ваша собственность должна иметь ICP Beian, чтобы использовать щит в Китае. {link}",
 	"property.shield.origin.popover.shieldReadOnly": "Пожалуйста, добавьте эти IP-адреса в список разрешенных IP-адресов исходного сервера.",
 	"property.shield.origin.successMessage.copyIpAddresses": "Адреса {ip_list_text} , разделенные точкой с запятой, скопированы в буфер обмена.",

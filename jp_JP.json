@@ -1480,6 +1480,7 @@
 	"property.shield.origin.option.enableShield.yes": "はい",
 	"property.shield.origin.placeholder.selectShield": "シールドを選択してください",
 	"property.shield.origin.popover.enableShield": "シールドは、CDNProエッジサーバーとオリジンの間の追加のキャッシングレイヤーです。シールドは、オリジンの負荷を軽減し、キャッシュヒット率を向上させるのに役立ちます。 {link}",
+	"property.shield.origin.popover.learnMore": "もっと詳しく知る",
 	"property.shield.origin.popover.shield": "原点に最も適切な場所であるシールドの場所を選択します。中国でシールドを使用するには、プロパティにICPBeianが必要です。 {link}",
 	"property.shield.origin.popover.shieldReadOnly": "これらのIPアドレスをオリジンサーバーの承認済みIPリストに追加してください。",
 	"property.shield.origin.successMessage.copyIpAddresses": "セミコロンで区切られた {ip_list_text} アドレスをクリップボードにコピーしました",

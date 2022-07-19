@@ -1480,6 +1480,7 @@
 	"property.shield.origin.option.enableShield.yes": "نعم فعلا",
 	"property.shield.origin.placeholder.selectShield": "اختر درعًا",
 	"property.shield.origin.popover.enableShield": "الدرع عبارة عن طبقة تخزين مؤقت إضافية بين خوادم CDN Pro وأصلها. يساعد الدرع في تفريغ الأصل الخاص بك وتحسين نسبة عدد مرات الوصول إلى ذاكرة التخزين المؤقت. {link}",
+	"property.shield.origin.popover.learnMore": "أعرف أكثر",
 	"property.shield.origin.popover.shield": "حدد موقع الدرع الذي هو أنسب موقع للأصل. يجب أن يكون لممتلكاتك برنامج المقارنات الدولية Beian من أجل استخدام درع في الصين. {link}",
 	"property.shield.origin.popover.shieldReadOnly": "يرجى إضافة عناوين IP هذه إلى قائمة IP المعتمدة لخادمك الأصلي.",
 	"property.shield.origin.successMessage.copyIpAddresses": "تم نسخ عناوين {ip_list_text} مفصولة بفاصلة منقوطة إلى الحافظة",
