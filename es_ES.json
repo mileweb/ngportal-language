@@ -300,6 +300,8 @@
 	"certificate.update.create.default.comment": "Creado por {userName}",
 	"certificate.update.create.version.btn": "Create Version",
 	"certificate.update.edit.btn": "Edit",
+	"certificate.update.error.invalidCert": "El certificado no existe.",
+	"certificate.update.error.other":"Se produjo un error al obtener el certificado.",
 	"certificate.update.failed.title": "Certificate Update Failed!",
 	"certificate.update.save.btn": "Save Certificate",
 	"certificate.update.success.msg": "The certificate has been successfully updated.",

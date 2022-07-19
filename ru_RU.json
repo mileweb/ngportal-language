@@ -300,6 +300,8 @@
 	"certificate.update.create.default.comment": "Созданный {userName}",
 	"certificate.update.create.version.btn": "Версия",
 	"certificate.update.edit.btn": "Редактировать",
+	"certificate.update.error.invalidCert": "Сертификат не существует.",
+	"certificate.update.error.other":"Произошла ошибка при получении сертификата.",
 	"certificate.update.failed.title": "Обновление сертификата закончилось неудачей!",
 	"certificate.update.save.btn": "Сохранить",
 	"certificate.update.success.msg": "Сертификат успешно обновлен.",

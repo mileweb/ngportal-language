@@ -300,6 +300,8 @@
 	"certificate.update.create.default.comment": "تم إنشاؤه بواسطة {userName}",
 	"certificate.update.create.version.btn": "Create Version",
 	"certificate.update.edit.btn": "Edit",
+	"certificate.update.error.invalidCert": "الشهادة غير موجودة.",
+	"certificate.update.error.other":"حدث خطأ أثناء إحضار الشهادة.",
 	"certificate.update.failed.title": "Certificate Update Failed!",
 	"certificate.update.save.btn": "Save Certificate",
 	"certificate.update.success.msg": "The certificate has been successfully updated.",

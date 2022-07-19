@@ -300,6 +300,8 @@
 	"certificate.update.create.default.comment": "작성자 : {userName}",
 	"certificate.update.create.version.btn": "버전 만들기 ",
 	"certificate.update.edit.btn": "편집하다",
+	"certificate.update.error.invalidCert": "인증서가 존재하지 않습니다.",
+	"certificate.update.error.other":"인증서를 가져오는 동안 오류가 발생했습니다.",
 	"certificate.update.failed.title": "인증서 업데이트 실패! ",
 	"certificate.update.save.btn": "인증서 저장 ",
 	"certificate.update.success.msg": "인증서가 성공적으로 업데이트되었습니다. ",

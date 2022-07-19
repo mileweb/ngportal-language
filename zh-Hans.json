@@ -300,6 +300,8 @@
 	"certificate.update.create.default.comment": "由{userName}创建",
 	"certificate.update.create.version.btn": "创建新版本",
 	"certificate.update.edit.btn": "编辑",
+	"certificate.update.error.invalidCert": "证书不存在。",
+	"certificate.update.error.other":"获取证书时出错。",
 	"certificate.update.failed.title": "证书更新失败！",
 	"certificate.update.save.btn": "保存",
 	"certificate.update.success.msg": "证书已成功更新。",
