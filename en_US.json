@@ -2278,6 +2278,7 @@
 	"toggle.removeItem": "Remove Item",
 	"toggle.rotate": "Rotate",
 	"toggle.shuffle": "Shuffle",
+	"topbar.contact.support": "Contact Support",
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Help",
 	"topbar.help.email": "Please contact us at {emailAddress}.",

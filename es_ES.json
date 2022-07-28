@@ -2278,6 +2278,7 @@
 	"toggle.removeItem": "Remover el artículo",
 	"toggle.rotate": "Girar",
 	"toggle.shuffle": "Barajar",
+	"topbar.contact.support": "Soporte de contacto",
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "Ayuda",
 	"topbar.help.email": "Póngase en contacto con nosotros en {emailAddress}.",
