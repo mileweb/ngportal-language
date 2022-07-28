@@ -2278,6 +2278,7 @@
 	"toggle.removeItem": "アイテムを削除",
 	"toggle.rotate": "回転",
 	"toggle.shuffle": "シャッフル",
+	"topbar.contact.support": "サポート問い合わせ先",
 	"topbar.dropdown.title": "User Info",
 	"topbar.help": "助けて",
 	"topbar.help.email": "{emailAddress}までご連絡ください。",

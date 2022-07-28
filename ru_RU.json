@@ -2278,6 +2278,7 @@
 	"toggle.removeItem": "Удалить",
 	"toggle.rotate": "Повернуть",
 	"toggle.shuffle": "Перемешать",
+	"topbar.contact.support": "Контактная поддержка",
 	"topbar.dropdown.title": "Информация о пользователе",
 	"topbar.help": "Помощь",
 	"topbar.help.email": "Пожалуйста, свяжитесь с нами {emailAddress}.",
