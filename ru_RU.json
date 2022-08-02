@@ -1478,6 +1478,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "дата последнего обновления",
 	"property.shield.origin.details.name": "название",
 	"property.shield.origin.details.region": "область",
+	"property.shield.origin.errorModal.enableYesSelectNo": "Пожалуйста, выберите щит.",
 	"property.shield.origin.label.enableShield": "Включить щит",
 	"property.shield.origin.label.shield": "щит",
 	"property.shield.origin.option.enableShield.no": "нет",

@@ -1478,6 +1478,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "最后更新日期",
 	"property.shield.origin.details.name": "名称",
 	"property.shield.origin.details.region": "区域",
+	"property.shield.origin.errorModal.enableYesSelectNo": "请选择盾牌。",
 	"property.shield.origin.label.enableShield": "启用屏蔽",
 	"property.shield.origin.label.shield": "盾",
 	"property.shield.origin.option.enableShield.no": "没有",
