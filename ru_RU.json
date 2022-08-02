@@ -455,7 +455,7 @@
 	"content.management.list.tab.purge.title": "Очистка (Purge)",
 	"contentListing.column.action": "Действие",
 	"contentListing.column.completionTime": "Завершено",
-	"contentListing.column.directories": "Директории",
+	"contentListing.column.directories": "подстановочные знаки",
 	"contentListing.column.files": "Файлы",
 	"contentListing.column.hostNames": "Имена хостов",
 	"contentListing.column.id": "ID",

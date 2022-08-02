@@ -455,7 +455,7 @@
 	"content.management.list.tab.purge.title": "パージ",
 	"contentListing.column.action": "アクション",
 	"contentListing.column.completionTime": "完了時間",
-	"contentListing.column.directories": "ディレクトリ",
+	"contentListing.column.directories": "ワイルドカード",
 	"contentListing.column.files": "ファイル",
 	"contentListing.column.hostNames": "ホスト名",
 	"contentListing.column.id": "ID",
