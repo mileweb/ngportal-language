@@ -1478,6 +1478,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "تاريخ آخر تحديث",
 	"property.shield.origin.details.name": "اسم",
 	"property.shield.origin.details.region": "منطقة",
+	"property.shield.origin.errorModal.enableYesSelectNo": "الرجاء تحديد درع.",
 	"property.shield.origin.label.enableShield": "تمكين الدرع",
 	"property.shield.origin.label.shield": "درع",
 	"property.shield.origin.option.enableShield.no": "لا",

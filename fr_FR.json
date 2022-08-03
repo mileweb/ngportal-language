@@ -1478,6 +1478,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "Date de la dernière mise à jour ",
 	"property.shield.origin.details.name": "Prénom",
 	"property.shield.origin.details.region": "Région",
+	"property.shield.origin.errorModal.enableYesSelectNo": "Veuillez sélectionner un bouclier.",
 	"property.shield.origin.label.enableShield": "Activer le bouclier",
 	"property.shield.origin.label.shield": "bouclier",
 	"property.shield.origin.option.enableShield.no": "Non",

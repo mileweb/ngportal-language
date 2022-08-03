@@ -1478,6 +1478,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "最終更新日",
 	"property.shield.origin.details.name": "名",
 	"property.shield.origin.details.region": "領域",
+	"property.shield.origin.errorModal.enableYesSelectNo": "シールドを選択してください。",
 	"property.shield.origin.label.enableShield": "シールドを有効にする",
 	"property.shield.origin.label.shield": "シールド",
 	"property.shield.origin.option.enableShield.no": "いいえ",

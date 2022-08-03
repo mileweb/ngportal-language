@@ -1478,6 +1478,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "마지막 업데이트 날짜",
 	"property.shield.origin.details.name": "이름",
 	"property.shield.origin.details.region": "지역",
+	"property.shield.origin.errorModal.enableYesSelectNo": "쉴드를 선택해주세요.",
 	"property.shield.origin.label.enableShield": "쉴드 활성화",
 	"property.shield.origin.label.shield": "쉴드",
 	"property.shield.origin.option.enableShield.no": "아니오",

@@ -1478,6 +1478,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "Data ultimo aggiornamento ",
 	"property.shield.origin.details.name": "Nome",
 	"property.shield.origin.details.region": "Regione",
+	"property.shield.origin.errorModal.enableYesSelectNo": "Seleziona uno scudo.",
 	"property.shield.origin.label.enableShield": "Abilita Scudo",
 	"property.shield.origin.label.shield": "scudo",
 	"property.shield.origin.option.enableShield.no": "No",
