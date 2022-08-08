@@ -460,7 +460,7 @@
 	"contentListing.column.hostNames": "域名",
 	"contentListing.column.id": "ID",
 	"contentListing.column.rate": "率",
-	"contentListing.column.regex": "正则表达式",
+	"contentListing.column.regex": "正则<br/>表达式",
 	"contentListing.column.submissionTime": "提交时间",
 	"contentListing.column.success": "成功",
 	"contentListing.column.target": "目标",
