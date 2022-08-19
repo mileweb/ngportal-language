@@ -1421,7 +1421,7 @@
 	"property.label.origin.name.and.server": "起源",
 	"property.label.origin.support.sni": "SNIをサポート",
 	"property.label.origin.supported.protocol": "サポートされているプロトコル",
-	"property.label.origin.verify.origin": "原産地証明書を確認する",
+	"property.label.origin.verify.origin": "オリジンの証明書の確認",
 	"property.label.property.name": "プロパティ名 *",
 	"property.label.redirect.http.to.https": "すべてのHTTP要求をHTTPSにリダイレクトする",
 	"property.label.tls.certificate": "TLS証明書",

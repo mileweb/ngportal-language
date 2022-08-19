@@ -1421,7 +1421,7 @@
 	"property.label.origin.name.and.server": "Origin ",
 	"property.label.origin.support.sni": "Поддерживает SNI",
 	"property.label.origin.supported.protocol": "Поддерживаемый протокол",
-	"property.label.origin.verify.origin": "Проверить origin сертификат",
+	"property.label.origin.verify.origin": "Проверка сертификата происхождения",
 	"property.label.property.name": "Имя настройки *",
 	"property.label.redirect.http.to.https": "Перенаправить все HTTP-запросы на HTTPS",
 	"property.label.tls.certificate": "TLS сертификат",

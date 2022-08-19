@@ -1421,7 +1421,7 @@
 	"property.label.origin.name.and.server": "源站 ",
 	"property.label.origin.support.sni": "支持SNI",
 	"property.label.origin.supported.protocol": "支持协议",
-	"property.label.origin.verify.origin": "验证原产地证书",
+	"property.label.origin.verify.origin": "验证源站证书",
 	"property.label.property.name": "加速项目名称 *",
 	"property.label.redirect.http.to.https": "将所有HTTP请求重定向到HTTPS",
 	"property.label.tls.certificate": "TLS证书",
