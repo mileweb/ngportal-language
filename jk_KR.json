@@ -450,7 +450,7 @@
 	"contactListing.contact.invite.cancel.confirm.modal.title": "초대 취소",
 	"contactListing.contact.invite.cancel.success.modal.text": "초대가 취소되었습니다.",
 	"contactListing.contact.invite.cancel.success.modal.title": "초대가 취소되었습니다!",
-	"contactListing.contact.invite.resend.confirm.modal.text": "'{email}'에 대한 초대장을 다시 보내시겠습니까?",
+	"contactListing.contact.invite.resend.confirm.modal.text": "'{email}'(으)로 초대장을 다시 보내시겠습니까?",
 	"contactListing.contact.invite.resend.confirm.modal.title": "다시 보내기",
 	"contactListing.contact.invite.resend.success.modal.text": "초대장이 재전송되었습니다.",
 	"contactListing.contact.invite.resend.success.modal.title": "초대 거절!",

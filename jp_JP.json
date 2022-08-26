@@ -450,7 +450,7 @@
 	"contactListing.contact.invite.cancel.confirm.modal.title": "招待をキャンセル",
 	"contactListing.contact.invite.cancel.success.modal.text": "招待はキャンセルされました。",
 	"contactListing.contact.invite.cancel.success.modal.title": "招待がキャンセルされました!",
-	"contactListing.contact.invite.resend.confirm.modal.text": "'{email}' への招待状を再送信しますか?",
+	"contactListing.contact.invite.resend.confirm.modal.text": "招待状を '{email}' に再送信しますか?",
 	"contactListing.contact.invite.resend.confirm.modal.title": "招待を再送信",
 	"contactListing.contact.invite.resend.success.modal.text": "招待状を再送信しました。",
 	"contactListing.contact.invite.resend.success.modal.title": "招待再送！",

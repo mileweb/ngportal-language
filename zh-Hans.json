@@ -450,7 +450,7 @@
 	"contactListing.contact.invite.cancel.confirm.modal.title": "取消邀请",
 	"contactListing.contact.invite.cancel.success.modal.text": "邀请已取消。",
 	"contactListing.contact.invite.cancel.success.modal.title": "邀请取消！",
-	"contactListing.contact.invite.resend.confirm.modal.text": "是否要重新向“{email}”发送邀请？",
+	"contactListing.contact.invite.resend.confirm.modal.text": "是否要将邀请重新发送给“{email}”？",
 	"contactListing.contact.invite.resend.confirm.modal.title": "重新发送邀请",
 	"contactListing.contact.invite.resend.success.modal.text": "邀请已重新发送。",
 	"contactListing.contact.invite.resend.success.modal.title": "邀请 怨恨！",

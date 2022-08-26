@@ -446,7 +446,7 @@
 	"contactListing.column.name": "User Name",
 	"contactListing.column.role": "Role",
 	"contactListing.column.status": "Status",
-	"contactListing.contact.invite.cancel.confirm.modal.text": "هل تريد إلغاء الدعوة إلى \"{email}\"؟",
+	"contactListing.contact.invite.cancel.confirm.modal.text": "هل تريد إلغاء الدعوة الموجهة إلى \"{email}\"؟",
 	"contactListing.contact.invite.cancel.confirm.modal.title": "إلغاء الدعوة",
 	"contactListing.contact.invite.cancel.success.modal.text": "تم إلغاء الدعوة.",
 	"contactListing.contact.invite.cancel.success.modal.title": "تم إلغاء الدعوة!",
