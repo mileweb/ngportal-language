@@ -661,7 +661,7 @@
 	"edgeHostname.cancel.btn": "Отмена",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "Выбранные клиентские провайдеры(ISP) содержат \"Все\" и другие провайдеры (ISP). Выберите только \"Все\" или других провайдеров (ISP).",
 	"edgeHostname.client.isp.limit.size": "Пожалуйста, выберите до 10 провайдеров (ISP).",
-	"edgeHostname.client.isp.selected.all": "Пожалуйста, выберите другие записи ISP.",
+	"edgeHostname.client.isp.selected.all": "Пожалуйста, выберите других интернет-провайдеров.",
 	"edgeHostname.client.region.af": "Африка",
 	"edgeHostname.client.region.all": "Все",
 	"edgeHostname.client.region.apac": "Азиатско-Тихоокеанский регион без Материкового Китая, Ближний Восток",

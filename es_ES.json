@@ -661,7 +661,7 @@
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "Los ISP del cliente seleccionados contienen \"Todos\" y otros ISP (s). Seleccione \"Todos\" solamente o elija otro (s) ISP (s).",
 	"edgeHostname.client.isp.limit.size": "Elija hasta 10 ISP.",
-	"edgeHostname.client.isp.selected.all": "Elija otras entradas de ISP.",
+	"edgeHostname.client.isp.selected.all": "Elija otros ISP.",
 	"edgeHostname.client.region.af": "Africa",
 	"edgeHostname.client.region.all": "All",
 	"edgeHostname.client.region.apac": "Asian Pacific without Mainland China, mid-East",

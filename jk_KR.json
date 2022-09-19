@@ -661,7 +661,7 @@
 	"edgeHostname.cancel.btn": "취소",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "선택한 클라이언트 ISP에는 \"모두\"및 기타 ISP가 포함됩니다. \"모두\"만 선택하거나 다른 ISP를 선택하십시오.",
 	"edgeHostname.client.isp.limit.size": "최대 10 개의 ISP를 선택하십시오.",
-	"edgeHostname.client.isp.selected.all": "다른 ISP 항목을 선택하십시오.",
+	"edgeHostname.client.isp.selected.all": "다른 ISP를 선택하십시오.",
 	"edgeHostname.client.region.af": "아프리카 ",
 	"edgeHostname.client.region.all": "모두",
 	"edgeHostname.client.region.apac": "중국 대륙이없는 아시아 태평양 지역 ",

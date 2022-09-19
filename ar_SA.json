@@ -661,7 +661,7 @@
 	"edgeHostname.cancel.btn": "Cancel",
 	"edgeHostname.client.isp.cannot.contain.allandotherisp": "يحتوي مزودو خدمة الإنترنت المحددون على \"الكل\" ومزودو خدمة الإنترنت الآخرون. الرجاء تحديد \"الكل\" فقط أو اختيار مزودي خدمة إنترنت آخرين.",
 	"edgeHostname.client.isp.limit.size": "الرجاء اختيار ما يصل إلى 10 مزودي خدمة الإنترنت.",
-	"edgeHostname.client.isp.selected.all": "الرجاء اختيار إدخالات ISP الأخرى.",
+	"edgeHostname.client.isp.selected.all": "الرجاء اختيار مزودي خدمة إنترنت آخرين.",
 	"edgeHostname.client.region.af": "Africa",
 	"edgeHostname.client.region.all": "All",
 	"edgeHostname.client.region.apac": "Asian Pacific without Mainland China, mid-East",
