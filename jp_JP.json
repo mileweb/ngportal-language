@@ -2548,7 +2548,7 @@
 	"validation.error.invalid.upstream.name": "使用できるのは、文字、数字、および次の3つの特殊文字：.-_のみです。",
 	"validation.error.loadbalancer.hashkey.invalid": "The load balancer hash key can only include a-z, A-Z, 0-9, '_', '=', '&' and '$'.",
 	"validation.error.loadbalancer.hashkey.length": "The load balancer hash key should be at most 100 characters.",
-	"validation.error.loadbalancer.hashkey.variables": "The load balancer hash key must contain 1 to 3 variables. The allowed variable prefixes are $http_, $cookie_ and $arg_.",
+	"validation.error.loadbalancer.hashkey.variables": "ロード バランサのハッシュ キーには、1 ～ 3 個の変数が含まれている必要があります。許可される変数プレフィックスは、$http_、$cookie_、$arg_、および $random_ です。 $random_N の N は [2, 999999] の範囲にある必要があります。許可されるリテラルは、$remote_user、$client_real_ip、および $sorted_querystring_args です。",
 	"validation.error.missing.beian.content.type": "Beianのコンテンツタイプを選択してください。",
 	"validation.error.name.too.long": "名前は最大128文字です。",
 	"validation.error.not.integer": "帯域幅の値は正の整数でなければなりません。",

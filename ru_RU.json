@@ -2548,7 +2548,7 @@
 	"validation.error.invalid.upstream.name": "Разрешены только буквы, цифры и 3 специальных символа: '.', '-', '_'.",
 	"validation.error.loadbalancer.hashkey.invalid": "Hash key балансировщика нагрузки может включать только буквы a-z, A-Z, 0-9, '_', '=', '&' и '$'.",
 	"validation.error.loadbalancer.hashkey.length": "Hash key балансировщика нагрузки должен быть не более 100 символов.",
-	"validation.error.loadbalancer.hashkey.variables": "Hash key балансировщика нагрузки должен содержать от 1 до 3 переменных. Допустимые префиксы переменных: $ http_, $ cookie_ и $ arg_.",
+	"validation.error.loadbalancer.hashkey.variables": "Хэш-ключ балансировщика нагрузки должен содержать от 1 до 3 переменных. Допустимые префиксы переменных: $http_, $cookie_, $arg_ и $random_. N в $random_N должно быть в диапазоне [2, 999999]. Допустимые литералы: $remote_user, $client_real_ip и $sorted_querystring_args.",
 	"validation.error.missing.beian.content.type": "Пожалуйста, выберите тип Beian.",
 	"validation.error.name.too.long": "Имя может содержать до 128 символов.",
 	"validation.error.not.integer": "Значение пропускной способности должно быть целым положительным числом.",
