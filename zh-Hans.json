@@ -2548,7 +2548,7 @@
 	"validation.error.invalid.upstream.name": "仅允许使用字母，数字和这3个特殊字符：.-_ 。",
 	"validation.error.loadbalancer.hashkey.invalid": "负载均衡器的哈希键只能包含a-z，A-Z，0-9，'_'，'='，'＆'和'$'。",
 	"validation.error.loadbalancer.hashkey.length": "The load balancer hash key should be at most 100 characters.",
-	"validation.error.loadbalancer.hashkey.variables": "负载均衡器的哈希键必须包含1到3个变量。允许的变量前缀为$http _，$cookie_和$arg_。",
+	"validation.error.loadbalancer.hashkey.variables": "负载均衡器哈希键必须包含 1 到 3 个变量。允许的变量前缀是 $http_、$cookie_、$arg_ 和 $random_。 $random_N 中的 N 应在 [2, 999999] 范围内。允许的文字是 $remote_user、$client_real_ip 和 $sorted_querystring_args。",
 	"validation.error.missing.beian.content.type": "请选择该配置中域名的服务内容.",
 	"validation.error.name.too.long": "The name can be up to 128 characters.",
 	"validation.error.not.integer": "The bandwidth value must be a positive whole number.",
