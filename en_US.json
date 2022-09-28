@@ -2568,7 +2568,7 @@
 	"validation.error.invalid.upstream.name": "Only letters, numbers and these 3 special characters: .-_ are allowed.",
 	"validation.error.loadbalancer.hashkey.invalid": "The load balancer hash key can only include a-z, A-Z, 0-9, '_', '=', '&' and '$'.",
 	"validation.error.loadbalancer.hashkey.length": "The load balancer hash key should be at most 100 characters.",
-	"validation.error.loadbalancer.hashkey.variables": "The load balancer hash key must contain 1 to 3 variables. The allowed variable prefixes are $http_, $cookie_ and $arg_.",
+	"validation.error.loadbalancer.hashkey.variables": "The load balancer hash key must contain 1 to 3 variables. The allowed variable prefixes are $http_, $cookie_, $arg_ and $random_. N in $random_N should be in the range [2, 999999]. The allowed literals are $remote_user, $client_real_ip and $sorted_querystring_args.",
 	"validation.error.missing.beian.content.type": "Please choose a Beian content type.",
 	"validation.error.name.too.long": "The name can be up to 128 characters.",
 	"validation.error.not.integer": "The bandwidth value must be a positive whole number.",

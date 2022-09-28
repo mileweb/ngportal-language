@@ -2568,7 +2568,7 @@
 	"validation.error.invalid.upstream.name": "Sono consentite solo lettere, numeri e questi 3 caratteri speciali:.-_.",
 	"validation.error.loadbalancer.hashkey.invalid": "The load balancer hash key can only include a-z, A-Z, 0-9, '_', '=', '&' and '$'.",
 	"validation.error.loadbalancer.hashkey.length": "The load balancer hash key should be at most 100 characters.",
-	"validation.error.loadbalancer.hashkey.variables": "The load balancer hash key must contain 1 to 3 variables. The allowed variable prefixes are $http_, $cookie_ and $arg_.",
+	"validation.error.loadbalancer.hashkey.variables": "La chiave hash del sistema di bilanciamento del carico deve contenere da 1 a 3 variabili. I prefissi delle variabili consentiti sono $http_, $cookie_, $arg_ e $random_. N in $random_N dovrebbe essere compreso nell'intervallo [2, 999999]. I valori letterali consentiti sono $utente_remoto, $ip_client_real e $sorted_querystring_args.",
 	"validation.error.missing.beian.content.type": "Scegli un tipo di contenuto Beian.",
 	"validation.error.name.too.long": "The name can be up to 128 characters.",
 	"validation.error.not.integer": "The bandwidth value must be a positive whole number.",
