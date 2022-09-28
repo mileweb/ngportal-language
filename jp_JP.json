@@ -679,7 +679,7 @@
 	"edgeHostname.client.zone.select.isp": "Select client ISP.",
 	"edgeHostname.client.zone.select.region": "クライアント地域を選択します。",
 	"edgeHostname.client.zone.update.button": "Update Client Zone Rule",
-	"edgeHostname.client.zone.weight.be.integer": "重みは1〜100の整数でなければなりません。",
+	"edgeHostname.client.zone.weight.be.integer": "重みは1〜1000の整数でなければなりません。",
 	"edgeHostname.clone.default.description": "{userName}によって{cloneEdgeHostname}から複製されました",
 	"edgeHostname.confirm.cancel.create.edgeHostname": "Edge Hostnameの作成を終了しますか？",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "Edge Hostnameの更新を破棄しますか？",

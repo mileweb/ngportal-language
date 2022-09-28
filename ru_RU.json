@@ -679,7 +679,7 @@
 	"edgeHostname.client.zone.select.isp": "Выберите провайдера (ISP) клиента.",
 	"edgeHostname.client.zone.select.region": "Выберите клиентский регион.",
 	"edgeHostname.client.zone.update.button": "Обновить правило клиентской зоны.",
-	"edgeHostname.client.zone.weight.be.integer": "Вес должен быть целым числом от 1 до 100.",
+	"edgeHostname.client.zone.weight.be.integer": "Вес должен быть целым числом от 1 до 1000.",
 	"edgeHostname.clone.default.description": "Скопировано из {cloneEdgeHostname} пользователем {userName}",
 	"edgeHostname.confirm.cancel.create.edgeHostname": "Вы хотите прекратить создание Edge-имени хоста?",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "Вы хотите отказаться от обновления Edge-имени хоста?",
