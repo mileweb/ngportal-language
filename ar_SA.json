@@ -2065,6 +2065,8 @@
 	"security.settings.2fa.text": "تضيف المصادقة الثنائية طبقة إضافية من الحماية لحساباتك. في كل مرة يقوم المستخدمون بتسجيل الدخول ، سيحتاج المستخدمون إلى كلمة المرور الخاصة بهم ورمز التحقق الفريد من تطبيق المصادقة.",
 	"security.settings.2fa.title": "توثيق ذو عاملين",
 	"security.settings.title": "اعدادات الامان",
+	"security.settings.update.success.text": "تم تحديث إعدادات الأمان",
+	"security.settings.update.success.title": "تم تحديث إعدادات الأمان",
 	"select.two.versions": "Select two versions to compare",
 	"shuffle.descriptionFive": "Backbone.js يصبح شيئا",
 	"shuffle.descriptionFour": "تلتزم suberscore.js الأولى",

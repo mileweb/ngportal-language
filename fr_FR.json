@@ -2065,6 +2065,8 @@
 	"security.settings.2fa.text": "2FA ajoute une couche supplémentaire de protection de vos comptes. Chaque fois que les utilisateurs se connectent, les utilisateurs auront besoin de leur mot de passe et d'un code de vérification unique provenant d'une application d'authentification.",
 	"security.settings.2fa.title": "Authentification à deux facteurs",
 	"security.settings.title": "Les paramètres de sécurité",
+	"security.settings.update.success.text": "Les paramètres de sécurité ont été mis à jour",
+	"security.settings.update.success.title": "Paramètres de sécurité mis à jour",
 	"select.two.versions": "Select two versions to compare",
 	"shuffle.descriptionFive": "Backbone.js se convierte en una cosa",
 	"shuffle.descriptionFour": "Primero underscore.js commit",

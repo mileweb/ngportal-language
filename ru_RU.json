@@ -2065,6 +2065,8 @@
 	"security.settings.2fa.text": "2FA добавляет дополнительный уровень защиты ваших учетных записей. Каждый раз, когда пользователи входят в систему, им потребуется их пароль и уникальный код подтверждения из приложения-аутентификатора.",
 	"security.settings.2fa.title": "Двухфакторная аутентификация",
 	"security.settings.title": "Настройки безопасности",
+	"security.settings.update.success.text": "Настройки безопасности обновлены",
+	"security.settings.update.success.title": "Настройки безопасности обновлены",
 	"select.two.versions": "Выберите две версии для сравнения",
 	"shuffle.descriptionFive": "Backbone.js becomes a thing",
 	"shuffle.descriptionFour": "First underscore.js commit",
