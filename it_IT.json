@@ -2065,7 +2065,7 @@
 	"security.settings.2fa.text": "2FA aggiunge un ulteriore livello di protezione dei tuoi account. Ogni volta che gli utenti accedono, gli utenti avranno bisogno della loro password e di un codice di verifica univoco da un'app di autenticazione.",
 	"security.settings.2fa.title": "Autenticazione a due fattori",
 	"security.settings.title": "Impostazioni di sicurezza",
-	"security.settings.update.success.text": "Le impostazioni di sicurezza sono state aggiornate",
+	"security.settings.update.success.text": "Le impostazioni di sicurezza sono state aggiornate.",
 	"security.settings.update.success.title": "Impostazioni di sicurezza aggiornate",
 	"select.two.versions": "Select two versions to compare",
 	"shuffle.descriptionFive": "Angular 1.0 è stato rilasciato",

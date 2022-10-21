@@ -2065,7 +2065,7 @@
 	"security.settings.2fa.text": "2FA は、アカウントの保護をさらに強化します。ユーザーがログインするたびに、パスワードと、認証アプリからの一意の確認コードが必要になります。",
 	"security.settings.2fa.title": "二要素認証",
 	"security.settings.title": "セキュリティ設定",
-	"security.settings.update.success.text": "セキュリティ設定が更新されました",
+	"security.settings.update.success.text": "セキュリティ設定が更新されました。",
 	"security.settings.update.success.title": "セキュリティ設定が更新されました",
 	"select.two.versions": "比較する2つのバージョンを選択",
 	"shuffle.descriptionFive": "Backbone.jsはものになります",

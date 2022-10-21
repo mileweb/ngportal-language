@@ -2065,7 +2065,7 @@
 	"security.settings.2fa.text": "2FA adds an extra layer of protection of your accounts. Each time users log in, users will need their password and a unique verification code from an authenticator app.",
 	"security.settings.2fa.title": "Two-factor Authentication",
 	"security.settings.title": "Security Settings",
-	"security.settings.update.success.text": "Security Settings has been updated",
+	"security.settings.update.success.text": "Security Settings have been updated.",
 	"security.settings.update.success.title": "Security Settings Updated",
 	"select.two.versions": "Select two versions to compare",
 	"shuffle.descriptionFive": "Backbone.js becomes a thing",
