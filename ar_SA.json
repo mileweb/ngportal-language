@@ -1085,6 +1085,8 @@
 	"hint.evalfunc.BASE64_ENCODE": "ثنائي-> base64",
 	"hint.evalfunc.CALC_INT": "تقييم تعبير بسيط",
 	"hint.evalfunc.COMPARE_INT": "1/0 / -1 لـ> / = / <",
+	"hint.evalfunc.CRC32": "اختباري",
+	"hint.evalfunc.DAY_PERIOD": "إرجاع القيمة إذا كان الوقت الحالي ضمن الفترة",
 	"hint.evalfunc.DECRYPT_AES_256_CBC": "فك تشفير",
 	"hint.evalfunc.DECRYPT_SYMM": "فك تشفير ث / تشفير الرموز",
 	"hint.evalfunc.ENCRYPT_AES_256_CBC": "تشفير",

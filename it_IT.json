@@ -1085,6 +1085,8 @@
 	"hint.evalfunc.BASE64_ENCODE": "binario->base64",
 	"hint.evalfunc.CALC_INT": "valutare una semplice espressione",
 	"hint.evalfunc.COMPARE_INT": "1/0/-1 per >/=/<",
+	"hint.evalfunc.CRC32": "somma di controllo",
+	"hint.evalfunc.DAY_PERIOD": "valore restituito se l'ora corrente rientra nel periodo",
 	"hint.evalfunc.DECRYPT_AES_256_CBC": "decifrare",
 	"hint.evalfunc.DECRYPT_SYMM": "decifrare con cifratura symm",
 	"hint.evalfunc.ENCRYPT_AES_256_CBC": "crittografare",

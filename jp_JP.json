@@ -1085,6 +1085,8 @@
 	"hint.evalfunc.BASE64_ENCODE": "バイナリ-> base64",
 	"hint.evalfunc.CALC_INT": "単純な式を評価する",
 	"hint.evalfunc.COMPARE_INT": "1/0 / -1 for> / = / <",
+	"hint.evalfunc.CRC32": "チェックサム",
+	"hint.evalfunc.DAY_PERIOD": "現在の時間が期間内の場合の戻り値",
 	"hint.evalfunc.DECRYPT_AES_256_CBC": "復号化",
 	"hint.evalfunc.DECRYPT_SYMM": "symm暗号で復号化",
 	"hint.evalfunc.ENCRYPT_AES_256_CBC": "暗号化",

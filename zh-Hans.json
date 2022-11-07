@@ -1085,6 +1085,8 @@
 	"hint.evalfunc.BASE64_ENCODE": "二进制-> base64",
 	"hint.evalfunc.CALC_INT": "计算一个简单的表达式",
 	"hint.evalfunc.COMPARE_INT": "1/0/-1 表示 >/=/<",
+	"hint.evalfunc.CRC32": "校验和",
+	"hint.evalfunc.DAY_PERIOD": "若当前在时间段内则赋指定值",
 	"hint.evalfunc.DECRYPT_AES_256_CBC": "解密",
 	"hint.evalfunc.DECRYPT_SYMM": "使用对称算法解密",
 	"hint.evalfunc.ENCRYPT_AES_256_CBC": "加密",
