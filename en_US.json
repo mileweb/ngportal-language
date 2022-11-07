@@ -1085,6 +1085,8 @@
 	"hint.evalfunc.BASE64_ENCODE": "binary->base64",
 	"hint.evalfunc.CALC_INT": "evaluate a simple expression",
 	"hint.evalfunc.COMPARE_INT": "1/0/-1 for >/=/<",
+	"hint.evalfunc.CRC32": "checksum",
+	"hint.evalfunc.DAY_PERIOD": "return value if current time is within period",
 	"hint.evalfunc.DECRYPT_AES_256_CBC": "decrypt",
 	"hint.evalfunc.DECRYPT_SYMM": "decrypt w/ symm cipher",
 	"hint.evalfunc.ENCRYPT_AES_256_CBC": "encrypt",

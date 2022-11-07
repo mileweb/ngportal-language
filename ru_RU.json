@@ -1085,6 +1085,8 @@
 	"hint.evalfunc.BASE64_ENCODE": "binary->base64",
 	"hint.evalfunc.CALC_INT": "выполнить выражение",
 	"hint.evalfunc.COMPARE_INT": "1/0/-1 для >/=/<",
+	"hint.evalfunc.CRC32": "Контрольная сумма",
+	"hint.evalfunc.DAY_PERIOD": "возвращаемое значение, если текущее время находится в пределах периода",
 	"hint.evalfunc.DECRYPT_AES_256_CBC": "расшифровать",
 	"hint.evalfunc.DECRYPT_SYMM": "расшифровать с помощью сим. шифра",
 	"hint.evalfunc.ENCRYPT_AES_256_CBC": "зашифровать",

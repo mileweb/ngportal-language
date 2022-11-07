@@ -1085,6 +1085,8 @@
 	"hint.evalfunc.BASE64_ENCODE": "바이너리->base64",
 	"hint.evalfunc.CALC_INT": "간단한 표현을 평가하다",
 	"hint.evalfunc.COMPARE_INT": ">/=/<의 경우 1/0/-1",
+	"hint.evalfunc.CRC32": "체크섬",
+	"hint.evalfunc.DAY_PERIOD": "현재 시간이 기간 내에 있는 경우 반환 값",
 	"hint.evalfunc.DECRYPT_AES_256_CBC": "복호화",
 	"hint.evalfunc.DECRYPT_SYMM": "대칭 알고리즘을 사용하여 해독",
 	"hint.evalfunc.ENCRYPT_AES_256_CBC": "암호화",
