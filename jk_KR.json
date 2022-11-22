@@ -2332,7 +2332,7 @@
 	"testsuites.field.error.invalid.url": "잘못된 URL",
 	"testsuites.field.error.required": "이 입력란은 필수 항목입니다.",
 	"testsuites.info.production": "프로덕션에서 테스트하려면 에지 호스트 이름이 있어야 하고 CDN Pro 프로덕션 플랫폼으로 트래픽을 보내도록 DNS 설정을 수정해야 합니다. 자세한 내용을 보려면 여기를 클릭하십시오.",
-	"testsuites.info.property.select": "스테이징 또는 프로덕션에 배포된 속성을 선택합니다. 프로덕션에서 테스트하려면 에지 호스트 이름이 있어야 하며 CDN Pro 프로덕션 플랫폼으로 트래픽을 보내도록 DNS 설정을 수정해야 합니다. 자세한 내용을 보려면 여기를 클릭하십시오.",
+	"testsuites.info.property.select": "스테이징 또는 프로덕션에 배포된 속성을 선택합니다. 프로덕션에서 테스트하려면 에지 호스트 이름이 있어야 하고 CDN Pro 프로덕션 플랫폼으로 트래픽을 보내도록 DNS 설정을 수정해야 합니다. 자세한 내용을 보려면 여기를 클릭하십시오.",
 	"testsuites.info.staging": "스테이징을 테스트하려면 스테이징 서버 위치를 선택하거나 IP 주소를 입력하여 스테이징 서버 위치를 지정하십시오. 속성 호스트 이름에 ICP Beian 라이선스가 있는 경우에만 중국에서 스테이징 서버를 사용할 수 있습니다. 비어 있는 경우 CDN Pro는 테스트할 스테이징 서버를 선택합니다.",
 	"testsuites.label.actions": "액션",
 	"testsuites.label.cookies": "쿠키",
