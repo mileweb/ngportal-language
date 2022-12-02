@@ -1198,7 +1198,7 @@
 	"identity.access.management": "Identity & Access Management",
 	"impersonation.btn.text": "Impersonate",
 	"impersonation.error.text": "An error occurred while impersonating. Please try again!",
-	"impersonation.text": "You are impersonating as",
+	"impersonation.text": "You are impersonating",
 	"impersonation.title": "Impersonation Info",
 	"impersonation.tooltip.text": "Impersonate",
 	"info.add.origin": "Please add at least one origin to use the wizard.",
