@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "Veuillez utiliser un point-virgule pour séparer les entrées.",
 	"testsuites.placeholder.url.expected.result": "Sélectionnez les codes d'état de réponse HTTP",
 	"testsuites.placeholder.url.request.headers": "Veuillez utiliser un point-virgule pour séparer les entrées.",
+	"testsuites.predescription.for.test.case.more.one": "Sélectionnez un environnement cible à tester. {cntTest} cas de test seront exécutés.",
+	"testsuites.predescription.for.test.case.only.one": "Sélectionnez un environnement cible à tester. {cntTest} cas de test sera exécuté.",
 	"testsuites.predescription.for.test.suite.more.one": "Sélectionnez un environnement cible à tester. {cntTestSuites} suites de tests seront exécutées.",
 	"testsuites.predescription.for.test.suite.only.one": "Sélectionnez un environnement cible à tester. {cntTestSuites} suite de tests sera exécutée.",
 	"testsuites.property.collapse.content.have.testsuites": "Vous avez {cntTestSuites} suites de test pour cette propriété",

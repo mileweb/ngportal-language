@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "Please use a semicolon to separate entries.",
 	"testsuites.placeholder.url.expected.result": "Select HTTP response status codes",
 	"testsuites.placeholder.url.request.headers": "Please use a semicolon to separate entries.",
+	"testsuites.predescription.for.test.case.more.one": "Select a target environment to test. {cntTest} test cases will be run.",
+	"testsuites.predescription.for.test.case.only.one": "Select a target environment to test. {cntTest} test case will be run.",
 	"testsuites.predescription.for.test.suite.more.one": "Select a target environment to test. {cntTestSuites} test suites will be run.",
 	"testsuites.predescription.for.test.suite.only.one": "Select a target environment to test. {cntTestSuites} test suite will be run.",
 	"testsuites.property.collapse.content.have.testsuites": "You have {cntTestSuites} test suites for this property",

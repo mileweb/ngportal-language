@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "Si prega di utilizzare un punto e virgola per separare le voci.",
 	"testsuites.placeholder.url.expected.result": "Seleziona i codici di stato della risposta HTTP",
 	"testsuites.placeholder.url.request.headers": "Si prega di utilizzare un punto e virgola per separare le voci.",
+	"testsuites.predescription.for.test.case.more.one": "Seleziona un ambiente di destinazione da testare. Verranno eseguiti {cntTest} casi di test.",
+	"testsuites.predescription.for.test.case.only.one": "Seleziona un ambiente di destinazione da testare. Verrà eseguito {cntTest} caso di test.",
 	"testsuites.predescription.for.test.suite.more.one": "Seleziona un ambiente di destinazione da testare. Verranno eseguite {cntTestSuites} suite di test.",
 	"testsuites.predescription.for.test.suite.only.one": "Seleziona un ambiente di destinazione da testare. Verrà eseguita {cntTestSuites} suite di test.",
 	"testsuites.property.collapse.content.have.testsuites": "Hai {cntTestSuites} suite di test per questa proprietà",

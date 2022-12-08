@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "الرجاء استخدام فاصلة منقوطة لفصل الإدخالات.",
 	"testsuites.placeholder.url.expected.result": "حدد رموز حالة استجابة HTTP",
 	"testsuites.placeholder.url.request.headers": "الرجاء استخدام فاصلة منقوطة لفصل الإدخالات.",
+	"testsuites.predescription.for.test.case.more.one": "حدد البيئة المستهدفة للاختبار. سيتم تشغيل {cntTest} حالة اختبار.",
+	"testsuites.predescription.for.test.case.only.one": "حدد البيئة المستهدفة للاختبار. سيتم تشغيل حالة اختبار {cntTest} .",
 	"testsuites.predescription.for.test.suite.more.one": "حدد البيئة المستهدفة للاختبار. سيتم تشغيل {cntTestSuites} مجموعة اختبار.",
 	"testsuites.predescription.for.test.suite.only.one": "حدد البيئة المستهدفة للاختبار. سيتم تشغيل مجموعة تجريبية {cntTestSuites} .",
 	"testsuites.property.collapse.content.have.testsuites": "لديك {cntTestSuites} مجموعات اختبار لهذا الموقع",

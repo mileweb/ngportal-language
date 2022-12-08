@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "Utilice un punto y coma para separar las entradas.",
 	"testsuites.placeholder.url.expected.result": "Seleccionar códigos de estado de respuesta HTTP",
 	"testsuites.placeholder.url.request.headers": "Utilice un punto y coma para separar las entradas.",
+	"testsuites.predescription.for.test.case.more.one": "Seleccione un entorno de destino para probar. Se ejecutarán {cntTest} casos de prueba.",
+	"testsuites.predescription.for.test.case.only.one": "Seleccione un entorno de destino para probar. Se ejecutará {cntTest} caso de prueba.",
 	"testsuites.predescription.for.test.suite.more.one": "Seleccione un entorno de destino para probar. Se ejecutarán {cntTestSuites} conjuntos de pruebas.",
 	"testsuites.predescription.for.test.suite.only.one": "Seleccione un entorno de destino para probar. Se ejecutará {cntTestSuites} conjunto de pruebas.",
 	"testsuites.property.collapse.content.have.testsuites": "Tiene {cntTestSuites} suites de prueba para esta propiedad",
