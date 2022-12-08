@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "请使用分号分隔条目。",
 	"testsuites.placeholder.url.expected.result": "选择 HTTP 响应状态代码",
 	"testsuites.placeholder.url.request.headers": "请使用分号分隔条目。",
+	"testsuites.predescription.for.test.case.more.one": "选择要测试的目标环境。 {cntTest} 个测试用例将运行。",
+	"testsuites.predescription.for.test.case.only.one": "选择要测试的目标环境。 {cntTest} 个测试用例将运行。",
 	"testsuites.predescription.for.test.suite.more.one": "选择要测试的目标环境。 {cntTestSuites} 个测试套件将运行。",
 	"testsuites.predescription.for.test.suite.only.one": "选择要测试的目标环境。 {cntTestSuites} 测试套件将运行。",
 	"testsuites.property.collapse.content.have.testsuites": "您有 {cntTestSuites} 个此属性的测试套件",

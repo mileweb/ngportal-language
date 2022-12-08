@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "Пожалуйста, используйте точку с запятой для разделения записей.",
 	"testsuites.placeholder.url.expected.result": "Выберите коды состояния ответа HTTP",
 	"testsuites.placeholder.url.request.headers": "Пожалуйста, используйте точку с запятой для разделения записей.",
+	"testsuites.predescription.for.test.case.more.one": "Выберите целевую среду для тестирования. Будут запущены {cntTest} тестовых случаев.",
+	"testsuites.predescription.for.test.case.only.one": "Выберите целевую среду для тестирования. Будет запущен {cntTest} тестовый пример.",
 	"testsuites.predescription.for.test.suite.more.one": "Выберите целевую среду для тестирования. Будет запущено {cntTestSuites} наборов тестов.",
 	"testsuites.predescription.for.test.suite.only.one": "Выберите целевую среду для тестирования. Набор тестов {cntTestSuites} будет запущен.",
 	"testsuites.property.collapse.content.have.testsuites": "У вас есть наборы тестов {cntTestSuites} для этого ресурса.",

@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "항목을 구분하려면 세미콜론을 사용하십시오.",
 	"testsuites.placeholder.url.expected.result": "HTTP 응답 상태 코드 선택",
 	"testsuites.placeholder.url.request.headers": "항목을 구분하려면 세미콜론을 사용하십시오.",
+	"testsuites.predescription.for.test.case.more.one": "테스트할 대상 환경을 선택합니다. {cntTest} 테스트 사례가 실행됩니다.",
+	"testsuites.predescription.for.test.case.only.one": "테스트할 대상 환경을 선택합니다. {cntTest} 테스트 사례가 실행됩니다.",
 	"testsuites.predescription.for.test.suite.more.one": "테스트할 대상 환경을 선택합니다. {cntTestSuites} 테스트 도구 모음이 실행됩니다.",
 	"testsuites.predescription.for.test.suite.only.one": "테스트할 대상 환경을 선택합니다. {cntTestSuites} 테스트 스위트가 실행됩니다.",
 	"testsuites.property.collapse.content.have.testsuites": "이 속성에 대한 테스트 모음이 {cntTestSuites} 개 있습니다.",

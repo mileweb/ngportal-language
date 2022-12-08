@@ -2381,6 +2381,8 @@
 	"testsuites.placeholder.url.cookies": "エントリを区切るにはセミコロンを使用してください。",
 	"testsuites.placeholder.url.expected.result": "HTTP 応答ステータス コードの選択",
 	"testsuites.placeholder.url.request.headers": "エントリを区切るにはセミコロンを使用してください。",
+	"testsuites.predescription.for.test.case.more.one": "テストするターゲット環境を選択します。 {cntTest} 個のテスト ケースが実行されます。",
+	"testsuites.predescription.for.test.case.only.one": "テストするターゲット環境を選択します。 {cntTest} テスト ケースが実行されます。",
 	"testsuites.predescription.for.test.suite.more.one": "テストするターゲット環境を選択します。 {cntTestSuites} テスト スイートが実行されます。",
 	"testsuites.predescription.for.test.suite.only.one": "テストするターゲット環境を選択します。 {cntTestSuites} テスト スイートが実行されます。",
 	"testsuites.property.collapse.content.have.testsuites": "このプロパティには {cntTestSuites} 個のテスト スイートがあります",
