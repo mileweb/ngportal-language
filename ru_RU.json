@@ -2385,6 +2385,7 @@
 	"testsuites.predescription.for.test.case.only.one": "Выберите целевую среду для тестирования. Будет запущен {cntTest} тестовый пример.",
 	"testsuites.predescription.for.test.suite.more.one": "Выберите целевую среду для тестирования. Будет запущено {cntTestSuites} наборов тестов.",
 	"testsuites.predescription.for.test.suite.only.one": "Выберите целевую среду для тестирования. Набор тестов {cntTestSuites} будет запущен.",
+	"testsuites.property.collapse.content.have.one.testsuite": "У вас есть набор тестов {cntTestSuites} для этого ресурса.",
 	"testsuites.property.collapse.content.have.testsuites": "У вас есть наборы тестов {cntTestSuites} для этого ресурса.",
 	"testsuites.property.collapse.content.link.testsuites": "Перейти к наборам тестов",
 	"testsuites.property.collapse.content.no.testsuites": "Вы можете полностью протестировать поведение свойства и убедиться, что оно полностью соответствует вашим ожиданиям, прежде чем развертывать свойство на рабочих серверах.",
