@@ -2385,6 +2385,7 @@
 	"testsuites.predescription.for.test.case.only.one": "Sélectionnez un environnement cible à tester. {cntTest} cas de test sera exécuté.",
 	"testsuites.predescription.for.test.suite.more.one": "Sélectionnez un environnement cible à tester. {cntTestSuites} suites de tests seront exécutées.",
 	"testsuites.predescription.for.test.suite.only.one": "Sélectionnez un environnement cible à tester. {cntTestSuites} suite de tests sera exécutée.",
+	"testsuites.property.collapse.content.have.one.testsuite": "Vous avez {cntTestSuites} suite de tests pour cette propriété",
 	"testsuites.property.collapse.content.have.testsuites": "Vous avez {cntTestSuites} suites de test pour cette propriété",
 	"testsuites.property.collapse.content.link.testsuites": "Accéder aux suites de tests",
 	"testsuites.property.collapse.content.no.testsuites": "Vous pouvez tester entièrement le comportement d'une propriété et vous assurer qu'elle répond entièrement à vos attentes avant de déployer la propriété sur les serveurs de production.",
