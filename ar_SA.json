@@ -1750,6 +1750,7 @@
 	"report.domainGroup.save.button": "+ حفظ أسماء المضيف المحددة كمجموعة",
 	"report.edgeHostnameReq.label.requests": "Requests",
 	"report.edgeHostnameReq.label.requests.per.sec": "Requests / Second",
+	"report.export.group.csv.text": "تصدير المجموعات إلى CSV",
 	"report.fast.req.label.requests": "Fast Route Requests",
 	"report.fast.req.label.requests.per.sec": "Requests / Second",
 	"report.fast.vol.label.traffic.down.vol": "Download Traffic",
