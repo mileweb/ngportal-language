@@ -1750,6 +1750,7 @@
 	"report.domainGroup.save.button": "+ Сохранить выбранные имена хостов как группу",
 	"report.edgeHostnameReq.label.requests": "Запросы",
 	"report.edgeHostnameReq.label.requests.per.sec": "Запросы / Сек",
+	"report.export.group.csv.text": "Экспортировать группы в CSV",
 	"report.fast.req.label.requests": "Fast Route Запросы",
 	"report.fast.req.label.requests.per.sec": "Запросы / Сек",
 	"report.fast.vol.label.traffic.down.vol": "Трафик скачивания",

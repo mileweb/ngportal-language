@@ -1750,6 +1750,7 @@
 	"report.domainGroup.save.button": "+ 将选定的主机名保存为一个组",
 	"report.edgeHostnameReq.label.requests": "请求数",
 	"report.edgeHostnameReq.label.requests.per.sec": "请求/秒",
+	"report.export.group.csv.text": "将组导出到 CSV",
 	"report.fast.req.label.requests": "快速通道请求数",
 	"report.fast.req.label.requests.per.sec": "每秒请求数",
 	"report.fast.vol.label.traffic.down.vol": "下载流量",

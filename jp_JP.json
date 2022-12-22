@@ -1750,6 +1750,7 @@
 	"report.domainGroup.save.button": "+選択したホスト名をグループとして保存します",
 	"report.edgeHostnameReq.label.requests": "リクエスト",
 	"report.edgeHostnameReq.label.requests.per.sec": "リクエスト / 秒",
+	"report.export.group.csv.text": "グループを CSV にエクスポートする",
 	"report.fast.req.label.requests": "高速ルートのリクエスト",
 	"report.fast.req.label.requests.per.sec": "リクエスト / 秒",
 	"report.fast.vol.label.traffic.down.vol": "ダウンロードトラフィック",
