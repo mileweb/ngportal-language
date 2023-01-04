@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "Go to Test Suites",
 	"testsuites.property.collapse.content.no.testsuites": "You can fully test a property's behavior and make sure it meets your complete expectations before you deploy the property to the production servers.",
 	"testsuites.property.collapse.header": "Test Suites",
+	"testsuites.property.status.not.deployed": "Not deployed",
 	"testsuites.title.create.test.suite": "Create Test Suite",
 	"testsuites.title.delete.confirm": "Confirm Deletion",
 	"testsuites.title.error.delete": "Error occured while deleting",

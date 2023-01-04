@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "Ir a conjuntos de pruebas",
 	"testsuites.property.collapse.content.no.testsuites": "Puede probar completamente el comportamiento de una propiedad y asegurarse de que cumpla con todas sus expectativas antes de implementar la propiedad en los servidores de producción.",
 	"testsuites.property.collapse.header": "Conjuntos de pruebas",
+	"testsuites.property.status.not.deployed": "no desplegado",
 	"testsuites.title.create.test.suite": "Crear conjunto de pruebas",
 	"testsuites.title.delete.confirm": "Confirmar la eliminación",
 	"testsuites.title.error.delete": "Ocurrió un error al eliminar",

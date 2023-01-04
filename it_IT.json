@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "Vai alle suite di test",
 	"testsuites.property.collapse.content.no.testsuites": "Puoi testare completamente il comportamento di una proprietà e assicurarti che soddisfi tutte le tue aspettative prima di distribuire la proprietà ai server di produzione.",
 	"testsuites.property.collapse.header": "Suite di prova",
+	"testsuites.property.status.not.deployed": "Non schierato",
 	"testsuites.title.create.test.suite": "Crea suite di test",
 	"testsuites.title.delete.confirm": "Confermare la cancellazione",
 	"testsuites.title.error.delete": "Si è verificato un errore durante l'eliminazione",

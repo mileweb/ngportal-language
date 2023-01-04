@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "테스트 스위트로 이동",
 	"testsuites.property.collapse.content.no.testsuites": "속성의 동작을 완전히 테스트하고 속성을 프로덕션 서버에 배포하기 전에 완전한 기대치를 충족하는지 확인할 수 있습니다.",
 	"testsuites.property.collapse.header": "테스트 스위트",
+	"testsuites.property.status.not.deployed": "배포되지 않음",
 	"testsuites.title.create.test.suite": "테스트 스위트 만들기",
 	"testsuites.title.delete.confirm": "삭제 확인",
 	"testsuites.title.error.delete": "삭제하는 동안 오류가 발생했습니다.",

@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "转到测试套件",
 	"testsuites.property.collapse.content.no.testsuites": "在将属性部署到生产服务器之前，您可以全面测试属性的行为并确保它满足您的全部期望。",
 	"testsuites.property.collapse.header": "测试套件",
+	"testsuites.property.status.not.deployed": "未部署",
 	"testsuites.title.create.test.suite": "创建测试套件",
 	"testsuites.title.delete.confirm": "确认删除",
 	"testsuites.title.error.delete": "删除时出错",

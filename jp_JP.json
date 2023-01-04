@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "テスト スイートに移動",
 	"testsuites.property.collapse.content.no.testsuites": "プロパティを運用サーバーにデプロイする前に、プロパティの動作を完全にテストして、完全に期待どおりであることを確認できます。",
 	"testsuites.property.collapse.header": "テスト スイート",
+	"testsuites.property.status.not.deployed": "展開されていません",
 	"testsuites.title.create.test.suite": "テスト スイートの作成",
 	"testsuites.title.delete.confirm": "削除の確認",
 	"testsuites.title.error.delete": "削除中にエラーが発生しました",

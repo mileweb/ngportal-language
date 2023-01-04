@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "انتقل إلى مجموعات الاختبار",
 	"testsuites.property.collapse.content.no.testsuites": "يمكنك اختبار سلوك الخاصية بالكامل والتأكد من أنها تلبي توقعاتك الكاملة قبل نشر الخاصية على خوادم الإنتاج.",
 	"testsuites.property.collapse.header": "مجموعات الاختبار",
+	"testsuites.property.status.not.deployed": "لم يتم نشرها",
 	"testsuites.title.create.test.suite": "قم بإنشاء مجموعة اختبار",
 	"testsuites.title.delete.confirm": "تأكيد الحذف",
 	"testsuites.title.error.delete": "حدث خطأ أثناء الحذف",
