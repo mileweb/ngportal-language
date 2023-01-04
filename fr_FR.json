@@ -2391,6 +2391,7 @@
 	"testsuites.property.collapse.content.link.testsuites": "Accéder aux suites de tests",
 	"testsuites.property.collapse.content.no.testsuites": "Vous pouvez tester entièrement le comportement d'une propriété et vous assurer qu'elle répond entièrement à vos attentes avant de déployer la propriété sur les serveurs de production.",
 	"testsuites.property.collapse.header": "Suites de tests",
+	"testsuites.property.status.not.deployed": "Non déployé",
 	"testsuites.title.create.test.suite": "Créer une suite de tests",
 	"testsuites.title.delete.confirm": "Confirmer la suppression",
 	"testsuites.title.error.delete": "Une erreur s'est produite lors de la suppression",
