@@ -1087,7 +1087,7 @@
 	"hint.directive.set_attack_state_tlshs": "imposta la soglia per il server specificato e un numero casuale compreso tra un intervallo mintime e maxtime come scadenza per il ripristino dello stato della variabile attack_state_tlshs",
 	"hint.directive.slice": "richiedi un oggetto grande in piccoli pezzi dall'origine",
 	"hint.directive.slice_ignore_etag": "consentire alle fette di avere valori ETag diversi",
-	"hint.directive.slice_verify_header": "specificare un'intestazione aggiuntiva per verificare la coerenza della sezione in aggiunta a etag",
+	"hint.directive.slice_verify_header": "specificare un'intestazione aggiuntiva per verificare la coerenza della sezione oltre a etag",
 	"hint.directive.sorted_querystring_filter_parameter": "rimuovere alcuni parametri di query",
 	"hint.directive.ssl_delay_handshake": "il valore del tempo può supportare variabili",
 	"hint.directive.ssl_reject_handshake": "se abilitato, gli handshake SSL nel blocco del server verranno rifiutati",

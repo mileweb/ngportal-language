@@ -1087,7 +1087,7 @@
 	"hint.directive.set_attack_state_tlshs": "为指定服务器设置阈值，并在 mintime 和 maxtime 范围内设置随机数作为重置变量 attack_state_tlshs 状态的到期时间",
 	"hint.directive.slice": "将一个大文件切片从源站拉取并缓存",
 	"hint.directive.slice_ignore_etag": "允许切片具有不同的ETag值",
-	"hint.directive.slice_verify_header": "在 etag 之外指定额外的标头以验证切片一致性",
+	"hint.directive.slice_verify_header": "除了 etag 之外，指定额外的标头以验证切片一致性",
 	"hint.directive.sorted_querystring_filter_parameter": "删除一些查询参数",
 	"hint.directive.ssl_delay_handshake": "时间值可以支持变量",
 	"hint.directive.ssl_reject_handshake": "如果启用，服务器块中的 SSL 握手将被拒绝",

@@ -1087,7 +1087,7 @@
 	"hint.directive.set_attack_state_tlshs": "sets threshold for specified server and random number between a range mintime and maxtime as expiration for resetting of the variable attack_state_tlshs state",
 	"hint.directive.slice": "request big object in small pieces from origin",
 	"hint.directive.slice_ignore_etag": "allow slices to have different ETag values",
-	"hint.directive.slice_verify_header": "specify extra header to verify slice consistency in additional to etag",
+	"hint.directive.slice_verify_header": "specify extra header to verify slice consistency in addition to etag",
 	"hint.directive.sorted_querystring_filter_parameter": "remove some query params",
 	"hint.directive.ssl_delay_handshake": "the value of time can support variables",
 	"hint.directive.ssl_reject_handshake": "if enabled, SSL handshakes in the server block will be rejected",

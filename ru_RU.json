@@ -1087,7 +1087,7 @@
 	"hint.directive.set_attack_state_tlshs": "устанавливает порог для указанного сервера и случайное число между диапазоном mintime и maxtime в качестве истечения срока действия для сброса состояния переменной Attack_state_tlshs",
 	"hint.directive.slice": "запрашивать большой объект небольшими частями (slice)",
 	"hint.directive.slice_ignore_etag": "игнорировать значения ETag для slice",
-	"hint.directive.slice_verify_header": "указать дополнительный заголовок для проверки согласованности фрагментов в дополнение к тегу etag",
+	"hint.directive.slice_verify_header": "указать дополнительный заголовок для проверки согласованности слайсов в дополнение к etag",
 	"hint.directive.sorted_querystring_filter_parameter": "удалить некоторые параметры запроса",
 	"hint.directive.ssl_delay_handshake": "значение времени может поддерживать переменные",
 	"hint.directive.ssl_reject_handshake": "если включено, рукопожатия SSL в блоке сервера будут отклонены",

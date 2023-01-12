@@ -1087,7 +1087,7 @@
 	"hint.directive.set_attack_state_tlshs": "변수 attack_state_tlshs 상태를 재설정하기 위한 만료로 mintime과 maxtime 범위 사이의 지정된 서버 및 난수에 대한 임계값을 설정합니다.",
 	"hint.directive.slice": "오리진에 큰 파일조각을 작은조각으로 요청",
 	"hint.directive.slice_ignore_etag": "슬라이스가 다른 ETag 값을 갖도록 허용",
-	"hint.directive.slice_verify_header": "etag에 추가로 슬라이스 일관성을 확인하기 위해 추가 헤더를 지정하십시오.",
+	"hint.directive.slice_verify_header": "etag 외에 슬라이스 일관성을 확인하기 위해 추가 헤더를 지정하십시오.",
 	"hint.directive.sorted_querystring_filter_parameter": "일부 쿼리 매개변수 제거",
 	"hint.directive.ssl_delay_handshake": "시간 값의 변수를 지원할 수 있습니다",
 	"hint.directive.ssl_reject_handshake": "활성화되면 서버 블록의 SSL 핸드셰이크가 거부됩니다.",

@@ -1087,7 +1087,7 @@
 	"hint.directive.set_attack_state_tlshs": "establece el umbral para el servidor especificado y el número aleatorio entre un rango mintime y maxtime como vencimiento para restablecer el estado de la variable attack_state_tlshs",
 	"hint.directive.slice": "solicitar gran objeto en pequeñas piezas de origen",
 	"hint.directive.slice_ignore_etag": "Permitir que las rebanadas tengan diferentes valores de ETag.",
-	"hint.directive.slice_verify_header": "especifique un encabezado adicional para verificar la consistencia del segmento además de etag",
+	"hint.directive.slice_verify_header": "especifique un encabezado adicional para verificar la consistencia del segmento además del etag",
 	"hint.directive.sorted_querystring_filter_parameter": "eliminar algunos parámetros de consulta",
 	"hint.directive.ssl_delay_handshake": "el valor del tiempo puede soportar variables",
 	"hint.directive.ssl_reject_handshake": "si está habilitado, se rechazarán los protocolos de enlace SSL en el bloque del servidor",
