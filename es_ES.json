@@ -2335,6 +2335,7 @@
 	"testsuites.content.discard.running.test": " Se están ejecutando{cntTestSuites} suites de prueba y {cntTestCases} casos de prueba. La prueba será descartada.",
 	"testsuites.content.property.associated.info": "La propiedad asociada con este conjunto de pruebas no está implementada actualmente. Implemente la propiedad o seleccione otra propiedad.",
 	"testsuites.content.success.save": "El caso de prueba se ha actualizado correctamente.",
+	"testsuites.content.successfully.created": "El conjunto de pruebas se ha creado correctamente.",
 	"testsuites.content.successfully.updated": "El conjunto de pruebas se ha actualizado correctamente.",
 	"testsuites.empty.infomation": "Cree conjuntos de pruebas para probar una propiedad implementada en etapa de ensayo o producción.",
 	"testsuites.error.title.create.test.suite": "Error al crear conjunto de pruebas",

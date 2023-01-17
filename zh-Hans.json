@@ -2335,6 +2335,7 @@
 	"testsuites.content.discard.running.test": "{cntTestSuites} 个测试套件和 {cntTestCases} 个测试用例正在运行。测试将被丢弃。",
 	"testsuites.content.property.associated.info": "当前未部署与此测试套件关联的属性。请部署属性或选择其他属性。",
 	"testsuites.content.success.save": "测试用例已成功更新。",
+	"testsuites.content.successfully.created": "测试套件已成功创建。",
 	"testsuites.content.successfully.updated": "测试套件已成功更新。",
 	"testsuites.empty.infomation": "创建测试套件以测试部署到暂存或生产的属性。",
 	"testsuites.error.title.create.test.suite": "创建测试套件错误",

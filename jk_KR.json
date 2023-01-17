@@ -2335,6 +2335,7 @@
 	"testsuites.content.discard.running.test": "{cntTestSuites} 테스트 스위트와 {cntTestCases} 테스트 케이스가 실행 중입니다. 테스트가 삭제됩니다.",
 	"testsuites.content.property.associated.info": "이 테스트 도구 모음과 연결된 속성이 현재 배포되지 않았습니다. 속성을 배포하거나 다른 속성을 선택하세요.",
 	"testsuites.content.success.save": "테스트 사례가 성공적으로 업데이트되었습니다.",
+	"testsuites.content.successfully.created": "테스트 모음이 성공적으로 생성되었습니다.",
 	"testsuites.content.successfully.updated": "테스트 모음이 성공적으로 업데이트되었습니다.",
 	"testsuites.empty.infomation": "스테이징 또는 프로덕션에 배포된 속성을 테스트하기 위한 테스트 도구 모음을 만듭니다.",
 	"testsuites.error.title.create.test.suite": "테스트 스위트 생성 오류",

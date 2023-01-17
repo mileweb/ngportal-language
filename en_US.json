@@ -2335,6 +2335,7 @@
 	"testsuites.content.discard.running.test": "{cntTestSuites} test suites and {cntTestCases} test cases are running. The test will be discarded.",
 	"testsuites.content.property.associated.info": "The property associated with this test suite is not currently deployed. Please deploy the property or select another property.",
 	"testsuites.content.success.save": "Test case has been successfully updated.",
+	"testsuites.content.successfully.created": "Test suite has been successfully created.",
 	"testsuites.content.successfully.updated": "Test suite has been successfully updated.",
 	"testsuites.empty.infomation": "Create test suites to test a property deployed to staging or production.",
 	"testsuites.error.title.create.test.suite": "Create Test Suite Error",

@@ -2335,6 +2335,7 @@
 	"testsuites.content.discard.running.test": "{cntTestSuites} suites de tests et {cntTestCases} cas de test sont en cours d'exécution. Le test sera rejeté.",
 	"testsuites.content.property.associated.info": "La propriété associée à cette suite de tests n'est pas déployée actuellement. Veuillez déployer la propriété ou sélectionner une autre propriété.",
 	"testsuites.content.success.save": "Le scénario de test a été mis à jour avec succès.",
+	"testsuites.content.successfully.created": "La suite de tests a été créée avec succès.",
 	"testsuites.content.successfully.updated": "La suite de tests a été mise à jour avec succès.",
 	"testsuites.empty.infomation": "Créez des suites de tests pour tester une propriété déployée en préproduction ou en production.",
 	"testsuites.error.title.create.test.suite": "Erreur lors de la création de la suite de tests",

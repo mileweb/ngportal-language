@@ -2335,6 +2335,7 @@
 	"testsuites.content.discard.running.test": "{cntTestSuites} test suite e {cntTestCases} test case sono in esecuzione. Il test verrà scartato.",
 	"testsuites.content.property.associated.info": "La proprietà associata a questa suite di test non è attualmente distribuita. Distribuisci la proprietà o seleziona un'altra proprietà.",
 	"testsuites.content.success.save": "Il test case è stato aggiornato correttamente.",
+	"testsuites.content.successfully.created": "La suite di test è stata creata con successo.",
 	"testsuites.content.successfully.updated": "La suite di test è stata aggiornata con successo.",
 	"testsuites.empty.infomation": "Crea suite di test per testare una proprietà distribuita in staging o in produzione.",
 	"testsuites.error.title.create.test.suite": "Errore nella creazione della suite di test",
