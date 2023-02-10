@@ -818,6 +818,7 @@
 	"error.origin.authentication.awss3.accesskey.length": "AWS S3 access key must be 16 to 128 characters long.",
 	"error.origin.authentication.awss3.accesskey.pattern": "AWS S3 access key must start with AKIA.",
 	"error.origin.authentication.awss3.region": "AWS S3 region is required.",
+	"error.origin.authentication.awss3.region.length": "AWS S3 region can have up to 25 characters.",
 	"error.origin.authentication.awss3.secretkey": "AWS S3 secret key is required.",
 	"error.origin.authentication.awss3.secretkey.length": "The AWS S3 secret key must be at most 4096 characters.",
 	"error.origin.auto.detect.popup.msg": "We could not detect a server based on your hostname. Please manually enter origin settings.",
