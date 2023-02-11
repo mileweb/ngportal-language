@@ -830,7 +830,7 @@
 	"error.origin.invalid.tlsSessionTimeoutDefault": "Valor de tiempo de espera de sesión TLS no válido.",
 	"error.origin.invalid.tlsSessionTimeoutRange": "El valor de tiempo de espera de la sesión TLS debe estar en el rango [300, 86400]",
 	"error.origin.select.required": "Please select an origin.",
-	"error.origin.timeout.range": "El valor de tiempo de espera de Keep-Alive debe estar en el rango [1, 1200]",
+	"error.origin.timeout.range": "El valor de Tiempo de espera de falla de pares debe estar en el rango [1, 1200]",
 	"error.origin.timeout.required": "El valor de tiempo de espera es obligatorio",
 	"error.required": "required",
 	"feedback.alert.basicTitle": "Título Básico",

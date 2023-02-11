@@ -830,7 +830,7 @@
 	"error.origin.invalid.tlsSessionTimeoutDefault": "TLS セッション タイムアウト値が無効です。",
 	"error.origin.invalid.tlsSessionTimeoutRange": "TLS セッション タイムアウト値は [300, 86400] の範囲内である必要があります",
 	"error.origin.select.required": "起源を選択してください。",
-	"error.origin.timeout.range": "Keep-Alive Timeout 値は [1, 1200] の範囲内である必要があります",
+	"error.origin.timeout.range": "ピア障害タイムアウト値は [1, 1200] の範囲内である必要があります",
 	"error.origin.timeout.required": "タイムアウト値が必要です",
 	"error.required": "必須",
 	"feedback.alert.basicTitle": "基本タイトル",

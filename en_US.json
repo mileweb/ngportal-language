@@ -830,7 +830,7 @@
 	"error.origin.invalid.tlsSessionTimeoutDefault": "Invalid TLS Session Timeout value.",
 	"error.origin.invalid.tlsSessionTimeoutRange": "The TLS Session Timeout value must be in the range [300, 86400]",
 	"error.origin.select.required": "Please select an origin.",
-	"error.origin.timeout.range": "The Keep-Alive Timeout value must be in the range [1, 1200]",
+	"error.origin.timeout.range": "The Peer Failure Timeout value must be in the range [1, 1200]",
 	"error.origin.timeout.required": "The Timeout value is required",
 	"error.required": "required",
 	"feedback.alert.basicTitle": "Basic Title",

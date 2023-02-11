@@ -830,7 +830,7 @@
 	"error.origin.invalid.tlsSessionTimeoutDefault": "잘못된 TLS 세션 타임 아웃 값입니다.",
 	"error.origin.invalid.tlsSessionTimeoutRange": "TLS 세션 타임 아웃 값은 [300, 86400] 범위에 있어야 합니다.",
 	"error.origin.select.required": "오리진을 선택하십시오. ",
-	"error.origin.timeout.range": "Keep-Alive Timeout 값은 [1, 1200] 범위에 있어야 합니다.",
+	"error.origin.timeout.range": "Peer Failure Timeout 값은 [1, 1200] 범위에 있어야 합니다.",
 	"error.origin.timeout.required": "제한 시간 값이 필요합니다.",
 	"error.required": "필수 ",
 	"feedback.alert.basicTitle": "기본 제목 ",

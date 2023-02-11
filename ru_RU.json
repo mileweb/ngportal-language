@@ -830,7 +830,7 @@
 	"error.origin.invalid.tlsSessionTimeoutDefault": "Недопустимое значение времени ожидания сеанса TLS.",
 	"error.origin.invalid.tlsSessionTimeoutRange": "Значение тайм-аута сеанса TLS должно быть в диапазоне [300, 86400].",
 	"error.origin.select.required": "Выберите origin.",
-	"error.origin.timeout.range": "Значение Keep-Alive Timeout должно быть в диапазоне [1, 1200].",
+	"error.origin.timeout.range": "Значение времени ожидания отказа однорангового узла должно быть в диапазоне [1, 1200].",
 	"error.origin.timeout.required": "Необходимо указать значение тайм-аута.",
 	"error.required": "требуется",
 	"feedback.alert.basicTitle": "Основное название",

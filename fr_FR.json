@@ -830,7 +830,7 @@
 	"error.origin.invalid.tlsSessionTimeoutDefault": "Valeur de délai d'expiration de session TLS non valide.",
 	"error.origin.invalid.tlsSessionTimeoutRange": "La valeur du délai d'expiration de la session TLS doit être comprise dans la plage [300, 86400]",
 	"error.origin.select.required": "Please select an origin.",
-	"error.origin.timeout.range": "La valeur Keep-Alive Timeout doit être dans la plage [1, 1200]",
+	"error.origin.timeout.range": "La valeur Peer Failure Timeout doit être comprise dans la plage [1, 1200]",
 	"error.origin.timeout.required": "La valeur Timeout est obligatoire",
 	"error.required": "required",
 	"feedback.alert.basicTitle": "Título Básico",
