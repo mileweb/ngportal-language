@@ -830,7 +830,7 @@
 	"error.origin.invalid.tlsSessionTimeoutDefault": "无效的 TLS 会话超时值。",
 	"error.origin.invalid.tlsSessionTimeoutRange": "TLS 会话超时值必须在 [300, 86400] 范围内",
 	"error.origin.select.required": "Please select an origin.",
-	"error.origin.timeout.range": "Peer Failure Timeout 值必须在 [1, 1200] 范围内",
+	"error.origin.timeout.range": "超时值必须在 [1, 1200] 范围内",
 	"error.origin.timeout.required": "超时值是必需的",
 	"error.required": "required",
 	"feedback.alert.basicTitle": "Basic Title",
