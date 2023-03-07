@@ -255,6 +255,7 @@
 	"certificate.dns01challenge.modal.title.generate": "توليد",
 	"certificate.dns01challenge.modal.title.hostname": "اسم المضيف",
 	"certificate.dns01challenge.modal.title.txt.value": "قيمة سجل TXT",
+	"certificate.dns01challenge.opt.desc": "يتيح لنا هذا الخيار إنشاء شهادة تدعم كل اسم من أسماء المضيف تلقائيًا بعد التحقق من ملكيتك لها. للتحقق ، يجب عليك تعديل خادم DNS الخاص بك لإضافة سجل TXT خاص لنظام أسماء النطاقات لكل اسم مضيف. بمجرد اكتمال العملية ، يمكنك إزالة سجلات TXT هذه.",
 	"certificate.dns01challenge.radio.title": "تحدي DNS-01",
 	"certificate.dns01challenge.requesting": "جاري الطلب",
 	"certificate.dns01challenge.wait.above.message": "للتحقق من ملكية أسماء مضيفي الشهادة ، يرجى إضافة سجلات TXT لنظام أسماء النطاقات التالية:",

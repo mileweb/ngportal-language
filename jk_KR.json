@@ -255,6 +255,7 @@
 	"certificate.dns01challenge.modal.title.generate": "일으키다",
 	"certificate.dns01challenge.modal.title.hostname": "호스트 이름",
 	"certificate.dns01challenge.modal.title.txt.value": "TXT 레코드의 값",
+	"certificate.dns01challenge.opt.desc": "이 옵션을 사용하면 소유권을 확인한 후 각 호스트 이름을 지원하는 인증서를 자동으로 생성할 수 있습니다. 확인하려면 DNS 서버를 수정하여 각 호스트 이름에 대한 특수 DNS TXT 레코드를 추가해야 합니다. 프로세스가 완료되면 해당 TXT 레코드를 제거할 수 있습니다.",
 	"certificate.dns01challenge.radio.title": "DNS-01 챌린지",
 	"certificate.dns01challenge.requesting": "요청",
 	"certificate.dns01challenge.wait.above.message": "인증서 호스트 이름의 소유권을 확인하려면 다음 DNS TXT 레코드를 추가하십시오.",

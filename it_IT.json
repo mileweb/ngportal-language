@@ -255,6 +255,7 @@
 	"certificate.dns01challenge.modal.title.generate": "Creare",
 	"certificate.dns01challenge.modal.title.hostname": "Nome host",
 	"certificate.dns01challenge.modal.title.txt.value": "Valore del record TXT",
+	"certificate.dns01challenge.opt.desc": "Questa opzione ci consente di creare automaticamente un certificato che supporta ciascuno dei tuoi nomi host dopo averne verificato la proprietà. Per verificare, devi modificare il tuo server DNS per aggiungere un record TXT DNS speciale per ogni nome host. Una volta completato il processo, puoi rimuovere quei record TXT.",
 	"certificate.dns01challenge.radio.title": "Sfida DNS-01",
 	"certificate.dns01challenge.requesting": "Richiesta",
 	"certificate.dns01challenge.wait.above.message": "Per verificare la proprietà dei nomi host del certificato, aggiungi i seguenti record DNS TXT:",

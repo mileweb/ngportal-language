@@ -255,6 +255,7 @@
 	"certificate.dns01challenge.modal.title.generate": "生成",
 	"certificate.dns01challenge.modal.title.hostname": "主机名",
 	"certificate.dns01challenge.modal.title.txt.value": "TXT 记录的值",
+	"certificate.dns01challenge.opt.desc": "此选项允许我们在验证您对主机名的所有权后自动创建支持您的每个主机名的证书。要进行验证，您必须修改您的 DNS 服务器，为每个主机名添加一个特殊的 DNS TXT 记录。该过程完成后，您可以删除这些 TXT 记录。",
 	"certificate.dns01challenge.radio.title": "DNS-01 挑战",
 	"certificate.dns01challenge.requesting": "请求",
 	"certificate.dns01challenge.wait.above.message": "要验证证书主机名的所有权，请添加以下 DNS TXT 记录：",
