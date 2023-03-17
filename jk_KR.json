@@ -204,7 +204,7 @@
 	"cdn.plan.upgrade.pricing.note1.line5": " {cdn360ModelLink} 및 {cdn360FAQsLink}을 (를) 확인하십시오.",
 	"cdn.plan.upgrade.pricing.note1.line5.faqs": "자주 묻는 질문",
 	"cdn.plan.upgrade.pricing.note1.line5.modelworks": "모델의 작동 방식",
-	"cdn.plan.upgrade.pricing.note2.line1": "CPU 시간당 $1.95가 청구됩니다. 자세한 내용은 가격 및 적용 범위 페이지에서 자주 묻는 질문( {FAQsLink})을 참조하십시오.",
+	"cdn.plan.upgrade.pricing.note2.line1": "CPU 시간당 ${perCpuHour}가 청구됩니다. 자세한 내용은 가격 및 적용 범위 페이지에서 자주 묻는 질문( {FAQsLink})을 참조하십시오.",
 	"cdn.plan.upgrade.pricing.note2.line1.faqs": "CDN Pro CPU 사용량은 어떻게 계산됩니까?",
 	"cdn.plan.upgrade.pricing.note2.line2": "매월 $ 50가 청구됩니다. 사용 요금이 $ 50를 초과하면 다음 달 초에 위 표에 따라 실제 사용 요금이 청구됩니다.",
 	"cdn.plan.upgrade.pricing.note2.line3": "참고: 1GB는 1,000,000,000바이트로 정의됩니다.",
