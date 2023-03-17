@@ -204,7 +204,7 @@
 	"cdn.plan.upgrade.pricing.note1.line5": "Por favor marque {cdn360ModelLink} y {cdn360FAQsLink}.",
 	"cdn.plan.upgrade.pricing.note1.line5.faqs": "Preguntas frecuentes",
 	"cdn.plan.upgrade.pricing.note1.line5.modelworks": "como funciona el modelo",
-	"cdn.plan.upgrade.pricing.note2.line1": "Se cobrará $1.95 por hora de CPU. Consulte nuestra pregunta frecuente, {FAQsLink}, en nuestra página de precios y cobertura para obtener más información.",
+	"cdn.plan.upgrade.pricing.note2.line1": "Se cobrará ${perCpuHour} por hora de CPU. Consulte nuestra pregunta frecuente, {FAQsLink}, en nuestra página de precios y cobertura para obtener más información.",
 	"cdn.plan.upgrade.pricing.note2.line1.faqs": "¿Cómo se calcula el uso de CPU de CDN Pro?",
 	"cdn.plan.upgrade.pricing.note2.line2": "Se le facturará $ 50 por mes. Si sus cargos por uso superan los $ 50, se le facturará el uso real de acuerdo con la tabla anterior al comienzo del mes siguiente.",
 	"cdn.plan.upgrade.pricing.note2.line3": "Nota: 1 GB se define como 1 000 000 000 bytes.",
