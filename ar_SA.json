@@ -258,7 +258,7 @@
 	"certificate.dns01challenge.opt.desc": "يتيح لنا هذا الخيار إنشاء شهادة تدعم كل اسم من أسماء المضيف تلقائيًا بعد التحقق من ملكيتك لها. للتحقق ، يجب عليك تعديل خادم DNS الخاص بك لإضافة سجل TXT خاص لنظام أسماء النطاقات لكل اسم مضيف. بمجرد اكتمال العملية ، يمكنك إزالة سجلات TXT هذه.",
 	"certificate.dns01challenge.radio.title": "تحدي DNS-01",
 	"certificate.dns01challenge.requesting": "جاري الطلب",
-	"certificate.dns01challenge.wait.above.message": "للتحقق من ملكية أسماء مضيفي الشهادة ، يرجى إضافة سجلات TXT لنظام أسماء النطاقات التالية:",
+	"certificate.dns01challenge.wait.above.message": "प्रमाणपत्रस्य होस्ट्नामानां स्वामित्वं सत्यापयितुं कृपया निम्नलिखित DNS TXT अभिलेखान् योजयन्तु:",
 	"certificate.dns01challenge.wait.below.message": "بمجرد الانتهاء ، انقر فوق \"إنشاء\" للمتابعة. لاحظ أنه قد يستغرق نشر سجلات DNS الجديدة بضع دقائق حتى نتمكن من تأكيدها.",
 	"certificate.dns01challenge.wait.info.modal.title": "هل تريد إنشاء شهادة جديدة؟",
 	"certificate.edit.title": "Certificate",
