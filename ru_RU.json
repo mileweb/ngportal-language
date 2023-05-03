@@ -1639,6 +1639,7 @@
 	"propertyListing.advancedFilter.invalid.value.message": "Неверное значение",
 	"propertyListing.advancedFilter.keyword.title": "ключевые слова",
 	"propertyListing.advancedFilter.tooltip.button": "Расширенный фильтр",
+	"propertyListing.attack.mitigation.tooltip": "Защита от атак включена",
 	"propertyListing.button.createProperty": "Создать настройку",
 	"propertyListing.check.include.children": "Включить детей",
 	"propertyListing.column.actions": "Действия",

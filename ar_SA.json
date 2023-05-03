@@ -1639,6 +1639,7 @@
 	"propertyListing.advancedFilter.invalid.value.message": "قيمة غير صالحة",
 	"propertyListing.advancedFilter.keyword.title": "الكلمات الدالة",
 	"propertyListing.advancedFilter.tooltip.button": "تصفية متقدم",
+	"propertyListing.attack.mitigation.tooltip": "تمكين التخفيف من الهجوم",
 	"propertyListing.button.createProperty": "Create Property",
 	"propertyListing.check.include.children": "تشمل الأطفال",
 	"propertyListing.column.actions": "Actions",

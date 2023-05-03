@@ -1639,6 +1639,7 @@
 	"propertyListing.advancedFilter.invalid.value.message": "无效值",
 	"propertyListing.advancedFilter.keyword.title": "关键词",
 	"propertyListing.advancedFilter.tooltip.button": "进阶筛选",
+	"propertyListing.attack.mitigation.tooltip": "启用攻击缓解",
 	"propertyListing.button.createProperty": "创建加速项目",
 	"propertyListing.check.include.children": "包含子客户",
 	"propertyListing.column.actions": "操作",
