@@ -1639,7 +1639,7 @@
 	"propertyListing.advancedFilter.invalid.value.message": "無効な値",
 	"propertyListing.advancedFilter.keyword.title": "キーワード",
 	"propertyListing.advancedFilter.tooltip.button": "高度なフィルタ",
-	"propertyListing.attack.migration.tooltip": "攻撃緩和が有効",
+	"propertyListing.attack.mitigation.tooltip": "攻撃緩和が有効",
 	"propertyListing.button.createProperty": "プロパティを作成",
 	"propertyListing.check.include.children": "子供を含める",
 	"propertyListing.column.actions": "行動",
