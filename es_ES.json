@@ -1639,6 +1639,7 @@
 	"propertyListing.advancedFilter.invalid.value.message": "Valor no válido",
 	"propertyListing.advancedFilter.keyword.title": "Palabras clave",
 	"propertyListing.advancedFilter.tooltip.button": "Filtro avanzado",
+	"propertyListing.attack.migration.tooltip": "mitigación de ataques habilitada",
 	"propertyListing.button.createProperty": "Create Property",
 	"propertyListing.check.include.children": "Incluir niños",
 	"propertyListing.column.actions": "Actions",

@@ -1639,6 +1639,7 @@
 	"propertyListing.advancedFilter.invalid.value.message": "잘못된 값",
 	"propertyListing.advancedFilter.keyword.title": "키워드",
 	"propertyListing.advancedFilter.tooltip.button": "고급 필터",
+	"propertyListing.attack.migration.tooltip": "공격 완화 활성화",
 	"propertyListing.button.createProperty": "속성 만들기 ",
 	"propertyListing.check.include.children": "하위고객 포함",
 	"propertyListing.column.actions": "액션",
