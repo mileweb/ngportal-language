@@ -244,6 +244,7 @@
 	"certificate.deploy.inprogress.modal.title": "Deploying Certificate",
 	"certificate.deploy.success.modal.message": "The certificate has been successfully deployed.",
 	"certificate.deploy.success.modal.title": "Certificate Deployed",
+	"certificate.dns01challenge.confirm.cancel.verifying": "¿Quieres descartar la verificación del desafío DNS-01?",
 	"certificate.dns01challenge.error.another.instance": "Nuestro sistema está ocupado validando otra solicitud. Vuelva a intentarlo en unos minutos.",
 	"certificate.dns01challenge.error.exist.certificate": "Tiene un certificado existente que tiene exactamente los mismos dominios o el mismo nombre de certificado que solicitó y no está a punto de caducar.",
 	"certificate.dns01challenge.error.exist.timeout": "La configuración de los registros DNS TXT debe completarse en 30 minutos. Inténtalo de nuevo.",

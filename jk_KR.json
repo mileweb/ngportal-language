@@ -244,6 +244,7 @@
 	"certificate.deploy.inprogress.modal.title": "인증서 배포 ",
 	"certificate.deploy.success.modal.message": "인증서가 성공적으로 배포되었습니다. ",
 	"certificate.deploy.success.modal.title": "인증서 배포 ",
+	"certificate.dns01challenge.confirm.cancel.verifying": "DNS-01 챌린지 확인을 취소하시겠습니까?",
 	"certificate.dns01challenge.error.another.instance": "Google 시스템이 다른 요청을 확인하는 중입니다. 몇 분 후에 다시 시도하십시오.",
 	"certificate.dns01challenge.error.exist.certificate": "요청한 도메인 또는 인증서 이름과 정확히 동일한 기존 인증서가 있고 곧 만료될 예정입니다.",
 	"certificate.dns01challenge.error.exist.timeout": "DNS TXT 레코드 설정은 30분 이내에 완료되어야 합니다. 다시 시도해 주세요.",
