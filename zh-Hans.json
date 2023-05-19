@@ -244,7 +244,7 @@
 	"certificate.deploy.inprogress.modal.title": "部署证书",
 	"certificate.deploy.success.modal.message": "证书已成功部署。",
 	"certificate.deploy.success.modal.title": "证书已部署",
-	"certificate.dns01challenge.confirm.cancel.verifying": "是否要放弃验证 DNS-01 质询？",
+	"certificate.dns01challenge.confirm.cancel.verifying": "是否要放弃对 DNS-01 质询的验证？",
 	"certificate.dns01challenge.error.another.instance": "我们的系统正忙于验证另一个请求。请在几分钟后再试一次。",
 	"certificate.dns01challenge.error.exist.certificate": "您有一个现有证书，该证书具有与您请求的完全相同的域或证书名称，并且即将到期。",
 	"certificate.dns01challenge.error.exist.timeout": "DNS TXT 记录的设置必须在 30 分钟内完成。请再试一次。",

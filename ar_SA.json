@@ -244,7 +244,7 @@
 	"certificate.deploy.inprogress.modal.title": "Deploying Certificate",
 	"certificate.deploy.success.modal.message": "The certificate has been successfully deployed.",
 	"certificate.deploy.success.modal.title": "Certificate Deployed",
-	"certificate.dns01challenge.confirm.cancel.verifying": "هل تريد تجاهل تحدي التحقق من DNS-01؟",
+	"certificate.dns01challenge.confirm.cancel.verifying": "هل تريد تجاهل التحقق من تحدي DNS-01؟",
 	"certificate.dns01challenge.error.another.instance": "نظامنا مشغول بالتحقق من صحة طلب آخر. يرجى المحاولة مرة أخرى في بضع دقائق.",
 	"certificate.dns01challenge.error.exist.certificate": "لديك شهادة حالية لها نفس المجالات أو اسم الشهادة الذي طلبته بالضبط ولم تقترب صلاحيتها من الانتهاء.",
 	"certificate.dns01challenge.error.exist.timeout": "يجب إكمال إعداد سجلات TXT لنظام أسماء النطاقات في غضون 30 دقيقة. حاول مرة اخرى.",
