@@ -244,6 +244,7 @@
 	"certificate.deploy.inprogress.modal.title": "証明書の展開",
 	"certificate.deploy.success.modal.message": "証明書が正常に展開されました。",
 	"certificate.deploy.success.modal.title": "展開された証明書",
+	"certificate.dns01challenge.confirm.cancel.verifying": "DNS-01 チャレンジの検証を破棄しますか?",
 	"certificate.dns01challenge.error.another.instance": "私たちのシステムは、別のリクエストを検証するためにビジー状態です。数分後にもう一度お試しください。",
 	"certificate.dns01challenge.error.exist.certificate": "要求したのとまったく同じドメインまたは証明書名を持つ既存の証明書があり、有効期限が近づいていません。",
 	"certificate.dns01challenge.error.exist.timeout": "DNS TXT レコードのセットアップは 30 分以内に完了する必要があります。もう一度やり直してください。",
