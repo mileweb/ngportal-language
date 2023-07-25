@@ -1844,7 +1844,6 @@
 	"report.general.button.download.raw.data": "Download Raw Data",
 	"report.general.label.cache.hit.ratio": "Cache Hit Ratio",
 	"report.general.label.subtitle.zoom.in": "Click and drag in the plot area to zoom in",
-	"report.range.error.msg.earlier.than": "La fin de plage ne peut pas être antérieure à l'heure de début de plage.",
 	"report.range.error.msg.later.than": "L'heure de début de plage ne peut pas être postérieure à l'heure de fin de plage.",
 	"report.range.title.button.query": "Question",
 	"report.range.title.requests.time.range": "Demandes dans la plage horaire",

@@ -1844,7 +1844,6 @@
 	"report.general.button.download.raw.data": "Download Raw Data",
 	"report.general.label.cache.hit.ratio": "Cache Hit Ratio",
 	"report.general.label.subtitle.zoom.in": "Click and drag in the plot area to zoom in",
-	"report.range.error.msg.earlier.than": "لا يمكن أن يكون Range End قبل وقت بدء النطاق.",
 	"report.range.error.msg.later.than": "لا يمكن أن يكون بدء النطاق بعد وقت انتهاء النطاق.",
 	"report.range.title.button.query": "الاستعلام",
 	"report.range.title.requests.time.range": "الطلبات ضمن النطاق الزمني",

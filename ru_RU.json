@@ -1844,7 +1844,6 @@
 	"report.general.button.download.raw.data": "Скачивание сырых данных",
 	"report.general.label.cache.hit.ratio": "Коэффициент попадания в кеш",
 	"report.general.label.subtitle.zoom.in": "Нажмите и перетащите область графика, чтобы увеличить",
-	"report.range.error.msg.earlier.than": "Конец диапазона не может быть раньше времени начала диапазона.",
 	"report.range.error.msg.later.than": "Начало диапазона не может быть позже времени окончания диапазона.",
 	"report.range.title.button.query": "Запрос",
 	"report.range.title.requests.time.range": "Запросы во временном диапазоне",

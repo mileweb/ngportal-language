@@ -1844,7 +1844,6 @@
 	"report.general.button.download.raw.data": "下载原始数据",
 	"report.general.label.cache.hit.ratio": "缓存命中率",
 	"report.general.label.subtitle.zoom.in": "点击并拖动以放大",
-	"report.range.error.msg.earlier.than": "范围结束时间不能早于范围开始时间。",
 	"report.range.error.msg.later.than": "范围开始时间不能晚于范围结束时间。",
 	"report.range.title.button.query": "询问",
 	"report.range.title.requests.time.range": "时间范围内的请求",

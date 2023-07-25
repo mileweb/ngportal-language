@@ -1844,7 +1844,6 @@
 	"report.general.button.download.raw.data": "Download Raw Data",
 	"report.general.label.cache.hit.ratio": "Cache Hit Ratio",
 	"report.general.label.subtitle.zoom.in": "Click and drag in the plot area to zoom in",
-	"report.range.error.msg.earlier.than": "El fin del rango no puede ser anterior a la hora de inicio del rango.",
 	"report.range.error.msg.later.than": "El inicio del rango no puede ser posterior a la hora de finalización del rango.",
 	"report.range.title.button.query": "Consulta",
 	"report.range.title.requests.time.range": "Solicitudes dentro del intervalo de tiempo",
