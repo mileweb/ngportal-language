@@ -1851,6 +1851,7 @@
 	"report.range.txt.duration": "지속",
 	"report.range.txt.edge.req.inside": "범위 내의 에지 요청",
 	"report.range.txt.edge.vol.inside": "범위 내의 에지 볼륨",
+	"report.range.txt.hours": "시간",
 	"report.range.txt.minutes": "분",
 	"report.range.txt.outside": "밖의",
 	"report.range.txt.time.range.end": "범위 끝",

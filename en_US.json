@@ -1851,6 +1851,7 @@
 	"report.range.txt.duration": "Duration",
 	"report.range.txt.edge.req.inside": "Edge requests inside the range",
 	"report.range.txt.edge.vol.inside": "Edge volume inside the range",
+	"report.range.txt.hours": "Hours",
 	"report.range.txt.minutes": "Minutes",
 	"report.range.txt.outside": "Outside",
 	"report.range.txt.time.range.end": "Range End",

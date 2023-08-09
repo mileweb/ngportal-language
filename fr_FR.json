@@ -1851,6 +1851,7 @@
 	"report.range.txt.duration": "Durée",
 	"report.range.txt.edge.req.inside": "Demandes Edge à l'intérieur de la plage",
 	"report.range.txt.edge.vol.inside": "Volume de bord à l'intérieur de la plage",
+	"report.range.txt.hours": "Heures",
 	"report.range.txt.minutes": "Minutes",
 	"report.range.txt.outside": "À l'extérieur",
 	"report.range.txt.time.range.end": "Fin de plage",

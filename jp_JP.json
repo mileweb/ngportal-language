@@ -1851,6 +1851,7 @@
 	"report.range.txt.duration": "期間",
 	"report.range.txt.edge.req.inside": "範囲内のエッジリクエスト",
 	"report.range.txt.edge.vol.inside": "範囲内のエッジボリューム",
+	"report.range.txt.hours": "時間",
 	"report.range.txt.minutes": "議事録",
 	"report.range.txt.outside": "外",
 	"report.range.txt.time.range.end": "範囲終了",

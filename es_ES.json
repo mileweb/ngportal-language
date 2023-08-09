@@ -1851,6 +1851,7 @@
 	"report.range.txt.duration": "Duración",
 	"report.range.txt.edge.req.inside": "Solicitudes de borde dentro del rango",
 	"report.range.txt.edge.vol.inside": "Volumen de borde dentro del rango",
+	"report.range.txt.hours": "Horas",
 	"report.range.txt.minutes": "Minutos",
 	"report.range.txt.outside": "Fuera de",
 	"report.range.txt.time.range.end": "Fin de rango",
