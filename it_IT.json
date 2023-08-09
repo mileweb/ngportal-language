@@ -1848,7 +1848,7 @@
 	"report.range.title.button.query": "Domanda",
 	"report.range.title.requests.time.range": "Richieste entro l'intervallo di tempo",
 	"report.range.title.traffic.time.range": "Traffico all'interno dell'intervallo di tempo",
-	"report.range.txt.duration": "Duraton",
+	"report.range.txt.duration": "Durata",
 	"report.range.txt.edge.req.inside": "Richieste Edge all'interno dell'intervallo",
 	"report.range.txt.edge.vol.inside": "Volume del bordo all'interno dell'intervallo",
 	"report.range.txt.minutes": "Minuti",

@@ -1848,7 +1848,7 @@
 	"report.range.title.button.query": "Запрос",
 	"report.range.title.requests.time.range": "Запросы во временном диапазоне",
 	"report.range.title.traffic.time.range": "Трафик во временном диапазоне",
-	"report.range.txt.duration": "Дюратон",
+	"report.range.txt.duration": "Продолжительность",
 	"report.range.txt.edge.req.inside": "Пограничные запросы внутри диапазона",
 	"report.range.txt.edge.vol.inside": "Граничный объем внутри диапазона",
 	"report.range.txt.minutes": "Минут",

@@ -1848,7 +1848,7 @@
 	"report.range.title.button.query": "クエリ",
 	"report.range.title.requests.time.range": "時間範囲内のリクエスト",
 	"report.range.title.traffic.time.range": "時間範囲内のトラフィック",
-	"report.range.txt.duration": "デュラトン",
+	"report.range.txt.duration": "期間",
 	"report.range.txt.edge.req.inside": "範囲内のエッジリクエスト",
 	"report.range.txt.edge.vol.inside": "範囲内のエッジボリューム",
 	"report.range.txt.minutes": "議事録",

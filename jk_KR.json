@@ -1848,7 +1848,7 @@
 	"report.range.title.button.query": "조회",
 	"report.range.title.requests.time.range": "시간 범위 내의 요청",
 	"report.range.title.traffic.time.range": "시간 범위 내 트래픽",
-	"report.range.txt.duration": "듀라톤",
+	"report.range.txt.duration": "지속",
 	"report.range.txt.edge.req.inside": "범위 내의 에지 요청",
 	"report.range.txt.edge.vol.inside": "범위 내의 에지 볼륨",
 	"report.range.txt.minutes": "분",

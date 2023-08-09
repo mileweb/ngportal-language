@@ -1848,7 +1848,7 @@
 	"report.range.title.button.query": "询问",
 	"report.range.title.requests.time.range": "时间范围内的请求",
 	"report.range.title.traffic.time.range": "时间范围内的流量",
-	"report.range.txt.duration": "杜拉顿",
+	"report.range.txt.duration": "持续时间",
 	"report.range.txt.edge.req.inside": "范围内的边缘请求",
 	"report.range.txt.edge.vol.inside": "范围内的边缘体积",
 	"report.range.txt.minutes": "分钟",

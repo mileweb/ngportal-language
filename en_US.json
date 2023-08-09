@@ -1848,7 +1848,7 @@
 	"report.range.title.button.query": "Query",
 	"report.range.title.requests.time.range": "Requests Within Time Range",
 	"report.range.title.traffic.time.range": "Traffic Within Time Range",
-	"report.range.txt.duration": "Duraton",
+	"report.range.txt.duration": "Duration",
 	"report.range.txt.edge.req.inside": "Edge requests inside the range",
 	"report.range.txt.edge.vol.inside": "Edge volume inside the range",
 	"report.range.txt.minutes": "Minutes",

@@ -1848,7 +1848,7 @@
 	"report.range.title.button.query": "الاستعلام",
 	"report.range.title.requests.time.range": "الطلبات ضمن النطاق الزمني",
 	"report.range.title.traffic.time.range": "حركة المرور ضمن النطاق الزمني",
-	"report.range.txt.duration": "دراتون",
+	"report.range.txt.duration": "المدة الزمنية",
 	"report.range.txt.edge.req.inside": "طلبات الحافة داخل النطاق",
 	"report.range.txt.edge.vol.inside": "حجم الحافة داخل النطاق",
 	"report.range.txt.minutes": "الدقائق",
