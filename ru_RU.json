@@ -1160,6 +1160,7 @@
 	"hint.variable.$client_province_code": "Код провинции Китая",
 	"hint.variable.$client_real_ip": "IP-адрес клиента",
 	"hint.variable.$connection_requests": "количество запросов в соединении",
+	"hint.variable.$content_code": "назначить код для пометки контента",
 	"hint.variable.$content_length": "HTTP-заголовок C-L",
 	"hint.variable.$content_type": "HTTP-заголовок C-T",
 	"hint.variable.$cookie_*": "значение cookie",

@@ -1160,6 +1160,7 @@
 	"hint.variable.$client_province_code": "Codice provincia cinese",
 	"hint.variable.$client_real_ip": "Indirizzo IP del cliente",
 	"hint.variable.$connection_requests": "nbr di richieste nella connessione",
+	"hint.variable.$content_code": "assegnare un codice per taggare il contenuto",
 	"hint.variable.$content_length": "richiedere l'intestazione della lunghezza del contenuto",
 	"hint.variable.$content_type": "richiedere l'intestazione del tipo di contenuto",
 	"hint.variable.$cookie_*": "un valore di cookie",

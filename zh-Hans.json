@@ -1160,6 +1160,7 @@
 	"hint.variable.$client_province_code": "中国省份代码",
 	"hint.variable.$client_real_ip": "客户端的IP地址",
 	"hint.variable.$connection_requests": "当前TCP连接传输的请求数",
+	"hint.variable.$content_code": "为标签内容分配代码",
 	"hint.variable.$content_length": "请求里的content-length头",
 	"hint.variable.$content_type": "请求里的content-type头",
 	"hint.variable.$cookie_*": "一个cookie值",

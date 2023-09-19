@@ -1160,6 +1160,7 @@
 	"hint.variable.$client_province_code": "中国の州コード",
 	"hint.variable.$client_real_ip": "クライアントのIPアドレス",
 	"hint.variable.$connection_requests": "接続の要求のnbr",
+	"hint.variable.$content_code": "タグコンテンツにコードを割り当てる",
 	"hint.variable.$content_length": "content-lengthヘッダーをリクエストします",
 	"hint.variable.$content_type": "content-typeヘッダーをリクエストする",
 	"hint.variable.$cookie_*": "1つのCookie値",

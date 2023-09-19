@@ -1160,6 +1160,7 @@
 	"hint.variable.$client_province_code": "كود المقاطعة الصينية",
 	"hint.variable.$client_real_ip": "عنوان IP الخاص بالعميل",
 	"hint.variable.$connection_requests": "nbr من المتطلبات في الاتصال",
+	"hint.variable.$content_code": "تعيين رمز لوضع علامة على المحتوى",
 	"hint.variable.$content_length": "طلب رأس طول المحتوى",
 	"hint.variable.$content_type": "طلب رأس نوع المحتوى",
 	"hint.variable.$cookie_*": "قيمة ملف تعريف ارتباط واحدة",
