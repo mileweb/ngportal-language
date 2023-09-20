@@ -1160,6 +1160,7 @@
 	"hint.variable.$client_province_code": "중국 지방 코드",
 	"hint.variable.$client_real_ip": "클라이언트의 IP 주소",
 	"hint.variable.$connection_requests": "연결된 요청수",
+	"hint.variable.$content_code": "태그 콘텐츠에 코드 할당",
 	"hint.variable.$content_length": "콘텐츠 길이 헤더 요청",
 	"hint.variable.$content_type": "콘텐츠 유형 헤더 요청",
 	"hint.variable.$cookie_*": "쿠키 값",
