@@ -2386,6 +2386,7 @@
 	"testsuites.content.discard.running.test": "{cntTestSuites} مجموعات الاختبار و {cntTestCases} حالات الاختبار قيد التشغيل. سيتم تجاهل الاختبار.",
 	"testsuites.content.property.associated.info": "لم يتم نشر الخاصية المرتبطة بمجموعة الاختبار هذه حاليًا. يرجى نشر الخاصية أو تحديد خاصية أخرى.",
 	"testsuites.content.success.save": "تم تحديث حالة الاختبار بنجاح.",
+	"testsuites.content.successfully.created": "تم إنشاء مجموعة الاختبار بنجاح.",
 	"testsuites.content.successfully.updated": "تم تحديث مجموعة الاختبار بنجاح.",
 	"testsuites.empty.infomation": "أنشئ مجموعات اختبار لاختبار خاصية تم نشرها في التدريج أو الإنتاج.",
 	"testsuites.error.title.create.test.suite": "خطأ إنشاء مجموعة الاختبار",

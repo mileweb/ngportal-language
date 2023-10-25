@@ -2386,6 +2386,7 @@
 	"testsuites.content.discard.running.test": " Выполняется{cntTestSuites} наборов тестов и {cntTestCases} тестовых наборов. Тест будет сброшен.",
 	"testsuites.content.property.associated.info": "Свойство, связанное с этим набором тестов, в настоящее время не развернуто. Разверните свойство или выберите другое свойство.",
 	"testsuites.content.success.save": "Тестовый случай успешно обновлен.",
+	"testsuites.content.successfully.created": "Набор тестов успешно создан.",
 	"testsuites.content.successfully.updated": "Набор тестов успешно обновлен.",
 	"testsuites.empty.infomation": "Создайте наборы тестов для тестирования свойства, развернутого в промежуточной или рабочей среде.",
 	"testsuites.error.title.create.test.suite": "Ошибка создания набора тестов",
