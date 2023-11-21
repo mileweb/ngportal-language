@@ -1111,6 +1111,7 @@
 	"hint.directive.sub_filter_last_modified": "أيضا تحديث رأس LM",
 	"hint.directive.sub_filter_once": "استبدل مرة واحدة فقط",
 	"hint.directive.sub_filter_types": "أنواع MIME المراد استبدالها",
+	"hint.directive.upstream_origin_only": "إعادة توجيه الطلب مباشرة إلى الأصل",
 	"hint.directive.valid_referers": "حدد قيم المرجع الصالحة",
 	"hint.evalfunc.ABS_INT": "إرجاع القيمة المطلقة",
 	"hint.evalfunc.BASE64_DECODE": "base64-> ثنائي",

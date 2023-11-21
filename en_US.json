@@ -1111,6 +1111,7 @@
 	"hint.directive.sub_filter_last_modified": "also update Last-Modified header",
 	"hint.directive.sub_filter_once": "only replace once",
 	"hint.directive.sub_filter_types": "MIME types to replace",
+	"hint.directive.upstream_origin_only": "forward request directly to origin",
 	"hint.directive.valid_referers": "specify the valid referer values",
 	"hint.evalfunc.ABS_INT": "return the absolute value",
 	"hint.evalfunc.BASE64_DECODE": "base64->binary",

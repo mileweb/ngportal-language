@@ -1111,6 +1111,7 @@
 	"hint.directive.sub_filter_last_modified": "también actualice el encabezado L-M",
 	"hint.directive.sub_filter_once": "solo reemplace una vez",
 	"hint.directive.sub_filter_types": "Tipos MIME para reemplazar",
+	"hint.directive.upstream_origin_only": "reenviar la solicitud directamente al origen",
 	"hint.directive.valid_referers": "especificar los valores de referencia válidos",
 	"hint.evalfunc.ABS_INT": "devuelve el valor absoluto",
 	"hint.evalfunc.BASE64_DECODE": "base64-> binario",
