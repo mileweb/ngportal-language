@@ -1111,6 +1111,7 @@
 	"hint.directive.sub_filter_last_modified": "同时更新L-M响应头",
 	"hint.directive.sub_filter_once": "只替换一次",
 	"hint.directive.sub_filter_types": "可以替换的MIME类型",
+	"hint.directive.upstream_origin_only": "将请求直接转发到源",
 	"hint.directive.valid_referers": "指定合法的referer值",
 	"hint.evalfunc.ABS_INT": "返回绝对值",
 	"hint.evalfunc.BASE64_DECODE": "base64->二进制",

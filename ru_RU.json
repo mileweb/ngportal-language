@@ -1111,6 +1111,7 @@
 	"hint.directive.sub_filter_last_modified": "обновлять HTTP-заголовок L-M",
 	"hint.directive.sub_filter_once": "заменить один раз",
 	"hint.directive.sub_filter_types": "MIME-типы для замены",
+	"hint.directive.upstream_origin_only": "переслать запрос непосредственно в источник",
 	"hint.directive.valid_referers": "допустимые значения referer",
 	"hint.evalfunc.ABS_INT": "вернуть абсолютное значение",
 	"hint.evalfunc.BASE64_DECODE": "base64->binary",

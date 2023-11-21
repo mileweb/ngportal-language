@@ -1111,6 +1111,7 @@
 	"hint.directive.sub_filter_last_modified": "L-M 헤더도 업데이트",
 	"hint.directive.sub_filter_once": "한 번만 교체",
 	"hint.directive.sub_filter_types": "대체할 MIME 유형",
+	"hint.directive.upstream_origin_only": "요청을 원본으로 직접 전달",
 	"hint.directive.valid_referers": "유효한 참조 값 지정",
 	"hint.evalfunc.ABS_INT": "절대값을 반환",
 	"hint.evalfunc.BASE64_DECODE": "base64->바이너리",

@@ -1111,6 +1111,7 @@
 	"hint.directive.sub_filter_last_modified": "L-Mヘッダーも更新します",
 	"hint.directive.sub_filter_once": "一度だけ交換してください",
 	"hint.directive.sub_filter_types": "置き換えるMIMEタイプ",
+	"hint.directive.upstream_origin_only": "リクエストをオリジンに直接転送する",
 	"hint.directive.valid_referers": "有効なリファラー値を指定してください",
 	"hint.evalfunc.ABS_INT": "絶対値を返す",
 	"hint.evalfunc.BASE64_DECODE": "base64->バイナリ",
