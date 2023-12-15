@@ -715,7 +715,7 @@
 	"edgeHostname.label.name": "Hostname *",
 	"edgeHostname.label.pci": "PCIが必要ですか*",
 	"edgeHostname.label.server.regions": "サーバー地域の設定*",
-	"edgeHostname.label.set.service.regions": "ゾーンは、地域とインターネット サービス プロバイダー (ISP) の組み合わせです。異なるゾーンからのユーザー要求の処理方法を制御できます。すべてのゾーン (すべての地域とすべてのインターネット サービス プロバイダー) をカバーするルールが必要です。",
+	"edgeHostname.label.set.service.regions": "ゾーンは、リージョンとインターネット サービス プロバイダー (ISP) の組み合わせです。さまざまなゾーンからのユーザー要求を処理する方法を制御できます。すべてのゾーンをカバーするルールが必要です (リージョン = すべて、インターネット サービス プロバイダー = すべて)。",
 	"edgeHostname.load.failed.title": "Edge Hostnameの読み込みに失敗しました",
 	"edgeHostname.placeholder.bandwidth": "推定帯域幅を入力してください",
 	"edgeHostname.placeholder.bandwidth.unit": "ユニットを選択",

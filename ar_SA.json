@@ -715,7 +715,7 @@
 	"edgeHostname.label.name": "Hostname *",
 	"edgeHostname.label.pci": "Is PCI Required *",
 	"edgeHostname.label.server.regions": "Set Server Regions *",
-	"edgeHostname.label.set.service.regions": "المنطقة هي مزيج من منطقة ومزود خدمة الإنترنت (ISP). يمكنك التحكم في كيفية التعامل مع طلبات المستخدمين من مناطق مختلفة. يجب أن تكون هناك قاعدة تغطي جميع المناطق (جميع المناطق وجميع مزودي خدمة الإنترنت).",
+	"edgeHostname.label.set.service.regions": "المنطقة عبارة عن مزيج من المنطقة ومزود خدمة الإنترنت (ISP). يمكنك التحكم في كيفية التعامل مع طلبات المستخدمين من مناطق مختلفة. يجب أن تكون هناك قاعدة تغطي جميع المناطق (المناطق = الكل ومقدمو خدمات الإنترنت = الكل).",
 	"edgeHostname.load.failed.title": "Load Edge Hostname failed",
 	"edgeHostname.placeholder.bandwidth": "Enter Estimated Bandwidth",
 	"edgeHostname.placeholder.bandwidth.unit": "Select Unit",

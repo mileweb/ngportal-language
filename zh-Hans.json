@@ -715,7 +715,7 @@
 	"edgeHostname.label.name": "域名 *",
 	"edgeHostname.label.pci": "Is PCI Required *",
 	"edgeHostname.label.server.regions": "Set Server Regions *",
-	"edgeHostname.label.set.service.regions": "区域是区域和 Internet 服务提供商 (ISP) 的组合。您可以控制如何处理来自不同区域的用户请求。必须有覆盖所有区域（所有地区和所有互联网服务提供商）的规则。",
+	"edgeHostname.label.set.service.regions": "访客分区（client zone）是地域加 Internet 服务提供商 (ISP) 的组合。您可以为来自不同分区的访客请求配置不同规则。必须有一条默认规则覆盖所有分区（地区=All 和 运营商=All）。",
 	"edgeHostname.load.failed.title": "加载边缘域名失败",
 	"edgeHostname.placeholder.bandwidth": "输入估计带宽",
 	"edgeHostname.placeholder.bandwidth.unit": "选择单位",

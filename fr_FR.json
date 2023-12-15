@@ -715,7 +715,7 @@
 	"edgeHostname.label.name": "Hostname *",
 	"edgeHostname.label.pci": "Is PCI Required *",
 	"edgeHostname.label.server.regions": "Set Server Regions *",
-	"edgeHostname.label.set.service.regions": "Une zone est une combinaison d'une région et d'un fournisseur de services Internet (ISP). Vous pouvez contrôler le traitement des demandes des utilisateurs provenant de différentes zones. Il doit y avoir une règle couvrant toutes les zones (toutes les régions et tous les fournisseurs d'accès Internet).",
+	"edgeHostname.label.set.service.regions": "Une zone est une combinaison d’une région et d’un fournisseur d’accès Internet (FAI). Vous pouvez contrôler la manière de gérer les demandes des utilisateurs provenant de différentes zones. Il doit y avoir une règle couvrant toutes les zones (régions = Tous et fournisseurs d'accès Internet = Tous).",
 	"edgeHostname.load.failed.title": "Load Edge Hostname failed",
 	"edgeHostname.placeholder.bandwidth": "Entrez la bande passante estimée",
 	"edgeHostname.placeholder.bandwidth.unit": "Select Unit",
