@@ -1833,7 +1833,7 @@
 	"report.flags.page.placeholder.comments": "Inserisci una descrizione",
 	"report.flags.page.placeholder.hostnames": "Inserisci uno o più nomi host",
 	"report.flags.page.placeholder.server.regions": "Seleziona una o più regioni server",
-	"report.flags.page.popover.annotation.type": "Scegli cliente per indicare un evento che interessa i tuoi visitatori. Scegliere la configurazione per indicare un evento correlato a una modifica della configurazione",
+	"report.flags.page.popover.annotation.type": "Scegli \"client\" per indicare un evento lato client, ad esempio un cambiamento di comportamento dell'app o un aumento del traffico dovuto a un evento promozionale. Scegli \"configurazione\" per indicare qualcosa relativo a una modifica della configurazione della CDN.",
 	"report.flags.page.popover.client.regions": "Seleziona una o più regioni degli utenti finali interessate dall'evento.",
 	"report.flags.page.popover.hostnames": "Seleziona i nomi host applicabili. Se non specificata, l'annotazione si applica a tutti i nomi host. Questo campo può contenere domini con caratteri jolly, come \"*.abc.com\", \"*.com\" o anche \"*\".",
 	"report.flags.page.popover.readonly.client.regions": "Regioni degli utenti finali interessate dall'evento.",

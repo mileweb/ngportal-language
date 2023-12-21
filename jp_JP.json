@@ -1833,7 +1833,7 @@
 	"report.flags.page.placeholder.comments": "説明を入力してください",
 	"report.flags.page.placeholder.hostnames": "1つ以上のホスト名を入力してください",
 	"report.flags.page.placeholder.server.regions": "1つ以上のサーバーリージョンを選択します",
-	"report.flags.page.popover.annotation.type": "訪問者に影響を与えるイベントを示すクライアントを選択します。構成を選択して、構成の変更に関連するイベントを示します",
+	"report.flags.page.popover.annotation.type": "クライアント側のイベント (アプリの動作の変化やプロモーション イベントによるトラフィックの急増など) を示すには、「クライアント」を選択します。 CDN 構成の変更に関連するものを示すには、「構成」を選択します。",
 	"report.flags.page.popover.client.regions": "イベントの影響を受ける1つ以上のエンドユーザーの地域を選択します。",
 	"report.flags.page.popover.hostnames": "該当するホスト名を選択してください。指定しない場合、注釈はすべてのホスト名に適用されます。このフィールドには、「*。abc.com」、「*。com」、さらには「*」などのワイルドカードドメインを含めることができます。",
 	"report.flags.page.popover.readonly.client.regions": "イベントの影響を受けるエンドユーザーの地域。",

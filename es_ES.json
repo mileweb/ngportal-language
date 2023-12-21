@@ -1833,7 +1833,7 @@
 	"report.flags.page.placeholder.comments": "Ingrese una descripción",
 	"report.flags.page.placeholder.hostnames": "Introduzca uno o más nombres de host",
 	"report.flags.page.placeholder.server.regions": "Seleccione una o más regiones de servidor",
-	"report.flags.page.popover.annotation.type": "Elija cliente para indicar un evento que afecta a sus visitantes. Elija configuración para indicar un evento relacionado con un cambio de configuración",
+	"report.flags.page.popover.annotation.type": "Elija \"cliente\" para indicar un evento en el lado del cliente, por ejemplo, un cambio de comportamiento de la aplicación o un aumento de tráfico debido a un evento promocional. Elija \"configuración\" para indicar algo relacionado con un cambio de configuración de CDN.",
 	"report.flags.page.popover.client.regions": "Seleccione una o más regiones de usuarios finales afectadas por el evento.",
 	"report.flags.page.popover.hostnames": "Seleccione los nombres de host aplicables. Si no se especifica, la anotación se aplica a todos los nombres de host. Este campo puede contener dominios comodín, como \"*.abc.com\", \"*.com\" o incluso \"*\".",
 	"report.flags.page.popover.readonly.client.regions": "Regiones de los usuarios finales afectadas por el evento.",

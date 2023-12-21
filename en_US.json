@@ -1833,7 +1833,7 @@
 	"report.flags.page.placeholder.comments": "Enter a description",
 	"report.flags.page.placeholder.hostnames": "Enter one or more hostnames",
 	"report.flags.page.placeholder.server.regions": "Select one or more server regions",
-	"report.flags.page.popover.annotation.type": "Choose client to indicate an event affecting your visitors.   Choose configuration to indicate an event related to a configuration change",
+	"report.flags.page.popover.annotation.type": "Choose \"client\" to indicate an event on the client side, for example, a behavior change of the app or a traffic surge due to a promotional event. Choose \"configuration\" to indicate something related to a CDN configuration change.",
 	"report.flags.page.popover.client.regions": "Select one or more end users’ regions affected by the event.",
 	"report.flags.page.popover.hostnames": "Select applicable hostnames. If unspecified, the annotation applies to all hostnames. This field can contain wildcard domains, such as \"*.abc.com\", \"*.com\" or even \"*\".",
 	"report.flags.page.popover.readonly.client.regions": "End users’ regions affected by the event.",

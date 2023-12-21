@@ -1833,7 +1833,7 @@
 	"report.flags.page.placeholder.comments": "أدخل وصفا",
 	"report.flags.page.placeholder.hostnames": "أدخل اسم مضيف واحد أو أكثر",
 	"report.flags.page.placeholder.server.regions": "حدد منطقة خادم واحدة أو أكثر",
-	"report.flags.page.popover.annotation.type": "اختر العميل للإشارة إلى حدث يؤثر على زوار موقعك. اختر التكوين للإشارة إلى حدث متعلق بتغيير التكوين",
+	"report.flags.page.popover.annotation.type": "اختر \"العميل\" للإشارة إلى حدث من جانب العميل، على سبيل المثال، تغيير سلوك التطبيق أو زيادة عدد الزيارات بسبب حدث ترويجي. اختر \"التكوين\" للإشارة إلى شيء متعلق بتغيير تكوين CDN.",
 	"report.flags.page.popover.client.regions": "حدد منطقة واحدة أو أكثر من مناطق المستخدمين المتأثرة بالحدث.",
 	"report.flags.page.popover.hostnames": "حدد أسماء المضيف المناسبة. إذا لم يكن محددًا ، فسيتم تطبيق التعليق التوضيحي على جميع أسماء المضيف. يمكن أن يحتوي هذا الحقل على مجالات أحرف بدل ، مثل \"* .abc.com\" أو \"* .com\" أو حتى \"*\".",
 	"report.flags.page.popover.readonly.client.regions": "مناطق المستخدمين المتأثرة بالحدث.",
