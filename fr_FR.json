@@ -847,7 +847,7 @@
 	"error.origin.select.required": "Please select an origin.",
 	"error.origin.timeout.range": "La valeur du délai d'attente doit être comprise dans la plage [1, 1200]",
 	"error.origin.timeout.required": "La valeur Timeout est obligatoire",
-	"error.required": "required",
+	"error.required": "Obligatoire",
 	"feedback.alert.basicTitle": "Título Básico",
 	"feedback.alert.closableAlertType": "Tipo de Alerta Closable",
 	"feedback.alert.confirmationModalDialogue": "Cuadro de diálogo modal de confirmación",

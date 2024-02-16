@@ -847,7 +847,7 @@
 	"error.origin.select.required": "Please select an origin.",
 	"error.origin.timeout.range": "Il valore Timeout deve essere compreso nell'intervallo [1, 1200]",
 	"error.origin.timeout.required": "Il valore Timeout è obbligatorio",
-	"error.required": "required",
+	"error.required": "obbligatorio",
 	"feedback.alert.basicTitle": "Testo di successo",
 	"feedback.alert.closableAlertType": "Tipo di avviso di icone",
 	"feedback.alert.confirmationModalDialogue": "Semplice dialogo modale",

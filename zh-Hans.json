@@ -847,7 +847,7 @@
 	"error.origin.select.required": "Please select an origin.",
 	"error.origin.timeout.range": "超时值必须在 [1, 1200] 范围内",
 	"error.origin.timeout.required": "超时值是必需的",
-	"error.required": "required",
+	"error.required": "必填",
 	"feedback.alert.basicTitle": "Basic Title",
 	"feedback.alert.closableAlertType": "Closable Alert Type",
 	"feedback.alert.confirmationModalDialogue": "Confirmation modal dialog",
