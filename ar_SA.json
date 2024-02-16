@@ -847,7 +847,7 @@
 	"error.origin.select.required": "Please select an origin.",
 	"error.origin.timeout.range": "يجب أن تكون قيمة المهلة في النطاق [1 ، 1200]",
 	"error.origin.timeout.required": "قيمة المهلة مطلوبة",
-	"error.required": "required",
+	"error.required": "مطلوب",
 	"feedback.alert.basicTitle": "العنوان الأساسي",
 	"feedback.alert.closableAlertType": "نوع التنبيه القابل للإغلاق",
 	"feedback.alert.confirmationModalDialogue": "حوار مشروط التأكيد",
