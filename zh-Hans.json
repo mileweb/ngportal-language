@@ -1551,7 +1551,7 @@
 	"property.origin.name.placeholder": "输入您的源站名称。",
 	"property.origin.name.remove": "删除",
 	"property.origin.name.true": "真正",
-	"property.origin.name.validate.confirm.text": "请输入服务器 URL 进行验证。",
+	"property.origin.name.validate.confirm.text": "请输入要验证的服务器 URL。",
 	"property.origin.name.yes": "是",
 	"property.origin.removeButton": "删除此源站",
 	"property.origin.saveButton": "保存",

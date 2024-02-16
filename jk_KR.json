@@ -1551,7 +1551,7 @@
 	"property.origin.name.placeholder": "출발지의 이름을 입력하십시오. ",
 	"property.origin.name.remove": "제거",
 	"property.origin.name.true": "진실",
-	"property.origin.name.validate.confirm.text": "유효성을 검사할 서버 URL을 입력하세요.",
+	"property.origin.name.validate.confirm.text": "유효성을 검사할 서버 URL을 입력하십시오.",
 	"property.origin.name.yes": "예",
 	"property.origin.removeButton": "해당 오리진 삭제",
 	"property.origin.saveButton": "구하다",
