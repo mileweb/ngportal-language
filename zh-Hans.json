@@ -715,7 +715,7 @@
 	"edgeHostname.label.name": "域名 *",
 	"edgeHostname.label.pci": "Is PCI Required *",
 	"edgeHostname.label.server.regions": "Set Server Regions *",
-	"edgeHostname.label.set.service.regions": "访客分区（client zone）是地域加 Internet 服务提供商 (ISP) 的组合。您可以为来自不同分区的访客请求配置不同规则。必须有一条默认规则覆盖所有分区（地区=All 和 运营商=All）。",
+	"edgeHostname.label.set.service.regions": "一个“分区”是指一个地区和运营商的组合。您可以创建规则来指示CDN Pro如何处理来自不同分区的客户端请求。您至少需要创建一个覆盖全球（地区=All 和 运营商=All）的默认规则。",
 	"edgeHostname.load.failed.title": "加载调度域名失败",
 	"edgeHostname.placeholder.bandwidth": "输入估计带宽",
 	"edgeHostname.placeholder.bandwidth.unit": "选择单位",

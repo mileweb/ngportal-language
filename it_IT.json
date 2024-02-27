@@ -715,7 +715,7 @@
 	"edgeHostname.label.name": "Hostname *",
 	"edgeHostname.label.pci": "Is PCI Required *",
 	"edgeHostname.label.server.regions": "Set Server Regions *",
-	"edgeHostname.label.set.service.regions": "Una zona è una combinazione di una regione e di un provider di servizi Internet (ISP). Puoi controllare come gestire le richieste degli utenti da zone diverse. Deve esserci una regola che copra tutte le zone (regioni = Tutti e fornitori di servizi Internet = Tutti).",
+	"edgeHostname.label.set.service.regions": "Una zona è una combinazione di una regione e di un provider di servizi Internet (ISP). Qui puoi creare regole per indicare a CDN Pro come gestire le richieste dei client da zone diverse. È necessario creare almeno una regola predefinita che copra il mondo intero (regione = Tutto e ISP = Tutto).",
 	"edgeHostname.load.failed.title": "Load Edge Hostname failed",
 	"edgeHostname.placeholder.bandwidth": "Enter Estimated Bandwidth",
 	"edgeHostname.placeholder.bandwidth.unit": "Select Unit",

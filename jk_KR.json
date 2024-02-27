@@ -715,7 +715,7 @@
 	"edgeHostname.label.name": "Hostname * ",
 	"edgeHostname.label.pci": "PCI가 필요합니다 * ",
 	"edgeHostname.label.server.regions": "서버 영역 설정 * ",
-	"edgeHostname.label.set.service.regions": "영역은 지역과 인터넷 서비스 공급자(ISP)의 조합입니다. 다양한 영역의 사용자 요청을 처리하는 방법을 제어할 수 있습니다. 모든 영역(지역 = 전체 및 인터넷 서비스 공급자 = 전체)을 포괄하는 규칙이 있어야 합니다.",
+	"edgeHostname.label.set.service.regions": "영역은 지역과 인터넷 서비스 공급자(ISP)의 조합입니다. 여기에서 CDN Pro에 다양한 영역의 클라이언트 요청을 처리하는 방법을 알려주는 규칙을 생성할 수 있습니다. 전 세계(지역 = 전체, ISP = 전체)를 포괄하는 기본 규칙을 하나 이상 만들어야 합니다.",
 	"edgeHostname.load.failed.title": "Edge Hostname로드에 실패했습니다 ",
 	"edgeHostname.placeholder.bandwidth": "예상 대역폭 입력 ",
 	"edgeHostname.placeholder.bandwidth.unit": "단위 선택 ",
