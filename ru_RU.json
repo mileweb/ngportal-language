@@ -1488,6 +1488,7 @@
 	"property.label.origin.authentication": "Проверки подлинности",
 	"property.label.origin.authentication.awss3.accesskey": "Ключ доступа",
 	"property.label.origin.authentication.awss3.region": "Регион",
+	"property.label.origin.authentication.awss3.region.select": "Выберите регион",
 	"property.label.origin.authentication.awss3.secretkey": "Секретный ключ",
 	"property.label.origin.authentication.certificate": "Сертификат аутентификации",
 	"property.label.origin.direct.connection": "Прямое соединение",
