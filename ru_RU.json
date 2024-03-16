@@ -705,7 +705,7 @@
 	"edgeHostname.description.placeholder": "Добавьте описание этого пограничного имени хоста.",
 	"edgeHostname.edit.btn": "Редактировать",
 	"edgeHostname.edit.title": "Edge-имя хоста",
-	"edgeHostname.error.incompleteClientZones.message": "Должно быть правило клиентской зоны, охватывающее все регионы и интернет-провайдеров.",
+	"edgeHostname.error.incompleteClientZones.message": "Должно быть установлено правило по умолчанию, которое охватывает все регионы и поставщиков услуг интернета.",
 	"edgeHostname.error.invalid.redirect.target": "Добавьте имя домена или несколько IP.",
 	"edgeHostname.label.advanced.accordion": "Расширенные опции",
 	"edgeHostname.label.bandwidth": "Расчетная пропускная способность",

@@ -705,7 +705,7 @@
 	"edgeHostname.description.placeholder": "Ajoutez une description de ce nom d'hôte de périphérie.",
 	"edgeHostname.edit.btn": "modifier",
 	"edgeHostname.edit.title": "Edge Hostname",
-	"edgeHostname.error.incompleteClientZones.message": "Il doit y avoir une règle de zone client qui couvre toutes les régions et tous les FAI.",
+	"edgeHostname.error.incompleteClientZones.message": "Il doit y avoir une règle par défaut qui couvre toutes les régions et tous les FAI.",
 	"edgeHostname.error.invalid.redirect.target": "Enter one domain or multiple IPs.",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",

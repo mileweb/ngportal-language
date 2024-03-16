@@ -705,7 +705,7 @@
 	"edgeHostname.description.placeholder": "このエッジのホスト名に関する説明を追加します。",
 	"edgeHostname.edit.btn": "編集",
 	"edgeHostname.edit.title": "Edge Hostname",
-	"edgeHostname.error.incompleteClientZones.message": "すべての地域と ISP をカバーするクライアント ゾーン ルールが必要です。",
+	"edgeHostname.error.incompleteClientZones.message": "すべての地域とISPをカバーするデフォルトルールが必要だ。",
 	"edgeHostname.error.invalid.redirect.target": "1つのドメインまたは複数のIPを入力します。",
 	"edgeHostname.label.advanced.accordion": "高度な設定",
 	"edgeHostname.label.bandwidth": "推定帯域幅",

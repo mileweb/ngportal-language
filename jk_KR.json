@@ -705,7 +705,7 @@
 	"edgeHostname.description.placeholder": "이 Edge 호스트 이름에 대한 설명을 추가하십시오.",
 	"edgeHostname.edit.btn": "편집하다",
 	"edgeHostname.edit.title": "Edge Hostname ",
-	"edgeHostname.error.incompleteClientZones.message": "모든 지역 및 ISP를 포괄하는 클라이언트 영역 규칙이 있어야 합니다.",
+	"edgeHostname.error.incompleteClientZones.message": "모든 지역과 ISP에 적용되는 기본 규칙이 있어야 합니다.",
 	"edgeHostname.error.invalid.redirect.target": "하나의 도메인 또는 여러 개의 IP를 입력하십시오. ",
 	"edgeHostname.label.advanced.accordion": "고급 설정 ",
 	"edgeHostname.label.bandwidth": "예상 대역폭 ",

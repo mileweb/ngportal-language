@@ -705,7 +705,7 @@
 	"edgeHostname.description.placeholder": "أضف وصفًا حول اسم مضيف الحافة هذا.",
 	"edgeHostname.edit.btn": "Edit",
 	"edgeHostname.edit.title": "Edge Hostname",
-	"edgeHostname.error.incompleteClientZones.message": "يجب أن تكون هناك قاعدة منطقة العميل تغطي جميع المناطق ومزودي خدمة الإنترنت.",
+	"edgeHostname.error.incompleteClientZones.message": "يجب أن تكون هناك قاعدة افتراضية تغطي جميع المناطق ومزودي خدمات الإنترنت.",
 	"edgeHostname.error.invalid.redirect.target": "Enter one domain or multiple IPs.",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",

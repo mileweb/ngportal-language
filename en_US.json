@@ -705,7 +705,7 @@
 	"edgeHostname.description.placeholder": "Add a description about this edge hostname.",
 	"edgeHostname.edit.btn": "Edit",
 	"edgeHostname.edit.title": "Edge Hostname",
-	"edgeHostname.error.incompleteClientZones.message": "There must be a client zone rule that covers all regions and ISPs.",
+	"edgeHostname.error.incompleteClientZones.message": "There must be a default rule that covers all regions and ISPs.",
 	"edgeHostname.error.invalid.redirect.target": "Enter one domain or multiple IPs.",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",

@@ -705,7 +705,7 @@
 	"edgeHostname.description.placeholder": "Aggiungi una descrizione su questo nome host del bordo.",
 	"edgeHostname.edit.btn": "Edit",
 	"edgeHostname.edit.title": "Edge Hostname",
-	"edgeHostname.error.incompleteClientZones.message": "Deve esistere una regola della zona client che copra tutte le regioni e gli ISP.",
+	"edgeHostname.error.incompleteClientZones.message": "Deve esserci una regola predefinita che copra tutte le regioni e gli ISP.",
 	"edgeHostname.error.invalid.redirect.target": "Enter one domain or multiple IPs.",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",
