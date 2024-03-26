@@ -694,6 +694,7 @@
 	"edgeHostname.client.zone.select.region": "Выберите клиентский регион.",
 	"edgeHostname.client.zone.update.button": "Обновить правило клиентской зоны.",
 	"edgeHostname.client.zone.weight.be.integer": "Вес должен быть целым числом от 1 до 1000.",
+	"edgeHostname.clientRegion.invalid.on.nearChina": "Группу серверов NearChina нельзя использовать для регионов за пределами материкового Китая.",
 	"edgeHostname.clone.default.description": "Скопировано из {cloneEdgeHostname} пользователем {userName}",
 	"edgeHostname.confirm.cancel.create.edgeHostname": "Вы хотите прекратить создание этого пограничного имени хоста?",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "Отменить обновление этого пограничного имени хоста?",

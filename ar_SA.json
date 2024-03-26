@@ -694,6 +694,7 @@
 	"edgeHostname.client.zone.select.region": "Select client region.",
 	"edgeHostname.client.zone.update.button": "Update Client Zone Rule",
 	"edgeHostname.client.zone.weight.be.integer": "The weight must be an integer between 1 and 1000.",
+	"edgeHostname.clientRegion.invalid.on.nearChina": "لا يمكن استخدام مجموعة خوادم nearChina في مناطق خارج البر الرئيسي للصين.",
 	"edgeHostname.clone.default.description": "مستنسخ من {cloneEdgeHostname} بواسطة {userName}",
 	"edgeHostname.confirm.cancel.create.edgeHostname": "هل تريد إنهاء إنشاء اسم مضيف الحافة هذا؟",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "هل تريد تجاهل تحديث اسم مضيف الحافة هذا؟",
