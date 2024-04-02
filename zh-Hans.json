@@ -1546,7 +1546,7 @@
 	"property.origin.name.false": "否",
 	"property.origin.name.link.validate": "验证",
 	"property.origin.name.no": "否",
-	"property.origin.name.no.direct": "不直连",
+	"property.origin.name.no.direct": "不直连，使用父缓存",
 	"property.origin.name.none": "无",
 	"property.origin.name.off": "关闭",
 	"property.origin.name.on": "开启",
