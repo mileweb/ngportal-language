@@ -694,7 +694,7 @@
 	"edgeHostname.client.zone.select.region": "Select client region.",
 	"edgeHostname.client.zone.update.button": "Update Client Zone Rule",
 	"edgeHostname.client.zone.weight.be.integer": "The weight must be an integer between 1 and 1000.",
-	"edgeHostname.clientRegion.invalid.on.nearChina": "The nearChina server group cannot be used for regions outside mainland China.",
+	"edgeHostname.clientRegion.invalid.on.nearChina": "This server group is only allowed to serve visitors from mainland China",
 	"edgeHostname.clone.default.description": "Cloned from {cloneEdgeHostname} by {userName}",
 	"edgeHostname.confirm.cancel.create.edgeHostname": "Do you want to quit creating this edge hostname?",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "Do you want to discard the update of this edge hostname?",
