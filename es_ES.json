@@ -694,7 +694,7 @@
 	"edgeHostname.client.zone.select.region": "Select client region.",
 	"edgeHostname.client.zone.update.button": "Update Client Zone Rule",
 	"edgeHostname.client.zone.weight.be.integer": "The weight must be an integer between 1 and 1000.",
-	"edgeHostname.clientRegion.invalid.on.nearChina": "El grupo de servidores nearChina no se puede utilizar para regiones fuera de China continental.",
+	"edgeHostname.clientRegion.invalid.on.nearChina": "Este grupo de servidores solo puede atender a visitantes de China continental.",
 	"edgeHostname.clone.default.description": "Clonado de {cloneEdgeHostname} por {userName}",
 	"edgeHostname.confirm.cancel.create.edgeHostname": "¿Desea dejar de crear este nombre de host de borde?",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "¿Desea descartar la actualización de este nombre de host de borde?",

@@ -694,7 +694,7 @@
 	"edgeHostname.client.zone.select.region": "クライアント地域を選択します。",
 	"edgeHostname.client.zone.update.button": "Update Client Zone Rule",
 	"edgeHostname.client.zone.weight.be.integer": "重みは1〜1000の整数でなければなりません。",
-	"edgeHostname.clientRegion.invalid.on.nearChina": "NearChina サーバー グループは、中国本土以外の地域では使用できません。",
+	"edgeHostname.clientRegion.invalid.on.nearChina": "このサーバーグループは中国本土からの訪問者のみにサービスを提供できます",
 	"edgeHostname.clone.default.description": "{userName}によって{cloneEdgeHostname}から複製されました",
 	"edgeHostname.confirm.cancel.create.edgeHostname": "このエッジホスト名の作成を中止しますか？",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "このエッジホスト名の更新を破棄しますか？",
