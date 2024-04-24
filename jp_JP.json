@@ -1554,7 +1554,7 @@
 	"property.origin.name.on": "乗ったままで",
 	"property.origin.name.placeholder": "オリジンの名前を入力します。",
 	"property.origin.name.remove": "削除",
-	"property.origin.name.round.ribin": "ラウンドロビン",
+	"property.origin.name.round.robin": "ラウンドロビン",
 	"property.origin.name.sorted.list": "ソートされたリスト",
 	"property.origin.name.true": "本当",
 	"property.origin.name.validate.confirm.text": "検証するサーバーの URL を入力してください。",

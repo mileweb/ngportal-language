@@ -1554,7 +1554,7 @@
 	"property.origin.name.on": "켜기",
 	"property.origin.name.placeholder": "출발지의 이름을 입력하십시오. ",
 	"property.origin.name.remove": "제거",
-	"property.origin.name.round.ribin": "라운드 로빈",
+	"property.origin.name.round.robin": "라운드 로빈",
 	"property.origin.name.sorted.list": "정렬된 목록",
 	"property.origin.name.true": "진실",
 	"property.origin.name.validate.confirm.text": "유효성을 검사할 서버 URL을 입력하십시오.",

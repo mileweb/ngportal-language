@@ -1554,7 +1554,7 @@
 	"property.origin.name.on": "На сайте",
 	"property.origin.name.placeholder": "Введите имя для вашего origin",
 	"property.origin.name.remove": "Удалить",
-	"property.origin.name.round.ribin": "По-круговой",
+	"property.origin.name.round.robin": "По-круговой",
 	"property.origin.name.sorted.list": "Сортированный список",
 	"property.origin.name.true": "Правда",
 	"property.origin.name.validate.confirm.text": "Пожалуйста, введите URL-адрес сервера для проверки.",

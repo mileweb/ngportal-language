@@ -1554,7 +1554,7 @@
 	"property.origin.name.on": "على",
 	"property.origin.name.placeholder": "Enter a name for your origin.",
 	"property.origin.name.remove": "إزالة",
-	"property.origin.name.round.ribin": "جولة روبن",
+	"property.origin.name.round.robin": "جولة روبن",
 	"property.origin.name.sorted.list": "قائمة مرتبة",
 	"property.origin.name.true": "صحيح",
 	"property.origin.name.validate.confirm.text": "الرجاء إدخال عنوان URL للخادم للتحقق من صحته.",

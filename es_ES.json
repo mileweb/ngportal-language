@@ -1554,7 +1554,7 @@
 	"property.origin.name.on": "En",
 	"property.origin.name.placeholder": "Enter a name for your origin.",
 	"property.origin.name.remove": "Quitar",
-	"property.origin.name.round.ribin": "Todos contra todos",
+	"property.origin.name.round.robin": "Todos contra todos",
 	"property.origin.name.sorted.list": "Lista ordenada",
 	"property.origin.name.true": "Cierto",
 	"property.origin.name.validate.confirm.text": "Introduzca la URL del servidor para validar.",

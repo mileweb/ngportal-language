@@ -1554,7 +1554,7 @@
 	"property.origin.name.on": "Su",
 	"property.origin.name.placeholder": "Enter a name for your origin.",
 	"property.origin.name.remove": "Rimuovere",
-	"property.origin.name.round.ribin": "Girotondo all&#39;italiana",
+	"property.origin.name.round.robin": "Girotondo all&#39;italiana",
 	"property.origin.name.sorted.list": "Elenco ordinato",
 	"property.origin.name.true": "Vero",
 	"property.origin.name.validate.confirm.text": "Inserisci l'URL del server da convalidare.",
