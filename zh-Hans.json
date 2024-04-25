@@ -1555,7 +1555,7 @@
 	"property.origin.name.placeholder": "输入您的源站名称。",
 	"property.origin.name.remove": "删除",
 	"property.origin.name.round.robin": "轮询",
-	"property.origin.name.sorted.list": "优选回源",
+	"property.origin.name.sorted.list": "性能优先",
 	"property.origin.name.true": "是",
 	"property.origin.name.validate.confirm.text": "请输入要验证的服务器的URL。",
 	"property.origin.name.yes": "是",
