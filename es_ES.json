@@ -256,7 +256,7 @@
 	"certificate.dns01challenge.steps.s2.title": "Espera adicional para la propagación de DNS",
 	"certificate.dns01challenge.steps.s3.title": "Cifremos la confirmación",
 	"certificate.dns01challenge.steps.s4.title": "Carga de certificado",
-	"certificate.dns01challenge.steps.try.again.message": "Lo siento, tienes mucha mala suerte hoy. Porfavor intente más tarde.",
+	"certificate.dns01challenge.steps.try.again.message": "Lo sentimos, no se pudo completar la verificación de DNS. Porfavor intente más tarde.",
 	"certificate.dns01challenge.wait.above.message": "Para verificar la propiedad de los nombres de host del certificado, agregue los siguientes registros DNS TXT:",
 	"certificate.dns01challenge.wait.below.message": "Una vez que haya terminado, haga clic en Generar para continuar. Tenga en cuenta que los nuevos registros DNS pueden tardar unos minutos en propagarse para que podamos confirmarlos.",
 	"certificate.dns01challenge.wait.below.message2": "Una vez que se ha verificado el desafío ACME, continúa la carga de certificados. Tenga en cuenta que los nuevos registros DNS pueden tardar unos minutos en propagarse para que podamos confirmarlos.",

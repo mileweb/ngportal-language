@@ -256,7 +256,7 @@
 	"certificate.dns01challenge.steps.s2.title": "DNS 전파를 위한 추가 대기",
 	"certificate.dns01challenge.steps.s3.title": "Let’s Encrypt 확인",
 	"certificate.dns01challenge.steps.s4.title": "인증서 업로드",
-	"certificate.dns01challenge.steps.try.again.message": "미안, 오늘 너 정말 운이 좋지 않구나. 나중에 다시 시도해 주세요.",
+	"certificate.dns01challenge.steps.try.again.message": "죄송합니다. DNS 확인을 완료할 수 없습니다. 나중에 다시 시도해 주세요.",
 	"certificate.dns01challenge.wait.above.message": "인증서 호스트 이름의 소유권을 확인하려면 다음 DNS TXT 레코드를 추가하십시오.",
 	"certificate.dns01challenge.wait.below.message": "완료되면 생성을 클릭하여 계속하십시오. 새 DNS 레코드가 전파되어 확인하는 데 몇 분 정도 걸릴 수 있습니다.",
 	"certificate.dns01challenge.wait.below.message2": "ACME 챌린지가 확인되면 인증서 업로드가 계속됩니다. 새 DNS 레코드가 전파되어 확인하는 데 몇 분 정도 걸릴 수 있습니다.",
