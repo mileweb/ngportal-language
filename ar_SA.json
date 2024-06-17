@@ -252,6 +252,7 @@
 	"certificate.dns01challenge.opt.desc": "يتيح لنا هذا الخيار إنشاء شهادة تدعم كل اسم من أسماء المضيف تلقائيًا بعد التحقق من ملكيتك لها. للتحقق ، يجب عليك تعديل خادم DNS الخاص بك لإضافة سجل TXT خاص لنظام أسماء النطاقات لكل اسم مضيف. بمجرد اكتمال العملية ، يمكنك إزالة سجلات TXT هذه.",
 	"certificate.dns01challenge.radio.title": "تحدي DNS-01",
 	"certificate.dns01challenge.requesting": "جاري الطلب",
+	"certificate.dns01challenge.steps.s1.timeout": "المهلة في {time}",
 	"certificate.dns01challenge.steps.s1.title": "التحقق الأولي",
 	"certificate.dns01challenge.steps.s2.title": "انتظار إضافي لنشر DNS",
 	"certificate.dns01challenge.steps.s3.title": "دعونا تشفير التأكيد",
