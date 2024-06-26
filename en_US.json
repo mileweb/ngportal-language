@@ -723,6 +723,8 @@
 	"edgeHostname.history.format.status.in.progress": "In-progress",
 	"edgeHostname.history.format.status.succeeded": "Succeeded",
 	"edgeHostname.history.format.status.waiting": "Waiting",
+	"edgeHostname.history.inprogress.not.clone.message": "There is an ongoing deployment for the edge hostname. Please wait for the deployment to complete before making further updates.",
+	"edgeHostname.history.no.configuration": "No configuration found for this history operation",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",
 	"edgeHostname.label.has.beian": "Has ICP Beian",

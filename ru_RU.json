@@ -723,6 +723,8 @@
 	"edgeHostname.history.format.status.in.progress": "В ходе выполнения",
 	"edgeHostname.history.format.status.succeeded": "Удалось",
 	"edgeHostname.history.format.status.waiting": "Ожидающий",
+	"edgeHostname.history.inprogress.not.clone.message": "Идет развертывание пограничного имени хоста. Прежде чем вносить дальнейшие обновления, дождитесь завершения развертывания.",
+	"edgeHostname.history.no.configuration": "Для этой операции истории не найдена конфигурация.",
 	"edgeHostname.label.advanced.accordion": "Расширенные опции",
 	"edgeHostname.label.bandwidth": "Расчетная пропускная способность",
 	"edgeHostname.label.has.beian": "Имеет ICP Beian",

@@ -723,6 +723,8 @@
 	"edgeHostname.history.format.status.in.progress": "En curso",
 	"edgeHostname.history.format.status.succeeded": "Tuvo éxito",
 	"edgeHostname.history.format.status.waiting": "Espera",
+	"edgeHostname.history.inprogress.not.clone.message": "Hay una implementación en curso para el nombre de host perimetral. Espere a que se complete la implementación antes de realizar más actualizaciones.",
+	"edgeHostname.history.no.configuration": "No se encontró ninguna configuración para esta operación de historial",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",
 	"edgeHostname.label.has.beian": "Has ICP Beian",

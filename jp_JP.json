@@ -723,6 +723,8 @@
 	"edgeHostname.history.format.status.in.progress": "進行中",
 	"edgeHostname.history.format.status.succeeded": "成功しました",
 	"edgeHostname.history.format.status.waiting": "待っている",
+	"edgeHostname.history.inprogress.not.clone.message": "エッジ ホスト名の展開が進行中です。展開が完了するまで待ってから、さらに更新を行ってください。",
+	"edgeHostname.history.no.configuration": "この履歴操作の設定が見つかりません",
 	"edgeHostname.label.advanced.accordion": "高度な設定",
 	"edgeHostname.label.bandwidth": "推定帯域幅",
 	"edgeHostname.label.has.beian": "ICP Beianがいます",

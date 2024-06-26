@@ -723,6 +723,8 @@
 	"edgeHostname.history.format.status.in.progress": "In corso",
 	"edgeHostname.history.format.status.succeeded": "Successo",
 	"edgeHostname.history.format.status.waiting": "In attesa",
+	"edgeHostname.history.inprogress.not.clone.message": "È in corso una distribuzione per il nome host edge. Attendi il completamento della distribuzione prima di apportare ulteriori aggiornamenti.",
+	"edgeHostname.history.no.configuration": "Nessuna configurazione trovata per questa operazione di cronologia",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",
 	"edgeHostname.label.has.beian": "Has ICP Beian",
