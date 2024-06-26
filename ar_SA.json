@@ -723,6 +723,8 @@
 	"edgeHostname.history.format.status.in.progress": "في تَقَدم",
 	"edgeHostname.history.format.status.succeeded": "نجحت",
 	"edgeHostname.history.format.status.waiting": "منتظر",
+	"edgeHostname.history.inprogress.not.clone.message": "هناك عملية نشر مستمرة لاسم مضيف الحافة. يرجى الانتظار حتى يكتمل النشر قبل إجراء المزيد من التحديثات.",
+	"edgeHostname.history.no.configuration": "لم يتم العثور على تكوين لعملية السجل هذه",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",
 	"edgeHostname.label.has.beian": "Has ICP Beian",

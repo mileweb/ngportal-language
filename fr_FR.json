@@ -723,6 +723,8 @@
 	"edgeHostname.history.format.status.in.progress": "En cours",
 	"edgeHostname.history.format.status.succeeded": "Réussi",
 	"edgeHostname.history.format.status.waiting": "En attendant",
+	"edgeHostname.history.inprogress.not.clone.message": "Un déploiement est en cours pour le nom d'hôte Edge. Veuillez attendre la fin du déploiement avant d'effectuer d'autres mises à jour.",
+	"edgeHostname.history.no.configuration": "Aucune configuration trouvée pour cette opération d'historique",
 	"edgeHostname.label.advanced.accordion": "Advanced Settings",
 	"edgeHostname.label.bandwidth": "Estimated Bandwidth",
 	"edgeHostname.label.has.beian": "A ICP Beian",
