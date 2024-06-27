@@ -252,6 +252,8 @@
 	"certificate.dns01challenge.opt.desc": "Esta opción nos permite crear automáticamente un certificado que respalde cada uno de sus nombres de host después de verificar su propiedad. Para verificar, debe modificar su servidor DNS para agregar un registro TXT de DNS especial para cada nombre de host. Una vez que se completa el proceso, puede eliminar esos registros TXT.",
 	"certificate.dns01challenge.radio.title": "Desafío DNS-01",
 	"certificate.dns01challenge.requesting": "Solicitando",
+	"certificate.dns01challenge.start.verification.button.title": "Iniciar verificación",
+	"certificate.dns01challenge.start.verification.desc.message": "Haga clic en Iniciar verificación una vez que haya actualizado sus registros DNS.",
 	"certificate.dns01challenge.steps.s1.timeout": "tiempo de espera en {time}",
 	"certificate.dns01challenge.steps.s1.title": "Verificación inicial",
 	"certificate.dns01challenge.steps.s2.title": "Espera adicional para la propagación de DNS",
