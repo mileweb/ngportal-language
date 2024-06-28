@@ -725,7 +725,7 @@
 	"edgeHostname.history.format.status.in.progress": "进行中",
 	"edgeHostname.history.format.status.succeeded": "成功",
 	"edgeHostname.history.format.status.waiting": "等待",
-	"edgeHostname.history.inprogress.not.clone.message": "边缘主机名的部署正在进行中。请等待部署完成后再进行进一步更新。",
+	"edgeHostname.history.inprogress.not.clone.message": "该调度域名有一个部署任务正在进行中。请等待部署完成后再进行更新操作。",
 	"edgeHostname.history.no.configuration": "未找到此历史操作的配置",
 	"edgeHostname.label.advanced.accordion": "高级设置",
 	"edgeHostname.label.bandwidth": "估计带宽",
