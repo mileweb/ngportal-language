@@ -261,6 +261,7 @@
 	"certificate.dns01challenge.steps.s4.title": "証明書のアップロード",
 	"certificate.dns01challenge.steps.try.again.message": "申し訳ございませんが、DNS 検証を完了できませんでした。しばらくしてからもう一度お試しください。",
 	"certificate.dns01challenge.wait.above.message": "証明書のホスト名の所有権を確認するには、次の DNS TXT レコードを追加してください。",
+	"certificate.dns01challenge.wait.after.start.above.message": "DNS 更新を確認して新しい証明書を作成するまでお待ちください。",
 	"certificate.dns01challenge.wait.below.message": "完了したら、[生成] をクリックして続行します。新しい DNS レコードが反映されるまで数分かかる場合があることに注意してください。",
 	"certificate.dns01challenge.wait.below.message2": "ACME チャレンジが検証されると、証明書のアップロードが続行されます。新しい DNS レコードが反映されるまで数分かかる場合があることに注意してください。",
 	"certificate.dns01challenge.wait.info.modal.title": "新しい証明書を作成しますか?",

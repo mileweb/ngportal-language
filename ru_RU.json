@@ -261,6 +261,7 @@
 	"certificate.dns01challenge.steps.s4.title": "Загрузка сертификата",
 	"certificate.dns01challenge.steps.try.again.message": "К сожалению, проверка DNS не может быть завершена. Пожалуйста, повторите попытку позже.",
 	"certificate.dns01challenge.wait.above.message": "Чтобы подтвердить право собственности на имена хостов сертификата, добавьте следующие записи DNS TXT:",
+	"certificate.dns01challenge.wait.after.start.above.message": "Пожалуйста, подождите, пока мы проверим ваши обновления DNS и создадим новый сертификат.",
 	"certificate.dns01challenge.wait.below.message": "Когда вы закончите, нажмите «Создать», чтобы продолжить. Обратите внимание, что распространение новых записей DNS может занять несколько минут, чтобы мы могли их подтвердить.",
 	"certificate.dns01challenge.wait.below.message2": "Как только вызов ACME будет подтвержден, загрузка сертификатов продолжится. Обратите внимание, что распространение новых записей DNS может занять несколько минут, чтобы мы могли их подтвердить.",
 	"certificate.dns01challenge.wait.info.modal.title": "Вы хотите создать новый сертификат?",
