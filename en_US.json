@@ -261,6 +261,7 @@
 	"certificate.dns01challenge.steps.s4.title": "Certificate Upload",
 	"certificate.dns01challenge.steps.try.again.message": "Sorry, the DNS verification could not be completed. Please try again at a later time.",
 	"certificate.dns01challenge.wait.above.message": "To verify ownership of the certificate’s hostnames, please add the following DNS TXT records:",
+	"certificate.dns01challenge.wait.after.start.above.message": "Please wait while we verify your DNS updates and create your new certificate.",
 	"certificate.dns01challenge.wait.below.message": "Once you are done, click Generate to continue. Note that it may take a few minutes for the new DNS records to propagate so we can confirm them.",
 	"certificate.dns01challenge.wait.below.message2": "Once the ACME challenge has been verified, uploading certificates continues. Note that it may take a few minutes for the new DNS records to propagate so we can confirm them.",
 	"certificate.dns01challenge.wait.info.modal.title": "Do you want to create a new certificate?",

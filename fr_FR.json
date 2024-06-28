@@ -261,6 +261,7 @@
 	"certificate.dns01challenge.steps.s4.title": "Téléchargement de certificat",
 	"certificate.dns01challenge.steps.try.again.message": "Désolé, la vérification DNS n'a pas pu être effectuée. Veuillez réessayer plus tard.",
 	"certificate.dns01challenge.wait.above.message": "Pour vérifier la propriété des noms d'hôte du certificat, veuillez ajouter les enregistrements DNS TXT suivants :",
+	"certificate.dns01challenge.wait.after.start.above.message": "Veuillez patienter pendant que nous vérifions vos mises à jour DNS et créons votre nouveau certificat.",
 	"certificate.dns01challenge.wait.below.message": "Une fois que vous avez terminé, cliquez sur Générer pour continuer. Notez que la propagation des nouveaux enregistrements DNS peut prendre quelques minutes afin que nous puissions les confirmer.",
 	"certificate.dns01challenge.wait.below.message2": "Une fois le défi ACME vérifié, le téléchargement des certificats se poursuit. Notez que la propagation des nouveaux enregistrements DNS peut prendre quelques minutes afin que nous puissions les confirmer.",
 	"certificate.dns01challenge.wait.info.modal.title": "Voulez-vous créer un nouveau certificat ?",
