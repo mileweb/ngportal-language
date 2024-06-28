@@ -2783,7 +2783,7 @@
 	"validation.error.description.too.long": "Описание может содержать до 256 символов.",
 	"validation.error.duplicate.origin.name": "Имя origin уже используется. Пожалуйста, введите другое имя.",
 	"validation.error.edgeHostname.invalid": "Edge-имя хоста должно быть действительным доменным именем.",
-	"validation.error.editing.version.description.too.long": "Описание версии может содержать до 256 символов.",
+	"validation.error.editing.version.description.too.long": "Описание версии может содержать до 10000 символов.",
 	"validation.error.empty.origin.name": "Origin имя не может быть пустым.",
 	"validation.error.empty.origin.servers": "Пожалуйста, укажите хотя бы один origin-сервер.",
 	"validation.error.hostnames.invalid": "Имена хостов должны быть действительными доменными именами.",

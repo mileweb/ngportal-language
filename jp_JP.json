@@ -2783,7 +2783,7 @@
 	"validation.error.description.too.long": "説明は最大256文字です。",
 	"validation.error.duplicate.origin.name": "このオリジン名はすでに使用されています。別のものを入力してください。",
 	"validation.error.edgeHostname.invalid": "Edhe Hostnameは有効なドメイン名でなければなりません。",
-	"validation.error.editing.version.description.too.long": "バージョンの説明は最大256文字です。",
+	"validation.error.editing.version.description.too.long": "バージョンの説明は最大10000文字です。",
 	"validation.error.empty.origin.name": "オリジン名を空にすることはできません。",
 	"validation.error.empty.origin.servers": "少なくとも1つのオリジンサーバーを指定してください。",
 	"validation.error.hostnames.invalid": "ホスト名は有効なドメイン名でなければなりません。",
