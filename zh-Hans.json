@@ -2783,7 +2783,7 @@
 	"validation.error.description.too.long": "描述最多可包含 256 个字符。",
 	"validation.error.duplicate.origin.name": "此源站名称已被使用，请输入一个其它名称。",
 	"validation.error.edgeHostname.invalid": "调度域名必须是一个合法的域名。",
-	"validation.error.editing.version.description.too.long": "版本说明最多可包含 256 个字符。",
+	"validation.error.editing.version.description.too.long": "版本说明最多可包含 10000 个字符。",
 	"validation.error.empty.origin.name": "源站名称不能为空。",
 	"validation.error.empty.origin.servers": "请至少指定一台源站服务器。",
 	"validation.error.hostnames.invalid": "加速域名必须是合法的域名。",

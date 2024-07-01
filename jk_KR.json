@@ -2783,7 +2783,7 @@
 	"validation.error.description.too.long": "설명은 최대 256자까지 가능합니다.",
 	"validation.error.duplicate.origin.name": "이 출발지 이름이 이미 사용 중입니다. 다른 것을 입력하십시오. ",
 	"validation.error.edgeHostname.invalid": "Edge Hostname은 유효한 도메인 이름이어야합니다. ",
-	"validation.error.editing.version.description.too.long": "버전 설명은 최대 256자까지 가능합니다.",
+	"validation.error.editing.version.description.too.long": "버전 설명은 최대 10000자까지 가능합니다.",
 	"validation.error.empty.origin.name": "출발지 이름은 비워 둘 수 없습니다. ",
 	"validation.error.empty.origin.servers": "하나 이상의 오리진 서버를 지정하십시오. ",
 	"validation.error.hostnames.invalid": "호스트 이름은 유효한 도메인 이름이어야합니다. ",

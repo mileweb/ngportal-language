@@ -2783,7 +2783,7 @@
 	"validation.error.description.too.long": "The description can be up to 256 characters.",
 	"validation.error.duplicate.origin.name": "This origin name is already in use. Please enter a different one.",
 	"validation.error.edgeHostname.invalid": "The Edge Hostname must be a valid domain name.",
-	"validation.error.editing.version.description.too.long": "The version description can be up to 256 characters.",
+	"validation.error.editing.version.description.too.long": "The version description can be up to 10000 characters.",
 	"validation.error.empty.origin.name": "The origin name cannot be empty.",
 	"validation.error.empty.origin.servers": "Please specify at least one origin server.",
 	"validation.error.hostnames.invalid": "Hostnames must be valid domain names.",
