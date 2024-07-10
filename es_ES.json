@@ -254,6 +254,8 @@
 	"certificate.dns01challenge.requesting": "Solicitando",
 	"certificate.dns01challenge.start.verification.button.title": "Iniciar verificación",
 	"certificate.dns01challenge.start.verification.desc.message": "Haga clic en Iniciar verificación una vez que haya actualizado sus registros DNS.",
+	"certificate.dns01challenge.start.verification.retry.content": "No pudimos confirmar la configuración de DNS y lo comprobaremos nuevamente.",
+	"certificate.dns01challenge.start.verification.retry.title": "Reintentando la verificación",
 	"certificate.dns01challenge.steps.s1.timeout": "tiempo de espera en {time}",
 	"certificate.dns01challenge.steps.s1.title": "Verificación inicial",
 	"certificate.dns01challenge.steps.s2.title": "Espera adicional para la propagación de DNS",

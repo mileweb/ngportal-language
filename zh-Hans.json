@@ -254,6 +254,8 @@
 	"certificate.dns01challenge.requesting": "请求",
 	"certificate.dns01challenge.start.verification.button.title": "开始验证",
 	"certificate.dns01challenge.start.verification.desc.message": "更新 DNS 记录后，单击“开始验证”。",
+	"certificate.dns01challenge.start.verification.retry.content": "我们无法确认 DNS 设置，将再次检查。",
+	"certificate.dns01challenge.start.verification.retry.title": "重试验证",
 	"certificate.dns01challenge.steps.s1.timeout": " {time}超时",
 	"certificate.dns01challenge.steps.s1.title": "初步验证",
 	"certificate.dns01challenge.steps.s2.title": "等待DNS记录生效",
