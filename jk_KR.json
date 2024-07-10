@@ -254,6 +254,8 @@
 	"certificate.dns01challenge.requesting": "요청",
 	"certificate.dns01challenge.start.verification.button.title": "인증 시작",
 	"certificate.dns01challenge.start.verification.desc.message": "DNS 레코드를 업데이트한 후 확인 시작을 클릭하세요.",
+	"certificate.dns01challenge.start.verification.retry.content": "DNS 설정을 확인할 수 없어 다시 확인하겠습니다.",
+	"certificate.dns01challenge.start.verification.retry.title": "인증 재시도 중",
 	"certificate.dns01challenge.steps.s1.timeout": " {time}의 시간 초과 ",
 	"certificate.dns01challenge.steps.s1.title": "초기 검증",
 	"certificate.dns01challenge.steps.s2.title": "DNS 전파를 위한 추가 대기",

@@ -254,6 +254,8 @@
 	"certificate.dns01challenge.requesting": "جاري الطلب",
 	"certificate.dns01challenge.start.verification.button.title": "ابدأ عملية التحقق",
 	"certificate.dns01challenge.start.verification.desc.message": "انقر فوق \"بدء التحقق\" بمجرد قيامك بتحديث سجلات DNS الخاصة بك.",
+	"certificate.dns01challenge.start.verification.retry.content": "لم نتمكن من تأكيد إعدادات DNS وسوف نتحقق مرة أخرى.",
+	"certificate.dns01challenge.start.verification.retry.title": "إعادة محاولة التحقق",
 	"certificate.dns01challenge.steps.s1.timeout": "المهلة في {time}",
 	"certificate.dns01challenge.steps.s1.title": "التحقق الأولي",
 	"certificate.dns01challenge.steps.s2.title": "انتظار إضافي لنشر DNS",

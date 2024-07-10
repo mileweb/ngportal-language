@@ -254,6 +254,8 @@
 	"certificate.dns01challenge.requesting": "リクエスト中",
 	"certificate.dns01challenge.start.verification.button.title": "検証を開始",
 	"certificate.dns01challenge.start.verification.desc.message": "DNS レコードを更新したら、「検証を開始」をクリックします。",
+	"certificate.dns01challenge.start.verification.retry.content": "DNS設定が確認できなかったため、再度確認いたします。",
+	"certificate.dns01challenge.start.verification.retry.title": "検証を再試行しています",
 	"certificate.dns01challenge.steps.s1.timeout": " {time}でタイムアウト",
 	"certificate.dns01challenge.steps.s1.title": "初期検証",
 	"certificate.dns01challenge.steps.s2.title": "DNS 伝播のための追加待機",
