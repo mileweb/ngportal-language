@@ -1607,6 +1607,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "마지막 업데이트 날짜",
 	"property.shield.origin.details.name": "이름",
 	"property.shield.origin.details.region": "지역",
+	"property.shield.origin.errorModal.direction.connection": "실드는 '직접 연결'이 '직접 없음'으로 설정된 경우에만 사용할 수 있습니다.",
 	"property.shield.origin.errorModal.enableYesSelectNo": "쉴드를 선택해주세요.",
 	"property.shield.origin.label.enableShield": "쉴드 활성화",
 	"property.shield.origin.label.shield": "쉴드",

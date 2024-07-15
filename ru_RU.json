@@ -1607,6 +1607,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "дата последнего обновления",
 	"property.shield.origin.details.name": "название",
 	"property.shield.origin.details.region": "область",
+	"property.shield.origin.errorModal.direction.connection": "Экран можно использовать только в том случае, если для параметра «Прямое соединение» установлено значение «Нет прямого подключения».",
 	"property.shield.origin.errorModal.enableYesSelectNo": "Пожалуйста, выберите щит.",
 	"property.shield.origin.label.enableShield": "Включить щит",
 	"property.shield.origin.label.shield": "щит",
