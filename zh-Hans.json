@@ -1607,7 +1607,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "最后更新日期",
 	"property.shield.origin.details.name": "名称",
 	"property.shield.origin.details.region": "区域",
-	"property.shield.origin.errorModal.direction.connection": "仅当“直接连接”设置为“无直接”时才可使用屏蔽",
+	"property.shield.origin.errorModal.direction.connection": "只有当“直接连接”设置为“不直连，使用父缓存”时，才可以开启Shield",
 	"property.shield.origin.errorModal.enableYesSelectNo": "请选择Shield。",
 	"property.shield.origin.label.enableShield": "启用Shield",
 	"property.shield.origin.label.shield": "Shield",
