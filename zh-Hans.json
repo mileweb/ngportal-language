@@ -1083,7 +1083,6 @@
 	"hint.directive.origin_limit_rate": "限制源站响应速率",
 	"hint.directive.origin_pass": "设置源站",
 	"hint.directive.origin_read_timeout": "设置源站读取超时",
-	"hint.directive.origin_selection_algorithm": "选择源站IP的方法",
 	"hint.directive.origin_send_timeout": "设置源站发送超时",
 	"hint.directive.origin_set_header": "修改发往源站的请求头",
 	"hint.directive.proxy_buffering": "缓冲来自上游的响应",

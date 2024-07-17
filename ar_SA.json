@@ -1083,7 +1083,6 @@
 	"hint.directive.origin_limit_rate": "معدل الحد من الأصل",
 	"hint.directive.origin_pass": "إحضار من الأصل",
 	"hint.directive.origin_read_timeout": "تعيين أصل مهلة القراءة",
-	"hint.directive.origin_selection_algorithm": "طريقة لاختيار أصل IP",
 	"hint.directive.origin_send_timeout": "تعيين أصل مهلة الإرسال",
 	"hint.directive.origin_set_header": "تعديل عنوان الطلب إلى الأصل",
 	"hint.directive.proxy_buffering": "عازلة الاستجابة من المنبع",

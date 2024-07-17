@@ -1083,7 +1083,6 @@
 	"hint.directive.origin_limit_rate": "ограничение скорости от origin",
 	"hint.directive.origin_pass": "получить из origin",
 	"hint.directive.origin_read_timeout": "тайм-аут чтения из origin",
-	"hint.directive.origin_selection_algorithm": "метод выбора IP-адреса origin",
 	"hint.directive.origin_send_timeout": "время ожидания отправки",
 	"hint.directive.origin_set_header": "изменить заголовок запроса к origin",
 	"hint.directive.proxy_buffering": "буферизировать ответ от upstream",
