@@ -1606,7 +1606,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "تاريخ آخر تحديث",
 	"property.shield.origin.details.name": "اسم",
 	"property.shield.origin.details.region": "منطقة",
-	"property.shield.origin.errorModal.direction.connection": "لا يمكن استخدام الدرع إلا إذا تم ضبط \"الاتصال المباشر\" على \"غير مباشر\"",
+	"property.shield.origin.errorModal.direction.connection": "لا يمكن استخدام الدرع إلا إذا تم ضبط \"الاتصال المباشر\" على \"غير مباشر\".",
 	"property.shield.origin.errorModal.enableYesSelectNo": "الرجاء تحديد درع.",
 	"property.shield.origin.label.enableShield": "تمكين الدرع",
 	"property.shield.origin.label.shield": "درع",

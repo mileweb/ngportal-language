@@ -1606,7 +1606,7 @@
 	"property.shield.origin.details.lastUpdatedDate": "Last Updated Date",
 	"property.shield.origin.details.name": "Name",
 	"property.shield.origin.details.region": "Region",
-	"property.shield.origin.errorModal.direction.connection": "A shield can only be used if ‘Direct Connection’ is set to 'No Direct'",
+	"property.shield.origin.errorModal.direction.connection": "A shield can only be used if ‘Direct Connection’ is set to 'No Direct'.",
 	"property.shield.origin.errorModal.enableYesSelectNo": "Please select a shield.",
 	"property.shield.origin.label.enableShield": "Enable Shield",
 	"property.shield.origin.label.shield": "Shield",
