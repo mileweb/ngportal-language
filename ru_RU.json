@@ -2046,7 +2046,7 @@
 	"reportQuery.page.title.type.reqSummary": "",
 	"reportQuery.page.title.type.statusDetails": "Статус коды",
 	"reportQuery.page.title.type.volSummary": "Edge-трафик сводка",
-	"reportQuery.page.validation.count.group.by": "Пожалуйста, выберите не более 2 позиций.",
+	"reportQuery.page.validation.count.group.by": "Пожалуйста, выберите не более двух позиций.",
 	"reportQuery.page.validation.count.wildcard": "Использование нескольких имен хостов с подстановочными знаками не допускается.",
 	"reportQuery.page.validation.dateRangeEndAfterStart": "Конечная дата должна быть после начальной.",
 	"reportQuery.page.validation.dateRangeRequired": "Укажите диапазон дат.",

@@ -2046,7 +2046,7 @@
 	"reportQuery.page.title.type.reqSummary": "Riepilogo richiesta Edge",
 	"reportQuery.page.title.type.statusDetails": "Status Code Details Chart",
 	"reportQuery.page.title.type.volSummary": "Edge Traffic Volume Summary Chart",
-	"reportQuery.page.validation.count.group.by": "Seleziona non più di 2 elementi.",
+	"reportQuery.page.validation.count.group.by": "Seleziona non più di due elementi.",
 	"reportQuery.page.validation.count.wildcard": "Non sono consentiti nomi host multipli con caratteri jolly.",
 	"reportQuery.page.validation.dateRangeEndAfterStart": "The end date must be after start date.",
 	"reportQuery.page.validation.dateRangeRequired": "The date range is required.",

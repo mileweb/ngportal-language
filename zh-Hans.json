@@ -2046,7 +2046,7 @@
 	"reportQuery.page.title.type.reqSummary": "边缘请求数汇总",
 	"reportQuery.page.title.type.statusDetails": "状态码详情图表",
 	"reportQuery.page.title.type.volSummary": "边缘流量汇总图",
-	"reportQuery.page.validation.count.group.by": "请选择不超过 2 项。",
+	"reportQuery.page.validation.count.group.by": "请选择不超过两项。",
 	"reportQuery.page.validation.count.wildcard": "不允许使用多个通配符主机名。",
 	"reportQuery.page.validation.dateRangeEndAfterStart": "结束日期必须在开始日期之后.",
 	"reportQuery.page.validation.dateRangeRequired": "请输入日期.",
