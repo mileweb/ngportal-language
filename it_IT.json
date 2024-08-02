@@ -710,7 +710,7 @@
 	"edgeHostname.confirm.cancel.create.edgeHostname": "Vuoi smettere di creare questo nome host perimetrale?",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "Vuoi scartare l'aggiornamento di questo nome host perimetrale?",
 	"edgeHostname.create.success.modal.content": "Il nome host del bordo è stato creato correttamente.",
-	"edgeHostname.create.success.modal.content.2": "Il nome host edge è stato creato correttamente. Ci vorranno alcuni minuti prima che il nome host edge abbia effetto. Puoi aprire la pagina dei dettagli e controllare lo stato nell'elenco a discesa {history} . Assicurati che lo stato sia riuscito e che il nome host edge abbia effetto, prima di utilizzare il nome host edge nei tuoi record DNS.",
+	"edgeHostname.create.success.modal.content.2": "Il nome host edge è stato creato correttamente. Ci vorranno alcuni minuti prima che il nome host edge abbia effetto. Puoi aprire la pagina dei dettagli e controllare lo stato nell'elenco a discesa {history} . Assicurati che lo stato sia \"Riuscito\" e che il nome host edge abbia effetto, prima di utilizzare il nome host edge nei tuoi record DNS.",
 	"edgeHostname.create.success.modal.title": "Edge Hostname Created!",
 	"edgeHostname.create.title": "Create an Edge Hostname",
 	"edgeHostname.delete.retry.confirm.content": "Il nome host edge è ancora in uso attivo.",

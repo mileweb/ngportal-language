@@ -710,7 +710,7 @@
 	"edgeHostname.confirm.cancel.create.edgeHostname": "是否要退出创建此调度域名？",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "您是否要放弃更新此调度域名？",
 	"edgeHostname.create.success.modal.content": "调度域名已成功创建。",
-	"edgeHostname.create.success.modal.content.2": "边缘主机名已成功创建。边缘主机名生效需要几分钟时间。您可以打开详细信息页面并在 {history} 下拉列表中检查状态。请确保状态为成功且边缘主机名已生效，然后才能在您的 DNS 记录中使用边缘主机名。",
+	"edgeHostname.create.success.modal.content.2": "边缘主机名已成功创建。边缘主机名生效需要几分钟时间。您可以打开详细信息页面并在 {history} 下拉列表中检查状态。在 DNS 记录中使用边缘主机名之前，请确保状态为“成功”且边缘主机名已生效。",
 	"edgeHostname.create.success.modal.title": "调度域名已创建！",
 	"edgeHostname.create.title": "创建调度域名",
 	"edgeHostname.delete.retry.confirm.content": "此调度域名名仍在使用中。",

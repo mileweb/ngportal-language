@@ -710,7 +710,7 @@
 	"edgeHostname.confirm.cancel.create.edgeHostname": "Voulez-vous quitter la création de ce nom d'hôte Edge?",
 	"edgeHostname.confirm.cancel.edit.edgeHostname": "Voulez-vous annuler la mise à jour de ce nom d'hôte Edge?",
 	"edgeHostname.create.success.modal.content": "Le nom d'hôte de périphérie a été créé avec succès.",
-	"edgeHostname.create.success.modal.content.2": "Le nom d'hôte Edge a été créé avec succès. Il faudra quelques minutes avant que le nom d'hôte Edge ne prenne effet. Vous pouvez ouvrir la page de détails et vérifier le statut dans la liste déroulante {history} . Veuillez vous assurer que le statut est réussi et que le nom d'hôte Edge a pris effet avant d'utiliser le nom d'hôte Edge dans vos enregistrements DNS.",
+	"edgeHostname.create.success.modal.content.2": "Le nom d'hôte de périphérie a été créé avec succès. Il faudra quelques minutes avant que le nom d'hôte de périphérie ne prenne effet. Vous pouvez ouvrir la page de détails et vérifier le statut dans la liste déroulante {history} . Veuillez vous assurer que le statut est « Réussi » et que le nom d'hôte de périphérie a pris effet, avant d'utiliser le nom d'hôte de périphérie dans vos enregistrements DNS.",
 	"edgeHostname.create.success.modal.title": "Edge Hostname Created!",
 	"edgeHostname.create.title": "Create an Edge Hostname",
 	"edgeHostname.delete.retry.confirm.content": "Le nom d'hôte Edge est toujours en cours d'utilisation.",
