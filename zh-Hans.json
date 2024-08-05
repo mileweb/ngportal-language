@@ -299,6 +299,7 @@
 	"certificate.placeholder.share.with": "选择要共享的客户",
 	"certificate.placeholder.sharing.method": "选择共享方式",
 	"certificate.placeholder.state": "输入省、州的名称。",
+	"certificate.public.key.algorithm.recommended.label": "推荐",
 	"certificate.radio.label": "创建方法",
 	"certificate.radio.option.generated": "自动生成",
 	"certificate.radio.option.upload": "上传",

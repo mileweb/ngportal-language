@@ -299,6 +299,7 @@
 	"certificate.placeholder.share.with": "Выберите клиентов, с которыми вы хотите поделиться.",
 	"certificate.placeholder.sharing.method": "Метод передачи",
 	"certificate.placeholder.state": "Введите штат/область",
+	"certificate.public.key.algorithm.recommended.label": "рекомендуемые",
 	"certificate.radio.label": "Метод создания",
 	"certificate.radio.option.generated": "Автоматическая генерация",
 	"certificate.radio.option.upload": "Загрузка",

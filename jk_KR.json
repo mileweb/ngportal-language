@@ -299,6 +299,7 @@
 	"certificate.placeholder.share.with": "공유 할 고객 선택 ",
 	"certificate.placeholder.sharing.method": "공유 방법 선택 ",
 	"certificate.placeholder.state": "상태를 입력하십시오. ",
+	"certificate.public.key.algorithm.recommended.label": "추천",
 	"certificate.radio.label": "생성 방법",
 	"certificate.radio.option.generated": "자동 생성",
 	"certificate.radio.option.upload": "업로드",
