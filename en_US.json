@@ -299,6 +299,7 @@
 	"certificate.placeholder.share.with": "Select customers to share with",
 	"certificate.placeholder.sharing.method": "Select sharing method",
 	"certificate.placeholder.state": "Enter a state.",
+	"certificate.public.key.algorithm.recommended.label": "recommended",
 	"certificate.radio.label": "Creation Method",
 	"certificate.radio.option.generated": "Auto-Generate",
 	"certificate.radio.option.upload": "Upload",

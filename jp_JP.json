@@ -299,6 +299,7 @@
 	"certificate.placeholder.share.with": "共有する顧客を選択",
 	"certificate.placeholder.sharing.method": "共有方法を選択",
 	"certificate.placeholder.state": "状態に入ります。",
+	"certificate.public.key.algorithm.recommended.label": "推奨",
 	"certificate.radio.label": "作成方法",
 	"certificate.radio.option.generated": "自動生成",
 	"certificate.radio.option.upload": "アップロード",
