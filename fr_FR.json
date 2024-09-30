@@ -1541,6 +1541,7 @@
 	"property.label.tls.ciphers.tooltip": "Définissez les chiffrements pris en charge pour les négociations TLS. Veuillez vous référer au format spécifié dans la <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>documentation openssl</a>. La valeur par défaut est `ECDHE:DHE` si elle est laissée vide.",
 	"property.label.tls.maxVersion": "TLS Maximum Version",
 	"property.label.tls.minVersion": "TLS Minimum Version",
+	"property.label.tls.version": "Versions TLS prises en charge",
 	"property.label.version.description": "Description de la version",
 	"property.label.version.number": "Numéro de version",
 	"property.label.videoSeeking.end": "End Parameter",

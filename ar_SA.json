@@ -1541,6 +1541,7 @@
 	"property.label.tls.ciphers.tooltip": "قم بتعيين الأصفار المدعومة لمصافحة TLS. يرجى الرجوع إلى التنسيق المحدد في <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>وثائق openssl</a>. القيمة الافتراضية هي \"ECDHE:DHE\" إذا تركت فارغة.",
 	"property.label.tls.maxVersion": "TLS Maximum Version",
 	"property.label.tls.minVersion": "TLS Minimum Version",
+	"property.label.tls.version": "إصدارات TLS المدعومة",
 	"property.label.version.description": "وصف الإصدار",
 	"property.label.version.number": "رقم الإصدار",
 	"property.label.videoSeeking.end": "End Parameter",

@@ -1541,6 +1541,7 @@
 	"property.label.tls.ciphers.tooltip": "Set the supported ciphers for TLS handshakes. Please refer to the format specified in the <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>openssl documentation</a>. The default value is `ECDHE:DHE` if left empty.",
 	"property.label.tls.maxVersion": "TLS Maximum Version",
 	"property.label.tls.minVersion": "TLS Minimum Version",
+	"property.label.tls.version": "Supported TLS Versions",
 	"property.label.version.description": "Version Description",
 	"property.label.version.number": "Version Number",
 	"property.label.videoSeeking.end": "End Parameter",
