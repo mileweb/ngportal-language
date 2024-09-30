@@ -1541,7 +1541,7 @@
 	"property.label.tls.ciphers.tooltip": "设置需要支持的TLS加密套件。请参阅<a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>openssl文档</a>中指定的格式。如果留空，则默认值为`ECDHE:DHE`。",
 	"property.label.tls.maxVersion": "TLS最高版本",
 	"property.label.tls.minVersion": "TLS最低版本",
-	"property.label.tls.version": "TLS 版本",
+	"property.label.tls.version": "支持的 TLS 版本",
 	"property.label.version.description": "版本描述",
 	"property.label.version.number": "版本号",
 	"property.label.videoSeeking.end": "结束参数名",

@@ -1541,7 +1541,7 @@
 	"property.label.tls.ciphers.tooltip": "Установите поддерживаемые шифры для рукопожатий TLS. См. формат, указанный в <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>документации openssl</a>. Значение по умолчанию - ECDHE:DHE, если поле оставлено пустым.",
 	"property.label.tls.maxVersion": "TLS максимальная версия",
 	"property.label.tls.minVersion": "TLS минимальная версия",
-	"property.label.tls.version": "Версия TLS",
+	"property.label.tls.version": "Поддерживаемые версии TLS",
 	"property.label.version.description": "Описание версии",
 	"property.label.version.number": "Номер версии",
 	"property.label.videoSeeking.end": "Параметр окончания",

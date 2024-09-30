@@ -1541,7 +1541,7 @@
 	"property.label.tls.ciphers.tooltip": "Establezca los cifrados admitidos para los apretones de manos TLS. Consulte el formato especificado en la <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>documentación de openssl</a>. El valor predeterminado es `ECDHE:DHE` si se deja vacío.",
 	"property.label.tls.maxVersion": "TLS Maximum Version",
 	"property.label.tls.minVersion": "TLS Minimum Version",
-	"property.label.tls.version": "Versión TLS",
+	"property.label.tls.version": "Versiones de TLS compatibles",
 	"property.label.version.description": "Descripción de la versión",
 	"property.label.version.number": "Número de versión",
 	"property.label.videoSeeking.end": "End Parameter",

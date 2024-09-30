@@ -1541,7 +1541,7 @@
 	"property.label.tls.ciphers.tooltip": "TLSハンドシェイクでサポートされている暗号を設定します。 <a href='https://www.openssl.org/docs/man1.1.1/man1/ciphers.html' target='_blank'>opensslドキュメント</a>で指定されている形式を参照してください。空のままにした場合、デフォルト値は `ECDHE:DHE`です。",
 	"property.label.tls.maxVersion": "TLS最大バージョン",
 	"property.label.tls.minVersion": "TLS最小バージョン",
-	"property.label.tls.version": "TLS バージョン",
+	"property.label.tls.version": "サポートされている TLS バージョン",
 	"property.label.version.description": "バージョンの説明",
 	"property.label.version.number": "バージョンナンバー",
 	"property.label.videoSeeking.end": "終了パラメータ",
