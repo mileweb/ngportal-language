@@ -2542,7 +2542,7 @@
 	"tls.version.1.1.insecure": "TLS 1.1 (غير آمن)",
 	"tls.version.1.2": "TLS 1.2",
 	"tls.version.1.3": "TLS 1.3",
-	"tls.version.1.insecure": "TLS 1 (غير آمن)",
+	"tls.version.1.insecure": "TLS 1.0 (غير آمن)",
 	"toggle.addItem": "اضافة عنصر",
 	"toggle.ascending": "تصاعدي",
 	"toggle.descending": "تنازلي",
