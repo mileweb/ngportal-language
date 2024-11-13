@@ -1637,7 +1637,7 @@
 	"property.shield.origin.popover.shieldReadOnly": "Please add these IP addresses to your origin server's approved IP list.",
 	"property.shield.origin.successMessage.copyIpAddresses": "Copied semicolon-separated {ip_list_text} addresses to clipboard",
 	"property.shield.originServer.popover.servers": "If you do not specify HTTP and HTTPS Ports, the respective defaults 80 and 443 will be used.",
-	"property.shield.version.alertMessage.selectedChinaShieldHasNoBeian": "You’ve selected a shield in China. Your property must have ICP Beian in order to use a shield in China. {link}",
+	"property.shield.version.alertMessage.selectedChinaShieldHasNoBeian": "You have selected a shield in China. Your property must have ICP Beian in order to use a shield in China. {link}",
 	"property.shield.version.errorMessage.getShieldData": "Failed to get shield data.",
 	"property.spin.loading": "Loading ...",
 	"property.spin.saving": "Saving ...",
