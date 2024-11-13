@@ -1488,7 +1488,7 @@
 	"property.edgeLogic.shortCut": "Raccourcis clavier:",
 	"property.edgeLogic.showHelp": "affiche le document sur la directive au curseur",
 	"property.edgeLogic.softWrap": "Texte d'habillage souple",
-	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "Vous avez utilisé une adresse IPv6 sur le serveur d'origine. Votre propriété doit permettre l'accès à l'origine à l'aide d'IPv6.",
+	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "Puisque vous avez spécifié une adresse IPv6 pour un serveur d'origine, vous devez définir « Activer l'origine IPv6 » sur « activer ».",
 	"property.fetch.error.invalidProperty": "La propriété n'existe pas.",
 	"property.fetch.error.other": "Une erreur s'est produite lors de la récupération de la propriété.",
 	"property.impersonation.image.click.to": "Cliquez pour imiter",

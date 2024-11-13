@@ -1488,7 +1488,7 @@
 	"property.edgeLogic.shortCut": "Keyboard Shortcuts: ",
 	"property.edgeLogic.showHelp": "show document about the directive at the cursor",
 	"property.edgeLogic.softWrap": "Soft Wrap Text",
-	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "You have used an IPv6 address in the origin server. Your property must enable access to origin using IPv6.",
+	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "Since you have specified an IPv6 address for an origin server, you must set \"Enable IPv6 Origin\" to \"enable\".",
 	"property.fetch.error.invalidProperty": "The property does not exist.",
 	"property.fetch.error.other": "An error occurred while fetching the property.",
 	"property.impersonation.image.click.to": "Click to impersonate",

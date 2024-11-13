@@ -1488,7 +1488,7 @@
 	"property.edgeLogic.shortCut": "Atajos de teclado:",
 	"property.edgeLogic.showHelp": "muestra el documento sobre la directiva en el cursor",
 	"property.edgeLogic.softWrap": "Texto de ajuste suave",
-	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "Ha utilizado una dirección IPv6 en el servidor de origen. Su propiedad debe permitir el acceso al origen mediante IPv6.",
+	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "Dado que ha especificado una dirección IPv6 para un servidor de origen, debe configurar \"Habilitar origen IPv6\" en \"habilitar\".",
 	"property.fetch.error.invalidProperty": "La propiedad no existe.",
 	"property.fetch.error.other": "Se produjo un error al obtener la propiedad.",
 	"property.impersonation.image.click.to": "Haga clic para suplantar",

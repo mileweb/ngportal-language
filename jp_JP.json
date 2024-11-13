@@ -1488,7 +1488,7 @@
 	"property.edgeLogic.shortCut": "キーボードショートカット：",
 	"property.edgeLogic.showHelp": "カーソル位置のディレクティブに関するドキュメントを表示します",
 	"property.edgeLogic.softWrap": "ソフトラップテキスト",
-	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "オリジンサーバーで IPv6 アドレスを使用しました。プロパティでは、IPv6 を使用したオリジンへのアクセスを有効にする必要があります。",
+	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "オリジンサーバーにIPv6アドレスを指定しているため、「IPv6オリジンを有効にする」を「有効」に設定する必要があります。",
 	"property.fetch.error.invalidProperty": "プロパティが存在しません。",
 	"property.fetch.error.other": "プロパティの取得中にエラーが発生しました。",
 	"property.impersonation.image.click.to": "クリックしてなりすまし",

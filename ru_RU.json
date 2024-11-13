@@ -1603,7 +1603,7 @@
 	"property.origin.saveButton": "Сохранить",
 	"property.origin.server": "Сервера *",
 	"property.origin.server.info": "Пожалуйста, введите хотя бы один действующий сервер. Если вы не укажете порты HTTP и HTTPS, будут использоваться соответствующие значения по умолчанию 80 и 443.",
-	"property.origin.server.url.ipv6use.alertMessage": "Вы использовали исходный сервер адреса IPv6. Вы должны включить доступ к источнику IPv6 в разделе «Дополнительные настройки».",
+	"property.origin.server.url.ipv6use.alertMessage": "Поскольку вы указали адрес IPv6 для исходного сервера, вам необходимо установить для параметра «Включить IPv6 Origin» значение «включить».",
 	"property.origin.servers.placeholder": "Введите origin-сервера",
 	"property.origin.viewButton": "Просмотр",
 	"property.placeholder.origin.host.header": "Введите имя хоста, используемое для связи с origin.",

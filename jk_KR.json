@@ -1488,7 +1488,7 @@
 	"property.edgeLogic.shortCut": "키보드 단축키:",
 	"property.edgeLogic.showHelp": "커서 지시문에 대한 문서를 표시합니다",
 	"property.edgeLogic.softWrap": "소프트 랩 텍스트",
-	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "원본 서버에서 IPv6 주소를 사용했습니다. 귀하의 속성은 IPv6를 사용하여 원본에 대한 액세스를 활성화해야 합니다.",
+	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "원본서버에 대해 IPv6 주소를 지정하였으므로 \"Enable IPv6 Origin\"을 \"enable\"로 설정해야 합니다.",
 	"property.fetch.error.invalidProperty": "속성이 존재하지 않습니다.",
 	"property.fetch.error.other": "속성을 가져오는 동안 오류가 발생했습니다.",
 	"property.impersonation.image.click.to": "가장하려면 클릭하세요.",
