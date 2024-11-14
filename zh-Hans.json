@@ -1488,7 +1488,7 @@
 	"property.edgeLogic.shortCut": "键盘快捷键：",
 	"property.edgeLogic.showHelp": "显示光标处指令的文档",
 	"property.edgeLogic.softWrap": "文本软换行",
-	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "由于您已为源服务器指定了IPv6地址，因此必须将“启用IPv6源”设置为“启用”。",
+	"property.enableIPv6Origin.alertMessage.usedIpv6OriginServer": "由于您在源站服务器中指定了IPv6地址，此处必须将“使用IPv6源站”设置为“启用”。",
 	"property.fetch.error.invalidProperty": "该属性不存在。",
 	"property.fetch.error.other": "提取属性时出错。",
 	"property.impersonation.image.click.to": "切换至该客户",
