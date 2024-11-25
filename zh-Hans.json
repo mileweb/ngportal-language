@@ -1567,6 +1567,7 @@
 	"property.label.videoSeeking.start.tips": "此URL参数用于标识视频拖拉的起始位置。",
 	"property.label.videoSeeking.title": "视频拖拉",
 	"property.label.videoSeeking.title.tips": "此功能可以启用URL参数进行视频拖拉。参数以字节为单位指定开始和结束位置。",
+	"property.load.failed.title": "加载属性失败",
 	"property.location.path.invaild": "路径不能以“/”开头",
 	"property.manage.baseline.configuration.text": "管理基准配置",
 	"property.options.origin.direct.always.direct": "边缘节点直接从源站获取内容",

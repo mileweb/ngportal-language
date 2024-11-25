@@ -1567,6 +1567,7 @@
 	"property.label.videoSeeking.start.tips": "Параметр URL, указывающий начальную позицию видеофрагмента.",
 	"property.label.videoSeeking.title": "Поиск по видео",
 	"property.label.videoSeeking.title.tips": "Эта функция позволяет осуществлять поиск в видео с использованием параметров URL, чтобы указать начальную и конечную позиции в байтах.",
+	"property.load.failed.title": "Ошибка загрузки свойства",
 	"property.location.path.invaild": "Location не может начинаться с \"/\"",
 	"property.manage.baseline.configuration.text": "Управление базовой конфигурацией",
 	"property.options.origin.direct.always.direct": "Edge серверы получают контент прямо c origin",

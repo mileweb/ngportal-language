@@ -1567,6 +1567,7 @@
 	"property.label.videoSeeking.start.tips": "동영상 세그먼트의 시작 위치를 나타내는 URL 매개 변수입니다.",
 	"property.label.videoSeeking.title": "비디오 찾기",
 	"property.label.videoSeeking.title.tips": "이 기능을 사용하면 URL 매개 변수를 사용하여 비디오를 검색하여 시작 및 끝 위치를 바이트 단위로 지정할 수 있습니다.",
+	"property.load.failed.title": "속성 로드 실패",
 	"property.location.path.invaild": "위치 경로는 \"/\"로 시작할 수 없습니다.",
 	"property.manage.baseline.configuration.text": "기준 구성 관리",
 	"property.options.origin.direct.always.direct": "에지 서버는 원본에서 직접 콘텐츠를 가져옵니다.",

@@ -1567,6 +1567,7 @@
 	"property.label.videoSeeking.start.tips": "The URL parameter indicating the beginning position of a video segment.",
 	"property.label.videoSeeking.title": "Video Seeking",
 	"property.label.videoSeeking.title.tips": "Esta función permite buscar en un video utilizando parámetros de URL para especificar las posiciones inicial y final en bytes.",
+	"property.load.failed.title": "Error al cargar la propiedad",
 	"property.location.path.invaild": "La ruta de la ubicación no puede comenzar con \"/\"",
 	"property.manage.baseline.configuration.text": "Gestionar la configuración de la línea de base",
 	"property.options.origin.direct.always.direct": "Los servidores perimetrales obtienen contenido directamente desde el origen",
