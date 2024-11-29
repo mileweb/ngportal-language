@@ -1567,6 +1567,7 @@
 	"property.label.videoSeeking.start.tips": "The URL parameter indicating the beginning position of a video segment.",
 	"property.label.videoSeeking.title": "Video Seeking",
 	"property.label.videoSeeking.title.tips": "تتيح هذه الميزة البحث في مقطع فيديو باستخدام معلمات URL لتحديد مواضع البداية والنهاية بالبايت.",
+	"property.load.failed.title": "فشل تحميل الخاصية",
 	"property.location.path.invaild": "لا يمكن أن يبدأ مسار الموقع بـ \"/\"",
 	"property.manage.baseline.configuration.text": "إدارة التكوين الأساسي",
 	"property.options.origin.direct.always.direct": "تجلب خوادم Edge المحتوى مباشرة من الأصل",
