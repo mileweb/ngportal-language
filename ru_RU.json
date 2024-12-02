@@ -1,6 +1,7 @@
 {
 	"access.denied.message1": "У вас нет доступа к",
 	"access.denied.message2": "Если вы думаете, что это ошибка, то пожалуйста, сообщите об этом команде поддержки",
+	"access.denied.message3": "Данному пользователю не разрешено выполнять этот запрос.",
 	"access.denied.notice": "Уведомление",
 	"access.denied.title": "Доступ запрещен",
 	"accesslog.configuration.delete.confirm.title": "Удалить эту конфигурацию журнала?",
