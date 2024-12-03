@@ -1,6 +1,7 @@
 {
 	"access.denied.message1": "にアクセスできません",
 	"access.denied.message2": "。これがエラーだと思われる場合は、サポートチームにお問い合わせください。",
+	"access.denied.message3": "このリクエストを実行することは許可されていません。",
 	"access.denied.notice": "通知",
 	"access.denied.title": "アクセスが拒否されました",
 	"accesslog.configuration.delete.confirm.title": "このログ構成を削除しますか？",

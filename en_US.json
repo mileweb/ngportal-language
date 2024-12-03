@@ -1,6 +1,7 @@
 {
 	"access.denied.message1": "You do not have access to ",
 	"access.denied.message2": ". If you believe this is an error, please contact our support team.",
+	"access.denied.message3": "You are not allowed to perform this request.",
 	"access.denied.notice": "Notice",
 	"access.denied.title": "Access Denied",
 	"accesslog.configuration.delete.confirm.title": "Delete this Log Configuration?",
@@ -1567,7 +1568,7 @@
 	"property.label.videoSeeking.start.tips": "The URL parameter indicating the beginning position of a video segment.",
 	"property.label.videoSeeking.title": "Video Seeking",
 	"property.label.videoSeeking.title.tips": "This feature enables seeking in a video using URL parameters to specify starting and ending positions in bytes.",
-	"property.load.failed.title": "Load Property Failed",
+	"property.load.failed.title": "Load Property failed",
 	"property.location.path.invaild": "Location path cannot start with \"/\"",
 	"property.manage.baseline.configuration.text": "Manage Baseline Configuration",
 	"property.options.origin.direct.always.direct": "Edge servers fetch content directly from the origin",

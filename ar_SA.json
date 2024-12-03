@@ -1,6 +1,7 @@
 {
 	"access.denied.message1": "ليس لديك حق الوصول إلى",
 	"access.denied.message2": ". If you believe this is an error, please contact our support team.",
+	"access.denied.message3": "لا يجوز لك تنفيذ هذا الطلب.",
 	"access.denied.notice": "Notice",
 	"access.denied.title": "Access Denied",
 	"accesslog.configuration.delete.confirm.title": "هل تريد حذف تكوين السجل هذا؟",
