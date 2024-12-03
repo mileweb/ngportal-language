@@ -1,7 +1,7 @@
 {
 	"access.denied.message1": "您无权访问",
 	"access.denied.message2": ". If you believe this is an error, please contact our support team.",
-	"access.denied.message3": "不允许此用户执行此请求。",
+	"access.denied.message3": "您无权执行该请求。",
 	"access.denied.notice": "Notice",
 	"access.denied.title": "Access Denied",
 	"accesslog.configuration.delete.confirm.title": "删除此日志配置？",
