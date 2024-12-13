@@ -48825,7 +48825,7 @@
 						</translations>
 					</concept_node>
 					<concept_node>
-						<name>hint.evalfunc.URL_ESCAPE</name>
+						<name>hint.evalfunc.URI_ESCAPE</name>
 						<description/>
 						<comment/>
 						<translations>

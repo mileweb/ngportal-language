@@ -1160,7 +1160,7 @@
 	"hint.evalfunc.TO_UPPER": "将字符串转换为大写",
 	"hint.evalfunc.URL_DECODE": "url编码->二进制",
 	"hint.evalfunc.URL_ENCODE": "将 $binary 按 URL 组件来编码",
-	"hint.evalfunc.URL_ESCAPE": "将 $binary 按完整 URL 来编码",
+	"hint.evalfunc.URI_ESCAPE": "将 $binary 按完整 URL 来编码",
 	"hint.imperative.break": "终止执行rewrite模块的指令",
 	"hint.imperative.else": "如果所有条件接不满足，则使用默认配置",
 	"hint.imperative.elseif": "评估其他条件",

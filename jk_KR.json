@@ -1160,7 +1160,7 @@
 	"hint.evalfunc.TO_UPPER": "문자열을 대문자로 변환",
 	"hint.evalfunc.URL_DECODE": "URL->바이너리",
 	"hint.evalfunc.URL_ENCODE": "$binary를 URL 구성 요소로 인코딩",
-	"hint.evalfunc.URL_ESCAPE": "$binary를 전체 URL로 인코딩합니다.",
+	"hint.evalfunc.URI_ESCAPE": "$binary를 전체 URL로 인코딩합니다.",
 	"hint.imperative.break": "재작성 모듈의 실행을 종료하는 명령",
 	"hint.imperative.else": "모든 조건이 충족되지 않으면 기본 구성",
 	"hint.imperative.elseif": "대체 조건 평가",
