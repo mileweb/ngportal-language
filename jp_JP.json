@@ -1160,7 +1160,7 @@
 	"hint.evalfunc.TO_UPPER": "文字列を大文字に変換します",
 	"hint.evalfunc.URL_DECODE": "url-> binary",
 	"hint.evalfunc.URL_ENCODE": "$binary を URL コンポーネントとしてエンコードする",
-	"hint.evalfunc.URL_ESCAPE": "$binary を完全な URL としてエンコードします",
+	"hint.evalfunc.URI_ESCAPE": "$binary を完全な URL としてエンコードします",
 	"hint.imperative.break": "rewrite_moduleディレクティブを停止します",
 	"hint.imperative.else": "すべての条件が満たされていない場合のデフォルト設定",
 	"hint.imperative.elseif": "代替条件を評価する",

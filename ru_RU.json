@@ -1160,7 +1160,7 @@
 	"hint.evalfunc.TO_UPPER": "преобразовать строку в верхний регистр",
 	"hint.evalfunc.URL_DECODE": "url->binary",
 	"hint.evalfunc.URL_ENCODE": "закодировать $binary как компонент URL",
-	"hint.evalfunc.URL_ESCAPE": "закодировать $binary как полный URL",
+	"hint.evalfunc.URI_ESCAPE": "закодировать $binary как полный URL",
 	"hint.imperative.break": "прекратить выполнение директив rewrite_module",
 	"hint.imperative.else": "конфигурация по умолчанию, если все условия оказались ложными",
 	"hint.imperative.elseif": "выполнить альтернативные условия",

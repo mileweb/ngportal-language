@@ -1160,7 +1160,7 @@
 	"hint.evalfunc.TO_UPPER": "convert a string to upper case",
 	"hint.evalfunc.URL_DECODE": "url->binary",
 	"hint.evalfunc.URL_ENCODE": "encode $binary as an URL component",
-	"hint.evalfunc.URL_ESCAPE": "encode $binary as a full URL",
+	"hint.evalfunc.URI_ESCAPE": "encode $binary as a full URL",
 	"hint.imperative.break": "stop the rewrite_module directives",
 	"hint.imperative.else": "default config if all conditions are not met",
 	"hint.imperative.elseif": "evaluate alternate conditions",

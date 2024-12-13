@@ -1160,7 +1160,7 @@
 	"hint.evalfunc.TO_UPPER": "تحويل سلسلة إلى أحرف كبيرة",
 	"hint.evalfunc.URL_DECODE": "url-> ثنائي",
 	"hint.evalfunc.URL_ENCODE": "تشفير $binary كمكون URL",
-	"hint.evalfunc.URL_ESCAPE": "قم بتشفير $binary كعنوان URL كامل",
+	"hint.evalfunc.URI_ESCAPE": "قم بتشفير $binary كعنوان URL كامل",
 	"hint.imperative.break": "أوقف توجيهات Rewrite_module",
 	"hint.imperative.else": "التكوين الافتراضي إذا لم يتم استيفاء جميع الشروط",
 	"hint.imperative.elseif": "تقييم الظروف البديلة",

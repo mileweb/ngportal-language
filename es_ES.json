@@ -1160,7 +1160,7 @@
 	"hint.evalfunc.TO_UPPER": "convertir una cadena a mayúsculas",
 	"hint.evalfunc.URL_DECODE": "url-> binario",
 	"hint.evalfunc.URL_ENCODE": "codificar $binary como un componente de URL",
-	"hint.evalfunc.URL_ESCAPE": "codificar $binary como una URL completa",
+	"hint.evalfunc.URI_ESCAPE": "codificar $binary como una URL completa",
 	"hint.imperative.break": "detener las directivas rewrite_module",
 	"hint.imperative.else": "configuración predeterminada si no se cumplen todas las condiciones",
 	"hint.imperative.elseif": "evaluar condiciones alternativas",
