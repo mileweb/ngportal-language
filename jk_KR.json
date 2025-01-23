@@ -1227,6 +1227,7 @@
 	"hint.variable.$server_level": "캐시 서버 수준",
 	"hint.variable.$server_name": "들어오는 요청과 일치하는 속성 호스트 이름",
 	"hint.variable.$server_protocol": "\"HTTP/1.1\"과 같은 서비스 프로토콜",
+	"hint.variable.$server_province_code": "중국 성 코드",
 	"hint.variable.$service_port": "요청을 받을 포트 번호",
 	"hint.variable.$sorted_querystring_args": "정렬된 쿼리 문자열",
 	"hint.variable.$ssl_cipher": "사용된 TLS 암호 제품군",

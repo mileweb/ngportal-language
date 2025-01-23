@@ -1227,6 +1227,7 @@
 	"hint.variable.$server_level": "nivel del servidor de caché",
 	"hint.variable.$server_name": "nombre de host de propiedad que coincide con una solicitud entrante",
 	"hint.variable.$server_protocol": "como \"HTTP / 1.1\"",
+	"hint.variable.$server_province_code": "Código de provincia de China",
 	"hint.variable.$service_port": "número de puerto que recibió la solicitud",
 	"hint.variable.$sorted_querystring_args": "cadena de consulta ordenada",
 	"hint.variable.$ssl_cipher": "Conjunto de cifrado TLS utilizado",

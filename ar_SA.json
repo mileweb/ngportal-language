@@ -1227,6 +1227,7 @@
 	"hint.variable.$server_level": "مستوى خادم ذاكرة التخزين المؤقت",
 	"hint.variable.$server_name": "اسم مضيف الخاصية الذي يطابق طلبًا واردًا",
 	"hint.variable.$server_protocol": "مثل \"HTTP / 1.1\"",
+	"hint.variable.$server_province_code": "رمز مقاطعة الصين",
 	"hint.variable.$service_port": "رقم المنفذ الذي استقبل الطلب",
 	"hint.variable.$sorted_querystring_args": "سلسلة الاستعلام مرتبة",
 	"hint.variable.$ssl_cipher": "تم استخدام مجموعة تشفير TLS",
