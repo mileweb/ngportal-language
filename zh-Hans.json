@@ -1227,6 +1227,7 @@
 	"hint.variable.$server_level": "缓存服务器级别",
 	"hint.variable.$server_name": "与传入请求匹配的属性主机名",
 	"hint.variable.$server_protocol": "服务协议，比如“HTTP/1.1”",
+	"hint.variable.$server_province_code": "中国省份代码",
 	"hint.variable.$service_port": "接收请求的端口号",
 	"hint.variable.$sorted_querystring_args": "排序后的查询字符串",
 	"hint.variable.$ssl_cipher": "使用的 TLS 密码套件",

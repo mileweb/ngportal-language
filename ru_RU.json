@@ -1227,6 +1227,7 @@
 	"hint.variable.$server_level": "уровень кеш-сервера",
 	"hint.variable.$server_name": "имя хоста свойства, соответствующее входящему запросу",
 	"hint.variable.$server_protocol": "например \"HTTP / 1.1\"",
+	"hint.variable.$server_province_code": "Код провинции Китая",
 	"hint.variable.$service_port": "номер порта, на который поступил запрос",
 	"hint.variable.$sorted_querystring_args": "отсортированная строка запроса",
 	"hint.variable.$ssl_cipher": "набор шифров TLS",
