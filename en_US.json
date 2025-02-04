@@ -698,7 +698,7 @@
 	"edgeHostname.advancedSettings.txt.port": "Port",
 	"edgeHostname.advancedSettings.txt.ttl": "TTL",
 	"edgeHostname.advancedSettings.txt.valid.port": "The port must be an integer between 80 and 65535.",
-	"edgeHostname.advancedSettings.txt.valid.ttl": "The ttl must be an integer between 60 and 86400.",
+	"edgeHostname.advancedSettings.txt.valid.ttl": "The TTL must be an integer between 60 and 86400.",
 	"edgeHostname.advancedSettings.txt.warn.port": "The value specified is not a standard HTTPS port. Please contact our customer service to confirm that the port is available.",
 	"edgeHostname.beian.no.tips": "Traffic will not be directed to servers in mainland China.",
 	"edgeHostname.beian.yes.tips": "Servers in all regions including mainland China will be used. Please make sure this is used only for hostnames that have ICP Beian. Otherwise, requests directed to servers in mainland China will be rejected with status code 451.",

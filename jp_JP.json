@@ -698,7 +698,7 @@
 	"edgeHostname.advancedSettings.txt.port": "ポート",
 	"edgeHostname.advancedSettings.txt.ttl": "10 ...",
 	"edgeHostname.advancedSettings.txt.valid.port": "ポートは 80 ～ 65535 の整数である必要があります。",
-	"edgeHostname.advancedSettings.txt.valid.ttl": "Ttl は 60 ～ 86400 の整数である必要があります。",
+	"edgeHostname.advancedSettings.txt.valid.ttl": "TTL は 60 ～ 86400 の整数である必要があります。",
 	"edgeHostname.advancedSettings.txt.warn.port": "指定された値は標準の HTTPS ポートではありません。ポートが使用可能かどうかを確認するには、カスタマー サービスにお問い合わせください。",
 	"edgeHostname.beian.no.tips": "トラフィックは中国本土のサーバーに転送されません。",
 	"edgeHostname.beian.yes.tips": "中国本土を含むすべての地域のサーバーが使用されます。 これは、ICPBeianを持つホスト名にのみ使用されることを確認してください。 それ以外の場合、中国本土のサーバーに送信された要求は、ステータスコード451で拒否されます。",

@@ -698,7 +698,7 @@
 	"edgeHostname.advancedSettings.txt.port": "港口",
 	"edgeHostname.advancedSettings.txt.ttl": "TTL",
 	"edgeHostname.advancedSettings.txt.valid.port": "端口必须是 80 至 65535 之间的整数。",
-	"edgeHostname.advancedSettings.txt.valid.ttl": "Ttl 必须是 60 至 86400 之间的整数。",
+	"edgeHostname.advancedSettings.txt.valid.ttl": "TTL 必须是 60 至 86400 之间的整数。",
 	"edgeHostname.advancedSettings.txt.warn.port": "指定的值不是标准HTTPS端口，请联系客服确认端口可用。",
 	"edgeHostname.beian.no.tips": "流量将不会调度到中国大陆的服务器。",
 	"edgeHostname.beian.yes.tips": "将使用包括中国大陆在内的所有地区的服务器。请确保仅将其用于具有ICP备案的域名，否则中国大陆的服务器返回状态码451。",
