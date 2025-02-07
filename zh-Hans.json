@@ -1091,6 +1091,7 @@
 	"hint.directive.gzip": "启用响应的 gzip",
 	"hint.directive.gzip_types": "启用 gzip 的 MIME 类型",
 	"hint.directive.ignore_invalid_range": "忽略请求中的无效范围标头",
+	"hint.directive.ignore_range": "设置是否忽略请求中的范围标头",
 	"hint.directive.internal": "内部location配置块的标识",
 	"hint.directive.limit_rate": "限制响发送速率(字节/秒)",
 	"hint.directive.limit_rate_after": "这么多字节以内没有速率限制",

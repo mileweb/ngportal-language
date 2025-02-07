@@ -1091,6 +1091,7 @@
 	"hint.directive.gzip": "включает сжатие ответов",
 	"hint.directive.gzip_types": "MIME-типы для включения gzip",
 	"hint.directive.ignore_invalid_range": "игнорировать недопустимый заголовок диапазона в запросе",
+	"hint.directive.ignore_range": "Укажите, следует ли игнорировать заголовки диапазонов в запросе",
 	"hint.directive.internal": "установка внутреннего location",
 	"hint.directive.limit_rate": "ограничение времени ответа, байты/сек",
 	"hint.directive.limit_rate_after": "нет ограничений скорости для данного количества байт",

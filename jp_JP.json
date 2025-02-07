@@ -1091,6 +1091,7 @@
 	"hint.directive.gzip": "応答のgzipを有効にします",
 	"hint.directive.gzip_types": "gzipを有効にするMIMEタイプ",
 	"hint.directive.ignore_invalid_range": "リクエストの無効な範囲ヘッダーを無視する",
+	"hint.directive.ignore_range": "リクエスト内の範囲ヘッダーを無視するかどうかを設定する",
 	"hint.directive.internal": "内部ロケーションブロックの表示",
 	"hint.directive.limit_rate": "制限応答バイト/秒",
 	"hint.directive.limit_rate_after": "この数のバイトにレート制限はありません",

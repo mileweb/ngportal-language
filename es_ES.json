@@ -1091,6 +1091,7 @@
 	"hint.directive.gzip": "habilita gzip de respuestas",
 	"hint.directive.gzip_types": "Tipos MIME para habilitar gzip",
 	"hint.directive.ignore_invalid_range": "ignorar el encabezado de rango no válido en una solicitud",
+	"hint.directive.ignore_range": "Establezca si desea ignorar los encabezados de rango en una solicitud",
 	"hint.directive.internal": "indicación de un bloque de ubicación interno",
 	"hint.directive.limit_rate": "limitar la respuesta byte / seg",
 	"hint.directive.limit_rate_after": "sin límite de velocidad para esta cantidad de bytes",
