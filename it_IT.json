@@ -1091,6 +1091,7 @@
 	"hint.directive.gzip": "abilita gzip delle risposte",
 	"hint.directive.gzip_types": "Tipi MIME per abilitare gzip",
 	"hint.directive.ignore_invalid_range": "ignora l'intestazione di intervallo non valida in una richiesta",
+	"hint.directive.ignore_range": "Imposta se ignorare le intestazioni di intervallo in una richiesta",
 	"hint.directive.internal": "indicazione di un blocco di localizzazione interno",
 	"hint.directive.limit_rate": "limite di risposta byte/sec",
 	"hint.directive.limit_rate_after": "nessun limite di velocità per così tanti byte",
