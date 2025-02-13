@@ -1091,7 +1091,7 @@
 	"hint.directive.gzip": "응답의 gzip을 활성화합니다.",
 	"hint.directive.gzip_types": "gzip을 활성화하는 MIME 유형",
 	"hint.directive.ignore_invalid_range": "요청에서 유효하지 않은 범위 헤더 무시",
-	"hint.directive.ignore_range": "요청에서 범위 헤더를 무시할지 여부를 설정합니다.",
+	"hint.directive.ignore_range": "요청에서 범위 헤더를 무시할지 여부를 설정합니다",
 	"hint.directive.internal": "내부 위치 블록의 표시",
 	"hint.directive.limit_rate": "응답 속도 제한 (바이트/초)",
 	"hint.directive.limit_rate_after": "이 많은 바이트에 대한 속도 제한 없음",
