@@ -1091,7 +1091,7 @@
 	"hint.directive.gzip": "active gzip des réponses",
 	"hint.directive.gzip_types": "Types MIME pour activer gzip",
 	"hint.directive.ignore_invalid_range": "ignorer l'en-tête de plage non valide dans une requête",
-	"hint.directive.ignore_range": "Définir s'il faut ignorer les en-têtes de plage dans une requête",
+	"hint.directive.ignore_range": "définir s'il faut ignorer les en-têtes de plage dans une requête",
 	"hint.directive.internal": "indication d'un bloc de localisation interne",
 	"hint.directive.limit_rate": "octet de réponse limite/sec",
 	"hint.directive.limit_rate_after": "pas de limite de débit pour ce nombre d'octets",
