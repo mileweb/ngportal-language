@@ -1092,7 +1092,7 @@
 	"hint.directive.gzip": "enables gzip of responses",
 	"hint.directive.gzip_types": "MIME types to enable gzip",
 	"hint.directive.ignore_invalid_range": "ignore invalid range header in a request",
-	"hint.directive.ignore_range": "Set whether to ignore range headers in a request",
+	"hint.directive.ignore_range": "set whether to ignore range headers in a request",
 	"hint.directive.internal": "indicate an internal location block",
 	"hint.directive.limit_rate": "limit response (bytes/sec)",
 	"hint.directive.limit_rate_after": "no rate limit for this many bytes",
