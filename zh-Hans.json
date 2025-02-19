@@ -1505,6 +1505,8 @@
 	"property.deployment.production.target.link.line2": "单击 {here} 以获取详细信息。",
 	"property.deployment.staging.target.link": "这是演练服务器的IP地址。单击 {here} 了解详细信息。",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Space' - 启用自动完成",
+	"property.edgeLogic.comment.lb.logic.end": "delete_after_reviewing_changes # 此处特意插入一条无效的指令，目的在于提醒您关注配置合并。请审查合并后的脚本，必要时做出修改，然后将该无效的指令删掉再提交配置\n###################负载均衡器逻辑-结束#################",
+	"property.edgeLogic.comment.lb.logic.start": "####################负载均衡器逻辑-开始#################\n# 以下脚本拷贝自负载均衡器逻辑\n# 由于负载均衡器逻辑即将废弃，请参考以下文档将负载均衡器逻辑合并至边缘逻辑：\n# https://docs.cdnetworks.com/zh/cdn/docs/edge-logic/edge-node-structure-upgrade",
 	"property.edgeLogic.editorHeight": "更改编辑器高度",
 	"property.edgeLogic.shortCut": "键盘快捷键：",
 	"property.edgeLogic.showHelp": "显示光标处指令的文档",

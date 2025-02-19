@@ -1505,6 +1505,8 @@
 	"property.deployment.production.target.link.line2": "자세한 내용을 보려면 {here} 를 클릭하세요.",
 	"property.deployment.staging.target.link": "스테이징 서버에 액세스하기위한 IP 주소는 다음과 같습니다. 자세한 내용을 보려면 {here} 를 클릭하세요.",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Space'-자동 완성 호출",
+	"property.edgeLogic.comment.lb.logic.end": "delete_after_reviewing_changes # This is inserted here on purpose to draw your attention. Please read the comments above. Review the scripts, make changes where necessary and then remove this line.\n###################End of Load Balancer Logic#################",
+	"property.edgeLogic.comment.lb.logic.start": "####################Start of Load Balancer Logic#################\n# The following script is copied from Load Balancer Logic.\n# Load Balancer Logic is to be deprecated soon.\n# Please merge Load Balancer Logic into Edge Logic according to the instructions in this article:\n# https://docs.cdnetworks.com/en/cdn/docs/edge-logic/edge-node-structure-upgrade ",
 	"property.edgeLogic.editorHeight": "편집기 높이 변경",
 	"property.edgeLogic.shortCut": "키보드 단축키:",
 	"property.edgeLogic.showHelp": "커서 지시문에 대한 문서를 표시합니다",

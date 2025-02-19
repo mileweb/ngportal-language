@@ -1505,6 +1505,8 @@
 	"property.deployment.production.target.link.line2": "Click {here} for details.",
 	"property.deployment.staging.target.link": "Here are the IP addresses to access the staging servers. Click {here} for details.",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Space' - invoke autocomplete",
+	"property.edgeLogic.comment.lb.logic.end": "delete_after_reviewing_changes # This is inserted here on purpose to draw your attention. Please read the comments above. Review the scripts, make changes where necessary and then remove this line.\n###################End of Load Balancer Logic#################",
+	"property.edgeLogic.comment.lb.logic.start": "####################Start of Load Balancer Logic#################\n# The following script is copied from Load Balancer Logic.\n# Load Balancer Logic is to be deprecated soon.\n# Please merge Load Balancer Logic into Edge Logic according to the instructions in this article:\n# https://docs.cdnetworks.com/en/cdn/docs/edge-logic/edge-node-structure-upgrade ",
 	"property.edgeLogic.editorHeight": "change the editor height",
 	"property.edgeLogic.shortCut": "Keyboard Shortcuts: ",
 	"property.edgeLogic.showHelp": "show document about the directive at the cursor",
