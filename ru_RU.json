@@ -1505,6 +1505,8 @@
 	"property.deployment.production.target.link.line2": "Нажмите {here} для получения дополнительной информации",
 	"property.deployment.staging.target.link": "IP для доступа к стейджинг серверам. Для получения дополнительной информации нажмите {here} .",
 	"property.edgeLogic.autoCompletion": "'Ctrl-2/Space' - автозаполнение",
+	"property.edgeLogic.comment.lb.logic.end": "delete_after_reviewing_changes # This is inserted here on purpose to draw your attention. Please read comments above. Review the scripts, make changes where necessary and then remove this line.\n###################End of Load Balancer Logic#################",
+	"property.edgeLogic.comment.lb.logic.start": "####################Start of Load Balancer Logic#################\n# The following script is copied from Load Balancer Logic.\n# Load Balancer Logic is to be deprecated soon.\n# Please merge Load Balancer Logic into Edge Logic, according to instructions on this article:\n# https://docs.cdnetworks.com/en/cdn/docs/edge-logic/edge-node-structure-upgrade ",
 	"property.edgeLogic.editorHeight": "изменить высоту редактора",
 	"property.edgeLogic.shortCut": "Горячие клавиши: ",
 	"property.edgeLogic.showHelp": "показать документ о директиве под курсором",
