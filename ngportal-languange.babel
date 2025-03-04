@@ -29905,6 +29905,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>edgeHostname.advancedSettings.txt.none</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>edgeHostname.advancedSettings.txt.placeholderAlpn</name>
 						<description/>
 						<comment/>
@@ -46933,6 +46976,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>hint.directive.http2_max_concurrent_stream</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>hint.directive.ignore_invalid_range</name>
 						<description/>
 						<comment/>
@@ -47020,6 +47106,49 @@
 					</concept_node>
 					<concept_node>
 						<name>hint.directive.internal</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>hint.directive.keepalive_timeout</name>
 						<description/>
 						<comment/>
 						<translations>
@@ -48181,6 +48310,49 @@
 					</concept_node>
 					<concept_node>
 						<name>hint.directive.proxy_ignore_cache_control</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>hint.directive.proxy_ignore_client_abort</name>
 						<description/>
 						<comment/>
 						<translations>
@@ -64693,6 +64865,92 @@
 					</concept_node>
 					<concept_node>
 						<name>property.edgeLogic.autoCompletion</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>property.edgeLogic.comment.lb.logic.end</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>property.edgeLogic.comment.lb.logic.start</name>
 						<description/>
 						<comment/>
 						<translations>
