@@ -1274,7 +1274,7 @@
 	"hint.variable.$tcpinfo_min_rtt": "мин. RTT в микросекундах",
 	"hint.variable.$tcpinfo_rtt": "RTT в микросекундах",
 	"hint.variable.$transfer_time": "время, затраченное на отправку полного ответа в системный буфер",
-	"hint.variable.$turn_around_time": "время получения 1-го байта от источника",
+	"hint.variable.$turn_around_time": "время получения первого байта от источника",
 	"hint.variable.$upstream_bytes_received": "байт получено",
 	"hint.variable.$upstream_bytes_sent": "байт отправлено в upstream",
 	"hint.variable.$upstream_connect_time": "секунды с 3 знаками",

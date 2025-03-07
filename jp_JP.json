@@ -1273,7 +1273,7 @@
 	"hint.variable.$tcpinfo_delivery_rate": "バイト/秒単位の確認済みデータレート",
 	"hint.variable.$tcpinfo_min_rtt": "私たちの最小RTT（マイクロ秒）",
 	"hint.variable.$tcpinfo_rtt": "私たちのRTT（マイクロ秒）",
-	"hint.variable.$transfer_time": "システムバッファへの完全な応答の送信に費やされた時間",
+	"hint.variable.$transfer_time": "システム バッファに完全な応答を送信するのに費やされた時間",
 	"hint.variable.$turn_around_time": "発信元から最初のバイトを受信するまでの時間",
 	"hint.variable.$upstream_bytes_received": "受信したバイト数",
 	"hint.variable.$upstream_bytes_sent": "アップストリームに送信されたバイト",

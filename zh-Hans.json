@@ -1274,7 +1274,7 @@
 	"hint.variable.$tcpinfo_min_rtt": "到客户端的最小RTT(微秒)",
 	"hint.variable.$tcpinfo_rtt": "到客户端的平均RTT(微秒)",
 	"hint.variable.$transfer_time": "发送完整响应到系统缓冲区所花费的时间",
-	"hint.variable.$turn_around_time": "从源接收到第一个字节的时间",
+	"hint.variable.$turn_around_time": "从源接收第一个字节的时间",
 	"hint.variable.$upstream_bytes_received": "从上游收到的字节数",
 	"hint.variable.$upstream_bytes_sent": "发送到上游的字节数",
 	"hint.variable.$upstream_connect_time": "与上游的建连时间，以秒单位保持3位小数",
