@@ -1274,7 +1274,7 @@
 	"hint.variable.$tcpinfo_min_rtt": "최소 RTT(마이크로초)",
 	"hint.variable.$tcpinfo_rtt": "평균 RTT(마이크로초)",
 	"hint.variable.$transfer_time": "시스템 버퍼에 전체 응답을 보내는 데 소요된 시간",
-	"hint.variable.$turn_around_time": "원점에서 첫 번째 바이트를 수신하는 데 걸리는 시간",
+	"hint.variable.$turn_around_time": "원점에서 첫 번째 바이트를 수신할 때까지의 시간",
 	"hint.variable.$upstream_bytes_received": "업스트림에서 받은 바이트 수",
 	"hint.variable.$upstream_bytes_sent": "업스트림으로 보낸 바이트",
 	"hint.variable.$upstream_connect_time": "업스트림과의 연결 시간(초 단위 소수점 3자리 포함)",

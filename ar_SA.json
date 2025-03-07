@@ -1274,7 +1274,7 @@
 	"hint.variable.$tcpinfo_min_rtt": "دقيقة RTT في الولايات المتحدة (ميكروثانية)",
 	"hint.variable.$tcpinfo_rtt": "RTT في الولايات المتحدة (ميكروثانية)",
 	"hint.variable.$transfer_time": "الوقت المستغرق في إرسال الاستجابة الكاملة إلى المخزن المؤقت للنظام",
-	"hint.variable.$turn_around_time": "الوقت لاستقبال البايت الأول من المصدر",
+	"hint.variable.$turn_around_time": "الوقت حتى استلام البايت الأول من المصدر",
 	"hint.variable.$upstream_bytes_received": "البايت المتلقاة",
 	"hint.variable.$upstream_bytes_sent": "البايت المرسلة إلى المنبع",
 	"hint.variable.$upstream_connect_time": "ثواني مع 3 كسور عشرية",

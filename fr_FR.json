@@ -1274,7 +1274,7 @@
 	"hint.variable.$tcpinfo_min_rtt": "min RTT en nous (microsecondes)",
 	"hint.variable.$tcpinfo_rtt": "RTT en nous (microsecondes)",
 	"hint.variable.$transfer_time": "temps passé à envoyer une réponse complète au tampon du système",
-	"hint.variable.$turn_around_time": "temps de réception du 1er octet de l'origine",
+	"hint.variable.$turn_around_time": "temps jusqu'à la réception du 1er octet de l'origine",
 	"hint.variable.$upstream_bytes_received": "Octets reçus",
 	"hint.variable.$upstream_bytes_sent": "octets envoyés en amont",
 	"hint.variable.$upstream_connect_time": "secondes avec 3 décimales",
