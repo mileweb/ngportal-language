@@ -46761,6 +46761,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>hint.directive.default_type</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>hint.directive.deny</name>
 						<description/>
 						<comment/>
@@ -46933,6 +46976,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>hint.directive.generate_content</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>hint.directive.gzip</name>
 						<description/>
 						<comment/>
@@ -47019,7 +47105,7 @@
 						</translations>
 					</concept_node>
 					<concept_node>
-						<name>hint.directive.http2_max_concurrent_stream</name>
+						<name>hint.directive.http2_max_concurrent_streams</name>
 						<description/>
 						<comment/>
 						<translations>
@@ -47278,6 +47364,135 @@
 					</concept_node>
 					<concept_node>
 						<name>hint.directive.limit_rate_after</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>hint.directive.limit_req</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>hint.directive.limit_req_dry_run</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>hint.directive.limit_req_status</name>
 						<description/>
 						<comment/>
 						<translations>
@@ -47879,6 +48094,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>hint.directive.proxy_cache_convert_head</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>hint.directive.proxy_cache_lock</name>
 						<description/>
 						<comment/>
@@ -47966,6 +48224,49 @@
 					</concept_node>
 					<concept_node>
 						<name>hint.directive.proxy_cache_lock_timeout</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>hint.directive.proxy_cache_max_stale</name>
 						<description/>
 						<comment/>
 						<translations>
