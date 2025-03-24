@@ -672,6 +672,7 @@
 	"deployment.confirm.property.with.replacement": "Вы хотите заменить версию {oldVersion} настройки '{propertyName}' на {environment} версией {newVersion}?",
 	"deployment.confirm.title": "Подтверждение установки",
 	"deployment.create.error.title": "Установка не удалась",
+	"deployment.invalid.target.error": "Как новый клиент, вы в настоящее время не можете развертывать свойства и сертификаты в производстве. Это будет включено автоматически после того, как вы развернете свойство в промежуточном режиме и сделаете несколько <a href='{href}' target='_blank'>тестовых запросов к промежуточным серверам</a>.",
 	"dirPurge.header.name.label": "Имя",
 	"dirPurge.header.table.noData.placeholder": "Список директорий Purge",
 	"dirPurge.header.value.label": "Значение",

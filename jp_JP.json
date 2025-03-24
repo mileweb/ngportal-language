@@ -672,6 +672,7 @@
 	"deployment.confirm.property.with.replacement": "{environment}のプロパティ '{propertyName}'のバージョン{oldVersion}をバージョン{newVersion}に置き換えますか？",
 	"deployment.confirm.title": "展開の確認",
 	"deployment.create.error.title": "展開に失敗しました",
+	"deployment.invalid.target.error": "新規のお客様の場合、現在、プロパティと証明書を本番環境にデプロイすることはできません。プロパティをステージングにデプロイし、ステージング サーバー</a>にいくつかの <a href='{href}' target='_blank'>テスト リクエストを実行すると、この機能は自動的に有効になります。",
 	"dirPurge.header.name.label": "Name",
 	"dirPurge.header.table.noData.placeholder": "List of directory purge headers",
 	"dirPurge.header.value.label": "Value",

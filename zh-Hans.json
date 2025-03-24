@@ -672,6 +672,7 @@
 	"deployment.confirm.property.with.replacement": "您是否要将加速项目'{propertyName}'在{environment}环境中的版本{oldVersion}替换为版本{newVersion}？",
 	"deployment.confirm.title": "部署确认",
 	"deployment.create.error.title": "部署失败",
+	"deployment.invalid.target.error": "作为新客户，您目前暂无权限部署加速项目和证书到生产环境。请先部署加速项目到演练环境，并<a href='{href}' target='_blank'>对演练环境的服务器发起一些测试请求</a>，随后系统将自动给您开启生产环境的部署权限。",
 	"dirPurge.header.name.label": "名称",
 	"dirPurge.header.table.noData.placeholder": "目录刷新请求头列表",
 	"dirPurge.header.value.label": "值",
