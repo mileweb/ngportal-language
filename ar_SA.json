@@ -672,6 +672,7 @@
 	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property '{propertyName}' in {environment} with version {newVersion}?",
 	"deployment.confirm.title": "Deployment Confirmation",
 	"deployment.create.error.title": "Deployment Failed",
+	"deployment.invalid.target.error": "بصفتك عميلاً جديدًا، لا يُسمح لك حاليًا بنشر الخصائص والشهادات في بيئة الإنتاج. سيتم تفعيل هذا تلقائيًا بمجرد نشر خاصية في بيئة التشغيل المؤقت وإجراء بضعة <a href='{href}' target='_blank'>طلب اختبار إلى خوادم التشغيل المؤقت</a>.",
 	"dirPurge.header.name.label": "Name",
 	"dirPurge.header.table.noData.placeholder": "List of directory purge headers",
 	"dirPurge.header.value.label": "Value",

@@ -672,6 +672,7 @@
 	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property '{propertyName}' in {environment} with version {newVersion}?",
 	"deployment.confirm.title": "Deployment Confirmation",
 	"deployment.create.error.title": "Deployment Failed",
+	"deployment.invalid.target.error": "As a new customer, you are currently not allowed to deploy properties and certificates to production. This will be enabled automatically once you deploy a property to staging and make a few <a href='{href}' target='_blank'>test requests to the staging servers</a>.",
 	"dirPurge.header.name.label": "Name",
 	"dirPurge.header.table.noData.placeholder": "List of directory purge headers",
 	"dirPurge.header.value.label": "Value",
