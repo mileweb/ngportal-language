@@ -1214,7 +1214,6 @@
 	"hint.variable.$arg_*": "쿼리 매개변수의 값",
 	"hint.variable.$args": "클라이언트의 전체 쿼리 문자열",
 	"hint.variable.$body_bytes_sent": "클라이언트로 전송된 본문 바이트 수",
-	"hint.variable.$bytes_received": "클라이언트에서 받은 바이트 수",
 	"hint.variable.$bytes_sent": "클라이언트에 보낸 총 응답 바이트 수",
 	"hint.variable.$cache_misc": "캐시 키의 사용자 정의 가능한 부분",
 	"hint.variable.$cdn_cache_status": "에지 캐시 HIT, MISS 등 현황",

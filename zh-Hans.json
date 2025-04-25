@@ -1214,7 +1214,6 @@
 	"hint.variable.$arg_*": "一个问号后查询参数的值",
 	"hint.variable.$args": "来自客户端的完整查询字符串",
 	"hint.variable.$body_bytes_sent": "发送给客户端的正文字节数",
-	"hint.variable.$bytes_received": "从客户端收到的字节数",
 	"hint.variable.$bytes_sent": "发往客户端的总响应字节数",
 	"hint.variable.$cache_misc": "可自定义的一部分cache key",
 	"hint.variable.$cdn_cache_status": "边缘缓存HIT、MISS等状态",

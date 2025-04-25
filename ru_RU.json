@@ -1214,7 +1214,6 @@
 	"hint.variable.$arg_*": "значение параметра HTTP-запроса",
 	"hint.variable.$args": "полная строка HTTP-запроса",
 	"hint.variable.$body_bytes_sent": "байты тела, отправленные клиенту",
-	"hint.variable.$bytes_received": "байты, полученные от клиента",
 	"hint.variable.$bytes_sent": "общее количество байт, отправленных клиенту",
 	"hint.variable.$cache_misc": "ключ кеша",
 	"hint.variable.$cdn_cache_status": "кеш HIT, MISS и т.д.",

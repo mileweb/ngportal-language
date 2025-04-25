@@ -1214,7 +1214,6 @@
 	"hint.variable.$arg_*": "クエリパラメータの値",
 	"hint.variable.$args": "クライアントからの完全なクエリ文字列",
 	"hint.variable.$body_bytes_sent": "クライアントに送信された本文バイト",
-	"hint.variable.$bytes_received": "クライアントから受信したバイト",
 	"hint.variable.$bytes_sent": "クライアントへの合計応答バイト",
 	"hint.variable.$cache_misc": "キャッシュキーをカスタマイズする",
 	"hint.variable.$cdn_cache_status": "エッジキャッシュHIT、MISSなど。",

@@ -1214,7 +1214,6 @@
 	"hint.variable.$arg_*": "il valore di un parametro di query",
 	"hint.variable.$args": "la stringa di query completa dal client",
 	"hint.variable.$body_bytes_sent": "byte del corpo inviati al client",
-	"hint.variable.$bytes_received": "byte ricevuti dal cliente",
 	"hint.variable.$bytes_sent": "byte di risposta totali al cliente",
 	"hint.variable.$cache_misc": "personalizza la chiave della cache",
 	"hint.variable.$cdn_cache_status": "edge cache HIT, MISS ecc.",

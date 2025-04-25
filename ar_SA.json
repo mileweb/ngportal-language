@@ -1214,7 +1214,6 @@
 	"hint.variable.$arg_*": "قيمة معلمة الاستعلام",
 	"hint.variable.$args": "سلسلة الاستعلام الكاملة من العميل",
 	"hint.variable.$body_bytes_sent": "وحدات بايت الجسم المرسلة إلى العميل",
-	"hint.variable.$bytes_received": "بايت وردت من العميل",
 	"hint.variable.$bytes_sent": "إجمالي بايت الاستجابة للعميل",
 	"hint.variable.$cache_misc": "تخصيص مفتاح ذاكرة التخزين المؤقت",
 	"hint.variable.$cdn_cache_status": "حافة ذاكرة التخزين المؤقت HIT ، MISS إلخ.",
