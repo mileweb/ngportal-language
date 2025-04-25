@@ -12361,6 +12361,92 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>certificate.parameter.id</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>certificate.parameter.version</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>certificate.placeholder.address</name>
 						<description/>
 						<comment/>
@@ -15071,6 +15157,49 @@
 					</concept_node>
 					<concept_node>
 						<name>certificate.version.creationDate</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>certificate.version.delete.confirm.title</name>
 						<description/>
 						<comment/>
 						<translations>
@@ -53942,6 +54071,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>hint.variable.$request_cpu_time</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>hint.variable.$request_end_time</name>
 						<description/>
 						<comment/>
@@ -54802,6 +54974,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>hint.variable.$server_region</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>hint.variable.$service_port</name>
 						<description/>
 						<comment/>
@@ -55147,6 +55362,49 @@
 					</concept_node>
 					<concept_node>
 						<name>hint.variable.$tcpinfo_rtt</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>hint.variable.$time_http</name>
 						<description/>
 						<comment/>
 						<translations>
