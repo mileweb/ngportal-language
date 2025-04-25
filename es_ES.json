@@ -1256,7 +1256,7 @@
 	"hint.variable.$realtime_log_ds_ratio": "Relación de reducción de muestra del registro de RT 0.xx",
 	"hint.variable.$remote_user": "nombre de usuario extraído de la autenticación básica",
 	"hint.variable.$request": "línea de solicitud HTTP completa",
-	"hint.variable.$request_cpu_time": "Tiempo de CPU en nanosegundos) empleado en procesar la solicitud antes de transferir el cuerpo de la respuesta",
+	"hint.variable.$request_cpu_time": "Tiempo de CPU en nanosegundos empleado en procesar la solicitud antes de transferir el cuerpo de la respuesta",
 	"hint.variable.$request_end_time": "tiempo dedicado a recibir el encabezado de la solicitud",
 	"hint.variable.$request_length": "longitud de la línea de solicitud, encabezado y cuerpo",
 	"hint.variable.$request_method": "Método HTTP: GET, POST, etc.",

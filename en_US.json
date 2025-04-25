@@ -1256,7 +1256,7 @@
 	"hint.variable.$realtime_log_ds_ratio": "RT log downsample ratio 0.xx",
 	"hint.variable.$remote_user": "user name extracted from Basic auth",
 	"hint.variable.$request": "full HTTP request line",
-	"hint.variable.$request_cpu_time": "CPU time in nanoseconds) spent processing the request before transferring the response body",
+	"hint.variable.$request_cpu_time": "CPU time in nanoseconds spent processing the request before transferring the response body",
 	"hint.variable.$request_end_time": "time spent receiving request header",
 	"hint.variable.$request_length": "length of request line, header & body",
 	"hint.variable.$request_method": "HTTP method: GET, POST etc",

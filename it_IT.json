@@ -1256,7 +1256,7 @@
 	"hint.variable.$realtime_log_ds_ratio": "Rapporto di downsampling log RT 0.xx",
 	"hint.variable.$remote_user": "nome utente estratto da Basic auth",
 	"hint.variable.$request": "linea di richiesta HTTP completa",
-	"hint.variable.$request_cpu_time": "Tempo di CPU (in nanosecondi) impiegato per elaborare la richiesta prima di trasferire il corpo della risposta",
+	"hint.variable.$request_cpu_time": "Tempo di CPU in nanosecondi impiegato per elaborare la richiesta prima di trasferire il corpo della risposta",
 	"hint.variable.$request_end_time": "tempo trascorso a ricevere l'intestazione della richiesta",
 	"hint.variable.$request_length": "lunghezza della riga, intestazione e corpo della richiesta",
 	"hint.variable.$request_method": "Metodo HTTP: GET, POST ecc",

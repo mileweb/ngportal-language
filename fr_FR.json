@@ -1256,7 +1256,7 @@
 	"hint.variable.$realtime_log_ds_ratio": "Ratio de sous-échantillonnage du journal RT 0.xx",
 	"hint.variable.$remote_user": "nom d'utilisateur extrait de l'authentification de base",
 	"hint.variable.$request": "ligne de requête HTTP complète",
-	"hint.variable.$request_cpu_time": "Temps CPU (en nanosecondes) consacré au traitement de la requête avant de transférer le corps de la réponse",
+	"hint.variable.$request_cpu_time": "Temps CPU en nanosecondes consacré au traitement de la requête avant de transférer le corps de la réponse",
 	"hint.variable.$request_end_time": "temps passé à recevoir l'en-tête de la requête",
 	"hint.variable.$request_length": "longueur de la ligne de requête, en-tête et corps",
 	"hint.variable.$request_method": "Méthode HTTP : GET, POST, etc.",

@@ -1256,7 +1256,7 @@
 	"hint.variable.$realtime_log_ds_ratio": "نسبة الاختزال في سجل RT 0.xx",
 	"hint.variable.$remote_user": "اسم المستخدم المستخرج من المصادقة الأساسية",
 	"hint.variable.$request": "كامل خط طلب HTTP",
-	"hint.variable.$request_cpu_time": "(وقت وحدة المعالجة المركزية بالنانوثانية) الذي تم قضاؤه في معالجة الطلب قبل نقل نص الاستجابة",
+	"hint.variable.$request_cpu_time": "وقت وحدة المعالجة المركزية بالنانوثانية المستغرق في معالجة الطلب قبل نقل نص الاستجابة",
 	"hint.variable.$request_end_time": "الوقت المستغرق في تلقي عنوان الطلب",
 	"hint.variable.$request_length": "طول خط الطلب والرأس والجسم",
 	"hint.variable.$request_method": "طريقة HTTP: GET ، POST ، إلخ",

@@ -1256,7 +1256,7 @@
 	"hint.variable.$realtime_log_ds_ratio": "Коэффициент уменьшения RT (0.xx)",
 	"hint.variable.$remote_user": "имя пользователя базовой аутентификации",
 	"hint.variable.$request": "полная строка HTTP-запроса",
-	"hint.variable.$request_cpu_time": "Время ЦП (в наносекундах), затраченное на обработку запроса перед передачей тела ответа",
+	"hint.variable.$request_cpu_time": "Время ЦП в наносекундах, затраченное на обработку запроса перед передачей тела ответа",
 	"hint.variable.$request_end_time": "время, затраченное на получение заголовка запроса",
 	"hint.variable.$request_length": "длина запроса (заголовка и тела)",
 	"hint.variable.$request_method": "HTTP-метод: GET, POST и т.д.",
