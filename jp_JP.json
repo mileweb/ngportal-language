@@ -1606,7 +1606,7 @@
 	"property.label.origin.verify.origin": "オリジンの証明書の確認",
 	"property.label.property.name": "プロパティ名 *",
 	"property.label.redirect.http.to.https": "すべてのHTTP要求をHTTPSにリダイレクトする",
-	"property.label.service.type": "サービスの種類 *",
+	"property.label.service.type": "サービスの種類",
 	"property.label.tls.certificate": "TLS証明書",
 	"property.label.tls.certificate1": "TLS証明書",
 	"property.label.tls.certificate2": "追加のTLS証明書",

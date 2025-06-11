@@ -1606,7 +1606,7 @@
 	"property.label.origin.verify.origin": "验证源站证书",
 	"property.label.property.name": "加速项目名称 *",
 	"property.label.redirect.http.to.https": "将所有HTTP请求重定向到HTTPS",
-	"property.label.service.type": "服务类型 *",
+	"property.label.service.type": "服务类型",
 	"property.label.tls.certificate": "TLS证书",
 	"property.label.tls.certificate1": "TLS证书",
 	"property.label.tls.certificate2": "附加TLS证书",

@@ -1606,7 +1606,7 @@
 	"property.label.origin.verify.origin": "Проверка сертификата происхождения",
 	"property.label.property.name": "Имя настройки *",
 	"property.label.redirect.http.to.https": "Перенаправить все HTTP-запросы на HTTPS",
-	"property.label.service.type": "Тип Обслуживания *",
+	"property.label.service.type": "Тип Обслуживания",
 	"property.label.tls.certificate": "TLS сертификат",
 	"property.label.tls.certificate1": "TLS сертификат",
 	"property.label.tls.certificate2": "Дополнительный TLS сертификат",

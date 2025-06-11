@@ -1606,7 +1606,7 @@
 	"property.label.origin.verify.origin": "Verifica il certificato di origin",
 	"property.label.property.name": "Property Name *",
 	"property.label.redirect.http.to.https": "Redirect All HTTP requests to HTTPS",
-	"property.label.service.type": "Tipo di servizio *",
+	"property.label.service.type": "Tipo di servizio",
 	"property.label.tls.certificate": "TLS Certificate",
 	"property.label.tls.certificate1": "TLS Certificate",
 	"property.label.tls.certificate2": "Additional TLS Certificate",
