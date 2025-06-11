@@ -1775,6 +1775,7 @@
 	"propertyListing.column.last.update.time": "업데이트 시간",
 	"propertyListing.column.name": "속성 이름 ",
 	"propertyListing.column.production": "실제 환경",
+	"propertyListing.column.service.type": "서비스 종류",
 	"propertyListing.column.staging": "가상 환경",
 	"propertyListing.column.version": "버전",
 	"propertyListing.delete.error": "속성을 삭제하는 동안 오류가 발생했습니다. ",

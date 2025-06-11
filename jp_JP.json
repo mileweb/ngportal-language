@@ -1775,6 +1775,7 @@
 	"propertyListing.column.last.update.time": "最終更新時刻",
 	"propertyListing.column.name": "プロパティ名",
 	"propertyListing.column.production": "製造",
+	"propertyListing.column.service.type": "サービスの種類",
 	"propertyListing.column.staging": "ステージング",
 	"propertyListing.column.version": "版",
 	"propertyListing.delete.error": "プロパティの削除中にエラーが発生しました。",

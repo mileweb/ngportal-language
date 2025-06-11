@@ -1775,6 +1775,7 @@
 	"propertyListing.column.last.update.time": "最后修改时间",
 	"propertyListing.column.name": "名称",
 	"propertyListing.column.production": "生产",
+	"propertyListing.column.service.type": "服务类型",
 	"propertyListing.column.staging": "演练",
 	"propertyListing.column.version": "版本",
 	"propertyListing.delete.error": "删除加速项目时发生错误。",

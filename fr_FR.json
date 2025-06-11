@@ -1775,6 +1775,7 @@
 	"propertyListing.column.last.update.time": "Last Updated",
 	"propertyListing.column.name": "Nom de la propriété",
 	"propertyListing.column.production": "Production",
+	"propertyListing.column.service.type": "Type de service",
 	"propertyListing.column.staging": "Staging",
 	"propertyListing.column.version": "Version",
 	"propertyListing.delete.error": "An error occurred while deleting the property.",
