@@ -201,6 +201,7 @@
 	"cdn.plan.upgrade.pricing.note2.line1": "{perCpuHour} $ seront facturés par heure CPU. Reportez-vous à notre foire aux questions, {FAQsLink}, sur notre page de tarification et de couverture pour plus d'informations.",
 	"cdn.plan.upgrade.pricing.note2.line1.faqs": "Comment l'utilisation du CPU de CDN Pro est-elle calculée ?",
 	"cdn.plan.upgrade.pricing.note2.line2": "Vous serez facturé 50 $ par mois. Si vos frais d'utilisation dépassent 50 $, vous serez facturé pour l'utilisation réelle selon le tableau ci-dessus au début du mois suivant.",
+	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "Profitez d'une réduction de {discountPercentOff} pendant les {discountPeriodMonths} ​​premiers mois. Cette réduction s'applique à votre engagement mensuel (ce qui réduit votre engagement à {discountedMonthlyCharge} par mois) et au calcul de votre consommation mensuelle réelle.",
 	"cdn.plan.upgrade.pricing.note2.line3": "Remarque : 1 Go correspond à 1 000 000 000 octets.",
 	"cdn.plan.upgrade.pricing.note2.line4.part1": "Pour un engagement minimum de 3000 $ par mois, notre service commercial peut mettre en place un plan tarifaire personnalisé. Pour plus d'informations, veuillez contacter le {contactLink}.",
 	"cdn.plan.upgrade.pricing.note2.line4.part2": "bureau régional le plus proche",
