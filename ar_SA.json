@@ -201,7 +201,7 @@
 	"cdn.plan.upgrade.pricing.note2.line1": "سيتم فرض {perCpuHour} دولار لكل ساعة وحدة المعالجة المركزية. ارجع إلى السؤال المتكرر لدينا ، {FAQsLink}، في صفحة الأسعار والتغطية للحصول على مزيد من المعلومات.",
 	"cdn.plan.upgrade.pricing.note2.line1.faqs": "كيف يتم حساب استخدام CDN Pro CPU؟",
 	"cdn.plan.upgrade.pricing.note2.line2": "ستتم محاسبتك بمبلغ 50 دولارًا أمريكيًا شهريًا. إذا كانت رسوم الاستخدام الخاصة بك تتجاوز 50 دولارًا ، فسيتم محاسبتك على الاستخدام الفعلي وفقًا للجدول أعلاه في بداية الشهر التالي.",
-	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "كعرض خاص، يحق لك الحصول على خصم بنسبة {discountPercentOff} لأول {discountPeriodMonths}. يسري الخصم على الاشتراك الشهري (الذي يُخفض قيمة الاشتراك إلى {discountedMonthlyCharge} شهريًا) وعند حساب الاستخدام الفعلي الشهري.",
+	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "كعرض خاص، يحق لك الحصول على خصم بنسبة {discountPercentOff} لأول {discountPeriodMonths}. يُحتسب الشهر الذي تُرقي فيه باقتك كأول شهر في فترة الخصم هذه. يُطبق الخصم على الالتزام الشهري (الذي يُخفض الالتزام إلى {discountedMonthlyCharge} شهريًا) وعند حساب الاستخدام الفعلي الشهري.",
 	"cdn.plan.upgrade.pricing.note2.line3": "ملاحظة: تم تعريف 1 جيجا بايت على أنها 1،000،000،000 بايت.",
 	"cdn.plan.upgrade.pricing.note2.line4.part1": "للحصول على التزام بحد أدنى 3000 دولار شهريًا ، يمكن لقسم المبيعات لدينا إعداد خطة تسعير مخصصة. لمزيد من المعلومات ، يرجى الاتصال بـ {contactLink}.",
 	"cdn.plan.upgrade.pricing.note2.line4.part2": "أقرب مكتب إقليمي",

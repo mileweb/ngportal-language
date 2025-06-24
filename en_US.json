@@ -201,7 +201,7 @@
 	"cdn.plan.upgrade.pricing.note2.line1": "${perCpuHour} will be charged per CPU hour. Refer to our frequently asked question, {FAQsLink}, in our pricing and coverage page for more information.",
 	"cdn.plan.upgrade.pricing.note2.line1.faqs": "How is the CDN Pro CPU Usage Calculated?",
 	"cdn.plan.upgrade.pricing.note2.line2": "You will be billed $50 per month. If your usage charges exceed $50, then you will be billed for the actual usage according to the above table at the beginning of the following month.",
-	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "As a special offer, you're entitled to a {discountPercentOff} discount for the first {discountPeriodMonths} months. The discount is applicable to monthly commitment (which brings the commitment down to {discountedMonthlyCharge} per month) and when computing monthly actual usage.",
+	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "As a special offer, you're entitled to a {discountPercentOff} discount for the first {discountPeriodMonths} months. The month in which you upgrade counts as the first month of this discount period. The discount is applicable to the monthly commitment (which brings the commitment down to {discountedMonthlyCharge} per month) and when computing monthly actual usage.",
 	"cdn.plan.upgrade.pricing.note2.line3": "Note: 1 GB is defined as 1,000,000,000 bytes.",
 	"cdn.plan.upgrade.pricing.note2.line4.part1": "For a minimum commitment of $3000 per month, our sales department can set up a customized pricing plan. For more information, please contact the {contactLink}.",
 	"cdn.plan.upgrade.pricing.note2.line4.part2": "closest regional office",
