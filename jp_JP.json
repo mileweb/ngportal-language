@@ -201,6 +201,7 @@
 	"cdn.plan.upgrade.pricing.note2.line1": "CPU 時間あたり ${perCpuHour} が課金されます。詳細については、価格と保証範囲のページにあるよくある質問 {FAQsLink}を参照してください。",
 	"cdn.plan.upgrade.pricing.note2.line1.faqs": "CDN Pro の CPU 使用率はどのように計算されますか?",
 	"cdn.plan.upgrade.pricing.note2.line2": "月額$ 50が請求されます。使用料が50ドルを超える場合、翌月の初めに、上記の表に従って実際の使用料が請求されます。",
+	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "特別オファーとして、最初の{discountPeriodMonths}ヶ月間は{discountPercentOff}の割引が適用されます。アップグレードした月が割引期間の1ヶ月目となります。この割引は、月額利用料（月額利用料は{discountedMonthlyCharge}に減額されます）と実際の月間使用量の計算に適用されます。",
 	"cdn.plan.upgrade.pricing.note2.line3": "注: 1 GB は 1,000,000,000 バイトとして定義されます。",
 	"cdn.plan.upgrade.pricing.note2.line4.part1": "1か月あたり最低$ 3,000の契約で、当社の営業部門はカスタマイズされた料金プランを設定できます。詳細については、 {contactLink}までお問い合わせください。",
 	"cdn.plan.upgrade.pricing.note2.line4.part2": "最寄りの地方事務所",
