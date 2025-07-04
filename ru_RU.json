@@ -1779,7 +1779,7 @@
 	"propertyListing.column.last.update.time": "Изменено",
 	"propertyListing.column.name": "Имя",
 	"propertyListing.column.production": "Продакшен",
-	"propertyListing.column.service.type": "Тип Обслуживания",
+	"propertyListing.column.service.type": "Тип услуги",
 	"propertyListing.column.staging": "Стейджинг",
 	"propertyListing.column.version": "Версия",
 	"propertyListing.delete.error": "Произошла ошибка при удалении.",
