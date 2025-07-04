@@ -2094,6 +2094,7 @@
 	"reportQuery.page.subtitle.server.groups.premium+": "Премиум+",
 	"reportQuery.page.subtitle.server.groups.standard": "Стандарт",
 	"reportQuery.page.subtitle.server.groups.ultra": "Ультра",
+	"reportQuery.page.subtitle.service.types.all": "Все типы услуг вместе взятые",
 	"reportQuery.page.summary.average.cpu.cores": "Среднее число CPU ядер",
 	"reportQuery.page.summary.bandwidth.95top": "Топ 95% пропускной способности",
 	"reportQuery.page.summary.bandwidth.average": "Средняя пропускная способность",
