@@ -2094,6 +2094,7 @@
 	"reportQuery.page.subtitle.server.groups.premium+": "Premium+",
 	"reportQuery.page.subtitle.server.groups.standard": "Standard",
 	"reportQuery.page.subtitle.server.groups.ultra": "Ultra",
+	"reportQuery.page.subtitle.service.types.all": "Tutti i tipi di servizio combinati",
 	"reportQuery.page.summary.average.cpu.cores": "Average CPU Cores",
 	"reportQuery.page.summary.bandwidth.95top": "Top 95% Bandwidth",
 	"reportQuery.page.summary.bandwidth.average": "Average Bandwidth",

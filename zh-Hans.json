@@ -2094,6 +2094,7 @@
 	"reportQuery.page.subtitle.server.groups.premium+": "Premium+",
 	"reportQuery.page.subtitle.server.groups.standard": "标准",
 	"reportQuery.page.subtitle.server.groups.ultra": "超级",
+	"reportQuery.page.subtitle.service.types.all": "所有服务类型",
 	"reportQuery.page.summary.average.cpu.cores": "平均CPU核心数",
 	"reportQuery.page.summary.bandwidth.95top": "95%最高数据带宽",
 	"reportQuery.page.summary.bandwidth.average": "平均数据带宽",
