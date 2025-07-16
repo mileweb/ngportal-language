@@ -111,7 +111,7 @@
 	"button.text.previous": "前",
 	"button.title.next": "次",
 	"button.upgrade.title": "アップグレード",
-	"cacertificate.create.title":"CA証明書を作成する",
+	"cacertificate.create.title":"CA証明書の作成",
 	"cacertificate.edit.title":"CA証明書",
 	"cache.setting.location.delete.tooltip": "この場所を削除します",
 	"cache.setting.location.path": "ロケーションパス*",

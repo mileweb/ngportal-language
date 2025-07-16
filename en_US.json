@@ -111,7 +111,7 @@
 	"button.text.previous": "Previous",
 	"button.title.next": "Next",
 	"button.upgrade.title": "Upgrade",
-	"cacertificate.create.title":"Create a CA Certificate",
+	"cacertificate.create.title":"Create CA Certificate",
 	"cacertificate.edit.title":"CA Certificate",
 	"cache.setting.location.delete.tooltip": "Delete this location",
 	"cache.setting.location.path": "Location Path *",

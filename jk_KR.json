@@ -111,7 +111,7 @@
 	"button.text.previous": "이전",
 	"button.title.next": "다음",
 	"button.upgrade.title": "업그레이드",
-	"cacertificate.create.title":"CA 인증서 만들기",
+	"cacertificate.create.title":"CA 인증서 생성",
 	"cacertificate.edit.title":"CA 인증서",
 	"cache.setting.location.delete.tooltip": "이 위치 삭제",
 	"cache.setting.location.path": "위치 경로 *",
