@@ -1510,7 +1510,6 @@
 	"prod.deployment.not.allowed": "У вас нет разрешения на развертывание в продакшен среде. Обратитесь в службу поддержки.",
 	"products.switch.to": "Выбрать",
 	"products.title.cdn": "CDN",
-	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "Не все имена хостов имеют ICP Beian. Серверы в Материковом Китае не доставляют эту настройку (property), и код статуса 451 будет возвращен. Используйте <a href='/cdn/edgeHostnames?hasBeian=false'>edge-имя хоста с Beian, также установленным на «Нет»</a> , чтобы направлять трафик на серверы в других регионах. Нажмите <a href='{href}' target='_blank'>здесь</a> для получения подробной информации.",

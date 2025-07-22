@@ -1510,7 +1510,6 @@
 	"prod.deployment.not.allowed": "ليس لديك إذن للنشر في الإنتاج. يرجى الاتصال بالدعم.",
 	"products.switch.to": "Switch to",
 	"products.title.cdn": "CDN",
-	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "ليست كل أسماء المضيف لها برنامج المقارنات الدولية Beian. لن تقدم الخوادم في الصين القارية هذه الخاصية وسيتم إرجاع رمز الحالة 451. استخدم اسم مضيف حافة مع ضبط Beian أيضًا على \"No\" لتوجيه حركة المرور إلى الخوادم في مناطق أخرى. انقر فوق <a href='{href}' target='_blank'>هنا</a> للحصول على التفاصيل.",
