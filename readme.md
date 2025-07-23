@@ -76,4 +76,6 @@ zh-Hans.json:
 
 This project should only be worked on with this tool.
 
-Before you commit, please do a `git diff` to make sure you did not inadvertantely change the line order, indentation, line-end etc. Only the lines you actually modified should show up in the diff. Otherwise it will be very difficult to track changes.
+Before you commit, please do a `git diff` to make sure you did not inadvertantely change the line order, indentation, line-end etc. Only the lines you actually modified should show up in the diff. Otherwise, it will be very difficult to track changes.
+
+BabelEdit has a feature, "Show source", allowing you to see if the ID is used in your source code. Though convenient, the feature is imperfect. BabelEdit fails to find references to many IDs. It is important to check the source code to confirm an ID is indeed unused before deleting it.
