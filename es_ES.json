@@ -1523,7 +1523,6 @@
 	"prod.deployment.not.allowed": "You do not have permission to deploy to production. Please contact support.",
 	"products.switch.to": "Switch to",
 	"products.title.cdn": "CDN",
-	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "No todos los nombres de host tienen ICP Beian. Los servidores en China continental no entregarán esta propiedad y se devolverá el código de estado 451. Utilice <a href='/cdn/edgeHostnames?hasBeian=false'>un nombre de host de borde con Beian también configurado en \"No\"</a> para dirigir el tráfico a los servidores de otras regiones. Haga clic <a href='{href}' target='_blank'>aquí</a> para obtener más detalles.",

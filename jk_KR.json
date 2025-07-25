@@ -1523,7 +1523,6 @@
 	"prod.deployment.not.allowed": "프로덕션에 배포 할 권한이 없습니다. 지원팀에 문의하십시오.",
 	"products.switch.to": "로 전환",
 	"products.title.cdn": "CDN ",
-	"products.title.ecp": "ECP ",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "모든 호스트 이름에 ICP Beian이 있는 것은 아닙니다. 중국 본토의 서버는 이 속성을 제공하지 않으며 상태 코드 451이 반환됩니다. Beian도 \"아니요\"로 설정된 <a href='/cdn/edgeHostnames?hasBeian=false'>에지 호스트 이름을 사용하고</a> 트래픽을 다른 지역의 서버로 보냅니다. 자세한 내용은 <a href='{href}' target='_blank'>여기</a> 를 클릭하십시오.",

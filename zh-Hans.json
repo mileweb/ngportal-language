@@ -1523,7 +1523,6 @@
 	"prod.deployment.not.allowed": "您目前无权部署到生产环境。请联系支持。",
 	"products.switch.to": "切换到",
 	"products.title.cdn": "CDN",
-	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "部分加速域名没有ICP备案。中国大陆的服务器无法服务此加速项目，并且将返回状态码451。请结合使用备案同样<a href='/cdn/edgeHostnames?hasBeian=false'>设置为”否“的调度域名</a>，以确保流量被定向到其他区域中的服务器。 单击<a href='{href}' target='_blank'>这里</a>以获取详细信息。",

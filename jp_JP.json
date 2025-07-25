@@ -1523,7 +1523,6 @@
 	"prod.deployment.not.allowed": "本番環境にデプロイする権限がありません。サポートにお問い合わせください。",
 	"products.switch.to": "切り替える",
 	"products.title.cdn": "CDN",
-	"products.title.ecp": "ECP",
 	"products.title.hdt": "HDT",
 	"products.title.obd": "OBD",
 	"property.beian.no.tips": "すべてのホスト名にICPBeianがあるわけではありません。中国本土のサーバーはこのプロパティを配信せず、ステータスコード451が返されます。<a href='/cdn/edgeHostnames?hasBeian=false'>Beianも「No」に設定されたエッジホスト名</a>を使用して、トラフィックを他のリージョンのサーバーに転送します。詳細については、 <a href='{href}' target='_blank'>こちら</a> をクリックしてください。",
