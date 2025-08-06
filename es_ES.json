@@ -197,7 +197,7 @@
 	"cdn.plan.upgrade.pricing.note2.line2": "Se le facturará $ 50 por mes. Si sus cargos por uso superan los $ 50, se le facturará el uso real de acuerdo con la tabla anterior al comienzo del mes siguiente.",
 	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "Como oferta especial, tienes derecho a un descuento de {discountPercentOff} durante los primeros {discountPeriodMonths} ​​meses. El mes en que actualices tu plan se considera el primer mes de este periodo de descuento. El descuento se aplica al compromiso mensual (que lo reduce a {discountedMonthlyCharge} al mes) y al calcular el consumo mensual real.",
 	"cdn.plan.upgrade.pricing.note2.line3": "Nota: 1 GB se define como 1 000 000 000 bytes.",
-	"cdn.plan.upgrade.pricing.note2.line4.part1": "Para un compromiso mínimo de $ 3000 por mes, nuestro departamento de ventas puede establecer un plan de precios personalizado. Para obtener más información, comuníquese con el {contactLink}.",
+	"cdn.plan.upgrade.pricing.note2.line4.part1": "Nuestro departamento de ventas puede establecer un plan de precios personalizado. Para obtener más información, comuníquese con el {contactLink}.",
 	"cdn.plan.upgrade.pricing.note2.line4.part2": "oficina regional más cercana",
 	"cdn.plan.upgrade.pricing.per.gb": "por GB",
 	"cdn.plan.upgrade.pricing.title": "Precios",
