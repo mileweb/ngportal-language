@@ -1132,7 +1132,7 @@
 	"msg.purge.invalid.regex.url": "刷新正则表达式 URL“{purgeUrl}”无效。",
 	"msg.purge.invalid.target": "目标“{target}”无效。只允许“生产”和“演练”。",
 	"msg.purge.invalid.too.big.quantifier": "任何量词的上限都不能超过 {limitCnt}。",
-	"msg.purge.invalid.too.many.unlimited.quantifier": "刷新正则表达式模式最多可以包含 {limitCnt} 个无限量词{quantifiers}。",
+	"msg.purge.invalid.too.many.unlimited.quantifier": "刷新正则表达式模式最多可以包含 {limitCnt} 个无限量词 {quantifiers}。",
 	"msg.purge.invalid.url": "刷新 URL“{purgeUrl}”无效。特殊字母需要编码。",
 	"navigation.prompt.confirmation": "确认",
 	"navigation.prompt.no": "否",
