@@ -197,7 +197,7 @@
 	"cdn.plan.upgrade.pricing.note2.line2": "您需要每月支付$50。如果您的使用费用超过$50，则将在下个月初根据上表向您收取实际使用费用。",
 	"cdn.plan.upgrade.pricing.note2.line2.special.offer": "作为一项特别优惠，您可在前 {discountPeriodMonths} 个月享受 {discountPercentOff} 的折扣。您升级为付费账号时所在的月份将被视为该折扣期的第一个月。该折扣既适用于月保底消费金额（即折后的月保底消费金额降至每月 {discountedMonthlyCharge}），也适用于每月的实际消费金额。",
 	"cdn.plan.upgrade.pricing.note2.line3": "注意：1 GB 定义为 1,000,000,000 字节。",
-	"cdn.plan.upgrade.pricing.note2.line4.part1": "对于每月3000美元的最低承诺额，我们的销售部门可以制定定制的定价计划。有关更多信息，请联系 {contactLink}。",
+	"cdn.plan.upgrade.pricing.note2.line4.part1": "我们的销售部门可以制定定制的定价计划。有关更多信息，请联系 {contactLink}。",
 	"cdn.plan.upgrade.pricing.note2.line4.part2": "最近的区域办事处",
 	"cdn.plan.upgrade.pricing.per.gb": "每GB",
 	"cdn.plan.upgrade.pricing.title": "价格设定",
