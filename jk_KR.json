@@ -856,6 +856,7 @@
 	"hint.directive.client_header_timeout": "요청 헤더를 기다리는 만료시간",
 	"hint.directive.client_max_body_size": "최대 허용 요청 본문",
 	"hint.directive.client_send_timeout": "클라이언트에 응답을 보내는 만료시간",
+	"hint.directive.compress_types": "응답을 압축해야 하는 MIME 유형을 지정합니다.",
 	"hint.directive.custom_log_field": "사용자 정의 로그 필드의 값 설정",
 	"hint.directive.default_type": "응답의 기본 MIME 유형 설정",
 	"hint.directive.deny": "거부된 클라이언트 IP 범위 지정",

@@ -856,6 +856,7 @@
 	"hint.directive.client_header_timeout": "таймаут ожидания заголовка запроса",
 	"hint.directive.client_max_body_size": "максимально допустимый размер тела запроса",
 	"hint.directive.client_send_timeout": "таймаут отправки ответа клиенту",
+	"hint.directive.compress_types": "укажите типы MIME, для которых следует сжимать ответы",
 	"hint.directive.custom_log_field": "установить значение пользовательского поля лога",
 	"hint.directive.default_type": "установить MIME-тип ответа по умолчанию",
 	"hint.directive.deny": "указать запрещённый диапазон IP-адресов клиентов",

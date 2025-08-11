@@ -856,6 +856,7 @@
 	"hint.directive.client_header_timeout": "reqヘッダーを待機するためのタイムアウト",
 	"hint.directive.client_max_body_size": "最大許容リクエスト本文",
 	"hint.directive.client_send_timeout": "respをクライアントに送信するためのタイムアウト",
+	"hint.directive.compress_types": "応答を圧縮するMIMEタイプを指定する",
 	"hint.directive.custom_log_field": "カスタムログフィールドの値を設定します",
 	"hint.directive.default_type": "応答のデフォルトのMIMEタイプを設定する",
 	"hint.directive.deny": "拒否されたクライアントのIP範囲を指定します",

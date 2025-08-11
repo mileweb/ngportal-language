@@ -856,6 +856,7 @@
 	"hint.directive.client_header_timeout": "مهلة انتظار رأس الطلب",
 	"hint.directive.client_max_body_size": "أقصى طلب مسموح به للجسم",
 	"hint.directive.client_send_timeout": "مهلة إرسال Resp إلى العميل",
+	"hint.directive.compress_types": "تحديد أنواع MIME التي يجب ضغط الاستجابات لها",
 	"hint.directive.custom_log_field": "قم بتعيين قيمة حقل سجل مخصص",
 	"hint.directive.default_type": "تعيين نوع MIME الافتراضي للاستجابة",
 	"hint.directive.deny": "تحديد نطاق IP للعميل المرفوض",

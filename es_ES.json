@@ -856,6 +856,7 @@
 	"hint.directive.client_header_timeout": "tiempo de espera para el encabezado req",
 	"hint.directive.client_max_body_size": "cuerpo de solicitud máximo permitido",
 	"hint.directive.client_send_timeout": "tiempo de espera para enviar resp al cliente",
+	"hint.directive.compress_types": "especificar los tipos MIME para los cuales se deben comprimir las respuestas",
 	"hint.directive.custom_log_field": "establecer el valor de un campo de registro personalizado",
 	"hint.directive.default_type": "Establecer el tipo MIME predeterminado de una respuesta",
 	"hint.directive.deny": "especificar el rango de IP de cliente denegado",

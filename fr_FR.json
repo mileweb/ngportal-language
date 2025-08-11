@@ -856,6 +856,7 @@
 	"hint.directive.client_header_timeout": "délai d'attente pour l'en-tête req",
 	"hint.directive.client_max_body_size": "corps de requête max autorisé",
 	"hint.directive.client_send_timeout": "délai d'attente pour envoyer le resp au client",
+	"hint.directive.compress_types": "spécifier les types MIME pour lesquels les réponses doivent être compressées",
 	"hint.directive.custom_log_field": "définir la valeur d'un champ de journal personnalisé",
 	"hint.directive.default_type": "définir le type MIME par défaut d'une réponse",
 	"hint.directive.deny": "spécifier la plage d'adresses IP client refusée",

@@ -856,6 +856,7 @@
 	"hint.directive.client_header_timeout": "等待请求头部的超时时间",
 	"hint.directive.client_max_body_size": "最大允许请求正文",
 	"hint.directive.client_send_timeout": "将响应发送给客户端的超时时间",
+	"hint.directive.compress_types": "指定需要压缩响应的 MIME 类型",
 	"hint.directive.custom_log_field": "设置自定义日志字段的值",
 	"hint.directive.default_type": "设置默认的响应类型",
 	"hint.directive.deny": "指定被拒绝的客户端 IP 范围",
