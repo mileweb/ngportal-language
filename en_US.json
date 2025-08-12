@@ -2069,7 +2069,7 @@
 	"sign.up.user.invite.desc.secondary": "Please provide login details to access our system.",
 	"sign.up.user.invite.error.in.use.username": "The username is in use. Please enter a different username.",
 	"sign.up.user.invite.error.link.invalid.expired": "The verification link is invalid or has expired.",
-	"sign.up.user.invite.error.on.backend": "Oops! Something goes wrong and the sign-up could not be completed. Please try again later. If the issue persists, please contact our customer support.",
+	"sign.up.user.invite.error.on.backend": "Oops! Something went wrong and the sign-up could not be completed. Please try again later. If the issue persists, please contact our customer support.",
 	"sign.up.user.invite.error.phone.invalid": "The phone number is invalid",
 	"sign.up.user.invite.error.phone.only.number": "Please enter numbers only.",
 	"sign.up.user.invite.error.phone.too.long": "The phone number is too long.",
