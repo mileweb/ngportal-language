@@ -1038,6 +1038,8 @@
 	"hint.variable.$sc_initial": "1/0: si se sirvió el primer byte",
 	"hint.variable.$sec": "tiempo actual de Unix en segundos enteros",
 	"hint.variable.$SECRET(*)": "el valor de un secreto predefinido",
+	"hint.variable.$secure_link": "resultado de la evaluación del enlace seguro",
+	"hint.variable.$secure_link_expires": "tiempo de vida de un enlace pasado en una solicitud",
 	"hint.variable.$sent_http_*": "un encabezado enviado al cliente",
 	"hint.variable.$sent_http_content_length": "Longitud del contenido al cliente",
 	"hint.variable.$sent_http_content_type": "Tipo de contenido al cliente",

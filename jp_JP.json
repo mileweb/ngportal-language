@@ -1038,6 +1038,8 @@
 	"hint.variable.$sc_initial": "1/0：最初のバイトが提供された場合",
 	"hint.variable.$sec": "整数秒単位の現在のUNIX時間",
 	"hint.variable.$SECRET(*)": "事前定義されたシークレットの値",
+	"hint.variable.$secure_link": "セキュアリンク評価の結果",
+	"hint.variable.$secure_link_expires": "リクエストで渡されたリンクの有効期間",
 	"hint.variable.$sent_http_*": "1つのヘッダーがクライアントに送信されました",
 	"hint.variable.$sent_http_content_length": "Content-クライアントまでの長さ",
 	"hint.variable.$sent_http_content_type": "クライアントへのコンテンツタイプ",

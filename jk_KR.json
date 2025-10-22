@@ -1038,6 +1038,8 @@
 	"hint.variable.$sc_initial": "1은 첫 번째 바이트가 전송되었음을 의미하고 그렇지 않으면 0입니다.",
 	"hint.variable.$sec": "정수 초 단위의 현재 유닉스 시간",
 	"hint.variable.$SECRET(*)": "미리 정의된 비밀 값",
+	"hint.variable.$secure_link": "보안 링크 평가 결과",
+	"hint.variable.$secure_link_expires": "요청에서 전달된 링크의 수명",
 	"hint.variable.$sent_http_*": "클라이언트에게 보낸 응답 헤더",
 	"hint.variable.$sent_http_content_length": "클라이언트에 대한 콘텐츠 길이 헤더",
 	"hint.variable.$sent_http_content_type": "클라이언트에 대한 콘텐츠 유형 헤더",

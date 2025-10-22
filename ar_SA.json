@@ -1038,6 +1038,8 @@
 	"hint.variable.$sc_initial": "1/0: إذا تم تقديم البايت الأول",
 	"hint.variable.$sec": "وقت يونيكس الحالي بالثواني الصحيحة",
 	"hint.variable.$SECRET(*)": "قيمة السر المحدد مسبقًا",
+	"hint.variable.$secure_link": "نتيجة تقييم الرابط الآمن",
+	"hint.variable.$secure_link_expires": "مدة صلاحية الرابط الذي تم إرساله في الطلب",
 	"hint.variable.$sent_http_*": "تم إرسال رأس واحد إلى العميل",
 	"hint.variable.$sent_http_content_length": "طول المحتوى للعميل",
 	"hint.variable.$sent_http_content_type": "نوع المحتوى للعميل",
