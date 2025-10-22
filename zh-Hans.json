@@ -1038,6 +1038,8 @@
 	"hint.variable.$sc_initial": "1 代表发送了第一个字节，否则为 0",
 	"hint.variable.$sec": "以整数秒为单位的当前 unix 时间",
 	"hint.variable.$SECRET(*)": "一个预定义的保密信息",
+	"hint.variable.$secure_link": "防盗链的验证结果",
+	"hint.variable.$secure_link_expires": "防盗链的有效期",
 	"hint.variable.$sent_http_*": "发送给客户端的一个响应头",
 	"hint.variable.$sent_http_content_length": "到客户端的content-length头",
 	"hint.variable.$sent_http_content_type": "到客户端的content-type头",

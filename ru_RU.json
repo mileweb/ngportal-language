@@ -1038,6 +1038,8 @@
 	"hint.variable.$sc_initial": "1/0: если был обработан первый байт",
 	"hint.variable.$sec": "текущее unix-время в целых секундах",
 	"hint.variable.$SECRET(*)": "значение предопределённого секрета",
+	"hint.variable.$secure_link": "результат оценки безопасной ссылки",
+	"hint.variable.$secure_link_expires": "время жизни ссылки, переданной в запросе",
 	"hint.variable.$sent_http_*": "один заголовок, отправленный клиенту",
 	"hint.variable.$sent_http_content_length": "Content-Length для клиента",
 	"hint.variable.$sent_http_content_type": "Content-Type для клиента",
