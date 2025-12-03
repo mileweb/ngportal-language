@@ -2310,7 +2310,7 @@
 	"tls.version.1.3": "TLS 1.3",
 	"tls.version.1.insecure": "TLS 1.0 (安全でない)",
 	"topbar.contact.support": "サポート問い合わせ先",
-	"topbar.dropdown.title": "User Info",
+	"topbar.dropdown.title": "ユーザー情報",
 	"topbar.help": "助けて",
 	"topbar.help.email": "{emailAddress}までご連絡ください。",
 	"topbar.help.on.this.page": "このページのヘルプ",

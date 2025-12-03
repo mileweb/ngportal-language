@@ -2310,7 +2310,7 @@
 	"tls.version.1.3": "TLS 1.3",
 	"tls.version.1.insecure": "TLS 1.0 (안전하지 않음)",
 	"topbar.contact.support": "연락처 지원",
-	"topbar.dropdown.title": "User Info",
+	"topbar.dropdown.title": "사용자 정보",
 	"topbar.help": "도움",
 	"topbar.help.email": "{emailAddress}으로 문의하십시오.",
 	"topbar.help.on.this.page": "이 페이지의 도움말",
