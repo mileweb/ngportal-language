@@ -2094,7 +2094,7 @@
 	"sign.up.success.title": "성공",
 	"sign.up.text.cookie.policy": "쿠키 정책",
 	"sign.up.text.error.msg.duplicate.account": "이미 {brandName} CDN Pro에 액세스할 수 있습니다. 사용하려면 {portalUrl} 을(를) 통해 계정에 로그인하십시오.",
-	"sign.up.text.link.aup": "AUP",
+	"sign.up.text.link.aup": "허용 가능한 사용 정책",
 	"sign.up.text.link.dpa": "DPA",
 	"sign.up.text.new.letter.cdnetworks": "CDNetworks의 주간 다이제스트 및 뉴스레터를 구독하고 싶습니다.",
 	"sign.up.text.new.letter.quantil": "Quantil의 주간 다이제스트 및 뉴스레터를 구독하고 싶습니다.",
