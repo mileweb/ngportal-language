@@ -1566,7 +1566,7 @@
 	"propertyVersion.accordion.title.realTimeLogging": "실시간 로깅",
 	"propertyVersion.clone.title": "복제",
 	"propertyVersion.create.title": "버전 만들기 ",
-	"propertyVersion.edit.save.button.content": "속성 : {name} , 버전 : {version}",
+	"propertyVersion.edit.save.button.content": "속성 : {name}, 버전 : {version}",
 	"propertyVersion.edit.title": "편집",
 	"purge.action.delete": "지우다",
 	"purge.action.invalidate": "무효화 ",

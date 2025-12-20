@@ -1566,7 +1566,7 @@
 	"propertyVersion.accordion.title.realTimeLogging": "Real Time Logging",
 	"propertyVersion.clone.title": "Clone",
 	"propertyVersion.create.title": "Create Version",
-	"propertyVersion.edit.save.button.content": "Property: {name} , Version: {version}",
+	"propertyVersion.edit.save.button.content": "Property: {name}, Version: {version}",
 	"propertyVersion.edit.title": "Edit",
 	"purge.action.delete": "Delete",
 	"purge.action.invalidate": "Invalidate",
