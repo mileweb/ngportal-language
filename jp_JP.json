@@ -1566,7 +1566,7 @@
 	"propertyVersion.accordion.title.realTimeLogging": "リアルタイムログ",
 	"propertyVersion.clone.title": "クローン",
 	"propertyVersion.create.title": "バージョンを作成",
-	"propertyVersion.edit.save.button.content": "プロパティ： {name} 、バージョン： {version}",
+	"propertyVersion.edit.save.button.content": "プロパティ： {name}、バージョン： {version}",
 	"propertyVersion.edit.title": "編集",
 	"purge.action.delete": "削除する",
 	"purge.action.invalidate": "無効化",
