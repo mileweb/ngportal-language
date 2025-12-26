@@ -1474,7 +1474,7 @@
 	"property.tooltip.allow.protocol.downgrade": "To downgrade protocol from HTTPS to HTTP when accessing the origin, and you understand the related security risk, set this to true. ",
 	"property.tooltip.clicktocopy.hostname": "Click to copy",
 	"property.tooltip.copied.hostname": "Copied!",
-	"property.tooltip.edge.logic": "Specify the desired behavior of the edge servers, such as cache policy, header modification, URL rewrite, etc. Read the <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>tutorial</a> for details.",
+	"property.tooltip.edge.logic": "Specify the desired behavior of the edge servers, such as cache policy, header modification, URL rewrite, etc. Read the <a href='{href}' target='_blank'>tutorial</a> for details.",
 	"property.tooltip.origin.tls0Rtt": "Enable Zero Round Trip Time Resumption for TLS 1.3",
 	"property.tooltip.staging.clicktocopy.ipaddress": "Copy IP address",
 	"property.tooltip.staging.copied.ipaddress": "Copied to clipboard",

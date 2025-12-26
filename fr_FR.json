@@ -1474,7 +1474,7 @@
 	"property.tooltip.allow.protocol.downgrade": "Pour rétrograder le protocole de HTTPS à HTTP lors de l'accès à l'origine et que vous comprenez le risque de sécurité associé, définissez-le sur true.",
 	"property.tooltip.clicktocopy.hostname": "Cliquez pour copier",
 	"property.tooltip.copied.hostname": "Copied!",
-	"property.tooltip.edge.logic": "Spécifiez le comportement souhaité des serveurs de périphérie, comme la politique de cache, la modification d'en-tête, la réécriture d'URL, etc. Lisez le <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>Didacticiel</a> pour plus de détails.",
+	"property.tooltip.edge.logic": "Spécifiez le comportement souhaité des serveurs de périphérie, comme la politique de cache, la modification d'en-tête, la réécriture d'URL, etc. Lisez le <a href='{href}' target='_blank'>Didacticiel</a> pour plus de détails.",
 	"property.tooltip.origin.tls0Rtt": "Activer la reprise du temps d'aller-retour zéro pour TLS 1.3",
 	"property.tooltip.staging.clicktocopy.ipaddress": "Copier l'adresse IP",
 	"property.tooltip.staging.copied.ipaddress": "Copié dans le presse-papier",

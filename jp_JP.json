@@ -1474,7 +1474,7 @@
 	"property.tooltip.allow.protocol.downgrade": "オリジンにアクセスするときにプロトコルをHTTPSからHTTPにダウングレードし、関連するセキュリティリスクを理解するには、これをtrueに設定します。",
 	"property.tooltip.clicktocopy.hostname": "クリックしてコピー",
 	"property.tooltip.copied.hostname": "コピーしました！",
-	"property.tooltip.edge.logic": "キャッシュポリシー、ヘッダーの変更、URLの書き換えなど、エッジサーバーの望ましい動作を指定します。詳細については、<a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>チュートリアル</a>をお読みください。",
+	"property.tooltip.edge.logic": "キャッシュポリシー、ヘッダーの変更、URLの書き換えなど、エッジサーバーの望ましい動作を指定します。詳細については、<a href='{href}' target='_blank'>チュートリアル</a>をお読みください。",
 	"property.tooltip.origin.tls0Rtt": "TLS 1.3 のゼロ ラウンド トリップ時間再開を有効にする",
 	"property.tooltip.staging.clicktocopy.ipaddress": "IPアドレスをコピーする",
 	"property.tooltip.staging.copied.ipaddress": "クリップボードにコピー",
