@@ -1474,7 +1474,7 @@
 	"property.tooltip.allow.protocol.downgrade": "لخفض البروتوكول من HTTPS إلى HTTP عند الوصول إلى الأصل ، وأنت تفهم مخاطر الأمان ذات الصلة ، اضبط هذا على \"صواب\".",
 	"property.tooltip.clicktocopy.hostname": "انقر للنسخ",
 	"property.tooltip.copied.hostname": "Copied!",
-	"property.tooltip.edge.logic": "حدد السلوك المطلوب لخوادم الحافة ، مثل سياسة التخزين المؤقت ، وتعديل الرأس ، وإعادة كتابة عنوان URL ، وما إلى ذلك. اقرأ <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>درس تعليمي</a> للحصول على التفاصيل.",
+	"property.tooltip.edge.logic": "حدد السلوك المطلوب لخوادم الحافة ، مثل سياسة التخزين المؤقت ، وتعديل الرأس ، وإعادة كتابة عنوان URL ، وما إلى ذلك. اقرأ <a href='{href}' target='_blank'>درس تعليمي</a> للحصول على التفاصيل.",
 	"property.tooltip.origin.tls0Rtt": "تمكين استئناف وقت صفر رحلة ذهابًا وإيابًا لـ TLS 1.3",
 	"property.tooltip.staging.clicktocopy.ipaddress": "نسخ عنوان IP",
 	"property.tooltip.staging.copied.ipaddress": "نسخ إلى الحافظة",

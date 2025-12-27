@@ -1474,7 +1474,7 @@
 	"property.tooltip.allow.protocol.downgrade": "오리진에 액세스 할 때 프로토콜을 HTTPS에서 HTTP로 다운 그레이드하고 관련 보안 위험을 이해하려면이 값을 true로 설정하십시오.",
 	"property.tooltip.clicktocopy.hostname": "복사하려면 클릭하세요",
 	"property.tooltip.copied.hostname": "복사되었습니다!",
-	"property.tooltip.edge.logic": "캐시 정책, 헤더 수정, URL 재 작성 등과 같은 에지 서버의 원하는 동작을 지정합니다. 자세한 내용은 <a href='https://docs.quantil.com/cdn/docs/edge-logic/intro' target='_blank'>지도 시간</a> 를 참조하세요.",
+	"property.tooltip.edge.logic": "캐시 정책, 헤더 수정, URL 재 작성 등과 같은 에지 서버의 원하는 동작을 지정합니다. 자세한 내용은 <a href='{href}' target='_blank'>지도 시간</a> 를 참조하세요.",
 	"property.tooltip.origin.tls0Rtt": "TLS 1.3에 대해 제로 왕복 시간 재개 활성화",
 	"property.tooltip.staging.clicktocopy.ipaddress": "IP 주소 복사",
 	"property.tooltip.staging.copied.ipaddress": "클립 보드에 복사 됨",
