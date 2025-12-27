@@ -1435,7 +1435,7 @@
 	"property.page.meta.info.active.in.production": "生产环境版本",
 	"property.page.meta.info.active.in.staging": "演练环境版本",
 	"property.page.meta.info.active.version.environment.production": "生产",
-	"property.page.meta.info.active.version.environment.staging": "分期",
+	"property.page.meta.info.active.version.environment.staging": "演练",
 	"property.page.meta.info.active.version.in": "当前版本位于 {environment} 环境中",
 	"property.page.meta.info.service.type": "服务类型",
 	"property.placeholder.origin.host.header": "输入用于访问源站的Host请求头",
