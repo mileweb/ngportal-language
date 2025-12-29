@@ -1002,6 +1002,8 @@
 	"hint.variable.$bytes_sent": "إجمالي بايت الاستجابة للعميل",
 	"hint.variable.$cache_misc": "تخصيص مفتاح ذاكرة التخزين المؤقت",
 	"hint.variable.$cdn_cache_status": "حافة ذاكرة التخزين المؤقت HIT ، MISS إلخ.",
+	"hint.variable.$client_as_name": "اسم نظام الخدمة المستقل المرتبط بعنوان IP الخاص بالعميل",
+	"hint.variable.$client_asn": "رقم نظام التشغيل المستقل المرتبط بعنوان IP الخاص بالعميل",
 	"hint.variable.$client_country_code": "رمز بلد العميل المكون من حرفين",
 	"hint.variable.$client_http_version": "مثل \"HTTP / 2.0\"",
 	"hint.variable.$client_ip_version": "4 أو 6 لإصدار IP",

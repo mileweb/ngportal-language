@@ -1002,6 +1002,8 @@
 	"hint.variable.$bytes_sent": "クライアントへの合計応答バイト",
 	"hint.variable.$cache_misc": "キャッシュキーをカスタマイズする",
 	"hint.variable.$cdn_cache_status": "エッジキャッシュHIT、MISSなど。",
+	"hint.variable.$client_as_name": "クライアント IP に関連付けられた AS の名前",
+	"hint.variable.$client_asn": "クライアントIPに関連付けられたASの番号",
 	"hint.variable.$client_country_code": "2文字のクライアントの国コード",
 	"hint.variable.$client_http_version": "「HTTP / 2.0」のように",
 	"hint.variable.$client_ip_version": "IPバージョンの場合は4または6",
