@@ -1002,6 +1002,8 @@
 	"hint.variable.$bytes_sent": "byte di risposta totali al cliente",
 	"hint.variable.$cache_misc": "personalizza la chiave della cache",
 	"hint.variable.$cdn_cache_status": "edge cache HIT, MISS ecc.",
+	"hint.variable.$client_as_name": "Nome dell'AS associato all'IP del client",
+	"hint.variable.$client_asn": "Numero dell'AS associato all'IP del client",
 	"hint.variable.$client_country_code": "Codice paese cliente di 2 lettere",
 	"hint.variable.$client_http_version": "come \"HTTP/2.0\"",
 	"hint.variable.$client_ip_version": "4 o 6 per la versione IP",

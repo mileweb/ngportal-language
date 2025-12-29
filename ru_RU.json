@@ -1002,6 +1002,8 @@
 	"hint.variable.$bytes_sent": "общее количество байт ответа клиенту",
 	"hint.variable.$cache_misc": "настроить ключ кэша",
 	"hint.variable.$cdn_cache_status": "edge-кэш: HIT, MISS и т.д.",
+	"hint.variable.$client_as_name": "Название автономной системы, связанной с IP-адресом клиента.",
+	"hint.variable.$client_asn": "Количество автономных систем, связанных с IP-адресом клиента.",
 	"hint.variable.$client_country_code": "двухбуквенный код страны клиента",
 	"hint.variable.$client_http_version": "например, \"HTTP/2.0\"",
 	"hint.variable.$client_ip_version": "4 или 6 - версия IP",

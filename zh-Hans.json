@@ -1002,6 +1002,8 @@
 	"hint.variable.$bytes_sent": "发往客户端的总响应字节数",
 	"hint.variable.$cache_misc": "可自定义的一部分cache key",
 	"hint.variable.$cdn_cache_status": "边缘缓存HIT、MISS等状态",
+	"hint.variable.$client_as_name": "客户端所在的自治系统（AS）的名称",
+	"hint.variable.$client_asn": "客户端所在的自治系统（AS）的编号",
 	"hint.variable.$client_country_code": "2个字母的客户端国家/地区代码",
 	"hint.variable.$client_http_version": "比如“HTTP/2.0”",
 	"hint.variable.$client_ip_version": "客户端IP版本4或6",

@@ -1002,6 +1002,8 @@
 	"hint.variable.$bytes_sent": "클라이언트에 보낸 총 응답 바이트 수",
 	"hint.variable.$cache_misc": "캐시 키의 사용자 정의 가능한 부분",
 	"hint.variable.$cdn_cache_status": "에지 캐시 HIT, MISS 등 현황",
+	"hint.variable.$client_as_name": "클라이언트 IP와 연결된 AS의 이름",
+	"hint.variable.$client_asn": "클라이언트 IP와 연결된 AS 번호",
 	"hint.variable.$client_country_code": "2자리 고객 국가 코드",
 	"hint.variable.$client_http_version": "\"HTTP/2.0\"과 같이",
 	"hint.variable.$client_ip_version": "클라이언트 IP 버전 4 또는 6",
