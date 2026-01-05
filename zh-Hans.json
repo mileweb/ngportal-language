@@ -1295,7 +1295,7 @@
 	"property.beian.yes.tips": "所有加速域名均具有ICP备案。请将域名的DNS指向备案同样<a href='/cdn/edgeHostnames?hasBeian=true'>设置为“是”的调度域名</a>，以使用包括中国大陆在内的所有地区的服务器。 单击<a href='{href}' target='_blank'>这里</a>获取详细信息。",
 	"property.boolean.label.false": "否",
 	"property.boolean.label.true": "是",
-	"property.btn.add.origin": "添加",
+	"property.btn.add.origin": "添加新源站",
 	"property.btn.edit.origin": "编辑",
 	"property.btn.remove.origin": "删除",
 	"property.btn.view.origin": "查看",
