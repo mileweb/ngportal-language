@@ -286,7 +286,7 @@
 	"certificate.label.private.key": "Приватный ключ",
 	"certificate.label.private.key.required": "Приватный ключ *",
 	"certificate.label.share.with": "Предоставить доступ",
-	"certificate.label.template": " шабло",
+	"certificate.label.template": "Шаблон",
 	"certificate.parameter.id": "ID сертификата",
 	"certificate.parameter.version": "Версия",
 	"certificate.placeholder.address": "Введите название улицы.",
