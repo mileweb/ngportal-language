@@ -223,7 +223,7 @@
 	"certificate.create.success.modal.title": "证书已保存！",
 	"certificate.create.title": "创建证书",
 	"certificate.csr.city": "城市",
-	"certificate.csr.common.name": "Common Name *",
+	"certificate.csr.common.name": "通用名 *",
 	"certificate.csr.company": "公司",
 	"certificate.csr.country": "国家",
 	"certificate.csr.department": "部门",
