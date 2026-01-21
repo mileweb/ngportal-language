@@ -2401,7 +2401,7 @@
 	"user.invite.privacy.label": "Politique de confidentialité",
 	"user.invite.privacy.required": "Veuillez lire et accepter les politiques.",
 	"user.invite.privacy.terms.label": "Conditions d'utilisation",
-	"user.invite.privacy.text": "J'accepte les {name} {privacy}, {aup}, {terms} et {cookie}.",
+	"user.invite.privacy.text": "J'accepte les {name} {privacy}, {aup}, et {terms}.",
 	"user.search.placeholder": "Enter a username",
 	"validation.error.bandwidth.invalid": "Please enter the estimated bandwidth and choose its unit of measurement.",
 	"validation.error.cachekey.invalid": "The cache key hostname must be a string consisting of a-z, 0-9, '_', '-',  and '.' characters.",

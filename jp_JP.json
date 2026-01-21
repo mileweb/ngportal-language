@@ -2401,7 +2401,7 @@
 	"user.invite.privacy.label": "プライバシーポリシー",
 	"user.invite.privacy.required": "ポリシーを読んで同意してください。",
 	"user.invite.privacy.terms.label": "利用規約",
-	"user.invite.privacy.text": "{name}の{privacy}、{aup}、{terms}、および{cookie}に同意します。",
+	"user.invite.privacy.text": "{name}の{privacy}、{aup}、および{terms}に同意します。",
 	"user.search.placeholder": "ユーザー名を入力",
 	"validation.error.bandwidth.invalid": "推定帯域幅を入力し、その測定単位を選択してください。",
 	"validation.error.cachekey.invalid": "キャッシュキーのホスト名には、a-z、0-9、 '-'、 '_'、および '。'のみを含めることができます。",
