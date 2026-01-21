@@ -2401,7 +2401,7 @@
 	"user.invite.privacy.label": "Политика конфиденциальности",
 	"user.invite.privacy.required": "Пожалуйста, ознакомьтесь с политиками и примите их.",
 	"user.invite.privacy.terms.label": "Условия обслуживания",
-	"user.invite.privacy.text": "Я принимаю {name} {privacy}, {aup}, {terms} и {cookie}.",
+	"user.invite.privacy.text": "Я принимаю {name} {privacy}, {aup}, и {terms}.",
 	"user.search.placeholder": "Введите имя пользователя",
 	"validation.error.bandwidth.invalid": "Пожалуйста, введите предполагаемую пропускную способность и выберите единицу измерения.",
 	"validation.error.cachekey.invalid": "Имя хоста ключа кэша должно быть строкой, содержащей символы a-z, 0-9, а также «_», «-» и «.»",

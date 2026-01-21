@@ -2401,7 +2401,7 @@
 	"user.invite.privacy.label": "隐私政策",
 	"user.invite.privacy.required": "请阅读并接受政策。",
 	"user.invite.privacy.terms.label": "服务条款",
-	"user.invite.privacy.text": "我接受{name}的{privacy}，{aup}，{terms}和{cookie}。",
+	"user.invite.privacy.text": "我接受{name}的{privacy}，{aup}，和{terms}。",
 	"user.search.placeholder": "输入用户名",
 	"validation.error.bandwidth.invalid": "请输入预估的带宽及单位",
 	"validation.error.cachekey.invalid": "Cache Key里的域名必须是由a-z，0-9，'_'，'-'和'.'组成的字符串",
