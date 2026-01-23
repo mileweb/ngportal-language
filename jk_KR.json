@@ -2400,7 +2400,7 @@
 	"user.invite.confirm.btn": "저장하고 가입하세요",
 	"user.invite.desc.primary": "계정을 만드세요",
 	"user.invite.desc.secondary": "거의 다 됐습니다. 계정 정보를 입력하시면 바로 시작하실 수 있습니다.",
-	"user.invite.privacy.aup.label": "AUP",
+	"user.invite.privacy.aup.label": "허용 가능한 사용 정책",
 	"user.invite.privacy.cookie.label": "쿠키 정책",
 	"user.invite.privacy.dpa.label": "DPA",
 	"user.invite.privacy.label": "개인 정보 정책",
