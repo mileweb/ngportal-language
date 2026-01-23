@@ -4406,6 +4406,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>button.text.sign.in</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>button.title.next</name>
 						<description/>
 						<comment/>
@@ -37946,6 +37989,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>error.passwords.not.match</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>error.required</name>
 						<description/>
 						<comment/>
@@ -53770,6 +53856,92 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>placeholder.new.password</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>placeholder.new.password.reenter</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>placeholder.origin.select</name>
 						<description/>
 						<comment/>
@@ -54287,6 +54459,49 @@
 					</concept_node>
 					<concept_node>
 						<name>placeholder.property.version.desc</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>placeholder.verification.code</name>
 						<description/>
 						<comment/>
 						<translations>
