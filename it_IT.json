@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "Si è verificato un errore durante l'eliminazione",
 	"testsuites.title.error.delete.test.case": "Elimina test caso Errore",
 	"testsuites.title.menu.run.test.suites": "Esegui suite di test selezionate",
-	"testsuites.title.save.and.another.test.case": "Salva e crea un altro test case",
+	"testsuites.title.save.and.another.test.case": "Salva e creane un altro",
 	"testsuites.title.save.and.run": "Salva ed esegui",
 	"testsuites.title.success.save": "Valigetta di prova salvata",
 	"testsuites.title.suite.saved": "Serie di test salvata",

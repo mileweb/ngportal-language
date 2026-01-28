@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "삭제하는 동안 오류가 발생했습니다.",
 	"testsuites.title.error.delete.test.case": "테스트 케이스 오류 삭제",
 	"testsuites.title.menu.run.test.suites": "선택한 테스트 스위트 실행",
-	"testsuites.title.save.and.another.test.case": "다른 테스트 사례 저장 및 생성",
+	"testsuites.title.save.and.another.test.case": "저장하고 다른 것을 생성하세요",
 	"testsuites.title.save.and.run": "저장 및 실행",
 	"testsuites.title.success.save": "테스트 케이스 저장됨",
 	"testsuites.title.suite.saved": "테스트 스위트 저장됨",

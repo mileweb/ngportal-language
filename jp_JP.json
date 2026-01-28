@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "削除中にエラーが発生しました",
 	"testsuites.title.error.delete.test.case": "テスト ケースの削除エラー",
 	"testsuites.title.menu.run.test.suites": "選択したテスト スイートを実行",
-	"testsuites.title.save.and.another.test.case": "保存して別のテスト ケースを作成する",
+	"testsuites.title.save.and.another.test.case": "保存して別のものを作成",
 	"testsuites.title.save.and.run": "保存して実行",
 	"testsuites.title.success.save": "テスト ケースが保存されました",
 	"testsuites.title.suite.saved": "テスト スイートを保存しました",

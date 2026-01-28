@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "Error occured while deleting",
 	"testsuites.title.error.delete.test.case": "Delete Test case Error",
 	"testsuites.title.menu.run.test.suites": "Run Selected Test Suites",
-	"testsuites.title.save.and.another.test.case": "Save and Create Another Test Case",
+	"testsuites.title.save.and.another.test.case": "Save and Create Another",
 	"testsuites.title.save.and.run": "Save and Run",
 	"testsuites.title.success.save": "Test Case Saved",
 	"testsuites.title.suite.saved": "Test Suite Saved",

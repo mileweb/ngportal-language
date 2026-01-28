@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "حدث خطأ أثناء الحذف",
 	"testsuites.title.error.delete.test.case": "حذف خطأ حالة الاختبار",
 	"testsuites.title.menu.run.test.suites": "تشغيل مجموعات الاختبار المحددة",
-	"testsuites.title.save.and.another.test.case": "احفظ وأنشئ حالة اختبار أخرى",
+	"testsuites.title.save.and.another.test.case": "حفظ وإنشاء نسخة أخرى",
 	"testsuites.title.save.and.run": "حفظ وتشغيل",
 	"testsuites.title.success.save": "تم حفظ حالة الاختبار",
 	"testsuites.title.suite.saved": "تم حفظ مجموعة الاختبار",

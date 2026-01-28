@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "Ocurrió un error al eliminar",
 	"testsuites.title.error.delete.test.case": "Eliminar error de caso de prueba",
 	"testsuites.title.menu.run.test.suites": "Ejecutar conjuntos de pruebas seleccionados",
-	"testsuites.title.save.and.another.test.case": "Guardar y crear otro caso de prueba",
+	"testsuites.title.save.and.another.test.case": "Guardar y crear otro",
 	"testsuites.title.save.and.run": "Guardar y ejecutar",
 	"testsuites.title.success.save": "Caso de prueba guardado",
 	"testsuites.title.suite.saved": "Conjunto de pruebas guardado",

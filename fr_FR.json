@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "Une erreur s'est produite lors de la suppression",
 	"testsuites.title.error.delete.test.case": "Supprimer l'erreur de cas de test",
 	"testsuites.title.menu.run.test.suites": "Exécuter les suites de tests sélectionnées",
-	"testsuites.title.save.and.another.test.case": "Enregistrer et créer un autre scénario de test",
+	"testsuites.title.save.and.another.test.case": "Enregistrer et créer un autre",
 	"testsuites.title.save.and.run": "Enregistrer et executer",
 	"testsuites.title.success.save": "Scénario de test enregistré",
 	"testsuites.title.suite.saved": "Suite de tests enregistrée",

@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "Произошла ошибка при удалении",
 	"testsuites.title.error.delete.test.case": "Ошибка удаления тест-кейса",
 	"testsuites.title.menu.run.test.suites": "Запустить выбранные тестовые наборы",
-	"testsuites.title.save.and.another.test.case": "Сохранить и создать ещё один тест-кейс",
+	"testsuites.title.save.and.another.test.case": "Сохранить и создать ещё один",
 	"testsuites.title.save.and.run": "Сохранить и запустить",
 	"testsuites.title.success.save": "Тест-кейс сохранён",
 	"testsuites.title.suite.saved": "Тестовый набор сохранён",
