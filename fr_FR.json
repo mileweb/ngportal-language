@@ -2257,6 +2257,7 @@
 	"testsuites.content.discard.case.create": "Supprimer la création du scénario de test ?",
 	"testsuites.content.discard.case.update": "Supprimer la mise à jour du scénario de test ?",
 	"testsuites.content.discard.running.test": "{cntTestSuites} suites de tests et {cntTestCases} cas de test sont en cours d'exécution. Le test sera rejeté.",
+	"testsuites.content.no.property.associated.info": "Aucune propriété n'est associée à cette suite de tests.",
 	"testsuites.content.property.associated.info": "La propriété associée à cette suite de tests n'est pas déployée actuellement. Veuillez déployer la propriété ou sélectionner une autre propriété.",
 	"testsuites.content.success.save": "Le scénario de test a été mis à jour avec succès.",
 	"testsuites.content.successfully.created": "La suite de tests a été créée avec succès.",

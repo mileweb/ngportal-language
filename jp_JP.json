@@ -2257,6 +2257,7 @@
 	"testsuites.content.discard.case.create": "テスト ケースの作成を破棄しますか?",
 	"testsuites.content.discard.case.update": "テスト ケースの更新を破棄しますか?",
 	"testsuites.content.discard.running.test": "{cntTestSuites} 個のテスト スイートと {cntTestCases} 個のテスト ケースが実行中です。テストは破棄されます。",
+	"testsuites.content.no.property.associated.info": "このテスト スイートにはプロパティが関連付けられていません。",
 	"testsuites.content.property.associated.info": "このテスト スイートに関連付けられているプロパティは、現在展開されていません。プロパティをデプロイするか、別のプロパティを選択してください。",
 	"testsuites.content.success.save": "テスト ケースが正常に更新されました。",
 	"testsuites.content.successfully.created": "テスト スイートが正常に作成されました。",

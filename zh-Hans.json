@@ -2257,6 +2257,7 @@
 	"testsuites.content.discard.case.create": "放弃测试用例创建？",
 	"testsuites.content.discard.case.update": "放弃测试用例更新？",
 	"testsuites.content.discard.running.test": "{cntTestSuites} 个测试用例集和 {cntTestCases} 个测试用例正在运行。测试将被丢弃。",
+	"testsuites.content.no.property.associated.info": "此测试套件未关联任何属性。",
 	"testsuites.content.property.associated.info": "与该测试用例集关联的加速项目当前未部署。请部署加速项目或选择关联其他加速项目。",
 	"testsuites.content.success.save": "测试用例已成功更新。",
 	"testsuites.content.successfully.created": "测试用例集已成功创建。",

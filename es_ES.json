@@ -2257,6 +2257,7 @@
 	"testsuites.content.discard.case.create": "¿Descartar la creación del caso de prueba?",
 	"testsuites.content.discard.case.update": "¿Descartar la actualización del caso de prueba?",
 	"testsuites.content.discard.running.test": " Se están ejecutando{cntTestSuites} suites de prueba y {cntTestCases} casos de prueba. La prueba será descartada.",
+	"testsuites.content.no.property.associated.info": "No hay ninguna propiedad asociada a este conjunto de pruebas.",
 	"testsuites.content.property.associated.info": "La propiedad asociada con este conjunto de pruebas no está implementada actualmente. Implemente la propiedad o seleccione otra propiedad.",
 	"testsuites.content.success.save": "El caso de prueba se ha actualizado correctamente.",
 	"testsuites.content.successfully.created": "El conjunto de pruebas se ha creado correctamente.",

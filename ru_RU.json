@@ -2257,6 +2257,7 @@
 	"testsuites.content.discard.case.create": "Отменить создание тест-кейса?",
 	"testsuites.content.discard.case.update": "Отменить обновление тест-кейса?",
 	"testsuites.content.discard.running.test": "{cntTestSuites} тестовых наборов и {cntTestCases} тест-кейсов запущено. Тест будет отменён.",
+	"testsuites.content.no.property.associated.info": "К данному набору тестов не привязано ни одно свойство.",
 	"testsuites.content.property.associated.info": "Свойство, связанное с этим тестовым набором, в данный момент не развёрнуто. Пожалуйста, разверните свойство или выберите другое.",
 	"testsuites.content.success.save": "Тест-кейс успешно обновлён.",
 	"testsuites.content.successfully.created": "Тестовый набор успешно создан.",
