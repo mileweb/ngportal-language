@@ -2331,7 +2331,7 @@
 	"testsuites.title.error.delete": "删除时出错",
 	"testsuites.title.error.delete.test.case": "删除测试用例错误",
 	"testsuites.title.menu.run.test.suites": "运行选定的测试用例集",
-	"testsuites.title.save.and.another.test.case": "保存并创建另一个",
+	"testsuites.title.save.and.another.test.case": "保存并继续创建",
 	"testsuites.title.save.and.run": "保存并运行",
 	"testsuites.title.success.save": "测试用例已保存",
 	"testsuites.title.suite.saved": "测试用例集已保存",
