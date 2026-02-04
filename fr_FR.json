@@ -386,6 +386,7 @@
 	"change.impersonation.btn.text": "Changement",
 	"chatbot.caution.conversation.turns.limit.reached": "Le nombre maximal de tours de parole pour cette conversation a été atteint. Veuillez créer une nouvelle conversation.",
 	"chatbot.caution.conversations.limit.reached": "La limite de {maxConversations} conversations conservées a été atteinte. Veuillez supprimer les conversations les plus anciennes pour libérer de l'espace.",
+	"chatbot.caution.internal.error": "Une erreur s'est produite. Veuillez réessayer plus tard. Si l'erreur persiste, veuillez contacter notre service client pour obtenir de l'aide.",
 	"chatbot.content.delete.conversation": "Êtes-vous sûr de vouloir supprimer cette conversation ? Cette action est irréversible.",
 	"chatbot.content.delete.message": "Êtes-vous sûr de vouloir supprimer ce message ? Cette action est irréversible.",
 	"chatbot.cuation.label": "L'IA peut commettre des erreurs. Veuillez utiliser les réponses avec prudence.",

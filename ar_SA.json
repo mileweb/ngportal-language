@@ -386,6 +386,7 @@
 	"change.impersonation.btn.text": "يتغيرون",
 	"chatbot.caution.conversation.turns.limit.reached": "تم الوصول إلى الحد الأقصى لعدد الأدوار في المحادثة. يرجى إنشاء محادثة جديدة.",
 	"chatbot.caution.conversations.limit.reached": "تم الوصول إلى الحد الأقصى لعدد المحادثات المحفوظة {maxConversations} . يرجى حذف المحادثات القديمة لتوفير مساحة.",
+	"chatbot.caution.internal.error": "حدث خطأ. يرجى المحاولة مرة أخرى لاحقًا. إذا استمر الخطأ، يرجى الاتصال بدعم العملاء للحصول على المساعدة.",
 	"chatbot.content.delete.conversation": "هل أنت متأكد من رغبتك في حذف هذه المحادثة؟ لا يمكن التراجع عن هذا الإجراء.",
 	"chatbot.content.delete.message": "هل أنت متأكد من رغبتك في حذف هذه الرسالة؟ لا يمكن التراجع عن هذا الإجراء.",
 	"chatbot.cuation.label": "قد يرتكب الذكاء الاصطناعي أخطاءً. لذا يُرجى استخدام الإجابات بحذر.",
