@@ -386,6 +386,7 @@
 	"change.impersonation.btn.text": "変化する",
 	"chatbot.caution.conversation.turns.limit.reached": "会話のターン数が上限に達しました。新しい会話を作成してください。",
 	"chatbot.caution.conversations.limit.reached": "保存できる会話の上限（ {maxConversations} 件）に達しました。古い会話を削除して空き容量を増やしてください。",
+	"chatbot.caution.internal.error": "エラーが発生しました。しばらくしてからもう一度お試しください。それでもエラーが解消されない場合は、カスタマーサポートまでお問い合わせください。",
 	"chatbot.content.delete.conversation": "このチャットを削除してもよろしいですか? この操作は元に戻せません。",
 	"chatbot.content.delete.message": "このメッセージを削除してもよろしいですか? この操作は元に戻せません。",
 	"chatbot.cuation.label": "AIは間違いを犯す可能性があります。回答にはご注意ください。",

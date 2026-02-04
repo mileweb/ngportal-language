@@ -386,6 +386,7 @@
 	"change.impersonation.btn.text": "切换",
 	"chatbot.caution.conversation.turns.limit.reached": "该对话已超过长度上限，请创建新对话。",
 	"chatbot.caution.conversations.limit.reached": "您保留的历史对话已达到{maxConversations}个对话的上限。请清理一些对话，释放空间。",
+	"chatbot.caution.internal.error": "发生错误，请稍后重试。如果错误仍然存在，请联系我们的客户支持寻求帮助。",
 	"chatbot.content.delete.conversation": "您确定要删除该对话吗？该操作无法撤销。",
 	"chatbot.content.delete.message": "您确定要删除该消息吗？该操作无法撤销。",
 	"chatbot.cuation.label": "AI可能会犯错，请谨慎使用AI的回答。",

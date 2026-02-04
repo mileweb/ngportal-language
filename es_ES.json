@@ -386,6 +386,7 @@
 	"change.impersonation.btn.text": "cambio",
 	"chatbot.caution.conversation.turns.limit.reached": "Se ha alcanzado el límite de turnos para la conversación. Crea una nueva conversación.",
 	"chatbot.caution.conversations.limit.reached": "Se ha alcanzado el límite de {maxConversations} conversaciones retenidas. Elimina las conversaciones antiguas para liberar espacio.",
+	"chatbot.caution.internal.error": "Se ha producido un error. Inténtalo de nuevo más tarde. Si el error persiste, contacta con nuestro servicio de atención al cliente para obtener ayuda.",
 	"chatbot.content.delete.conversation": "¿Seguro que quieres eliminar este chat? Esta acción no se puede deshacer.",
 	"chatbot.content.delete.message": "¿Seguro que quieres eliminar este mensaje? Esta acción no se puede deshacer.",
 	"chatbot.cuation.label": "La IA puede cometer errores. Por favor, use las respuestas con precaución.",
