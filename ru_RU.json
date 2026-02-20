@@ -267,7 +267,7 @@
 	"certificate.dns01challenge.steps.s3.title": "Подтверждение Let’s Encrypt",
 	"certificate.dns01challenge.steps.s4.title": "Загрузка сертификата",
 	"certificate.dns01challenge.steps.try.again.message": "К сожалению, проверка DNS не может быть завершена. Пожалуйста, повторите попытку позже.",
-	"certificate.dns01challenge.tooltip.copy.dns.txt": "Скопировать DNS TXT",
+	"certificate.dns01challenge.tooltip.copy.dns.txt": "Скопировать значение записи TXT",
 	"certificate.dns01challenge.tooltip.copy.hostname": "Скопировать имя хоста",
 	"certificate.dns01challenge.wait.above.message": "Для подтверждения прав собственности на имена хостов сертификата, пожалуйста, добавьте следующие DNS TXT-записи:",
 	"certificate.dns01challenge.wait.after.start.above.message": "Пожалуйста, подождите, пока мы проверяем ваши обновления DNS и создаём новый сертификат.",

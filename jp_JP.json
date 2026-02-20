@@ -267,7 +267,7 @@
 	"certificate.dns01challenge.steps.s3.title": "Let’s Encrypt の確認",
 	"certificate.dns01challenge.steps.s4.title": "証明書のアップロード",
 	"certificate.dns01challenge.steps.try.again.message": "申し訳ございませんが、DNS 検証を完了できませんでした。しばらくしてからもう一度お試しください。",
-	"certificate.dns01challenge.tooltip.copy.dns.txt": "DNS TXTをコピー",
+	"certificate.dns01challenge.tooltip.copy.dns.txt": "TXTレコードの値をコピー",
 	"certificate.dns01challenge.tooltip.copy.hostname": "ホスト名をコピー",
 	"certificate.dns01challenge.wait.above.message": "証明書のホスト名の所有権を確認するには、次の DNS TXT レコードを追加してください。",
 	"certificate.dns01challenge.wait.after.start.above.message": "DNS 更新を確認して新しい証明書を作成するまでお待ちください。",
