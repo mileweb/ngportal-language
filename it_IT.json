@@ -2441,6 +2441,8 @@
 	"validation.error.desc.too.short": "Hai una descrizione molto breve per questa versione di proprietà. È buona norma scrivere qualcosa per documentare ciò che hai fatto.",
 	"validation.error.description.too.long": "La descrizione può contenere fino a 256 caratteri.",
 	"validation.error.duplicate.origin.name": "This origin name is already in use. Please enter a different one.",
+	"validation.error.duplicate.origin.servers.backup": "PAssicurarsi che non vi siano voci duplicate nei server di backup.",
+	"validation.error.duplicate.origin.servers.primary": "Assicurarsi che non vi siano voci duplicate nei server.",
 	"validation.error.edgeHostname.invalid": "The Edge Hostname must be a valid domain name.",
 	"validation.error.editing.version.description.too.long": "La descrizione della versione può contenere fino a 10000 caratteri.",
 	"validation.error.empty.origin.name": "The origin name cannot be empty.",
