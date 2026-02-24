@@ -2441,6 +2441,8 @@
 	"validation.error.desc.too.short": "이 속성 버전에 대한 간단한 설명이 있습니다. 자신이 한 일을 기록하기 위해 무언가를 작성하는 것이 좋습니다.",
 	"validation.error.description.too.long": "설명은 최대 256자까지 가능합니다.",
 	"validation.error.duplicate.origin.name": "이 출발지 이름이 이미 사용 중입니다. 다른 것을 입력하십시오. ",
+	"validation.error.duplicate.origin.servers.backup": "백업 서버에 중복 항목이 있습니다.",
+	"validation.error.duplicate.origin.servers.primary": "서버에 중복 항목이 있습니다.",
 	"validation.error.edgeHostname.invalid": "Edge Hostname은 유효한 도메인 이름이어야합니다. ",
 	"validation.error.editing.version.description.too.long": "버전 설명은 최대 10000자까지 가능합니다.",
 	"validation.error.empty.origin.name": "출발지 이름은 비워 둘 수 없습니다. ",

@@ -2441,6 +2441,8 @@
 	"validation.error.desc.too.short": "У вас очень короткое описание этой версии свойства. Рекомендуется добавить более подробное описание, чтобы документировать внесённые изменения.",
 	"validation.error.description.too.long": "Описание может содержать до 256 символов.",
 	"validation.error.duplicate.origin.name": "Это имя источника уже используется. Пожалуйста, введите другое.",
+	"validation.error.duplicate.origin.servers.backup": "На резервных серверах обнаружены повторяющиеся записи.",
+	"validation.error.duplicate.origin.servers.primary": "На серверах обнаружены повторяющиеся записи.",
 	"validation.error.edgeHostname.invalid": "Edge-имя хоста должно быть допустимым доменным именем.",
 	"validation.error.editing.version.description.too.long": "Описание версии может содержать до 10 000 символов.",
 	"validation.error.empty.origin.name": "Имя источника не может быть пустым.",
