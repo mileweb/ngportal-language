@@ -88,7 +88,7 @@
 	"billing.info.estimated.monthly": "Estimated cost for {monthYear} (UTC timezone)",
 	"billing.info.estimated.total": "Estimated Total:",
 	"billing.info.stripe.button.text": "Invoices & Payment",
-	"billing.info.stripe.portal.desc": "Click the button below to view past invoices and manage payment method:",
+	"billing.info.stripe.portal.desc": "Click the button below to view past invoices and manage your payment methods.",
 	"billing.info.title": "Billing Information",
 	"billing.info.unit.price": "Unit Price",
 	"billing.menu.text": "Billing",
