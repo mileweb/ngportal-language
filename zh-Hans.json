@@ -2411,7 +2411,7 @@
 	"topbar.logout": "登出",
 	"topbar.quickstart": "快速入门",
 	"topbar.totalPrice": "总价",
-	"topbar.user.impersonating": "查看客户：",
+	"topbar.user.impersonating": "下列菜单项适用于子客户：",
 	"topbar.viewAll": "查看全部",
 	"topbar.viewCart": "查看购物车",
 	"trial.expiration.popup.body.line1": "感谢您试用CDN Pro。要继续使用我们的服务，",
