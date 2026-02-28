@@ -2411,7 +2411,7 @@
 	"topbar.logout": "Log Out",
 	"topbar.quickstart": "Getting Started",
 	"topbar.totalPrice": "Total Price",
-	"topbar.user.impersonating": "Impersonating:",
+	"topbar.user.impersonating": "Items below apply to customer:",
 	"topbar.viewAll": "View All",
 	"topbar.viewCart": "View Cart",
 	"trial.expiration.popup.body.line1": "We hope you have enjoyed the free trial. To continue using our service,",
