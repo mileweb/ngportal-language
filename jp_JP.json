@@ -2411,7 +2411,7 @@
 	"topbar.logout": "ログアウト",
 	"topbar.quickstart": "入門",
 	"topbar.totalPrice": "合計金額",
-	"topbar.user.impersonating": "以下の項目は子顧客に適用されます：",
+	"topbar.user.impersonating": "子顧客：",
 	"topbar.viewAll": "すべてを見る",
 	"topbar.viewCart": "かごの中身を見る",
 	"trial.expiration.popup.body.line1": "無料トライアルをお楽しみいただけましたら幸いです。引き続きサービスをご利用いただくために、",

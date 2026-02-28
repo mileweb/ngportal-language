@@ -2411,7 +2411,7 @@
 	"topbar.logout": "Выйти",
 	"topbar.quickstart": "Начало работы",
 	"topbar.totalPrice": "Общая стоимость",
-	"topbar.user.impersonating": "Элементы ниже применяются к дочернему клиенту:",
+	"topbar.user.impersonating": "Дочерний клиент:",
 	"topbar.viewAll": "Просмотреть всё",
 	"topbar.viewCart": "Просмотреть корзину",
 	"trial.expiration.popup.body.line1": "Надеемся, что вам понравился бесплатный пробный период. Чтобы продолжить пользоваться нашим сервисом,",
