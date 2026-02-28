@@ -2411,6 +2411,7 @@
 	"topbar.logout": "로그 아웃",
 	"topbar.quickstart": "시작하기",
 	"topbar.totalPrice": "총 가격",
+	"topbar.user.impersonating": "가장:",
 	"topbar.viewAll": "모두보기",
 	"topbar.viewCart": "장바구니보기",
 	"trial.expiration.popup.body.line1": "무료 평가판을 즐기 셨기를 바랍니다. 서비스를 계속 사용하려면",
