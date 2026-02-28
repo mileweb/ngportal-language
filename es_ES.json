@@ -2411,7 +2411,7 @@
 	"topbar.logout": "Cerrar sesión",
 	"topbar.quickstart": "Empezando",
 	"topbar.totalPrice": "Precio total",
-	"topbar.user.impersonating": "Cliente secundario:",
+	"topbar.user.impersonating": "Los elementos a continuación se aplican al cliente:",
 	"topbar.viewAll": "Ver todo",
 	"topbar.viewCart": "Ver carro",
 	"trial.expiration.popup.body.line1": "Esperamos que hayas disfrutado de la prueba gratuita. Para continuar usando nuestro servicio,",
