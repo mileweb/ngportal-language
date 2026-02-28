@@ -84,6 +84,8 @@
 	"banner.info.text.property.plural": "acceleration properties",
 	"billing.info.amount": "Usage Amount",
 	"billing.info.billing.item": "Billing Item",
+	"billing.info.error.load.estimate": "Failed to load billing estimate.",
+	"billing.info.error.load.portal": "Failed to open the invoices and payment page.",
 	"billing.info.estimated.cost": "Estimated Cost",
 	"billing.info.estimated.monthly": "Estimated cost for {monthYear} (UTC timezone)",
 	"billing.info.estimated.total": "Estimated Total:",

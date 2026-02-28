@@ -84,6 +84,8 @@
 	"banner.info.text.property.plural": "خصائص التسارع",
 	"billing.info.amount": "كمية الاستخدام",
 	"billing.info.billing.item": "بند الفوترة",
+	"billing.info.error.load.estimate": "فشل تحميل تقدير الفوترة.",
+	"billing.info.error.load.portal": "فشل فتح صفحة الفواتير والدفع.",
 	"billing.info.estimated.cost": "التكلفة المقدّرة",
 	"billing.info.estimated.monthly": "التكلفة المقدّرة لـ {monthYear} (المنطقة الزمنية UTC)",
 	"billing.info.estimated.total": "الإجمالي المقدّر:",
