@@ -141,7 +141,7 @@
 	"cache.wizard.template.option.clean": "Empiece con borrón y cuenta nueva.",
 	"cache.wizard.template.option.download": "Comience con una configuración de referencia para la descarga o la aceleración de VoD.",
 	"cache.wizard.template.option.web": "Comience con una configuración de referencia para la aceleración del sitio web.",
-	"cdn.plan.menu.text": "plan",
+	"cdn.plan.menu.text": "Plan",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.text": "Los precios se muestran por GB de uso mensual. Pagará la cantidad de recursos que realmente usa. Puede comprar y liberar recursos a pedido.",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.title": "Pago por tráfico",
 	"cdn.plan.upgrade.billing.method.title": "Metodo de facturacion",

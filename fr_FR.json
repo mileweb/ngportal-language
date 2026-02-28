@@ -141,7 +141,7 @@
 	"cache.wizard.template.option.clean": "Commencez par une table rase.",
 	"cache.wizard.template.option.download": "Commencez avec un paramètre de base pour le téléchargement ou l'accélération VoD.",
 	"cache.wizard.template.option.web": "Commencez avec un paramètre de base pour l'accélération du site Web.",
-	"cdn.plan.menu.text": "Plan",
+	"cdn.plan.menu.text": "Offre",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.text": "Le prix est indiqué par Go d'utilisation mensuelle. Vous paierez le montant des ressources que vous utilisez réellement. Vous pouvez acheter et libérer des ressources sur demande.",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.title": "Paiement par trafic",
 	"cdn.plan.upgrade.billing.method.title": "Méthode de facturation",

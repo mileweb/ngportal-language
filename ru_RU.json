@@ -141,7 +141,7 @@
 	"cache.wizard.template.option.clean": "Начать с чистого листа.",
 	"cache.wizard.template.option.download": "Начать с базовой настройки для ускорения загрузки или видео по запросу.",
 	"cache.wizard.template.option.web": "Начать с базовой настройки для ускорения веб-сайта.",
-	"cdn.plan.menu.text": "Тарифный план",
+	"cdn.plan.menu.text": "Тариф",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.text": "Цены указаны за ГБ ежемесячного использования. Вы будете платить только за фактически использованные ресурсы. Ресурсы можно приобретать и освобождать по мере необходимости.",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.title": "Оплата за трафик",
 	"cdn.plan.upgrade.billing.method.title": "Способ выставления счёта",

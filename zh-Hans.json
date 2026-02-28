@@ -141,7 +141,7 @@
 	"cache.wizard.template.option.clean": "使用空白模板",
 	"cache.wizard.template.option.download": "使用适用于下载或点播加速的配置模板",
 	"cache.wizard.template.option.web": "使用适用于网页加速的配置模板",
-	"cdn.plan.menu.text": "升级为付费账号",
+	"cdn.plan.menu.text": "套餐",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.text": "按CDN节点下行流量和CDN服务器处理请求所消耗的CPU时间计费。先用后付，但每月初提前收取每月50美元的保底金额。",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.title": "按实际用量计费",
 	"cdn.plan.upgrade.billing.method.title": "计费方式",

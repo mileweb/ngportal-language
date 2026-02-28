@@ -141,7 +141,7 @@
 	"cache.wizard.template.option.clean": "きれいな状態から始めます。",
 	"cache.wizard.template.option.download": "ダウンロードまたはVoDアクセラレーションのベースライン設定から始めます。",
 	"cache.wizard.template.option.web": "Webサイトアクセラレーションのベースライン設定から始めます。",
-	"cdn.plan.menu.text": "計画",
+	"cdn.plan.menu.text": "プラン",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.text": "料金は、毎月の使用量のGBごとに表示されます。実際に使用するリソースの量に対して支払います。リソースはオンデマンドで購入および解放できます。",
 	"cdn.plan.upgrade.billing.method.pay.by.traffic.title": "トラフィックによる支払い",
 	"cdn.plan.upgrade.billing.method.title": "請求方法",
