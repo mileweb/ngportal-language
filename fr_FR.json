@@ -84,6 +84,8 @@
 	"banner.info.text.property.plural": "propriétés d'accélération",
 	"billing.info.amount": "Quantité d'utilisation",
 	"billing.info.billing.item": "Élément de facturation",
+	"billing.info.error.load.estimate": "Échec du chargement de l'estimation de facturation.",
+	"billing.info.error.load.portal": "Impossible d'ouvrir la page des factures et du paiement.",
 	"billing.info.estimated.cost": "Coût estimé",
 	"billing.info.estimated.monthly": "Coût estimé pour {monthYear} (fuseau horaire UTC)",
 	"billing.info.estimated.total": "Total estimé :",

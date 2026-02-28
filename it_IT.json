@@ -84,6 +84,8 @@
 	"banner.info.text.property.plural": "proprietà di accelerazione",
 	"billing.info.amount": "Quantità di utilizzo",
 	"billing.info.billing.item": "Voce di fatturazione",
+	"billing.info.error.load.estimate": "Impossibile caricare la stima di fatturazione.",
+	"billing.info.error.load.portal": "Impossibile aprire la pagina di fatture e pagamento.",
 	"billing.info.estimated.cost": "Costo stimato",
 	"billing.info.estimated.monthly": "Costo stimato per {monthYear} (fuso orario UTC)",
 	"billing.info.estimated.total": "Totale stimato:",

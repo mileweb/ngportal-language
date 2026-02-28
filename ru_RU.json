@@ -84,6 +84,8 @@
 	"banner.info.text.property.plural": "свойств ускорения",
 	"billing.info.amount": "Объем использования",
 	"billing.info.billing.item": "Позиция счета",
+	"billing.info.error.load.estimate": "Не удалось загрузить оценку выставления счетов.",
+	"billing.info.error.load.portal": "Не удалось открыть страницу счетов и оплаты.",
 	"billing.info.estimated.cost": "Оценочная стоимость",
 	"billing.info.estimated.monthly": "Оценочная стоимость за {monthYear} (часовой пояс UTC)",
 	"billing.info.estimated.total": "Оценочная сумма:",

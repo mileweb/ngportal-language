@@ -84,6 +84,8 @@
 	"banner.info.text.property.plural": "加速プロパティ",
 	"billing.info.amount": "使用量",
 	"billing.info.billing.item": "請求項目",
+	"billing.info.error.load.estimate": "請求見積もりの読み込みに失敗しました。",
+	"billing.info.error.load.portal": "請求書と支払いページを開けませんでした。",
 	"billing.info.estimated.cost": "推定費用",
 	"billing.info.estimated.monthly": "{monthYear} の推定費用（UTC タイムゾーン）",
 	"billing.info.estimated.total": "推定合計:",
