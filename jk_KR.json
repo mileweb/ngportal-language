@@ -2499,5 +2499,12 @@
 	"wizard.step.confirmation": "확인",
 	"wizard.step.deployment": "전개",
 	"wizard.step.origin": "원점 설정 ",
-	"wizard.step.property": "속성 설정 "
+	"wizard.step.property": "속성 설정 ",
+	"login.conflict.txt.title": "로그인 세션 충돌",
+	"login.conflict.txt.beforeName": "다른 탭에서 현재",
+	"login.conflict.txt.afterName": "으로 로그인되어 있습니다. 동일한 세션을 공유하려면",
+	"login.conflict.txt.refreshLink": "이 페이지를 새로고침",
+	"login.conflict.txt.afterRefresh": "하세요. 다른 사용자로 로그인하려면 먼저",
+	"login.conflict.txt.logoutLink": "로그아웃",
+	"login.conflict.txt.end": "하세요."
 }

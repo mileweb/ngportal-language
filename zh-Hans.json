@@ -2499,5 +2499,12 @@
 	"wizard.step.confirmation": "确认",
 	"wizard.step.deployment": "部署",
 	"wizard.step.origin": "源站设置",
-	"wizard.step.property": "加速项目设置"
+	"wizard.step.property": "加速项目设置",
+	"login.conflict.txt.title": "登录会话冲突",
+	"login.conflict.txt.beforeName": "另一个标签页当前已使用",
+	"login.conflict.txt.afterName": "登录。您可以直接",
+	"login.conflict.txt.refreshLink": "刷新当前页面",
+	"login.conflict.txt.afterRefresh": "以共享同一个会话。如果您想使用不同用户登录，请先",
+	"login.conflict.txt.logoutLink": "退出登录",
+	"login.conflict.txt.end": "。"
 }
