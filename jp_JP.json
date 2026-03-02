@@ -1211,6 +1211,13 @@
 	"link.more.details": "詳細...",
 	"link.text.additional.location": "新しい場所を追加+",
 	"loginCustomer.text": "管理者：",
+	"login.conflict.txt.afterName": "としてログインしています。同じセッションを共有するには",
+	"login.conflict.txt.afterRefresh": "してください。別のユーザーでログインするには、先に",
+	"login.conflict.txt.beforeName": "別のタブで現在",
+	"login.conflict.txt.end": "してください。",
+	"login.conflict.txt.logoutLink": "ログアウト",
+	"login.conflict.txt.refreshLink": "このページを再読み込み",
+	"login.conflict.txt.title": "ログインセッションの競合",
 	"logout.in.seconds": " {seconds} 秒でログアウトします。",
 	"modal.confirm.cancel.createPrefetch": "プリフェッチリクエストの作成を終了しますか？",
 	"modal.confirm.cancel.createProperty": "プロパティの作成を終了しますか？",
@@ -2499,12 +2506,5 @@
 	"wizard.step.confirmation": "確認",
 	"wizard.step.deployment": "展開",
 	"wizard.step.origin": "原点設定",
-	"wizard.step.property": "プロパティ設定",
-	"login.conflict.txt.title": "ログインセッションの競合",
-	"login.conflict.txt.beforeName": "別のタブで現在",
-	"login.conflict.txt.afterName": "としてログインしています。同じセッションを共有するには",
-	"login.conflict.txt.refreshLink": "このページを再読み込み",
-	"login.conflict.txt.afterRefresh": "してください。別のユーザーでログインするには、先に",
-	"login.conflict.txt.logoutLink": "ログアウト",
-	"login.conflict.txt.end": "してください。"
+	"wizard.step.property": "プロパティ設定"
 }

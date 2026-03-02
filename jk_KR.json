@@ -1211,6 +1211,13 @@
 	"link.more.details": "자세한 내용은...",
 	"link.text.additional.location": "새 위치 추가 + ",
 	"loginCustomer.text": "관리자: ",
+	"login.conflict.txt.afterName": "으로 로그인되어 있습니다. 동일한 세션을 공유하려면",
+	"login.conflict.txt.afterRefresh": "하세요. 다른 사용자로 로그인하려면 먼저",
+	"login.conflict.txt.beforeName": "다른 탭에서 현재",
+	"login.conflict.txt.end": "하세요.",
+	"login.conflict.txt.logoutLink": "로그아웃",
+	"login.conflict.txt.refreshLink": "이 페이지를 새로고침",
+	"login.conflict.txt.title": "로그인 세션 충돌",
 	"logout.in.seconds": " {seconds} 초 후에 로그아웃합니다.",
 	"modal.confirm.cancel.createPrefetch": "프리페치 요청 생성을 종료하시겠습니까?",
 	"modal.confirm.cancel.createProperty": "속성 만들기를 종료 하시겠습니까? ",
@@ -2499,12 +2506,5 @@
 	"wizard.step.confirmation": "확인",
 	"wizard.step.deployment": "전개",
 	"wizard.step.origin": "원점 설정 ",
-	"wizard.step.property": "속성 설정 ",
-	"login.conflict.txt.title": "로그인 세션 충돌",
-	"login.conflict.txt.beforeName": "다른 탭에서 현재",
-	"login.conflict.txt.afterName": "으로 로그인되어 있습니다. 동일한 세션을 공유하려면",
-	"login.conflict.txt.refreshLink": "이 페이지를 새로고침",
-	"login.conflict.txt.afterRefresh": "하세요. 다른 사용자로 로그인하려면 먼저",
-	"login.conflict.txt.logoutLink": "로그아웃",
-	"login.conflict.txt.end": "하세요."
+	"wizard.step.property": "속성 설정 "
 }

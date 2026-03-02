@@ -1211,6 +1211,13 @@
 	"link.more.details": "Подробнее...",
 	"link.text.additional.location": "Добавить новое местоположение +",
 	"loginCustomer.text": "Администратор: ",
+	"login.conflict.txt.afterName": ". Чтобы использовать тот же сеанс,",
+	"login.conflict.txt.afterRefresh": ". Если нужно войти под другим пользователем, сначала",
+	"login.conflict.txt.beforeName": "В другой вкладке уже выполнен вход как",
+	"login.conflict.txt.end": ".",
+	"login.conflict.txt.logoutLink": "выйдите",
+	"login.conflict.txt.refreshLink": "обновите эту страницу",
+	"login.conflict.txt.title": "Конфликт сеанса входа",
 	"logout.in.seconds": "Выход через {seconds} секунд.",
 	"modal.confirm.cancel.createPrefetch": "Вы хотите прекратить создание запроса на предзагрузку?",
 	"modal.confirm.cancel.createProperty": "Вы хотите прекратить создание свойства?",
@@ -2499,12 +2506,5 @@
 	"wizard.step.confirmation": "Подтверждение",
 	"wizard.step.deployment": "Развёртывание",
 	"wizard.step.origin": "Настройки источника",
-	"wizard.step.property": "Настройки свойства",
-	"login.conflict.txt.title": "Конфликт сеанса входа",
-	"login.conflict.txt.beforeName": "В другой вкладке уже выполнен вход как",
-	"login.conflict.txt.afterName": ". Чтобы использовать тот же сеанс,",
-	"login.conflict.txt.refreshLink": "обновите эту страницу",
-	"login.conflict.txt.afterRefresh": ". Если нужно войти под другим пользователем, сначала",
-	"login.conflict.txt.logoutLink": "выйдите",
-	"login.conflict.txt.end": "."
+	"wizard.step.property": "Настройки свойства"
 }
