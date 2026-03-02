@@ -1211,6 +1211,13 @@
 	"link.more.details": "More Details...",
 	"link.text.additional.location": "Add new location +",
 	"loginCustomer.text": "Administrator: ",
+	"login.conflict.txt.title": "Login Session Conflict",
+	"login.conflict.txt.beforeName": "Another tab is currently logged in as",
+	"login.conflict.txt.afterName": ". You can just",
+	"login.conflict.txt.refreshLink": "refresh this page",
+	"login.conflict.txt.afterRefresh": "to share the same session. If you want to log in as a different user, you have to",
+	"login.conflict.txt.logoutLink": "log out first",
+	"login.conflict.txt.end": ".",
 	"logout.in.seconds": "Logout in {seconds} seconds.",
 	"modal.confirm.cancel.createPrefetch": "Do you want to quit creating a prefetch request?",
 	"modal.confirm.cancel.createProperty": "Do you want to quit creating a property?",
@@ -2499,12 +2506,5 @@
 	"wizard.step.confirmation": "Confirmation",
 	"wizard.step.deployment": "Deployment",
 	"wizard.step.origin": "Origin Setting",
-	"wizard.step.property": "Property Setting",
-	"login.conflict.txt.title": "Login Session Conflict",
-	"login.conflict.txt.beforeName": "Another tab is currently logged in as",
-	"login.conflict.txt.afterName": ". You can just",
-	"login.conflict.txt.refreshLink": "refresh this page",
-	"login.conflict.txt.afterRefresh": "to share the same session. If you want to log in as a different user, you have to",
-	"login.conflict.txt.logoutLink": "log out first",
-	"login.conflict.txt.end": "."
+	"wizard.step.property": "Property Setting"
 }
