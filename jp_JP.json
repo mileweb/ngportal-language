@@ -2401,7 +2401,7 @@
 	"title.cache.setting.additional.location": "追加の場所",
 	"tls.certificate.id.2.tooltip": "「TLS証明書」と「追加TLS証明書」は、異なるタイプ、つまり1つのRSAと1つのECである必要があります。",
 	"tls.certificate.select.default": "TLS証明書を選択",
-	"tls.certificate.select.invalid.certId.comment": "（使用していた証明書は使用できなくなりました。プロパティで使用する別の証明書を選択してください）",
+	"tls.certificate.select.invalid.certId.comment": "（証明書は存在しません）",
 	"tls.certificate.select.loading": "名前を読み込んでいます",
 	"tls.certificate.select.loading.list": "証明書リストを読み込んでいます",
 	"tls.certificate.select.none": "[無し]",

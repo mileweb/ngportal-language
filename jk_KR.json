@@ -2401,7 +2401,7 @@
 	"title.cache.setting.additional.location": "추가 위치 ",
 	"tls.certificate.id.2.tooltip": "'TLS 인증서'와 '추가 TLS 인증서'는 서로 다른 유형 (즉, 하나의 RSA와 하나의 EC)이어야합니다. ",
 	"tls.certificate.select.default": "TLS 인증서 선택 ",
-	"tls.certificate.select.invalid.certId.comment": "(사용중인 인증서를 더 이상 사용할 수 없습니다. 속성에 사용할 다른 인증서를 선택하십시오) ",
+	"tls.certificate.select.invalid.certId.comment": "(해당 인증서는 더 이상 존재하지 않습니다)",
 	"tls.certificate.select.loading": "로드 이름",
 	"tls.certificate.select.loading.list": "인증서 목록 로드 중",
 	"tls.certificate.select.none": "[없음]",

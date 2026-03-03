@@ -2401,7 +2401,7 @@
 	"title.cache.setting.additional.location": "Дополнительные местоположения",
 	"tls.certificate.id.2.tooltip": "«TLS-сертификат» и «Дополнительный TLS-сертификат» должны быть разных типов, например, один RSA, а другой EC.",
 	"tls.certificate.select.default": "Выберите TLS-сертификат",
-	"tls.certificate.select.invalid.certId.comment": "(Сертификат, который вы использовали, больше недоступен. Пожалуйста, выберите другой сертификат для использования с вашим свойством)",
+	"tls.certificate.select.invalid.certId.comment": "(Сертификат больше не существует)",
 	"tls.certificate.select.loading": "Загрузка имени",
 	"tls.certificate.select.loading.list": "Загрузка списка сертификатов",
 	"tls.certificate.select.none": "[не выбрано]",
