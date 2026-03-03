@@ -2401,7 +2401,7 @@
 	"title.cache.setting.additional.location": "Additional Locations",
 	"tls.certificate.id.2.tooltip": "The 'TLS Certificate' and 'Additional TLS Certificate' must be of different types, i.e. one RSA and one EC.",
 	"tls.certificate.select.default": "Select TLS Certificate",
-	"tls.certificate.select.invalid.certId.comment": "(The certificate you were using is no longer available. Please select another certificate to use with your property)",
+	"tls.certificate.select.invalid.certId.comment": "(لم تعد الشهادة موجودة)",
 	"tls.certificate.select.loading": "اسم التحميل",
 	"tls.certificate.select.loading.list": "تحميل قائمة الشهادات",
 	"tls.certificate.select.none": "[لا أحد]",

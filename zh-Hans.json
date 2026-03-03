@@ -2401,7 +2401,7 @@
 	"title.cache.setting.additional.location": "更多Locations",
 	"tls.certificate.id.2.tooltip": "“TLS证书”和“附加TLS证书”必须为不同类型，比如一本RSA证书和一本EC证书。",
 	"tls.certificate.select.default": "选择TLS证书",
-	"tls.certificate.select.invalid.certId.comment": "（证书已不存在。请选择其它证书用于您的加速项目）",
+	"tls.certificate.select.invalid.certId.comment": "（证书已不存在）",
 	"tls.certificate.select.loading": "正在加载名称",
 	"tls.certificate.select.loading.list": "正在加载证书列表",
 	"tls.certificate.select.none": "[无]",
