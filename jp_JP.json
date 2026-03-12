@@ -1084,7 +1084,7 @@
 	"hint.logVar.%rmtuser": "基本認証が使用されている場合に Authorization ヘッダーから抽出されたユーザー名",
 	"hint.logVar.%rspsize": "HTTP レスポンスのサイズ（バイト単位、ヘッダーと本文を含む）",
 	"hint.logVar.%rsptime": "応答時間（ミリ秒）",
-	"hint.logVar.%samplerate": "nは、access_log_sampingによって設定される、nリクエストごとに1つのログエントリを意味します。",
+	"hint.logVar.%samplerate": "nは、access_log_samplingによって設定される、nリクエストごとに1つのログエントリを意味します。",
 	"hint.logVar.%scheme": "http または https",
 	"hint.logVar.%statuscode": "応答ステータスコード",
 	"hint.logVar.%svrip": "キャッシュサーバーのIP",

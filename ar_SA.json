@@ -1084,7 +1084,7 @@
 	"hint.logVar.%rmtuser": "يتم استخراج اسم المستخدم من رأس طلب التفويض عند استخدام التفويض الأساسي",
 	"hint.logVar.%rspsize": "حجم استجابة HTTP بالبايت، بما في ذلك الرأس والجسم",
 	"hint.logVar.%rsptime": "زمن الاستجابة، بالمللي ثانية",
-	"hint.logVar.%samplerate": "n تعني إدخال سجل واحد لكل n طلب، يتم تحديده بواسطة access_log_samping",
+	"hint.logVar.%samplerate": "n تعني إدخال سجل واحد لكل n طلب، يتم تحديده بواسطة access_log_sampling",
 	"hint.logVar.%scheme": "http أو https",
 	"hint.logVar.%statuscode": "رمز حالة الاستجابة",
 	"hint.logVar.%svrip": "عنوان IP لخادم التخزين المؤقت",

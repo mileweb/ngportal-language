@@ -1084,7 +1084,7 @@
 	"hint.logVar.%rmtuser": "Nome utente estratto dall'intestazione di autorizzazione quando viene utilizzata l'autenticazione di base",
 	"hint.logVar.%rspsize": "Dimensione della risposta HTTP, in byte, inclusi intestazione e corpo",
 	"hint.logVar.%rsptime": "tempo di risposta, in ms",
-	"hint.logVar.%samplerate": "n significa una voce di registro per ogni n richieste, impostata da access_log_samping",
+	"hint.logVar.%samplerate": "n significa una voce di registro per ogni n richieste, impostata da access_log_sampling",
 	"hint.logVar.%scheme": "http o https",
 	"hint.logVar.%statuscode": "codice di stato della risposta",
 	"hint.logVar.%svrip": "IP del server cache",

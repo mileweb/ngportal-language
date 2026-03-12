@@ -1084,7 +1084,7 @@
 	"hint.logVar.%rmtuser": "Nombre de usuario extraído del encabezado de autorización cuando se utiliza la autenticación básica",
 	"hint.logVar.%rspsize": "Tamaño de la respuesta HTTP, en bytes, incluido el encabezado y el cuerpo",
 	"hint.logVar.%rsptime": "tiempo de respuesta, en ms",
-	"hint.logVar.%samplerate": "n significa una entrada de registro por cada n solicitudes, establecida por access_log_samping",
+	"hint.logVar.%samplerate": "n significa una entrada de registro por cada n solicitudes, establecida por access_log_sampling",
 	"hint.logVar.%scheme": "http o https",
 	"hint.logVar.%statuscode": "Código de estado de respuesta",
 	"hint.logVar.%svrip": "IP del servidor de caché",
