@@ -1068,7 +1068,7 @@
 	"hint.logVar.%cltip": "IP du client",
 	"hint.logVar.%cltisp": "FAI du client. Ex. : « US_Google », « CN_Dianxin »",
 	"hint.logVar.%cltport": "Numéro de port du client.",
-	"hint.logVar.%cltregion": "Région de l’adresse IP du client. Par exemple : « US_Washington » ou « CN_Guangdong ».",
+	"hint.logVar.%cltregion": "Région du client, par exemple « US_Washington » ou « CN_Guangdong »",
 	"hint.logVar.%content_code": "code de contenu défini par la variable $content_code",
 	"hint.logVar.%cpu_ns": "Temps CPU en ns pour cette requête",
 	"hint.logVar.%custom_1": "champ de journal personnalisé 1 défini avec custom_log_field",
