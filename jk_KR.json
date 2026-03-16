@@ -1075,7 +1075,7 @@
 	"hint.logVar.%custom_2": "custom_log_field로 정의된 사용자 지정 로그 필드 2",
 	"hint.logVar.%hostname": "호스트 헤더",
 	"hint.logVar.%method": "GET 또는 POST 등",
-	"hint.logVar.%protocol": "HTTP/1.0 또는 HTTP/1.1 또는 HTTP2.0",
+	"hint.logVar.%protocol": "HTTP/1.0 또는 HTTP/1.1 또는 HTTP/2.0",
 	"hint.logVar.%querystr": "쿼리 문자열",
 	"hint.logVar.%referer": "리퍼러 요청 헤더",
 	"hint.logVar.%reqhdrsize": "요청 헤더 크기(바이트)",

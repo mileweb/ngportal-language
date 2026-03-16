@@ -1063,7 +1063,7 @@
 	"hint.imperative.rewrite": "переписать URI",
 	"hint.imperative.set": "присвоить значение переменной",
 	"hint.imperative.set_cache_misc": "добавить переменную в ключ кэша",
-	"hint.logVar.%apachet": "Отметка времени ответа в формате 01/фев/2022:12:34:56 +0000",
+	"hint.logVar.%apachet": "Отметка времени ответа в формате 01/Feb/2022:12:34:56 +0000",
 	"hint.logVar.%cachestate": "HIT, MISS, REVALIDATE и т. д. на пограничном сервере",
 	"hint.logVar.%cltip": "IP-адрес клиента",
 	"hint.logVar.%cltisp": "Интернет-провайдер клиента, например «US_Google», «CN_Dianxin»",
