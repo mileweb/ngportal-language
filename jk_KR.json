@@ -437,6 +437,7 @@
 	"chatbot.label.tooltip.shrink": "축소",
 	"chatbot.no.conversations.label": "대화 목록 없음.",
 	"chatbot.placeholder.ask.about.edge.logic": "엣지 로직에 대해 문의해 보세요...",
+	"chatbot.placeholder.search.chats": "채팅 검색...",
 	"chatbot.prompt.quick.question.label1": "캐시 키 사용자 지정",
 	"chatbot.prompt.quick.question.label2": "접근 제어를 시행하세요",
 	"chatbot.prompt.quick.question.label3": "클라이언트로 보낼 헤더를 수정합니다.",

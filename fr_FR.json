@@ -437,6 +437,7 @@
 	"chatbot.label.tooltip.shrink": "Rétrécir",
 	"chatbot.no.conversations.label": "Pas de conversations.",
 	"chatbot.placeholder.ask.about.edge.logic": "Renseignez-vous sur Edge Logic...",
+	"chatbot.placeholder.search.chats": "Rechercher des discussions...",
 	"chatbot.prompt.quick.question.label1": "Personnaliser la clé de cache",
 	"chatbot.prompt.quick.question.label2": "Appliquer le contrôle d'accès",
 	"chatbot.prompt.quick.question.label3": "Modifier les en-têtes côté client",

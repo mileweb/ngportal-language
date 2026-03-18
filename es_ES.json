@@ -437,6 +437,7 @@
 	"chatbot.label.tooltip.shrink": "Encoger",
 	"chatbot.no.conversations.label": "No hay conversaciones.",
 	"chatbot.placeholder.ask.about.edge.logic": "Pregunte sobre Edge Logic...",
+	"chatbot.placeholder.search.chats": "Buscar chats...",
 	"chatbot.prompt.quick.question.label1": "Personalizar la clave de caché",
 	"chatbot.prompt.quick.question.label2": "Hacer cumplir el control de acceso",
 	"chatbot.prompt.quick.question.label3": "Modificar encabezados al cliente",
