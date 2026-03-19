@@ -437,6 +437,7 @@
 	"chatbot.label.tooltip.shrink": "Свернуть",
 	"chatbot.no.conversations.label": "Нет бесед.",
 	"chatbot.placeholder.ask.about.edge.logic": "Спросите про Edge Logic...",
+	"chatbot.placeholder.search.chats": "Поиск по чатам...",
 	"chatbot.prompt.quick.question.label1": "Настроить ключ кэша",
 	"chatbot.prompt.quick.question.label2": "Обеспечить контроль доступа",
 	"chatbot.prompt.quick.question.label3": "Изменить заголовки для клиента",

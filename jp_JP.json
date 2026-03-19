@@ -437,6 +437,7 @@
 	"chatbot.label.tooltip.shrink": "縮む",
 	"chatbot.no.conversations.label": "会話はありません。",
 	"chatbot.placeholder.ask.about.edge.logic": "Edge Logic について質問する...",
+	"chatbot.placeholder.search.chats": "チャットを検索...",
 	"chatbot.prompt.quick.question.label1": "キャッシュキーをカスタマイズする",
 	"chatbot.prompt.quick.question.label2": "アクセス制御を実施する",
 	"chatbot.prompt.quick.question.label3": "クライアントへのヘッダーを変更する",

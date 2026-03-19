@@ -437,6 +437,7 @@
 	"chatbot.label.tooltip.shrink": "Shrink",
 	"chatbot.no.conversations.label": "No conversations.",
 	"chatbot.placeholder.ask.about.edge.logic": "Ask about Edge Logic...",
+	"chatbot.placeholder.search.chats": "Search chats...",
 	"chatbot.prompt.quick.question.label1": "Customize cache key",
 	"chatbot.prompt.quick.question.label2": "Enforce access control",
 	"chatbot.prompt.quick.question.label3": "Modify headers to client",
