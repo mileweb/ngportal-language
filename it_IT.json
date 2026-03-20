@@ -1792,6 +1792,7 @@
 	"real.time.log.label.sampleRate": "Sample Rate",
 	"real.time.log.logging.url.validation.failure": "At this moment, we are unable to validate this Logging URL. You can still save this configuration.",
 	"real.time.log.logging.url.validation.success": "The Logging URL has been validated successfully.",
+	"real.time.log.logging.url.leading.whitespace": "Rimuovere gli spazi iniziali dall’URL",
 	"real.time.log.required.fields.missing.error": "Logging URL and Format are required for real time logging",
 	"real.time.log.sample.rate.default.value": "Default: 1 notification for every edge request",
 	"real.time.log.section.title.header.and.value": "Intestazioni e valori:",

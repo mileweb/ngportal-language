@@ -1792,6 +1792,7 @@
 	"real.time.log.label.sampleRate": "采样率",
 	"real.time.log.logging.url.validation.failure": "我们暂时无法验证此上报URL，不过您仍然可以保存此配置。",
 	"real.time.log.logging.url.validation.success": "上报URL已成功验证。",
+	"real.time.log.logging.url.leading.whitespace": "请删除URL之前的空格字符",
 	"real.time.log.required.fields.missing.error": "“上报URL”和“日志格式”不能为空",
 	"real.time.log.sample.rate.default.value": "默认每个边缘请求上报1条日志",
 	"real.time.log.section.title.header.and.value": " 请求头:",
