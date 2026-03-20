@@ -1792,6 +1792,7 @@
 	"real.time.log.label.sampleRate": "サンプルレート",
 	"real.time.log.logging.url.validation.failure": "現時点ではこのレポートURLを検証できません。この設定は保存可能です。",
 	"real.time.log.logging.url.validation.success": "レポート URL が正常に検証されました。",
+	"real.time.log.logging.url.leading.whitespace": "URLの先頭の空白を削除してください",
 	"real.time.log.required.fields.missing.error": "リアルタイムロギングには「ロギングURL」と「フォーマット」が必要です",
 	"real.time.log.sample.rate.default.value": "デフォルト: エッジリクエストごとに1つの通知",
 	"real.time.log.section.title.header.and.value": "ヘッダーと値:",

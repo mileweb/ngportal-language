@@ -1792,6 +1792,7 @@
 	"real.time.log.label.sampleRate": "Частота выборки",
 	"real.time.log.logging.url.validation.failure": "В настоящий момент мы не можем проверить этот URL для логирования. Вы всё равно можете сохранить эту конфигурацию.",
 	"real.time.log.logging.url.validation.success": "URL для логирования успешно проверен.",
+	"real.time.log.logging.url.leading.whitespace": "Удалите пробелы в начале URL",
 	"real.time.log.required.fields.missing.error": "Для логирования в реальном времени обязательны поля «URL для логирования» и «Формат»",
 	"real.time.log.sample.rate.default.value": "По умолчанию: 1 уведомление на каждый edge-запрос",
 	"real.time.log.section.title.header.and.value": " Заголовки и значения:",
