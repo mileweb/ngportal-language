@@ -437,7 +437,7 @@
 	"chatbot.label.tooltip.shrink": "缩小",
 	"chatbot.no.conversations.label": "没有对话历史。",
 	"chatbot.placeholder.ask.about.edge.logic": "询问有关边缘逻辑的问题……",
-	"chatbot.placeholder.search.chats": "搜索对话历史......",
+	"chatbot.placeholder.search.chats": "搜索对话历史...",
 	"chatbot.prompt.quick.question.label1": "自定义缓存键",
 	"chatbot.prompt.quick.question.label2": "设置访问控制",
 	"chatbot.prompt.quick.question.label3": "修改响应头",
