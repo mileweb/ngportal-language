@@ -1445,7 +1445,7 @@
 	"property.label.cacheKeyUri": "Cache Key URI",
 	"property.option.cacheKeyUri.preRewrite": "Pre-Rewrite",
 	"property.option.cacheKeyUri.postRewrite": "Post-Rewrite",
-	"property.hint.cacheKeyUri": "Decides how the URI of a request is incorporated into the cache key when you have the \"rewrite\" directive in Edge Logic. The default value \"Pre-Rewrite\" puts the unmodified URI into cache key. \"Post-Rewrite\" uses the modified URI instead, which in some cases can improve the cache hit ratio.\n\nNote that the query string is not included in the cache key by default. To add query string and other parameters like request header to the cache key, assign the values to the variable $cache_misc in Edge Logic.",
+	"property.hint.cacheKeyUri": "Edge Logic에 \"rewrite\" 지시어가 있을 때 요청 URI가 캐시 키에 어떻게 포함되는지 결정합니다. 기본값 \"Pre-Rewrite\"는 수정되지 않은 URI를 캐시 키에 넣습니다. \"Post-Rewrite\"는 수정된 URI를 사용하며, 경우에 따라 캐시 적중률을 높일 수 있습니다.\n\n기본적으로 쿼리 문자열은 캐시 키에 포함되지 않습니다. 쿼리 문자열 및 요청 헤더 등 다른 매개변수를 캐시 키에 추가하려면 Edge Logic에서 변수 $cache_misc에 값을 할당하세요.",
 	"property.label.cachekey.hostname": "캐시 키 호스트 이름 ",
 	"property.label.certificate.renew.automation.disable": "비활성화",
 	"property.label.certificate.renew.automation.support": "지원하다",
