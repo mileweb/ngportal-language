@@ -135,7 +135,7 @@
 	"billing.stripe.payment.methods.empty": "保存されたカードはありません。支払い方法を追加してください。",
 	"billing.stripe.remove": "削除",
 	"billing.stripe.save.payment.method": "カードを保存",
-	"billing.stripe.section.intro": "サービスをご利用いただくには、デフォルトのお支払い方法の登録が必要です。",
+	"billing.stripe.section.intro": "サービスをご利用いただくには、デフォルトのお支払い方法をお持ちいただく必要があります。",
 	"billing.stripe.section.title": "請求書と支払い方法",
 	"billing.stripe.set.default": "デフォルトに設定",
 	"billing.stripe.tab.invoices": "請求書",
