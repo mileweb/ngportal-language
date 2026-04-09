@@ -1481,7 +1481,7 @@
 	"property.label.allow.protocol.downgrade": "プロトコルのダウングレードを許可",
 	"property.label.beian.content.type": "Beian 콘텐츠 유형",
 	"property.label.cache.key.scheme": "HTTPSコンテンツをHTTPとは別にキャッシュする",
-	"property.label.cacheKeyUri": "Cache Key URI",
+	"property.label.cacheKeyUri": "キャッシュキー URI",
 	"property.option.cacheKeyUri.preRewrite": "Pre-Rewrite",
 	"property.option.cacheKeyUri.postRewrite": "Post-Rewrite",
 	"property.hint.cacheKeyUri": "Edge Logic に「rewrite」ディレクティブがある場合、リクエストの URI がキャッシュキーにどのように組み込まれるかを決めます。既定値「Pre-Rewrite」は変更前の URI をキャッシュキーに入れます。「Post-Rewrite」は変更後の URI を使い、場合によってはキャッシュヒット率が向上することがあります。\n\n既定ではクエリ文字列はキャッシュキーに含まれません。クエリ文字列やリクエストヘッダーなどをキャッシュキーに含めるには、Edge Logic で変数 $cache_misc に値を代入してください。",
