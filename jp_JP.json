@@ -136,7 +136,6 @@
 	"billing.stripe.remove": "削除",
 	"billing.stripe.save.payment.method": "カードを保存",
 	"billing.stripe.section.intro": "サービスをご利用いただくには、デフォルトのお支払い方法をお持ちいただく必要があります。",
-	"billing.stripe.section.title": "請求書と支払い方法",
 	"billing.stripe.set.default": "デフォルトに設定",
 	"billing.stripe.tab.invoices": "請求書",
 	"billing.stripe.tab.monthly.usage": "月次利用量",

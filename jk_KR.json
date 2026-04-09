@@ -136,7 +136,6 @@
 	"billing.stripe.remove": "제거",
 	"billing.stripe.save.payment.method": "카드 저장",
 	"billing.stripe.section.intro": "서비스를 이용하려면 기본 결제 수단을 유지해야 합니다.",
-	"billing.stripe.section.title": "청구서 및 결제 수단",
 	"billing.stripe.set.default": "기본으로 설정",
 	"billing.stripe.tab.invoices": "청구서",
 	"billing.stripe.tab.monthly.usage": "월간 이용량",

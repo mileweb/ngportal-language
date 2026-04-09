@@ -136,7 +136,6 @@
 	"billing.stripe.remove": "Удалить",
 	"billing.stripe.save.payment.method": "Сохранить карту",
 	"billing.stripe.section.intro": "Для использования сервиса необходимо иметь действующий способ оплаты по умолчанию.",
-	"billing.stripe.section.title": "Счета и способы оплаты",
 	"billing.stripe.set.default": "Сделать основным",
 	"billing.stripe.tab.invoices": "Счета",
 	"billing.stripe.tab.monthly.usage": "Ежемесячное использование",

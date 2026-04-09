@@ -136,7 +136,6 @@
 	"billing.stripe.remove": "移除",
 	"billing.stripe.save.payment.method": "保存银行卡",
 	"billing.stripe.section.intro": "使用本服务需要保持有一个默认付款方式。",
-	"billing.stripe.section.title": "账单与付款方式",
 	"billing.stripe.set.default": "设为默认",
 	"billing.stripe.tab.invoices": "账单",
 	"billing.stripe.tab.monthly.usage": "每月用量",

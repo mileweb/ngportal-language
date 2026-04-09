@@ -136,7 +136,6 @@
 	"billing.stripe.remove": "إزالة",
 	"billing.stripe.save.payment.method": "حفظ البطاقة",
 	"billing.stripe.section.intro": "يجب الاحتفاظ بطريقة دفع افتراضية لاستخدام الخدمة.",
-	"billing.stripe.section.title": "الفواتير وطرق الدفع",
 	"billing.stripe.set.default": "تعيين كافتراضي",
 	"billing.stripe.tab.invoices": "الفواتير",
 	"billing.stripe.tab.monthly.usage": "الاستخدام الشهري",

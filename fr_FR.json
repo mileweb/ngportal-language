@@ -136,7 +136,6 @@
 	"billing.stripe.remove": "Supprimer",
 	"billing.stripe.save.payment.method": "Enregistrer la carte",
 	"billing.stripe.section.intro": "Pour utiliser le service, vous devez conserver un moyen de paiement par défaut.",
-	"billing.stripe.section.title": "Factures et moyens de paiement",
 	"billing.stripe.set.default": "Définir par défaut",
 	"billing.stripe.tab.invoices": "Factures",
 	"billing.stripe.tab.monthly.usage": "Utilisation mensuelle",

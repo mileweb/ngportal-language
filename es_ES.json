@@ -136,7 +136,6 @@
 	"billing.stripe.remove": "Eliminar",
 	"billing.stripe.save.payment.method": "Guardar tarjeta",
 	"billing.stripe.section.intro": "Debe mantener un método de pago predeterminado para utilizar el servicio.",
-	"billing.stripe.section.title": "Facturas y métodos de pago",
 	"billing.stripe.set.default": "Establecer como predeterminado",
 	"billing.stripe.tab.invoices": "Facturas",
 	"billing.stripe.tab.monthly.usage": "Uso mensual",
