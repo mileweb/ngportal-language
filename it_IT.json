@@ -135,7 +135,7 @@
 	"billing.stripe.payment.methods.empty": "Nessuna carta salvata. Aggiungi un metodo di pagamento.",
 	"billing.stripe.remove": "Rimuovi",
 	"billing.stripe.save.payment.method": "Salva carta",
-	"billing.stripe.section.intro": "È necessario un metodo di pagamento predefinito; la carta predefinita non può essere rimossa finché un’altra carta non è impostata come predefinita.",
+	"billing.stripe.section.intro": "È necessario un metodo di pagamento predefinito per utilizzare il servizio.",
 	"billing.stripe.section.title": "Fatture e metodi di pagamento",
 	"billing.stripe.set.default": "Imposta come predefinito",
 	"billing.stripe.tab.invoices": "Fatture",

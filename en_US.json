@@ -135,7 +135,7 @@
 	"billing.stripe.payment.methods.empty": "No saved cards. Add a payment method to get started.",
 	"billing.stripe.remove": "Remove",
 	"billing.stripe.save.payment.method": "Save card",
-	"billing.stripe.section.intro": "You must keep a default payment method; the default card cannot be removed until another card is set as default.",
+	"billing.stripe.section.intro": "A default payment method is required to use the service.",
 	"billing.stripe.section.title": "Invoices and payment methods",
 	"billing.stripe.set.default": "Set as default",
 	"billing.stripe.tab.invoices": "Invoices",

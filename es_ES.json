@@ -135,7 +135,7 @@
 	"billing.stripe.payment.methods.empty": "No hay tarjetas guardadas. Añada un método de pago.",
 	"billing.stripe.remove": "Eliminar",
 	"billing.stripe.save.payment.method": "Guardar tarjeta",
-	"billing.stripe.section.intro": "Debe mantener un método de pago predeterminado; no puede eliminar la tarjeta predeterminada hasta que otra tarjeta sea la predeterminada.",
+	"billing.stripe.section.intro": "Se requiere un método de pago predeterminado para utilizar el servicio.",
 	"billing.stripe.section.title": "Facturas y métodos de pago",
 	"billing.stripe.set.default": "Establecer como predeterminado",
 	"billing.stripe.tab.invoices": "Facturas",
