@@ -135,7 +135,7 @@
 	"billing.stripe.payment.methods.empty": "暂无保存的银行卡。请先添加付款方式。",
 	"billing.stripe.remove": "移除",
 	"billing.stripe.save.payment.method": "保存银行卡",
-	"billing.stripe.section.intro": "在此查看账单并管理已保存的银行卡。您须保留一个默认付款方式；在将另一张卡设为默认之前，无法移除当前默认卡。",
+	"billing.stripe.section.intro": "您须保留一个默认付款方式；在将另一张卡设为默认之前，无法移除当前默认卡。",
 	"billing.stripe.section.title": "账单与付款方式",
 	"billing.stripe.set.default": "设为默认",
 	"billing.stripe.tab.invoices": "账单",

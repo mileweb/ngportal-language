@@ -135,7 +135,7 @@
 	"billing.stripe.payment.methods.empty": "لا توجد بطاقات محفوظة. أضف طريقة دفع.",
 	"billing.stripe.remove": "إزالة",
 	"billing.stripe.save.payment.method": "حفظ البطاقة",
-	"billing.stripe.section.intro": "اعرض الفواتير وأدر البطاقات المحفوظة. يجب الاحتفاظ بطريقة دفع افتراضية؛ لا يمكن إزالة البطاقة الافتراضية حتى تُعيَّن بطاقة أخرى كافتراضية.",
+	"billing.stripe.section.intro": "يجب الاحتفاظ بطريقة دفع افتراضية؛ لا يمكن إزالة البطاقة الافتراضية حتى تُعيَّن بطاقة أخرى كافتراضية.",
 	"billing.stripe.section.title": "الفواتير وطرق الدفع",
 	"billing.stripe.set.default": "تعيين كافتراضي",
 	"billing.stripe.tab.invoices": "الفواتير",

@@ -135,7 +135,7 @@
 	"billing.stripe.payment.methods.empty": "Aucune carte enregistrée. Ajoutez un moyen de paiement.",
 	"billing.stripe.remove": "Supprimer",
 	"billing.stripe.save.payment.method": "Enregistrer la carte",
-	"billing.stripe.section.intro": "Consultez vos factures et gérez les cartes enregistrées. Un moyen de paiement par défaut est obligatoire ; la carte par défaut ne peut pas être supprimée tant qu’une autre carte n’a pas été définie par défaut.",
+	"billing.stripe.section.intro": "Un moyen de paiement par défaut est obligatoire ; la carte par défaut ne peut pas être supprimée tant qu’une autre carte n’a pas été définie par défaut.",
 	"billing.stripe.section.title": "Factures et moyens de paiement",
 	"billing.stripe.set.default": "Définir par défaut",
 	"billing.stripe.tab.invoices": "Factures",
