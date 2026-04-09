@@ -139,6 +139,7 @@
 	"billing.stripe.section.title": "账单与付款方式",
 	"billing.stripe.set.default": "设为默认",
 	"billing.stripe.tab.invoices": "账单",
+	"billing.stripe.tab.monthly.usage": "每月用量",
 	"billing.stripe.tab.payment.methods": "付款方式",
 	"billing.stripe.warning.no.default": "尚未选择默认付款方式。请先在一张卡上点击「设为默认」，然后才能移除其他卡。",
 	"billing.info.unit.price": "单价",

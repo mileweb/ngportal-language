@@ -139,6 +139,7 @@
 	"billing.stripe.section.title": "Invoices and payment methods",
 	"billing.stripe.set.default": "Set as default",
 	"billing.stripe.tab.invoices": "Invoices",
+	"billing.stripe.tab.monthly.usage": "Monthly Usage",
 	"billing.stripe.tab.payment.methods": "Payment methods",
 	"billing.stripe.warning.no.default": "No default payment method is selected. Choose \"Set as default\" on a card before you can remove any other card.",
 	"billing.info.unit.price": "Unit Price",

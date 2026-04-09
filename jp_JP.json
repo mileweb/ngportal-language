@@ -139,6 +139,7 @@
 	"billing.stripe.section.title": "請求書と支払い方法",
 	"billing.stripe.set.default": "デフォルトに設定",
 	"billing.stripe.tab.invoices": "請求書",
+	"billing.stripe.tab.monthly.usage": "月次利用量",
 	"billing.stripe.tab.payment.methods": "支払い方法",
 	"billing.stripe.warning.no.default": "デフォルトの支払い方法が選択されていません。他のカードを削除する前に、いずれかのカードで「デフォルトに設定」を選んでください。",
 	"billing.info.unit.price": "単価",

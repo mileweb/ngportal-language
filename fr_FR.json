@@ -139,6 +139,7 @@
 	"billing.stripe.section.title": "Factures et moyens de paiement",
 	"billing.stripe.set.default": "Définir par défaut",
 	"billing.stripe.tab.invoices": "Factures",
+	"billing.stripe.tab.monthly.usage": "Utilisation mensuelle",
 	"billing.stripe.tab.payment.methods": "Moyens de paiement",
 	"billing.stripe.warning.no.default": "Aucun moyen de paiement par défaut n’est sélectionné. Utilisez « Définir par défaut » sur une carte avant d’en supprimer une autre.",
 	"billing.info.unit.price": "Prix unitaire",

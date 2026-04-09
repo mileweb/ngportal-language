@@ -139,6 +139,7 @@
 	"billing.stripe.section.title": "청구서 및 결제 수단",
 	"billing.stripe.set.default": "기본으로 설정",
 	"billing.stripe.tab.invoices": "청구서",
+	"billing.stripe.tab.monthly.usage": "월간 이용량",
 	"billing.stripe.tab.payment.methods": "결제 수단",
 	"billing.stripe.warning.no.default": "기본 결제 수단이 선택되지 않았습니다. 다른 카드를 제거하려면 먼저 카드에서 «기본으로 설정»을 선택하세요.",
 	"billing.info.unit.price": "단가",

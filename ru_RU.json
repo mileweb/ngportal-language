@@ -139,6 +139,7 @@
 	"billing.stripe.section.title": "Счета и способы оплаты",
 	"billing.stripe.set.default": "Сделать основным",
 	"billing.stripe.tab.invoices": "Счета",
+	"billing.stripe.tab.monthly.usage": "Ежемесячное использование",
 	"billing.stripe.tab.payment.methods": "Способы оплаты",
 	"billing.stripe.warning.no.default": "Не выбран способ оплаты по умолчанию. Сначала нажмите «Сделать основным» для одной из карт, затем можно удалять остальные.",
 	"billing.info.unit.price": "Цена за единицу",

@@ -139,6 +139,7 @@
 	"billing.stripe.section.title": "Facturas y métodos de pago",
 	"billing.stripe.set.default": "Establecer como predeterminado",
 	"billing.stripe.tab.invoices": "Facturas",
+	"billing.stripe.tab.monthly.usage": "Uso mensual",
 	"billing.stripe.tab.payment.methods": "Métodos de pago",
 	"billing.stripe.warning.no.default": "No hay ningún método de pago predeterminado seleccionado. Elija «Establecer como predeterminado» en una tarjeta antes de eliminar otra.",
 	"billing.info.unit.price": "Precio unitario",
