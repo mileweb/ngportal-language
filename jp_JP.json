@@ -1484,7 +1484,7 @@
 	"property.label.cacheKeyUri": "キャッシュキー URI",
 	"property.option.cacheKeyUri.preRewrite": "書き換え前",
 	"property.option.cacheKeyUri.postRewrite": "書き換え後",
-	"property.hint.cacheKeyUri": "Edge Logic に「rewrite」ディレクティブがある場合、リクエストの URI がキャッシュキーにどのように組み込まれるかを決めます。既定値「Pre-Rewrite」は変更前の URI をキャッシュキーに入れます。「Post-Rewrite」は変更後の URI を使い、場合によってはキャッシュヒット率が向上することがあります。\n\n既定ではクエリ文字列はキャッシュキーに含まれません。クエリ文字列やリクエストヘッダーなどをキャッシュキーに含めるには、Edge Logic で変数 $cache_misc に値を代入してください。",
+	"property.hint.cacheKeyUri": "Edge Logic に「rewrite」ディレクティブがある場合、リクエストの URI がキャッシュキーにどのように組み込まれるかを決めます。既定値「書き換え前」は変更前の URI をキャッシュキーに入れます。「書き換え後」は変更後の URI を使い、場合によってはキャッシュヒット率が向上することがあります。\n\n既定ではクエリ文字列はキャッシュキーに含まれません。クエリ文字列やリクエストヘッダーなどをキャッシュキーに含めるには、Edge Logic で変数 $cache_misc に値を代入してください。",
 	"property.label.cachekey.hostname": "キャッシュキーのホスト名",
 	"property.label.certificate.renew.automation.disable": "無効にする",
 	"property.label.certificate.renew.automation.support": "サポート",
