@@ -1483,7 +1483,7 @@
 	"property.label.cacheKeyUri": "Cache Key URI",
 	"property.option.cacheKeyUri.preRewrite": "Pre-Rewrite",
 	"property.option.cacheKeyUri.postRewrite": "Post-Rewrite",
-	"property.hint.cacheKeyUri": "Determina come l'URI di una richiesta viene incorporato nella chiave di cache quando è presente la direttiva \"rewrite\" in Edge Logic. Il valore predefinito \"Pre-Rewrite\" inserisce l'URI non modificato nella chiave di cache. \"Post-Rewrite\" usa l'URI modificato, che in alcuni casi può migliorare il tasso di hit della cache.\n\nLa stringa di query non è inclusa nella chiave di cache per impostazione predefinita. Per aggiungere la stringa di query e altri parametri come l'intestazione della richiesta alla chiave di cache, assegnare i valori alla variabile $cache_misc in Edge Logic.",
+	"property.hint.cacheKeyUri": "Determina come l'URI di una richiesta viene incorporato nella chiave di cache quando è presente la direttiva \"rewrite\" in Edge Logic. Il valore predefinito \"{preRewrite}\" inserisce l'URI non modificato nella chiave di cache. \"{postRewrite}\" usa l'URI modificato, che in alcuni casi può migliorare il tasso di hit della cache.\n\nLa stringa di query non è inclusa nella chiave di cache per impostazione predefinita. Per aggiungere la stringa di query e altri parametri come l'intestazione della richiesta alla chiave di cache, assegnare i valori alla variabile $cache_misc in Edge Logic.",
 	"property.label.cachekey.hostname": "Cache Key Hostname ",
 	"property.label.certificate.renew.automation.disable": "disattivare",
 	"property.label.certificate.renew.automation.support": "Supporto",

@@ -1483,7 +1483,7 @@
 	"property.label.cacheKeyUri": "Cache Key URI",
 	"property.option.cacheKeyUri.preRewrite": "Pre-Rewrite",
 	"property.option.cacheKeyUri.postRewrite": "Post-Rewrite",
-	"property.hint.cacheKeyUri": "يحدد كيفية دمج URI الطلب في مفتاح التخزين المؤقت عند وجود التوجيه \"rewrite\" في Edge Logic. القيمة الافتراضية \"Pre-Rewrite\" تضع URI غير المعدل في مفتاح التخزين المؤقت. يستخدم \"Post-Rewrite\" الـ URI المعدل، وفي بعض الحالات يمكن أن يحسن نسبة إصابة التخزين المؤقت.\n\nسلسلة الاستعلام غير مضمنة في مفتاح التخزين المؤقت افتراضيًا. لإضافة سلسلة الاستعلام ومعاملات أخرى مثل رأس الطلب إلى مفتاح التخزين المؤقت، عيّن القيم إلى المتغير $cache_misc في Edge Logic.",
+	"property.hint.cacheKeyUri": "يحدد كيفية دمج URI الطلب في مفتاح التخزين المؤقت عند وجود التوجيه \"rewrite\" في Edge Logic. القيمة الافتراضية \"{preRewrite}\" تضع URI غير المعدل في مفتاح التخزين المؤقت. يستخدم \"{postRewrite}\" الـ URI المعدل، وفي بعض الحالات يمكن أن يحسن نسبة إصابة التخزين المؤقت.\n\nسلسلة الاستعلام غير مضمنة في مفتاح التخزين المؤقت افتراضيًا. لإضافة سلسلة الاستعلام ومعاملات أخرى مثل رأس الطلب إلى مفتاح التخزين المؤقت، عيّن القيم إلى المتغير $cache_misc في Edge Logic.",
 	"property.label.cachekey.hostname": "Cache Key Hostname ",
 	"property.label.certificate.renew.automation.disable": "تعطيل",
 	"property.label.certificate.renew.automation.support": "الدعم",

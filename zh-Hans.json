@@ -1483,7 +1483,7 @@
 	"property.label.cacheKeyUri": "缓存键里的URI",
 	"property.option.cacheKeyUri.preRewrite": "改写前",
 	"property.option.cacheKeyUri.postRewrite": "改写后",
-	"property.hint.cacheKeyUri": "当边缘逻辑（Edge Logic）中含有 rewrite 指令时，此项决定如何将请求 URI 纳入缓存键。默认「改写前」将未修改的 URI 写入缓存键；「改写后」使用改写后的 URI，某些情况下可提高缓存命中率。\n\n默认情况下，查询字符串不包含在缓存键中。若要将查询字符串及请求头等参数纳入缓存键，请在边缘逻辑中将对应值赋给变量 $cache_misc。",
+	"property.hint.cacheKeyUri": "当边缘逻辑（Edge Logic）中含有 rewrite 指令时，此项决定如何将请求 URI 纳入缓存键。默认「{preRewrite}」将未修改的 URI 写入缓存键；「{postRewrite}」使用改写后的 URI，某些情况下可提高缓存命中率。\n\n默认情况下，查询字符串不包含在缓存键中。若要将查询字符串及请求头等参数纳入缓存键，请在边缘逻辑中将对应值赋给变量 $cache_misc。",
 	"property.label.cachekey.hostname": "缓存键里的域名",
 	"property.label.certificate.renew.automation.disable": "禁用",
 	"property.label.certificate.renew.automation.support": "启用",
