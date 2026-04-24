@@ -619,6 +619,7 @@
 	"customer.customer.support": "Customer Support",
 	"customer.impersonation.column.action": "Action",
 	"customer.impersonation.column.creation.time": "Creation Time",
+	"customer.impersonation.column.email": "Email Address",
 	"customer.impersonation.column.id": "ID",
 	"customer.impersonation.column.impersonate": "Impersonate",
 	"customer.impersonation.column.name": "Customer Name",

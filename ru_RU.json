@@ -621,6 +621,7 @@
 	"customer.customer.support": "Поддержка клиeнтов",
 	"customer.impersonation.column.action": "Действие",
 	"customer.impersonation.column.creation.time": "Дата создания",
+	"customer.impersonation.column.email": "Электронная почта",
 	"customer.impersonation.column.id": "ID",
 	"customer.impersonation.column.impersonate": "От имени клиента",
 	"customer.impersonation.column.name": "Имя клиента",

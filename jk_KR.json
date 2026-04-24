@@ -619,6 +619,7 @@
 	"customer.customer.support": "고객 서포트",
 	"customer.impersonation.column.action": "동작",
 	"customer.impersonation.column.creation.time": "제작 시간",
+	"customer.impersonation.column.email": "이메일 주소",
 	"customer.impersonation.column.id": "ID",
 	"customer.impersonation.column.impersonate": "가장",
 	"customer.impersonation.column.name": "고객 이름",

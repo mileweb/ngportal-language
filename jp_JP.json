@@ -619,6 +619,7 @@
 	"customer.customer.support": "顧客サポート",
 	"customer.impersonation.column.action": "アクション",
 	"customer.impersonation.column.creation.time": "作成時間",
+	"customer.impersonation.column.email": "メールアドレス",
 	"customer.impersonation.column.id": "ID",
 	"customer.impersonation.column.impersonate": "なりすまし",
 	"customer.impersonation.column.name": "顧客名",

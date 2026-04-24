@@ -619,6 +619,7 @@
 	"customer.customer.support": "客户支持",
 	"customer.impersonation.column.action": "操作",
 	"customer.impersonation.column.creation.time": "创建时间",
+	"customer.impersonation.column.email": "电子邮箱",
 	"customer.impersonation.column.id": "ID",
 	"customer.impersonation.column.impersonate": "身份切换",
 	"customer.impersonation.column.name": "客户名称",
