@@ -631,7 +631,7 @@
 	"customer.list": "Customer List",
 	"customer.list.regional.office.dropdown.filter.button.reset": "Réinitialiser",
 	"customer.list.regional.office.dropdown.filter.button.search": "Recherche",
-	"customer.list.regional.office.dropdown.filter.search.regional.office": "Rechercher {regionalOffice}",
+	"customer.list.column.dropdown.filter.search": "Rechercher {columnName}",
 	"customer.list.regional.office.invalid": "Le bureau régional saisi n'est pas valide. Veuillez utiliser a-z, A-Z, 0-9, - ou *",
 	"customer.status.active": "Active",
 	"customer.status.pending": "Pending",

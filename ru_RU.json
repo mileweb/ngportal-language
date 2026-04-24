@@ -633,7 +633,7 @@
 	"customer.list": "Список клиентов",
 	"customer.list.regional.office.dropdown.filter.button.reset": "Сбросить",
 	"customer.list.regional.office.dropdown.filter.button.search": "Поиск",
-	"customer.list.regional.office.dropdown.filter.search.regional.office": "Искать {regionalOffice}",
+	"customer.list.column.dropdown.filter.search": "Искать {columnName}",
 	"customer.list.regional.office.invalid": "Введенный региональный офис недействителен. Пожалуйста, используйте a-Z, A-Z, 0-9, - или *",
 	"customer.status.active": "Активный",
 	"customer.status.pending": "В ожидании",

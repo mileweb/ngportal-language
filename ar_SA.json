@@ -631,7 +631,7 @@
 	"customer.list": "Customer List",
 	"customer.list.regional.office.dropdown.filter.button.reset": "إعادة ضبط",
 	"customer.list.regional.office.dropdown.filter.button.search": "يبحث",
-	"customer.list.regional.office.dropdown.filter.search.regional.office": "بحث {regionalOffice}",
+	"customer.list.column.dropdown.filter.search": "بحث {columnName}",
 	"customer.list.regional.office.invalid": "المكتب الإقليمي الذي تم إدخاله غير صالح. الرجاء استخدام a-z أو A-Z أو 0-9 أو - أو *",
 	"customer.status.active": "Active",
 	"customer.status.pending": "Pending",

@@ -24702,7 +24702,7 @@
 						</translations>
 					</concept_node>
 					<concept_node>
-						<name>customer.list.regional.office.dropdown.filter.search.regional.office</name>
+						<name>customer.list.column.dropdown.filter.search</name>
 						<description/>
 						<comment/>
 						<translations>

@@ -631,7 +631,7 @@
 	"customer.list": "Customer List",
 	"customer.list.regional.office.dropdown.filter.button.reset": "Reiniciar",
 	"customer.list.regional.office.dropdown.filter.button.search": "Buscar",
-	"customer.list.regional.office.dropdown.filter.search.regional.office": "Buscar {regionalOffice}",
+	"customer.list.column.dropdown.filter.search": "Buscar {columnName}",
 	"customer.list.regional.office.invalid": "La oficina regional ingresada no es válida. Utilice a-z, A-Z, 0-9, - o *",
 	"customer.status.active": "Active",
 	"customer.status.pending": "Pending",

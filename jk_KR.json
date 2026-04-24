@@ -631,7 +631,7 @@
 	"customer.list": "고객 목록 ",
 	"customer.list.regional.office.dropdown.filter.button.reset": "초기화",
 	"customer.list.regional.office.dropdown.filter.button.search": "찾다",
-	"customer.list.regional.office.dropdown.filter.search.regional.office": "검색 {regionalOffice}",
+	"customer.list.column.dropdown.filter.search": "검색 {columnName}",
 	"customer.list.regional.office.invalid": "입력 한 지역 사무소가 잘못되었습니다. a-z, A-Z, 0-9,-또는 *를 사용하세요.",
 	"customer.status.active": "활성",
 	"customer.status.pending": "보류",

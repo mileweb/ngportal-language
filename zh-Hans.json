@@ -631,7 +631,7 @@
 	"customer.list": "客户列表",
 	"customer.list.regional.office.dropdown.filter.button.reset": "重置",
 	"customer.list.regional.office.dropdown.filter.button.search": "搜索",
-	"customer.list.regional.office.dropdown.filter.search.regional.office": "搜索 {regionalOffice}",
+	"customer.list.column.dropdown.filter.search": "搜索 {columnName}",
 	"customer.list.regional.office.invalid": "输入的分公司无效。请使用a-z，A-Z，0-9，-或*",
 	"customer.status.active": "激活",
 	"customer.status.pending": "待定",
