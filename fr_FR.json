@@ -89,6 +89,7 @@
 	"billing.info.utc.footnote": "* Tous les mois sont basés sur le fuseau horaire UTC",
 	"billing.info.error.load.estimate": "Échec du chargement de l'estimation de facturation.",
 	"billing.info.error.load.portal": "Impossible d'ouvrir la page des factures et du paiement.",
+	"billing.info.error.service.suspended": "Votre service CDN Pro a été suspendu.",
 	"billing.info.estimated.cost": "Coût estimé",
 	"billing.info.estimated.monthly": "Coût estimé pour {monthYear} (fuseau horaire UTC)",
 	"billing.info.estimated.total": "Total estimé :",

@@ -89,6 +89,7 @@
 	"billing.info.utc.footnote": "* すべての月は UTC タイムゾーンに基づきます",
 	"billing.info.error.load.estimate": "請求見積もりの読み込みに失敗しました。",
 	"billing.info.error.load.portal": "請求書と支払いページを開けませんでした。",
+	"billing.info.error.service.suspended": "CDN Pro サービスは一時停止されています。",
 	"billing.info.estimated.cost": "推定費用",
 	"billing.info.estimated.monthly": "{monthYear} の推定費用（UTC タイムゾーン）",
 	"billing.info.estimated.total": "推定合計:",

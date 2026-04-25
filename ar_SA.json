@@ -89,6 +89,7 @@
 	"billing.info.utc.footnote": "* جميع الأشهر وفقًا لمنطقة UTC",
 	"billing.info.error.load.estimate": "فشل تحميل تقدير الفوترة.",
 	"billing.info.error.load.portal": "فشل فتح صفحة الفواتير والدفع.",
+	"billing.info.error.service.suspended": "تم تعليق خدمة CDN Pro الخاصة بك.",
 	"billing.info.estimated.cost": "التكلفة المقدّرة",
 	"billing.info.estimated.monthly": "التكلفة المقدّرة لـ {monthYear} (المنطقة الزمنية UTC)",
 	"billing.info.estimated.total": "الإجمالي المقدّر:",

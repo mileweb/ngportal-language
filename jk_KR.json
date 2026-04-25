@@ -89,6 +89,7 @@
 	"billing.info.utc.footnote": "* 모든 월은 UTC 시간대를 기준으로 합니다",
 	"billing.info.error.load.estimate": "청구 예상 금액을 불러오지 못했습니다.",
 	"billing.info.error.load.portal": "청구서 및 결제 페이지를 열지 못했습니다.",
+	"billing.info.error.service.suspended": "CDN Pro 서비스가 일시 중지되었습니다.",
 	"billing.info.estimated.cost": "예상 비용",
 	"billing.info.estimated.monthly": "{monthYear} 예상 비용(UTC 시간대)",
 	"billing.info.estimated.total": "예상 합계:",

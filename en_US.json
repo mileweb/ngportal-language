@@ -89,6 +89,7 @@
 	"billing.info.utc.footnote": "* All months are based on UTC timezone",
 	"billing.info.error.load.estimate": "Failed to load billing estimate.",
 	"billing.info.error.load.portal": "Failed to open the invoices and payment page.",
+	"billing.info.error.service.suspended": "Your CDN Pro service has been suspended.",
 	"billing.info.estimated.cost": "Estimated Cost",
 	"billing.info.estimated.monthly": "Estimated cost for {monthYear} (UTC timezone)",
 	"billing.info.estimated.total": "Estimated Total:",
