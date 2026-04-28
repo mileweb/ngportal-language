@@ -936,6 +936,7 @@
 	"error.cache.time.invalid": "Please enter a valid number.",
 	"error.forgot.password.update.failed": "The password was not updated. Please try again.",
 	"error.forgot.password.wrong.code": "The entered code is invalid. Please check the verification code and try again.",
+	"error.forgot.password.too.many.attempts": "Too many incorrect verification attempts. Please start the password reset process again.",
 	"error.forgot.password.wrong.username": "We do not recognize your account name. Please try again.",
 	"error.forgot.password.request.failed": "We could not process your request. Please try again.",
 	"error.location.path": "Please enter a valid path.",

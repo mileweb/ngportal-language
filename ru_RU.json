@@ -938,6 +938,7 @@
 	"error.cache.time.invalid": "Пожалуйста, введите корректное число.",
 	"error.forgot.password.update.failed": "Пароль не был обновлён. Пожалуйста, попробуйте снова.",
 	"error.forgot.password.wrong.code": "Введённый код недействителен. Пожалуйста, проверьте код подтверждения и попробуйте снова.",
+	"error.forgot.password.too.many.attempts": "Превышено число попыток. Начните сброс пароля заново.",
 	"error.forgot.password.wrong.username": "Мы не можем распознать имя вашей учетной записи. Пожалуйста, попробуйте снова.",
 	"error.forgot.password.request.failed": "Не удалось обработать запрос. Пожалуйста, попробуйте снова.",
 	"error.location.path": "Пожалуйста, введите корректный путь.",

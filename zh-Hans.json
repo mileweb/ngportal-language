@@ -936,6 +936,7 @@
 	"error.cache.time.invalid": "请输入有效的数字",
 	"error.forgot.password.update.failed": "密码未更新。请重试。",
 	"error.forgot.password.wrong.code": "输入的验证码无效。请检查验证码后重试",
+	"error.forgot.password.too.many.attempts": "验证尝试次数过多，请从开始流程重新重置密码（返回忘记密码页重新获取验证码）。",
 	"error.forgot.password.wrong.username": "我们无法识别您的用户名。请重试",
 	"error.forgot.password.request.failed": "无法处理您的请求。请重试。",
 	"error.location.path": "请输入有效的路径",
