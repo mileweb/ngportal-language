@@ -2238,6 +2238,7 @@
 	"sign.up.check.verify.captcha": "Пожалуйста, подтвердите капчу",
 	"sign.up.company.name": "Название компании",
 	"sign.up.email": "Электронная почта",
+	"sign.up.email.closing": "Спасибо.",
 	"sign.up.error.companyname.too.long": "Название компании слишком длинное",
 	"sign.up.error.enter.company.name": "Пожалуйста, введите название вашей компании",
 	"sign.up.error.enter.email.too.long": "Адрес электронной почты слишком длинный",

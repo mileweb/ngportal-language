@@ -2236,6 +2236,7 @@
 	"sign.up.check.verify.captcha": "يرجى التحقق من كلمة التحقق",
 	"sign.up.company.name": "اسم الشركة",
 	"sign.up.email": "البريد الإلكتروني",
+	"sign.up.email.closing": "شكرًا لك.",
 	"sign.up.error.companyname.too.long": "اسم الشركة طويل جدا",
 	"sign.up.error.enter.company.name": "يرجى إدخال اسم الشركة الخاصة بك",
 	"sign.up.error.enter.email.too.long": "عنوان البريد الإلكتروني طويل جداً",

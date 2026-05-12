@@ -2236,6 +2236,7 @@
 	"sign.up.check.verify.captcha": "キャプチャを確認してください",
 	"sign.up.company.name": "会社名",
 	"sign.up.email": "Eメール",
+	"sign.up.email.closing": "ありがとうございます。",
 	"sign.up.error.companyname.too.long": "会社名が長すぎます",
 	"sign.up.error.enter.company.name": "会社名を入力してください",
 	"sign.up.error.enter.email.too.long": "メールアドレスが長すぎます",
