@@ -2236,6 +2236,7 @@
 	"sign.up.check.verify.captcha": "보안 문자를 확인하십시오",
 	"sign.up.company.name": "회사 이름",
 	"sign.up.email": "이메일",
+	"sign.up.email.closing": "감사합니다.",
 	"sign.up.error.companyname.too.long": "회사 이름이 너무 깁니다.",
 	"sign.up.error.enter.company.name": "회사 명을 입력하세요",
 	"sign.up.error.enter.email.too.long": "이메일 주소가 너무 깁니다.",

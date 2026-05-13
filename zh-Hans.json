@@ -2236,6 +2236,7 @@
 	"sign.up.check.verify.captcha": "请验证图形码",
 	"sign.up.company.name": "公司名称",
 	"sign.up.email": "电子邮件",
+	"sign.up.email.closing": "谢谢。",
 	"sign.up.error.companyname.too.long": "公司名称太长",
 	"sign.up.error.enter.company.name": "请输入您的公司名称",
 	"sign.up.error.enter.email.too.long": "电子邮件地址太长",

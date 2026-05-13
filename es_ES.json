@@ -2236,6 +2236,7 @@
 	"sign.up.check.verify.captcha": "Por favor verifique el captcha",
 	"sign.up.company.name": "Nombre de empresa",
 	"sign.up.email": "Email",
+	"sign.up.email.closing": "Gracias.",
 	"sign.up.error.companyname.too.long": "El nombre de la empresa es demasiado largo.",
 	"sign.up.error.enter.company.name": "Por favor ingrese el nombre de su empresa",
 	"sign.up.error.enter.email.too.long": "La dirección de correo electrónico es demasiado larga.",
