@@ -2298,7 +2298,7 @@
 	"sign.up.product.hdt.offers.title1": "30 дней бесплатного пробного периода",
 	"sign.up.product.hdt.offers.title2": "Мгновенный доступ",
 	"sign.up.product.hdt.offers.title3": "Обновление в любое время",
-	"sign.up.product.invite.desc.primary": "Поздравляем! Вы можете начать пользоваться {productName}. Войдите через {anchorText}, чтобы пользоваться сервисом.",
+	"sign.up.product.invite.desc.primary": "Поздравляем! Вы можете начать пользоваться {productName}. Войдите через {anchorText}, чтобы использовать сервис.",
 	"sign.up.success.info": "Пожалуйста, проверьте свой почтовый ящик, чтобы завершить процесс регистрации.",
 	"sign.up.success.title": "Успешно",
 	"sign.up.text.cookie.policy": "Политика использования файлов cookie",
