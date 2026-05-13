@@ -2297,7 +2297,7 @@
 	"sign.up.product.hdt.offers.title1": "30 天免费试用",
 	"sign.up.product.hdt.offers.title2": "即刻接入",
 	"sign.up.product.hdt.offers.title3": "随时升级",
-	"sign.up.product.invite.desc.primary": "恭喜！您可以开始使用 {productName}。请登录 {anchorText} 以继续使用服务。",
+	"sign.up.product.invite.desc.primary": "账号注册已完成！请登录 {anchorText} 以使用 {productName}。",
 	"sign.up.success.info": "请检查您的收件箱，点击邮件中的链接进行邮箱验证。",
 	"sign.up.success.title": "成功",
 	"sign.up.text.cookie.policy": "Cookie政策",
