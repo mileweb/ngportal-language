@@ -91309,6 +91309,49 @@
 						</translations>
 					</concept_node>
 					<concept_node>
+						<name>sign.up.duplicate.account.error.msg</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
 						<name>sign.up.email</name>
 						<description/>
 						<comment/>
@@ -92084,6 +92127,49 @@
 					</concept_node>
 					<concept_node>
 						<name>sign.up.link.text.here</name>
+						<description/>
+						<comment/>
+						<translations>
+							<translation>
+								<language>ar-SA</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>en-US</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>es-ES</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>fr-FR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>it-IT</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ja-JP</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ko-KR</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>ru-RU</language>
+								<approved>false</approved>
+							</translation>
+							<translation>
+								<language>zh-CN</language>
+								<approved>false</approved>
+							</translation>
+						</translations>
+					</concept_node>
+					<concept_node>
+						<name>sign.up.link.text.portal</name>
 						<description/>
 						<comment/>
 						<translations>
@@ -93374,49 +93460,6 @@
 					</concept_node>
 					<concept_node>
 						<name>sign.up.text.cookie.policy</name>
-						<description/>
-						<comment/>
-						<translations>
-							<translation>
-								<language>ar-SA</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>en-US</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>es-ES</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>fr-FR</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>it-IT</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>ja-JP</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>ko-KR</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>ru-RU</language>
-								<approved>false</approved>
-							</translation>
-							<translation>
-								<language>zh-CN</language>
-								<approved>false</approved>
-							</translation>
-						</translations>
-					</concept_node>
-					<concept_node>
-						<name>sign.up.text.error.msg.duplicate.account</name>
 						<description/>
 						<comment/>
 						<translations>
