@@ -1321,6 +1321,8 @@
 	"msg.cacertificate.chain.certificate.invalid.format": "Сертификат цепочки имеет неправильный формат.",
 	"msg.cacertificate.chain.certificate.invalid.type": "Сертификат цепочки {indexNum} не относится к типу ЦС.",
 	"msg.certificate.name.duplicate": "Сертификат или сертификат ЦС с таким именем уже существует у клиента.",
+	"msg.invitation.code.invalid.or.expired": "Код приглашения недействителен или истёк.",
+	"msg.invitation.username.duplicate": "Это имя пользователя недоступно. Выберите другое.",
 	"msg.purge.host.not.deployed": "Хост '{hostname}' не был развернут в среде '{target}'.",
 	"msg.purge.invalid.count.dir.urls": "Запрос на очистку может включать не более {limitCnt} записей для директорий.",
 	"msg.purge.invalid.count.file.urls": "Запрос на очистку может включать не более {limitCnt} записей для файлов.",
