@@ -968,7 +968,7 @@
 	"error.passwords.not.match": "Les mots de passe ne correspondent pas !",
 	"error.required": "Obligatoire",
 	"error.secret.not.exist": "Le secret « {secretName} » n'existe pas.",
-	"error.secret.property.origin.reference.invalid": "Le secret « {secretName} » référencé dans la clé secrète AWS S3 de l'origine « {originName} » de la propriété « {propertyName} » n'existe pas.",
+	"error.secret.property.origin.reference.invalid": "Le secret « {secretName} » référencé dans la clé secrète AWS S3 de l'origine « {originName} » de la propriété « {propertyId} » n'existe pas.",
 	"feedback.alert.popConfirm": "Pop confirmar",
 	"feedback.alert.popConfirm.delete": "Borrar",
 	"filePurge.header.name.label": "Name",

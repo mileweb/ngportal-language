@@ -968,7 +968,7 @@
 	"error.passwords.not.match": "パスワードが一致しません!",
 	"error.required": "必須",
 	"error.secret.not.exist": "シークレット「{secretName}」は存在しません。",
-	"error.secret.property.origin.reference.invalid": "プロパティ「{propertyName}」のオリジン「{originName}」の AWS S3 シークレットキーで参照されているシークレット「{secretName}」は存在しません。",
+	"error.secret.property.origin.reference.invalid": "プロパティ「{propertyId}」のオリジン「{originName}」の AWS S3 シークレットキーで参照されているシークレット「{secretName}」は存在しません。",
 	"feedback.alert.popConfirm": "ポップ確認",
 	"feedback.alert.popConfirm.delete": "削除する",
 	"filePurge.header.name.label": "名前",

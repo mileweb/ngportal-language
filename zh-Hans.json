@@ -968,7 +968,7 @@
 	"error.passwords.not.match": "密码不匹配!",
 	"error.required": "必填",
 	"error.secret.not.exist": "密钥“{secretName}”不存在。",
-	"error.secret.property.origin.reference.invalid": "属性“{propertyName}”中源站“{originName}”的 AWS S3 密钥所引用的密钥“{secretName}”不存在。",
+	"error.secret.property.origin.reference.invalid": "属性“{propertyId}”中源站“{originName}”的 AWS S3 密钥所引用的密钥“{secretName}”不存在。",
 	"feedback.alert.popConfirm": "Pop Confirm",
 	"feedback.alert.popConfirm.delete": "删除",
 	"filePurge.header.name.label": "名称",
