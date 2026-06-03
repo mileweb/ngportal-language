@@ -968,6 +968,7 @@
 	"error.passwords.not.match": "¡Las contraseñas no coinciden!",
 	"error.required": "obligatorio",
 	"error.secret.not.exist": "El secreto «{secretName}» no existe.",
+	"error.secret.property.origin.reference.incorrect": "La clave secreta de AWS S3 especificada para el origen «{originName}» en «{propertyId}» debe hacer referencia a un «Secreto» existente.",
 	"error.secret.property.origin.reference.invalid": "El secreto «{secretName}» referenciado en la clave secreta de AWS S3 del origen «{originName}» en la propiedad «{propertyId}» no existe.",
 	"feedback.alert.popConfirm": "Pop confirmar",
 	"feedback.alert.popConfirm.delete": "Borrar",

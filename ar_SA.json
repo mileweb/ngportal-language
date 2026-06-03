@@ -968,6 +968,7 @@
 	"error.passwords.not.match": "كلمات المرور غير متطابقة!",
 	"error.required": "مطلوب",
 	"error.secret.not.exist": "السر «{secretName}» غير موجود.",
+	"error.secret.property.origin.reference.incorrect": "يجب أن يشير مفتاح سر AWS S3 المحدد للمصدر «{originName}» في «{propertyId}» إلى «سر» موجود.",
 	"error.secret.property.origin.reference.invalid": "السر «{secretName}» المشار إليه في مفتاح سر AWS S3 للمصدر «{originName}» في الخاصية «{propertyId}» غير موجود.",
 	"feedback.alert.popConfirm": "تأكيد البوب",
 	"feedback.alert.popConfirm.delete": "حذف",

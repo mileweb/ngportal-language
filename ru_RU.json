@@ -970,6 +970,7 @@
 	"error.passwords.not.match": "Пароли не совпадают!",
 	"error.required": "обязательное поле",
 	"error.secret.not.exist": "Секрет «{secretName}» не существует.",
+	"error.secret.property.origin.reference.incorrect": "Секретный ключ AWS S3, указанный для источника «{originName}» в «{propertyId}», должен ссылаться на существующий «Секрет».",
 	"error.secret.property.origin.reference.invalid": "Секрет «{secretName}», указанный в секретном ключе AWS S3 источника «{originName}» в свойстве «{propertyId}», не существует.",
 	"feedback.alert.popConfirm": "Подтвердить",
 	"feedback.alert.popConfirm.delete": "Удалить",

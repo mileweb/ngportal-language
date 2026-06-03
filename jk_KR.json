@@ -968,6 +968,7 @@
 	"error.passwords.not.match": "비밀번호가 일치하지 않습니다!",
 	"error.required": "필수 ",
 	"error.secret.not.exist": "비밀 '{secretName}'이(가) 존재하지 않습니다.",
+	"error.secret.property.origin.reference.incorrect": "속성 '{propertyId}'의 오리진 '{originName}'에 지정된 AWS S3 비밀키는 기존 '비밀'을 참조해야 합니다.",
 	"error.secret.property.origin.reference.invalid": "속성 '{propertyId}'의 오리진 '{originName}' AWS S3 비밀키에서 참조하는 비밀 '{secretName}'이(가) 존재하지 않습니다.",
 	"feedback.alert.popConfirm": "팝 확인 ",
 	"feedback.alert.popConfirm.delete": "지우다",
