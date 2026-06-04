@@ -968,6 +968,7 @@
 	"error.passwords.not.match": "密码不匹配!",
 	"error.required": "必填",
 	"error.secret.not.exist": "保密信息“{secretName}”不存在。",
+	"error.secret.property.origin.reference.incorrect": "加速项目“{propertyId}”中，源站“{originName}”的 AWS S3 密钥字段，值不能是明文，必须通过引用“保密信息”来指定密钥。",
 	"error.secret.property.origin.reference.invalid": "加速项目“{propertyId}”中，源站“{originName}”的 AWS S3 密钥字段，引用了不存在的保密信息“{secretName}”。",
 	"feedback.alert.popConfirm": "Pop Confirm",
 	"feedback.alert.popConfirm.delete": "删除",

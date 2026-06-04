@@ -968,6 +968,7 @@
 	"error.passwords.not.match": "Passwords do not match!",
 	"error.required": "required",
 	"error.secret.not.exist": "The secret '{secretName}' does not exist.",
+	"error.secret.property.origin.reference.incorrect":"The AWS S3 secret key specified for the origin '{originName}' in '{propertyId}' must reference an existing 'Secret'.",
 	"error.secret.property.origin.reference.invalid":"The secret '{secretName}' referenced in the AWS S3 secret key of origin '{originName}' in property '{propertyId}' does not exist.",
 	"feedback.alert.popConfirm": "Pop Confirm",
 	"feedback.alert.popConfirm.delete": "Delete",
