@@ -1452,7 +1452,7 @@
 	"products.title.admin": "Admin",
 	"adminPortal.dashboard.title": "لوحة تحكم الإدارة",
 	"adminPortal.dashboard.subtitle": "ستظهر إعدادات المؤسسة ووحدة التحكم هنا.",
-	"adminPortal.dashboard.summary": "مرحبًا {contactName} من {customerName}، مؤسستك مشتركة حاليًا في {products} من {brand}. لديك {contactTotal} مستخدمي وحدة تحكم ({contactActive} نشط) و{apiAccountTotal} حساب API ({apiAccountActive} نشط)، بالإضافة إلى حساب المسؤول.",
+	"adminPortal.dashboard.summary": "مرحبًا {contactName} من {customerName}، مؤسستك مشتركة حاليًا في {products} من {brand}. لديك {contactTotal} مستخدمي وحدة تحكم ({contactActive} نشط) و{apiAccountTotal} حساب API، بالإضافة إلى حساب المسؤول.",
 	"adminPortal.dashboard.summaryNonMaster": "مرحبًا {contactName} من {customerName}، مؤسستك مشتركة حاليًا في {products} من {brand}. لديك {contactTotal} مستخدمي وحدة تحكم ({contactActive} نشط).",
 	"adminPortal.dashboard.adminAccountNote": "حساب المسؤول هو بيانات اعتماد API الموجودة في سجل مؤسستك، وهو منفصل عن حسابات API المدرجة ضمن حسابات API.",
 	"adminPortal.menu.dashboard": "لوحة التحكم",

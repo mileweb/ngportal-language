@@ -1452,7 +1452,7 @@
 	"products.title.admin": "Admin",
 	"adminPortal.dashboard.title": "Dashboard Admin",
 	"adminPortal.dashboard.subtitle": "Le impostazioni dell'organizzazione e della console verranno visualizzate qui.",
-	"adminPortal.dashboard.summary": "Ciao {contactName} di {customerName}, la tua organizzazione è attualmente iscritta a {products} di {brand}. Hai {contactTotal} utenti console ({contactActive} attivi) e {apiAccountTotal} account API ({apiAccountActive} attivi), oltre all'account amministratore.",
+	"adminPortal.dashboard.summary": "Ciao {contactName} di {customerName}, la tua organizzazione è attualmente iscritta a {products} di {brand}. Hai {contactTotal} utenti console ({contactActive} attivi) e {apiAccountTotal} account API, oltre all'account amministratore.",
 	"adminPortal.dashboard.summaryNonMaster": "Ciao {contactName} di {customerName}, la tua organizzazione è attualmente iscritta a {products} di {brand}. Hai {contactTotal} utenti console ({contactActive} attivi).",
 	"adminPortal.dashboard.adminAccountNote": "L'account amministratore è la credenziale API del record dell'organizzazione, separata dagli account API elencati in Account API.",
 	"adminPortal.menu.dashboard": "Dashboard",

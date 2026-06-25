@@ -1452,7 +1452,7 @@
 	"products.title.admin": "管理",
 	"adminPortal.dashboard.title": "管理ダッシュボード",
 	"adminPortal.dashboard.subtitle": "組織とコンソールの設定はここに表示されます。",
-	"adminPortal.dashboard.summary": "{customerName} の {contactName} 様、こんにちは。お客様の組織は現在 {brand} の {products} に登録されています。コンソールユーザーは {contactTotal} 人（うち {contactActive} 人がアクティブ）、API アカウントは {apiAccountTotal} 件（うち {apiAccountActive} 件がアクティブ）で、管理者アカウントに加えてご利用いただけます。",
+	"adminPortal.dashboard.summary": "{customerName} の {contactName} 様、こんにちは。お客様の組織は現在 {brand} の {products} に登録されています。コンソールユーザーは {contactTotal} 人（うち {contactActive} 人がアクティブ）、API アカウントは {apiAccountTotal} 件で、管理者アカウントに加えてご利用いただけます。",
 	"adminPortal.dashboard.summaryNonMaster": "{customerName} の {contactName} 様、こんにちは。お客様の組織は現在 {brand} の {products} に登録されています。コンソールユーザーは {contactTotal} 人（うち {contactActive} 人がアクティブ）です。",
 	"adminPortal.dashboard.adminAccountNote": "管理者アカウントは組織レコード上の API 認証情報であり、「API アカウント」に一覧表示される API アカウントとは別物です。",
 	"adminPortal.menu.dashboard": "ダッシュボード",

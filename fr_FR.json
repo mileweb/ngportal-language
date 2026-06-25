@@ -1452,7 +1452,7 @@
 	"products.title.admin": "Admin",
 	"adminPortal.dashboard.title": "Tableau de bord Admin",
 	"adminPortal.dashboard.subtitle": "Les paramètres d'organisation et de console s'afficheront ici.",
-	"adminPortal.dashboard.summary": "Bonjour {contactName} de {customerName}, votre organisation est actuellement inscrite à {products} de {brand}. Vous avez {contactTotal} utilisateurs console ({contactActive} actifs) et {apiAccountTotal} comptes API ({apiAccountActive} actifs), en plus du compte administrateur.",
+	"adminPortal.dashboard.summary": "Bonjour {contactName} de {customerName}, votre organisation est actuellement inscrite à {products} de {brand}. Vous avez {contactTotal} utilisateurs console ({contactActive} actifs) et {apiAccountTotal} comptes API, en plus du compte administrateur.",
 	"adminPortal.dashboard.summaryNonMaster": "Bonjour {contactName} de {customerName}, votre organisation est actuellement inscrite à {products} de {brand}. Vous avez {contactTotal} utilisateurs console ({contactActive} actifs).",
 	"adminPortal.dashboard.adminAccountNote": "Le compte administrateur est l'identifiant API de votre organisation, distinct des comptes API répertoriés sous Comptes API.",
 	"adminPortal.menu.dashboard": "Tableau de bord",

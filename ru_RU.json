@@ -1454,7 +1454,7 @@
 	"products.title.admin": "Admin",
 	"adminPortal.dashboard.title": "Панель администрирования",
 	"adminPortal.dashboard.subtitle": "Настройки организации и консоли будут отображаться здесь.",
-	"adminPortal.dashboard.summary": "Здравствуйте, {contactName} из {customerName}. Ваша организация в настоящее время подписана на {products} от {brand}. У вас {contactTotal} пользователей консоли ({contactActive} активных) и {apiAccountTotal} API-аккаунтов ({apiAccountActive} активных), помимо административного аккаунта.",
+	"adminPortal.dashboard.summary": "Здравствуйте, {contactName} из {customerName}. Ваша организация в настоящее время подписана на {products} от {brand}. У вас {contactTotal} пользователей консоли ({contactActive} активных) и {apiAccountTotal} API-аккаунтов, помимо административного аккаунта.",
 	"adminPortal.dashboard.summaryNonMaster": "Здравствуйте, {contactName} из {customerName}. Ваша организация в настоящее время подписана на {products} от {brand}. У вас {contactTotal} пользователей консоли ({contactActive} активных).",
 	"adminPortal.dashboard.adminAccountNote": "Административный аккаунт — это API-учётные данные в записи вашей организации, отдельно от API-аккаунтов, перечисленных в разделе API-аккаунты.",
 	"adminPortal.menu.dashboard": "Панель управления",

@@ -1452,7 +1452,7 @@
 	"products.title.admin": "Admin",
 	"adminPortal.dashboard.title": "Panel de administración",
 	"adminPortal.dashboard.subtitle": "La configuración de la organización y de la consola aparecerá aquí.",
-	"adminPortal.dashboard.summary": "Hola {contactName} de {customerName}, su organización está actualmente suscrita a {products} de {brand}. Tiene {contactTotal} usuarios de consola ({contactActive} activos) y {apiAccountTotal} cuentas API ({apiAccountActive} activas), además de la cuenta de administrador.",
+	"adminPortal.dashboard.summary": "Hola {contactName} de {customerName}, su organización está actualmente suscrita a {products} de {brand}. Tiene {contactTotal} usuarios de consola ({contactActive} activos) y {apiAccountTotal} cuentas API, además de la cuenta de administrador.",
 	"adminPortal.dashboard.summaryNonMaster": "Hola {contactName} de {customerName}, su organización está actualmente suscrita a {products} de {brand}. Tiene {contactTotal} usuarios de consola ({contactActive} activos).",
 	"adminPortal.dashboard.adminAccountNote": "La cuenta de administrador es la credencial API de su organización, separada de las cuentas API que aparecen en Cuentas API.",
 	"adminPortal.menu.dashboard": "Panel",
