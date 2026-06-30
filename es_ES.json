@@ -2447,6 +2447,8 @@
 	"suspended.trial.ended.popup.title": "Su prueba gratuita ha finalizado",
 	"suspended.trial.pay.invoices.btn": "Pagar facturas",
 	"suspended.trial.resume.account.btn": "Reanudar cuenta",
+	"suspended.trial.resume.account.error": "Error al reanudar su cuenta. Inténtelo de nuevo o póngase en contacto con el soporte.",
+	"suspended.trial.resume.account.open.invoices.error": "Las facturas abiertas deben pagarse antes de que se pueda reanudar su cuenta.",
 	"task.deploy.certificate.version.name": "Implementar la versión {version} del certificado '{certificateName}' por {userName}",
 	"task.deploy.property.version.name": "Implementar la versión {versionId} de la propiedad '{propertyName}' por {userName}",
 	"task.detail.actions.title": "Actions:",

@@ -2447,6 +2447,8 @@
 	"suspended.trial.ended.popup.title": "무료 평가판이 종료되었습니다",
 	"suspended.trial.pay.invoices.btn": "청구서 결제",
 	"suspended.trial.resume.account.btn": "계정 재개",
+	"suspended.trial.resume.account.error": "계정을 재개하지 못했습니다. 다시 시도하거나 지원팀에 문의하십시오.",
+	"suspended.trial.resume.account.open.invoices.error": "계정을 재개하려면 미결제 청구서를 먼저 결제해야 합니다.",
 	"task.deploy.certificate.version.name": "{userName}의 인증서 '{certificateName}'버전 {version} 배포",
 	"task.deploy.property.version.name": "{userName}에 의해 '{propertyName}'속성의 {versionId} 버전 배포",
 	"task.detail.actions.title": "액션:",

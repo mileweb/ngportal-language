@@ -2449,6 +2449,8 @@
 	"suspended.trial.ended.popup.title": "Ваш бесплатный пробный период завершён",
 	"suspended.trial.pay.invoices.btn": "Оплатить счета",
 	"suspended.trial.resume.account.btn": "Восстановить доступ к учётной записи",
+	"suspended.trial.resume.account.error": "Не удалось возобновить работу с учётной записью. Повторите попытку или обратитесь в службу поддержки.",
+	"suspended.trial.resume.account.open.invoices.error": "Перед возобновлением учётной записи необходимо оплатить открытые счета.",
 	"task.deploy.certificate.version.name": "Развернуть версию {version} сертификата «{certificateName}» пользователем {userName}",
 	"task.deploy.property.version.name": "Развернуть версию {versionId} свойства «{propertyName}» пользователем {userName}",
 	"task.detail.actions.title": "Действия:",
