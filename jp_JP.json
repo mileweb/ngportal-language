@@ -2447,6 +2447,8 @@
 	"suspended.trial.ended.popup.title": "無料トライアルが終了しました",
 	"suspended.trial.pay.invoices.btn": "請求書を支払う",
 	"suspended.trial.resume.account.btn": "アカウントを再開",
+	"suspended.trial.resume.account.error": "アカウントの再開に失敗しました。もう一度お試しいただくか、サポートにお問い合わせください。",
+	"suspended.trial.resume.account.open.invoices.error": "アカウントを再開するには、未払いの請求書をお支払いいただく必要があります。",
 	"task.deploy.certificate.version.name": "{userName}による証明書 '{certificateName}'のバージョン{version}をデプロイします",
 	"task.deploy.property.version.name": "{userName}によってプロパティ '{propertyName}'のバージョン{versionId}をデプロイします",
 	"task.detail.actions.title": "行動：",

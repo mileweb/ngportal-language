@@ -2448,6 +2448,8 @@
 	"suspended.trial.ended.popup.title": "Your free trial has ended",
 	"suspended.trial.pay.invoices.btn": "Pay Invoices",
 	"suspended.trial.resume.account.btn": "Resume Account",
+	"suspended.trial.resume.account.error": "Failed to resume your account. Please try again or contact support.",
+	"suspended.trial.resume.account.open.invoices.error": "Open invoices must be paid before your account can be resumed.",
 	"task.deploy.certificate.version.name": "Deploy version {version} of certificate '{certificateName}' by {userName}",
 	"task.deploy.property.version.name": "Deploy version {versionId} of property '{propertyName}' by {userName}",
 	"task.detail.actions.title": "Actions:",

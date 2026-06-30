@@ -2448,6 +2448,8 @@
 	"suspended.trial.ended.popup.title": "您的免费试用已结束",
 	"suspended.trial.pay.invoices.btn": "支付账单",
 	"suspended.trial.resume.account.btn": "恢复账号",
+	"suspended.trial.resume.account.error": "恢复账号失败。请重试或联系支持团队。",
+	"suspended.trial.resume.account.open.invoices.error": "必须先支付未结清账单，才能恢复您的账号。",
 	"task.deploy.certificate.version.name": "由{userName}部署证书“{certificateName}”的版本 {version} ",
 	"task.deploy.property.version.name": "由{userName}部署加速项目“{propertyName}”的版本{versionId} ",
 	"task.detail.actions.title": "操作：",

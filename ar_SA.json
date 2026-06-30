@@ -2447,6 +2447,8 @@
 	"suspended.trial.ended.popup.title": "انتهت فترتك التجريبية المجانية",
 	"suspended.trial.pay.invoices.btn": "دفع الفواتير",
 	"suspended.trial.resume.account.btn": "استئناف الحساب",
+	"suspended.trial.resume.account.error": "فشل استئناف حسابك. يرجى المحاولة مرة أخرى أو الاتصال بالدعم.",
+	"suspended.trial.resume.account.open.invoices.error": "يجب دفع الفواتير المفتوحة قبل أن يتم استئناف حسابك.",
 	"task.deploy.certificate.version.name": "نشر الإصدار {version} من الشهادة '{CertificateName}' بواسطة {userName}",
 	"task.deploy.property.version.name": "نشر الإصدار {versionId} للخاصية '{propertyName}' بواسطة {userName}",
 	"task.detail.actions.title": "Actions:",

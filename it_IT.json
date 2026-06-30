@@ -2447,6 +2447,8 @@
 	"suspended.trial.ended.popup.title": "La tua prova gratuita è terminata",
 	"suspended.trial.pay.invoices.btn": "Paga fatture",
 	"suspended.trial.resume.account.btn": "Riprendi account",
+	"suspended.trial.resume.account.error": "Impossibile riprendere l'account. Riprova o contatta l'assistenza.",
+	"suspended.trial.resume.account.open.invoices.error": "Le fatture aperte devono essere pagate prima di poter riprendere l'account.",
 	"task.deploy.certificate.version.name": "Distribuisci la versione {version} del certificato '{certificateName}' di {userName}",
 	"task.deploy.property.version.name": "Distribuisci la versione {versionId} della proprietà ‘{propertyName}’ di {userName}",
 	"task.detail.actions.title": "Actions:",
