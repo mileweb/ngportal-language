@@ -2700,6 +2700,7 @@
 	"validation.error.missing.beian.content.type": "请选择域名的服务内容",
 	"validation.error.name.too.long": "名称最多可包含 128 个字符",
 	"validation.error.not.integer": "带宽值必须是正整数",
+	"validation.error.password.invalid": "密码必须至少包含 10 个字符，包括大写字母、小写字母、数字和特殊字符，例如 '$!@#'",
 	"validation.error.regions.not.match": "您移除的某些服务器区域当前正由访客分区规则使用。要删除这些服务器区域，请先修改访客分区规则使用其他服务器区域。",
 	"validation.error.required": "必填",
 	"validation.error.san.invalid": "存在无效的域名",

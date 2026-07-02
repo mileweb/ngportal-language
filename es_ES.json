@@ -2699,6 +2699,7 @@
 	"validation.error.missing.beian.content.type": "Elija un tipo de contenido de Beian.",
 	"validation.error.name.too.long": "The name can be up to 128 characters.",
 	"validation.error.not.integer": "The bandwidth value must be a positive whole number.",
+	"validation.error.password.invalid": "Debe tener al menos 10 caracteres e incluir mayúsculas, minúsculas, números y caracteres especiales como '$!@#'.",
 	"validation.error.regions.not.match": "Some server regions you just removed are currently used by a client region rule. To delete those server regions, please modify the client region rule to use other server regions first.",
 	"validation.error.required": "Required",
 	"validation.error.san.invalid": "The SAN (Subject Alternative Name) must consist of valid domain names.",
