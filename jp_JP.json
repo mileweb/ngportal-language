@@ -2699,6 +2699,7 @@
 	"validation.error.missing.beian.content.type": "Beianのコンテンツタイプを選択してください。",
 	"validation.error.name.too.long": "名前は最大128文字です。",
 	"validation.error.not.integer": "帯域幅の値は正の整数でなければなりません。",
+	"validation.error.password.invalid": "10文字以上で、大文字、小文字、数字、'$!@#'などの特殊文字を含める必要があります。",
 	"validation.error.regions.not.match": "削除したばかりのサーバーリージョンは現在、クライアントリージョンルールで使用されています。これらのサーバー地域を削除するには、最初に他のサーバー地域を使用するようにクライアント地域ルールを変更してください。",
 	"validation.error.required": "必須",
 	"validation.error.san.invalid": "SAN（サブジェクトの別名）は有効なドメイン名で構成する必要があります。",
