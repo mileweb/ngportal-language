@@ -398,6 +398,7 @@
 	"certificate.undeploy.inprogress.modal.title": "Отмена развёртывания сертификата",
 	"certificate.undeploy.success.modal.message": "Развёртывание сертификата успешно отменено.",
 	"certificate.undeploy.success.modal.title": "Развёртывание сертификата отменено",
+	"certificate.undeploy.error.inUse": "Сертификат {certId} все еще используется.",
 	"certificate.update.create.default.comment": "Создано {userName}",
 	"certificate.update.create.version.btn": "Создать версию",
 	"certificate.update.edit.btn": "Редактировать",
