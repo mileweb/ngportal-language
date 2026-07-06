@@ -417,6 +417,7 @@
 	"certificate.undeploy.inprogress.modal.title": "Undeploying Certificate",
 	"certificate.undeploy.success.modal.message": "The certificate has been successfully undeployed.",
 	"certificate.undeploy.success.modal.title": "Certificate Undeployed",
+	"certificate.undeploy.error.inUse": "The certificate {certId} is still in use.",
 	"certificate.update.create.default.comment": "Creato da {userName}",
 	"certificate.update.create.version.btn": "Create Version",
 	"certificate.update.edit.btn": "Modificare",
