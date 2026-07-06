@@ -1,4 +1,8 @@
 {
+	"contact.masterAccount": "마스터 계정",
+	"contact.masterAccount.yes": "예",
+	"contact.masterAccount.no": "아니오",
+	"contact.masterAccount.noRolesNeeded": "마스터 계정은 모든 콘솔 권한을 가지고 있습니다. 역할을 할당할 필요가 없습니다.",
 	"access.denied.message1": "에 액세스 할 수 없습니다",
 	"access.denied.message2": ". 이 현상이 근본적인 문제라고 생각되시면, 저희 서포트 티으로 연락 바랍니다.",
 	"access.denied.message3": "이 요청을 수행할 권한이 없습니다.",

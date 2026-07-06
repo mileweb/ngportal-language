@@ -1,4 +1,8 @@
 {
+	"contact.masterAccount": "Cuenta maestra",
+	"contact.masterAccount.yes": "Sí",
+	"contact.masterAccount.no": "No",
+	"contact.masterAccount.noRolesNeeded": "Una cuenta maestra tiene todos los permisos de la consola. No es necesario asignar roles.",
 	"access.denied.message1": "No tienes acceso a",
 	"access.denied.message2": "Si cree que se trata de un error, póngase en contacto con nuestro equipo de soporte.",
 	"access.denied.message3": "No está permitido realizar esta solicitud.",

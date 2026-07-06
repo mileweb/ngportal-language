@@ -1,4 +1,8 @@
 {
+	"contact.masterAccount": "Master Account",
+	"contact.masterAccount.yes": "Yes",
+	"contact.masterAccount.no": "No",
+	"contact.masterAccount.noRolesNeeded": "A Master Account has all the console permissions. No need to assign roles.",
 	"access.denied.message1": "You do not have access to ",
 	"access.denied.message2": ". If you believe this is an error, please contact our support team.",
 	"access.denied.message3": "You are not allowed to perform this request.",

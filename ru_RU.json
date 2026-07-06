@@ -1,4 +1,8 @@
 {
+	"contact.masterAccount": "Мастер-аккаунт",
+	"contact.masterAccount.yes": "Да",
+	"contact.masterAccount.no": "Нет",
+	"contact.masterAccount.noRolesNeeded": "Мастер-аккаунт имеет все права в консоли. Назначать роли не требуется.",
 	"access.denied.message1": "У вас нет доступа к",
 	"access.denied.message2": "Если вы считаете, что это ошибка, пожалуйста, свяжитесь с нашей службой поддержки.",
 	"access.denied.message3": "Вам не разрешено выполнять этот запрос.",

@@ -1,4 +1,8 @@
 {
+	"contact.masterAccount": "الحساب الرئيسي",
+	"contact.masterAccount.yes": "نعم",
+	"contact.masterAccount.no": "لا",
+	"contact.masterAccount.noRolesNeeded": "يتمتع الحساب الرئيسي بجميع أذونات وحدة التحكم. لا حاجة لتعيين الأدوار.",
 	"access.denied.message1": "ليس لديك حق الوصول إلى",
 	"access.denied.message2": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بفريق الدعم لدينا.",
 	"access.denied.message3": "لا يجوز لك تنفيذ هذا الطلب.",
