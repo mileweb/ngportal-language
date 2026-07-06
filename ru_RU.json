@@ -938,7 +938,7 @@
 	"edgeHostnameListing.button.createCname": "Создать edge-имя хоста",
 	"edgeHostnameListing.button.createEdgeHostname": "Создать edge-имя хоста",
 	"edgeHostnameListing.column.actions": "Действия",
-	"edgeHostnameListing.column.creationTime": "Созданный",
+	"edgeHostnameListing.column.creationTime": "Создано",
 	"edgeHostnameListing.column.hasBeian": "Имеется ICP Beian",
 	"edgeHostnameListing.column.hasBeian.no": "Нет",
 	"edgeHostnameListing.column.hasBeian.yes": "Да",
