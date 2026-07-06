@@ -18,6 +18,7 @@
 	"contact.masterAccount": "الحساب الرئيسي",
 	"contact.masterAccount.yes": "نعم",
 	"contact.masterAccount.no": "لا",
+	"contact.masterAccount.allProducts": "يمتلك الحساب الرئيسي جميع منتجات العميل.",
 	"contact.masterAccount.noRolesNeeded": "يتمتع الحساب الرئيسي بجميع أذونات وحدة التحكم. لا حاجة لتعيين الأدوار.",
 	"access.denied.message1": "ليس لديك حق الوصول إلى",
 	"access.denied.message2": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بفريق الدعم لدينا.",

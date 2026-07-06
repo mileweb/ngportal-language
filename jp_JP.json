@@ -18,6 +18,7 @@
 	"contact.masterAccount": "マスターアカウント",
 	"contact.masterAccount.yes": "はい",
 	"contact.masterAccount.no": "いいえ",
+	"contact.masterAccount.allProducts": "マスターアカウントは顧客のすべての製品を保有します。",
 	"contact.masterAccount.noRolesNeeded": "マスターアカウントはすべてのコンソール権限を持っています。ロールを割り当てる必要はありません。",
 	"access.denied.message1": "にアクセスできません",
 	"access.denied.message2": "。これがエラーだと思われる場合は、サポートチームにお問い合わせください。",

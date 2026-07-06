@@ -18,6 +18,7 @@
 	"contact.masterAccount": "Compte principal",
 	"contact.masterAccount.yes": "Oui",
 	"contact.masterAccount.no": "Non",
+	"contact.masterAccount.allProducts": "Un Compte Maître dispose de tous les produits du client.",
 	"contact.masterAccount.noRolesNeeded": "Un compte principal dispose de toutes les autorisations de la console. Il n'est pas nécessaire d'attribuer des rôles.",
 	"access.denied.message1": "Vous n'avez pas accès à",
 	"access.denied.message2": "Si vous pensez qu'il s'agit d'une erreur, veuillez contacter notre équipe d'assistance.",
