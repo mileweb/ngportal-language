@@ -2231,6 +2231,7 @@
 	"role.name.placeholder.predefinedRoles": "Cannot use predefined roles (Admin/Viewer/Operator)",
 	"role.name.placeholder.required": "Please check required fields.",
 	"role.permission.label": "Permissions",
+	"role.permission.featureLabel": "Portal Features",
 	"role.permission.labelCreate": "Create",
 	"role.permission.labelRemove": "Remove",
 	"role.permission.labelUpdate": "Update",

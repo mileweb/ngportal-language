@@ -2231,6 +2231,7 @@
 	"role.name.placeholder.predefinedRoles": "لا يمكن استخدام الأدوار المحددة مسبقًا (Admin/Viewer/Operator)",
 	"role.name.placeholder.required": "يرجى التحقق من الحقول المطلوبة.",
 	"role.permission.label": "أذونات",
+	"role.permission.featureLabel": "ميزات البوابة",
 	"role.permission.labelCreate": "خلق",
 	"role.permission.labelRemove": "إزالة",
 	"role.permission.labelUpdate": "تحديث",

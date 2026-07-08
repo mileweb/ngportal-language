@@ -2233,6 +2233,7 @@
 	"role.name.placeholder.predefinedRoles": "Нельзя использовать предопределённые имена ролей (Admin/Viewer/Operator)",
 	"role.name.placeholder.required": "Пожалуйста, проверьте обязательные поля.",
 	"role.permission.label": "Разрешения",
+	"role.permission.featureLabel": "Функции портала",
 	"role.permission.labelCreate": "Создать",
 	"role.permission.labelRemove": "Удалить",
 	"role.permission.labelUpdate": "Обновить",

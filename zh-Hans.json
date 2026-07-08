@@ -2231,6 +2231,7 @@
 	"role.name.placeholder.predefinedRoles": "无法使用预定义角色(Admin/Viewer/Operator)",
 	"role.name.placeholder.required": "请检查必填字段。",
 	"role.permission.label": "权限",
+	"role.permission.featureLabel": "控制台特性",
 	"role.permission.labelCreate": "创建",
 	"role.permission.labelRemove": "删除",
 	"role.permission.labelUpdate": "更新",
