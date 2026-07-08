@@ -197,7 +197,7 @@
 	"cache.setting.location.path": "مسار الموقع *",
 	"cache.setting.location.tooltip": "يدعم هذا المعالج المواقع المطابقة بواسطة بادئة URI فقط. يمكنك تحرير Edge Logic مباشرةً لاستخدام طرق مطابقة أكثر تقدمًا مثل التعبير العادي. انقر فوق <a href='{href}' target='_blank'>هنا</a> للحصول على التفاصيل.",
 	"cache.setting.notification.text": "يرجى ملاحظة أنه بالنقر فوق \"متابعة\" ، سيتم استبدال Edge Logic برمز تم إنشاؤه تلقائيًا.",
-	"cache.setting.notification.title": "Replace Edge Logic",
+	"cache.setting.notification.title": "استبدال Edge Logic",
 	"cache.setting.origin.select": "Origin *",
 	"cache.setting.pop.up.sub.text": "تعيين سياسة التخزين المؤقت الافتراضية.",
 	"cache.setting.sub.text": "أدخل إعدادات ذاكرة التخزين المؤقت، أو استخدم المعالج لإنشاء التكوين الأولي.",
