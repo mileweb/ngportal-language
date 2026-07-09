@@ -2259,6 +2259,7 @@
 	"role.with.children.label": "マイアカウント+子：このアカウントと子のお客様は、この役割を使用できます。",
 	"roleListing.column.actions": "行動",
 	"roleListing.column.description": "説明",
+	"roleListing.column.id": "ID",
 	"roleListing.column.name": "ロール名",
 	"roles.delete.confirm.msg.multiple": " {roleCount} の役割を削除しようとしています。",
 	"roles.delete.confirm.msg.single": "1つの役割を削除しようとしています。",

@@ -2259,6 +2259,7 @@
 	"role.with.children.label": "本客户+子客户：本客户和子客户可以使用这个角色。",
 	"roleListing.column.actions": "操作",
 	"roleListing.column.description": "描述",
+	"roleListing.column.id": "ID",
 	"roleListing.column.name": "角色名",
 	"roles.delete.confirm.msg.multiple": "您正在尝试删除 {roleCount} 个角色。",
 	"roles.delete.confirm.msg.single": "您正在尝试删除 1 个角色。",

@@ -2259,6 +2259,7 @@
 	"role.with.children.label": "Il mio account + bambini: questo account e i clienti secondari possono utilizzare questo ruolo.",
 	"roleListing.column.actions": "Actions",
 	"roleListing.column.description": "Description",
+	"roleListing.column.id": "ID",
 	"roleListing.column.name": "Role Name",
 	"roles.delete.confirm.msg.multiple": "Stai tentando di eliminare {roleCount} ruoli.",
 	"roles.delete.confirm.msg.single": "Stai tentando di eliminare 1 ruolo.",

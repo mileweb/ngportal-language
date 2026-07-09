@@ -2261,6 +2261,7 @@
 	"role.with.children.label": "Моя учётная запись + дочерние: эта учётная запись и дочерние клиенты могут использовать эту роль.",
 	"roleListing.column.actions": "Действия",
 	"roleListing.column.description": "Описание",
+	"roleListing.column.id": "ID",
 	"roleListing.column.name": "Имя роли",
 	"roles.delete.confirm.msg.multiple": "Вы пытаетесь удалить {roleCount} ролей.",
 	"roles.delete.confirm.msg.single": "Вы пытаетесь удалить 1 роль.",
