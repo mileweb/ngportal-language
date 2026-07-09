@@ -1530,6 +1530,8 @@
 	"adminPortal.apiAccounts.field.emailAddress": "メールアドレス",
 	"adminPortal.apiAccounts.field.products": "製品",
 	"adminPortal.apiAccounts.field.ipWhiteList": "IP ホワイトリスト",
+	"adminPortal.apiAccounts.type.operator": "オペレーター",
+	"adminPortal.apiAccounts.type.read-only": "読み取り専用",
 	"adminPortal.apiAccounts.cdnPerm.allowedOperations": "許可された操作",
 	"adminPortal.apiAccounts.cdnPerm.allowedResources": "許可されたリソース",
 	"adminPortal.apiAccounts.cdnPerm.saveFailed": "アカウントは作成されましたが、CDN 権限を保存できませんでした：",

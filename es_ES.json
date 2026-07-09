@@ -1530,6 +1530,8 @@
 	"adminPortal.apiAccounts.field.emailAddress": "Correo electrónico",
 	"adminPortal.apiAccounts.field.products": "Productos",
 	"adminPortal.apiAccounts.field.ipWhiteList": "Lista blanca de IP",
+	"adminPortal.apiAccounts.type.operator": "Operador",
+	"adminPortal.apiAccounts.type.read-only": "Solo lectura",
 	"adminPortal.apiAccounts.cdnPerm.allowedOperations": "Operaciones permitidas",
 	"adminPortal.apiAccounts.cdnPerm.allowedResources": "Recursos permitidos",
 	"adminPortal.apiAccounts.cdnPerm.saveFailed": "La cuenta se creó, pero no se pudieron guardar los permisos de CDN:",

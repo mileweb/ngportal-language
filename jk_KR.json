@@ -1530,6 +1530,8 @@
 	"adminPortal.apiAccounts.field.emailAddress": "이메일",
 	"adminPortal.apiAccounts.field.products": "제품",
 	"adminPortal.apiAccounts.field.ipWhiteList": "IP 허용 목록",
+	"adminPortal.apiAccounts.type.operator": "운영자",
+	"adminPortal.apiAccounts.type.read-only": "읽기 전용",
 	"adminPortal.apiAccounts.cdnPerm.allowedOperations": "허용된 작업",
 	"adminPortal.apiAccounts.cdnPerm.allowedResources": "허용된 리소스",
 	"adminPortal.apiAccounts.cdnPerm.saveFailed": "계정이 생성되었지만 CDN 권한을 저장할 수 없습니다:",

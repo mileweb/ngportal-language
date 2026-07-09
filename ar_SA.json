@@ -1530,6 +1530,8 @@
 	"adminPortal.apiAccounts.field.emailAddress": "البريد الإلكتروني",
 	"adminPortal.apiAccounts.field.products": "المنتجات",
 	"adminPortal.apiAccounts.field.ipWhiteList": "قائمة IP المسموح بها",
+	"adminPortal.apiAccounts.type.operator": "المشغّل",
+	"adminPortal.apiAccounts.type.read-only": "للقراءة فقط",
 	"adminPortal.apiAccounts.cdnPerm.allowedOperations": "العمليات المسموح بها",
 	"adminPortal.apiAccounts.cdnPerm.allowedResources": "الموارد المسموح بها",
 	"adminPortal.apiAccounts.cdnPerm.saveFailed": "تم إنشاء الحساب ولكن تعذّر حفظ أذونات CDN:",

@@ -1530,6 +1530,8 @@
 	"adminPortal.apiAccounts.field.emailAddress": "E-mail",
 	"adminPortal.apiAccounts.field.products": "Prodotti",
 	"adminPortal.apiAccounts.field.ipWhiteList": "Lista bianca IP",
+	"adminPortal.apiAccounts.type.operator": "Operatore",
+	"adminPortal.apiAccounts.type.read-only": "Sola lettura",
 	"adminPortal.apiAccounts.cdnPerm.allowedOperations": "Operazioni consentite",
 	"adminPortal.apiAccounts.cdnPerm.allowedResources": "Risorse consentite",
 	"adminPortal.apiAccounts.cdnPerm.saveFailed": "L'account è stato creato, ma non è stato possibile salvare le autorizzazioni CDN:",

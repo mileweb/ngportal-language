@@ -1530,6 +1530,8 @@
 	"adminPortal.apiAccounts.field.emailAddress": "电子邮件",
 	"adminPortal.apiAccounts.field.products": "产品",
 	"adminPortal.apiAccounts.field.ipWhiteList": "IP 白名单",
+	"adminPortal.apiAccounts.type.operator": "操作员",
+	"adminPortal.apiAccounts.type.read-only": "只读",
 	"adminPortal.apiAccounts.cdnPerm.allowedOperations": "允许的操作",
 	"adminPortal.apiAccounts.cdnPerm.allowedResources": "允许的资源",
 	"adminPortal.apiAccounts.cdnPerm.saveFailed": "账户已创建，但无法保存 CDN 权限：",

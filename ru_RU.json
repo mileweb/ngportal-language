@@ -1532,6 +1532,8 @@
 	"adminPortal.apiAccounts.field.emailAddress": "Электронная почта",
 	"adminPortal.apiAccounts.field.products": "Продукты",
 	"adminPortal.apiAccounts.field.ipWhiteList": "Белый список IP",
+	"adminPortal.apiAccounts.type.operator": "Оператор",
+	"adminPortal.apiAccounts.type.read-only": "Только чтение",
 	"adminPortal.apiAccounts.cdnPerm.allowedOperations": "Разрешённые операции",
 	"adminPortal.apiAccounts.cdnPerm.allowedResources": "Разрешённые ресурсы",
 	"adminPortal.apiAccounts.cdnPerm.saveFailed": "Учётная запись создана, но не удалось сохранить разрешения CDN:",
