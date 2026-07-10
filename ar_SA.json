@@ -2309,6 +2309,7 @@
 	"role.list.button.actions": "Actions",
 	"role.list.button.actions.delete": "Delete",
 	"role.list.button.actions.edit": "Edit",
+	"role.list.button.actions.view": "عرض",
 	"role.list.button.create.role": "Add Role",
 	"role.local.label": "Local: Only this customer account can use this role.",
 	"role.name.confirm.label": "Role Name(s): {roleNames}",

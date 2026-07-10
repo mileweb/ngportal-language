@@ -2309,6 +2309,7 @@
 	"role.list.button.actions": "操作",
 	"role.list.button.actions.delete": "删除",
 	"role.list.button.actions.edit": "修改",
+	"role.list.button.actions.view": "查看",
 	"role.list.button.create.role": "添加角色",
 	"role.local.label": "本地：只有本客户可以使用这个角色。",
 	"role.name.confirm.label": "角色名称： {roleNames}",

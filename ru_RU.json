@@ -2311,6 +2311,7 @@
 	"role.list.button.actions": "Действия",
 	"role.list.button.actions.delete": "Удалить",
 	"role.list.button.actions.edit": "Редактировать",
+	"role.list.button.actions.view": "Просмотр",
 	"role.list.button.create.role": "Добавить роль",
 	"role.local.label": "Локально: только эта учётная запись клиента может использовать эту роль.",
 	"role.name.confirm.label": "Имена ролей: {roleNames}",

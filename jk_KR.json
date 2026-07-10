@@ -2309,6 +2309,7 @@
 	"role.list.button.actions": "액션",
 	"role.list.button.actions.delete": "삭제",
 	"role.list.button.actions.edit": "편집",
+	"role.list.button.actions.view": "보기",
 	"role.list.button.create.role": "역할 추가 ",
 	"role.local.label": "로컬: 이 고객 계정만 이 역할을 사용할 수 있습니다.",
 	"role.name.confirm.label": "역할 이름 : {roleNames} ",

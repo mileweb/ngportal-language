@@ -2309,6 +2309,7 @@
 	"role.list.button.actions": "行動",
 	"role.list.button.actions.delete": "削除する",
 	"role.list.button.actions.edit": "編集",
+	"role.list.button.actions.view": "表示",
 	"role.list.button.create.role": "役割を追加",
 	"role.local.label": "ローカル：この顧客アカウントのみがこの役割を使用できます。",
 	"role.name.confirm.label": "ロール名：{roleNames}",
