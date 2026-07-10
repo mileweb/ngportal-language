@@ -1604,6 +1604,8 @@
 	"adminPortal.apiCalls.column.customerId": "ID клиента",
 	"adminPortal.apiCalls.detailTitle": "Сведения об API-вызове",
 	"adminPortal.apiCalls.notFound": "API-вызов не найден.",
+	"adminPortal.apiCalls.newerCall": "< Новее",
+	"adminPortal.apiCalls.olderCall": "Старее >",
 	"adminPortal.apiCalls.error.title": "Не удалось загрузить API-вызовы",
 	"adminPortal.apiCalls.error.invalidPathPrefix": "Фильтр по пути должен начинаться с одного из разрешённых префиксов: {prefixes}. Например, используйте «/cdn/» вместо «/cdn».",
 	"adminPortal.apiCalls.error.generic": "Не удалось загрузить список API-вызовов. Пожалуйста, попробуйте ещё раз.",

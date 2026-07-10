@@ -1602,6 +1602,8 @@
 	"adminPortal.apiCalls.column.customerId": "顧客 ID",
 	"adminPortal.apiCalls.detailTitle": "API 呼び出しの詳細",
 	"adminPortal.apiCalls.notFound": "API 呼び出しが見つかりません。",
+	"adminPortal.apiCalls.newerCall": "< 新しい",
+	"adminPortal.apiCalls.olderCall": "古い >",
 	"adminPortal.apiCalls.error.title": "API 呼び出しを読み込めません",
 	"adminPortal.apiCalls.error.invalidPathPrefix": "パスフィルターは、許可されたプレフィックスのいずれかで始まる必要があります：{prefixes}。例えば、「/cdn」ではなく「/cdn/」を使用してください。",
 	"adminPortal.apiCalls.error.generic": "API 呼び出しリストの読み込みに失敗しました。もう一度お試しください。",

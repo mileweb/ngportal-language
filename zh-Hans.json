@@ -1602,6 +1602,8 @@
 	"adminPortal.apiCalls.column.customerId": "客户 ID",
 	"adminPortal.apiCalls.detailTitle": "API 调用详情",
 	"adminPortal.apiCalls.notFound": "未找到 API 调用。",
+	"adminPortal.apiCalls.newerCall": "< 后",
+	"adminPortal.apiCalls.olderCall": "前 >",
 	"adminPortal.apiCalls.error.title": "无法加载 API 调用",
 	"adminPortal.apiCalls.error.invalidPathPrefix": "路径过滤条件必须以下列允许的前缀之一开头：{prefixes}。例如，请使用“/cdn/”而不是“/cdn”。",
 	"adminPortal.apiCalls.error.generic": "加载 API 调用列表失败，请重试。",
