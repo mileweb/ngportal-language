@@ -591,6 +591,7 @@
 	"contactListing.action.cancel.invite": "Cancelar invitación",
 	"contactListing.action.delete": "Delete",
 	"contactListing.action.edit": "Edit",
+	"contactListing.action.view": "Ver",
 	"contactListing.action.resend.invite": "Reenviar invitacíon",
 	"contactListing.action.suspend": "Suspend",
 	"contactListing.activate.contact.modal.text": "¿Está seguro de que desea activar el usuario '{username}'?",

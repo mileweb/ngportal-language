@@ -591,6 +591,7 @@
 	"contactListing.action.cancel.invite": "取消邀请",
 	"contactListing.action.delete": "删除",
 	"contactListing.action.edit": "编辑",
+	"contactListing.action.view": "查看",
 	"contactListing.action.resend.invite": "重新发送邀请",
 	"contactListing.action.suspend": "挂起",
 	"contactListing.activate.contact.modal.text": "您确定要激活用户“{username}”吗？",

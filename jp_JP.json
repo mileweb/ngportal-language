@@ -591,6 +591,7 @@
 	"contactListing.action.cancel.invite": "招待をキャンセル",
 	"contactListing.action.delete": "削除する",
 	"contactListing.action.edit": "編集",
+	"contactListing.action.view": "表示",
 	"contactListing.action.resend.invite": "招待状を再送する",
 	"contactListing.action.suspend": "サスペンド",
 	"contactListing.activate.contact.modal.text": "ユーザー '{username}' をアクティブ化してもよろしいですか?",

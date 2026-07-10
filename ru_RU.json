@@ -593,6 +593,7 @@
 	"contactListing.action.cancel.invite": "Отменить приглашение",
 	"contactListing.action.delete": "Удалить",
 	"contactListing.action.edit": "Редактировать",
+	"contactListing.action.view": "Просмотр",
 	"contactListing.action.resend.invite": "Отправить приглашение повторно",
 	"contactListing.action.suspend": "Приостановить",
 	"contactListing.activate.contact.modal.text": "Вы уверены, что хотите активировать пользователя «{username}»?",

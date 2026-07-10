@@ -591,6 +591,7 @@
 	"contactListing.action.cancel.invite": "إلغاء الدعوة",
 	"contactListing.action.delete": "Delete",
 	"contactListing.action.edit": "Edit",
+	"contactListing.action.view": "عرض",
 	"contactListing.action.resend.invite": "اعادة ارسال الدعوة",
 	"contactListing.action.suspend": "Suspend",
 	"contactListing.activate.contact.modal.text": "هل أنت متأكد أنك تريد تنشيط المستخدم \"{username}\"؟",

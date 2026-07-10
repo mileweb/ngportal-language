@@ -591,6 +591,7 @@
 	"contactListing.action.cancel.invite": "초대 취소",
 	"contactListing.action.delete": "삭제",
 	"contactListing.action.edit": "편집",
+	"contactListing.action.view": "보기",
 	"contactListing.action.resend.invite": "초대장 재전송",
 	"contactListing.action.suspend": "일시 중지",
 	"contactListing.activate.contact.modal.text": "'{username}' 사용자를 활성화하시겠습니까?",
