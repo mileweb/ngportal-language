@@ -1607,6 +1607,7 @@
 	"adminPortal.apiCalls.filterByApiName": "API 이름: {name}",
 	"adminPortal.apiAccounts.activity": "호출",
 	"adminPortal.apiAccounts.activities": "호출 내역",
+	"adminPortal.apiAccounts.view": "보기",
 	"contact.view.page.title": "연락처 세부 정보",
 	"contact.view.section.identity": "신원",
 	"contact.view.section.contact": "연락처",

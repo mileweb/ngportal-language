@@ -1607,6 +1607,7 @@
 	"adminPortal.apiCalls.filterByApiName": "API Name: {name}",
 	"adminPortal.apiAccounts.activity": "Activity",
 	"adminPortal.apiAccounts.activities": "Activities",
+	"adminPortal.apiAccounts.view": "View",
 	"contact.view.page.title": "Contact Details",
 	"contact.view.section.identity": "Identity",
 	"contact.view.section.contact": "Contact",

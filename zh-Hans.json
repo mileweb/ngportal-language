@@ -1607,6 +1607,7 @@
 	"adminPortal.apiCalls.filterByApiName": "API 名称：{name}",
 	"adminPortal.apiAccounts.activity": "调用行为",
 	"adminPortal.apiAccounts.activities": "调用行为",
+	"adminPortal.apiAccounts.view": "查看",
 	"contact.view.page.title": "联系人详情",
 	"contact.view.section.identity": "身份",
 	"contact.view.section.contact": "联系",

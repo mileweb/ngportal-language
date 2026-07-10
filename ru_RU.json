@@ -1609,6 +1609,7 @@
 	"adminPortal.apiCalls.filterByApiName": "Имя API: {name}",
 	"adminPortal.apiAccounts.activity": "Активность",
 	"adminPortal.apiAccounts.activities": "Активность",
+	"adminPortal.apiAccounts.view": "Просмотр",
 	"contact.view.page.title": "Сведения о контакте",
 	"contact.view.section.identity": "Идентификация",
 	"contact.view.section.contact": "Контакт",

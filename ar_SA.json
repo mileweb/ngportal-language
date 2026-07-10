@@ -1607,6 +1607,7 @@
 	"adminPortal.apiCalls.filterByApiName": "اسم API: {name}",
 	"adminPortal.apiAccounts.activity": "النشاط",
 	"adminPortal.apiAccounts.activities": "الأنشطة",
+	"adminPortal.apiAccounts.view": "عرض",
 	"contact.view.page.title": "تفاصيل جهة الاتصال",
 	"contact.view.section.identity": "الهوية",
 	"contact.view.section.contact": "جهة الاتصال",

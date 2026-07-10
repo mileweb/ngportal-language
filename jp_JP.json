@@ -1607,6 +1607,7 @@
 	"adminPortal.apiCalls.filterByApiName": "API 名：{name}",
 	"adminPortal.apiAccounts.activity": "呼び出し",
 	"adminPortal.apiAccounts.activities": "呼び出し履歴",
+	"adminPortal.apiAccounts.view": "表示",
 	"contact.view.page.title": "連絡先の詳細",
 	"contact.view.section.identity": "ID情報",
 	"contact.view.section.contact": "連絡先",
