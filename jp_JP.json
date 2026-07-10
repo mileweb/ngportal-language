@@ -2588,7 +2588,7 @@
 	"suspended.popup.body.line1": "CDN Pro サービスへのアクセスを有効にするには、",
 	"suspended.popup.body.line2": " {emailAddress}までご連絡ください。",
 	"suspended.popup.header": "通知",
-	"suspended.popup.impersonation.dismiss.tooltip": "Stops the impersonation session and returns you to your account.",
+	"suspended.popup.impersonation.dismiss.tooltip": "なりすましセッションを終了し、元のアカウントに戻ります。",
 	"suspended.popup.title": "CDN Pro サービスへのアクセスが一時停止されています",
 	"suspended.service.abuse.popup.body.line1": "不審なサービスの悪用により、アクセスが一時停止されました。",
 	"suspended.service.abuse.popup.body.line2": "これが予期しないものであると思われる場合は、{emailAddress}までご連絡ください。",

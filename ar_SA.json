@@ -2588,7 +2588,7 @@
 	"suspended.popup.body.line1": "لتمكين الوصول إلى خدمة CDN Pro ،",
 	"suspended.popup.body.line2": "يرجى الاتصال بنا على {emailAddress}.",
 	"suspended.popup.header": "تنويه",
-	"suspended.popup.impersonation.dismiss.tooltip": "Stops the impersonation session and returns you to your account.",
+	"suspended.popup.impersonation.dismiss.tooltip": "ينهي جلسة انتحال الهوية ويعيدك إلى حسابك.",
 	"suspended.popup.title": "تم تعليق الوصول إلى خدمة CDN Pro",
 	"suspended.service.abuse.popup.body.line1": "تم تعليق الوصول بسبب إساءة استخدام مشبوهة للخدمة.",
 	"suspended.service.abuse.popup.body.line2": "اتصل بنا على {emailAddress} إذا كنت تعتقد أن هذا غير متوقع.",
