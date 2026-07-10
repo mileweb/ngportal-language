@@ -2595,6 +2595,7 @@
 	"suspended.popup.body.line1": "Pour activer l'accès au service CDN Pro,",
 	"suspended.popup.body.line2": "Veuillez nous contacter au {emailAddress}.",
 	"suspended.popup.header": "Remarquer",
+	"suspended.popup.impersonation.dismiss.tooltip": "Arrête la session d'emprunt d'identité et vous renvoie à votre compte.",
 	"suspended.popup.title": "L'accès au service CDN Pro est suspendu",
 	"suspended.service.abuse.popup.body.line1": "L'accès a été suspendu en raison d'une utilisation suspecte du service.",
 	"suspended.service.abuse.popup.body.line2": "Contactez-nous à {emailAddress} si vous pensez que cela est inattendu.",
