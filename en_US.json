@@ -2589,6 +2589,7 @@
 	"suspended.popup.body.line1": "To enable access to CDN Pro service,",
 	"suspended.popup.body.line2": "please contact us at {emailAddress}.",
 	"suspended.popup.header": "Notice",
+	"suspended.popup.impersonation.dismiss.tooltip": "Stops the impersonation session and returns you to your account.",
 	"suspended.popup.title": "Access to CDN Pro service is suspended",
 	"suspended.service.abuse.popup.body.line1": "The access has been suspended due to suspicious service abuse.",
 	"suspended.service.abuse.popup.body.line2": "Contact us at {emailAddress}, if you believe this is unexpected.",

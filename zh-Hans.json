@@ -2589,6 +2589,7 @@
 	"suspended.popup.body.line1": "要开启 CDN Pro 服务，",
 	"suspended.popup.body.line2": "请通过 {emailAddress}与我们联系。",
 	"suspended.popup.header": "注意",
+	"suspended.popup.impersonation.dismiss.tooltip": "Stops the impersonation session and returns you to your account.",
 	"suspended.popup.title": "CDN Pro服务挂起",
 	"suspended.service.abuse.popup.body.line1": "由于存在违反使用条款的行为，服务已被挂起。",
 	"suspended.service.abuse.popup.body.line2": "如果您认为这不符合预期，请通过 {emailAddress} 与我们联系。",
