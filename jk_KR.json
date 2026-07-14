@@ -2599,7 +2599,7 @@
 	"suspended.popup.body.line1": "CDN Pro 서비스에 대한 액세스를 사용 설정하려면,",
 	"suspended.popup.body.line2": " {emailAddress}(으)로 문의하십시오.",
 	"suspended.popup.header": "주의",
-	"suspended.popup.impersonation.dismiss.tooltip": "가장 세션을 종료하고 원래 계정으로 돌아갑니다.",
+	"suspended.popup.impersonation.dismiss.tooltip": "이 알림을 닫고 가장 세션을 계속합니다.",
 	"suspended.popup.title": "CDN Pro 서비스에 대한 액세스가 일시 중지되었습니다.",
 	"suspended.service.abuse.popup.body.line1": "의심스러운 서비스 남용으로 인해 액세스가 일시 중지되었습니다.",
 	"suspended.service.abuse.popup.body.line2": "이것이 예상치 못한 것이라고 생각되면 {emailAddress}(으)로 문의하십시오.",
