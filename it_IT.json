@@ -2610,7 +2610,7 @@
 	"suspended.popup.body.line1": "Per abilitare l'accesso al servizio CDN Pro,",
 	"suspended.popup.body.line2": "Contattaci al {emailAddress}.",
 	"suspended.popup.header": "Avviso",
-	"suspended.popup.impersonation.dismiss.tooltip": "Termina la sessione di impersonificazione e ti riporta al tuo account.",
+	"suspended.popup.impersonation.dismiss.tooltip": "Chiude questo avviso e continua la sessione di impersonificazione.",
 	"suspended.popup.title": "L'accesso al servizio CDN Pro è sospeso",
 	"suspended.service.abuse.popup.body.line1": "L'accesso è stato sospeso a causa di un sospetto abuso del servizio.",
 	"suspended.service.abuse.popup.body.line2": "Contattaci a {emailAddress} se ritieni che sia inaspettato.",
