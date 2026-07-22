@@ -1496,6 +1496,8 @@
 	"adminPortal.menu.dashboard": "Панель управления",
 	"adminPortal.menu.organization": "Организация",
 	"adminPortal.menu.consoleIam": "IAM консоли",
+	"adminPortal.menu.consoleUsers": "Пользователи",
+	"adminPortal.menu.consoleRoles": "Роли",
 	"adminPortal.menu.apiAccounts": "API-аккаунты",
 	"adminPortal.menu.apiCalls": "API-вызовы",
 	"adminPortal.organization.title": "Организация",

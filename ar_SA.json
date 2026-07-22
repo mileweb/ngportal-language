@@ -1494,6 +1494,8 @@
 	"adminPortal.menu.dashboard": "لوحة التحكم",
 	"adminPortal.menu.organization": "المؤسسة",
 	"adminPortal.menu.consoleIam": "IAM للوحدة",
+	"adminPortal.menu.consoleUsers": "Users",
+	"adminPortal.menu.consoleRoles": "Roles",
 	"adminPortal.menu.apiAccounts": "حسابات API",
 	"adminPortal.menu.apiCalls": "استدعاءات API",
 	"adminPortal.organization.title": "المؤسسة",

@@ -1494,6 +1494,8 @@
 	"adminPortal.menu.dashboard": "ダッシュボード",
 	"adminPortal.menu.organization": "組織",
 	"adminPortal.menu.consoleIam": "コンソール IAM",
+	"adminPortal.menu.consoleUsers": "ユーザー",
+	"adminPortal.menu.consoleRoles": "役割",
 	"adminPortal.menu.apiAccounts": "API アカウント",
 	"adminPortal.menu.apiCalls": "API 呼び出し",
 	"adminPortal.organization.title": "組織",

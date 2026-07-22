@@ -1494,6 +1494,8 @@
 	"adminPortal.menu.dashboard": "Panel",
 	"adminPortal.menu.organization": "Organización",
 	"adminPortal.menu.consoleIam": "IAM de consola",
+	"adminPortal.menu.consoleUsers": "Users",
+	"adminPortal.menu.consoleRoles": "Roles",
 	"adminPortal.menu.apiAccounts": "Cuentas API",
 	"adminPortal.menu.apiCalls": "Llamadas API",
 	"adminPortal.organization.title": "Organización",
