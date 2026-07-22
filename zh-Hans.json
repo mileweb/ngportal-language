@@ -1496,6 +1496,8 @@
 	"adminPortal.menu.consoleIam": "控制台 IAM",
 	"adminPortal.menu.consoleUsers": "用户",
 	"adminPortal.menu.consoleRoles": "角色",
+	"adminPortal.consoleUsers.title": "控制台用户",
+	"adminPortal.consoleRoles.title": "控制台角色",
 	"adminPortal.menu.apiAccounts": "API 账户",
 	"adminPortal.menu.apiCalls": "API 调用史",
 	"adminPortal.organization.title": "组织",

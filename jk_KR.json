@@ -1496,6 +1496,8 @@
 	"adminPortal.menu.consoleIam": "콘솔 IAM",
 	"adminPortal.menu.consoleUsers": "사용자",
 	"adminPortal.menu.consoleRoles": "역할",
+	"adminPortal.consoleUsers.title": "콘솔 사용자",
+	"adminPortal.consoleRoles.title": "콘솔 역할",
 	"adminPortal.menu.apiAccounts": "API 계정",
 	"adminPortal.menu.apiCalls": "API 호출",
 	"adminPortal.organization.title": "조직",

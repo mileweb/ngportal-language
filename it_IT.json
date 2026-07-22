@@ -1496,6 +1496,8 @@
 	"adminPortal.menu.consoleIam": "IAM Console",
 	"adminPortal.menu.consoleUsers": "Users",
 	"adminPortal.menu.consoleRoles": "Roles",
+	"adminPortal.consoleUsers.title": "Utenti console",
+	"adminPortal.consoleRoles.title": "Ruoli console",
 	"adminPortal.menu.apiAccounts": "Account API",
 	"adminPortal.menu.apiCalls": "Chiamate API",
 	"adminPortal.organization.title": "Organizzazione",

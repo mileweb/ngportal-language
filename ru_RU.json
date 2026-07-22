@@ -1498,6 +1498,8 @@
 	"adminPortal.menu.consoleIam": "IAM консоли",
 	"adminPortal.menu.consoleUsers": "Пользователи",
 	"adminPortal.menu.consoleRoles": "Роли",
+	"adminPortal.consoleUsers.title": "Пользователи консоли",
+	"adminPortal.consoleRoles.title": "Роли консоли",
 	"adminPortal.menu.apiAccounts": "API-аккаунты",
 	"adminPortal.menu.apiCalls": "API-вызовы",
 	"adminPortal.organization.title": "Организация",
