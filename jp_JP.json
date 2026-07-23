@@ -538,7 +538,7 @@
 	"contact.fetch.error.invalidContact": "ユーザーが存在しません。",
 	"contact.fetch.error.other": "ユーザーの取得中にエラーが発生しました。",
 	"contact.invalid.address1": "住所1が無効です。",
-	"contact.invalid.address2": "アドレス2は無効です。",
+	"contact.invalid.address2": "住所2が無効です。",
 	"contact.invalid.city": "都市は無効です。",
 	"contact.invalid.country": "国が無効です。",
 	"contact.invalid.desc": "説明の値が無効です。",

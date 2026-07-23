@@ -538,7 +538,7 @@
 	"contact.fetch.error.invalidContact": "المستخدم غير موجود.",
 	"contact.fetch.error.other": "حدث خطأ أثناء إحضار المستخدم.",
 	"contact.invalid.address1": "سطر العنوان 1 غير صالح.",
-	"contact.invalid.address2": "العنوان 2 غير صالح.",
+	"contact.invalid.address2": "سطر العنوان 2 غير صالح.",
 	"contact.invalid.city": "المدينة غير صالحة.",
 	"contact.invalid.country": "البلد غير صالح.",
 	"contact.invalid.desc": "قيمة غير صالحة للوصف.",

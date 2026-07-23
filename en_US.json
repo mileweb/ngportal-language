@@ -538,7 +538,7 @@
 	"contact.fetch.error.invalidContact": "The user does not exist.",
 	"contact.fetch.error.other": "An error occurred while fetching the user.",
 	"contact.invalid.address1": "Address line 1 is invalid.",
-	"contact.invalid.address2": "Address 2 is invalid.",
+	"contact.invalid.address2": "Address line 2 is invalid.",
 	"contact.invalid.city": "The city is invalid.",
 	"contact.invalid.country": "The country is invalid.",
 	"contact.invalid.desc": "Invalid value for description.",
