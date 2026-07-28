@@ -525,7 +525,7 @@
 	"chatbot.property.edgeLogic.proposal.apply.malformed": "无法将 AI 的回复解析为修改内容，未做任何应用。",
 	"chatbot.property.edgeLogic.proposal.apply.not.found": "AI 建议的第 {index} 处修改已无法匹配当前边缘逻辑，未做任何应用。你的边缘逻辑可能在 AI 回复后发生了变化。",
 	"chatbot.property.edgeLogic.proposal.no.change": "AI 的建议与当前边缘逻辑完全相同，无需应用。",
-	"chatbot.property.edgeLogic.proposal.pending": "AI 提出修改待确认，可在下方编辑器中逐处接受或拒绝。",
+	"chatbot.property.edgeLogic.proposal.pending": "AI 提出修改待确认，可在下方编辑器中接受或拒绝。",
 	"chatbot.property.edgeLogic.proposal.reject": "拒绝",
 	"chatbot.property.edgeLogic.proposal.reject.all": "全部拒绝",
 	"chatbot.property.edgeLogic.proposal.review.required": "请先审阅 AI 的修改",
