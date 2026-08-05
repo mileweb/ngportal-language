@@ -1923,7 +1923,7 @@
 	"property.videoSeeking.inequal": "起始参数名和结束参数名不能相同",
 	"property.videoSeeking.start.invalid": "起始参数名必须以字母开头，并且只能包含 a-z、A-Z、0-9",
 	"property.videoSeeking.start.length": "起始参数名最多应为31个字符",
-	"propertyCreate.modal.validate.version.confirm.content": "该配置此前使用了服务器版本'{lastValidatedServerVersion}'进行了验证。您是否要再次验证？",
+	"propertyCreate.modal.validate.version.confirm.content": "该配置此前使用了服务器版本''{lastValidatedServerVersion}''进行了验证。您是否要再次验证？",
 	"propertyCreate.model.save.desc.goBackToDesc": "添加描述",
 	"propertyCreate.model.save.desc.goToSaveWithShortDesc": "就这样吧",
 	"propertyCreate.model.save.validate.version.confirm.tile": "您要保存并验证此加速项目版本吗？",

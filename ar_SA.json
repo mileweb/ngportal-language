@@ -1923,7 +1923,7 @@
 	"property.videoSeeking.inequal": "لا يمكن أن تكون معلمة البداية ومعلمة النهاية متساوية.",
 	"property.videoSeeking.start.invalid": "يجب أن تبدأ معلمة البداية بحرف ويمكن أن تتضمن فقط a-z ، A-Z ، 0-9.",
 	"property.videoSeeking.start.length": "يجب ألا تزيد معلمة البدء عن 31 حرفًا.",
-	"propertyCreate.modal.validate.version.confirm.content": "تم التحقق من إصدار هذه الخاصية آخر مرة باستخدام إصدار الخادم '{lastValidatedServerVersion}'. هل تريد التحقق من صحتها مرة أخرى؟",
+	"propertyCreate.modal.validate.version.confirm.content": "تم التحقق من إصدار هذه الخاصية آخر مرة باستخدام إصدار الخادم ''{lastValidatedServerVersion}''. هل تريد التحقق من صحتها مرة أخرى؟",
 	"propertyCreate.model.save.desc.goBackToDesc": "عد لإضافة وصف",
 	"propertyCreate.model.save.desc.goToSaveWithShortDesc": "حفظ مع هذا الوصف المختصر",
 	"propertyCreate.model.save.validate.version.confirm.tile": "Do you want to save and validate this property and version?",
