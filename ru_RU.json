@@ -492,6 +492,7 @@
 	"chatbot.label.context.full.edge.logic": "Edge Logic",
 	"chatbot.label.context.remove": "Удалить",
 	"chatbot.label.context.tooltip.toggle": "Включить полный Edge Logic в качестве контекста",
+	"chatbot.label.context.truncated": "(усечено)",
 	"chatbot.label.copied.message": "Скопировано в буфер обмена",
 	"chatbot.label.delete.button": "Удалить",
 	"chatbot.label.placeholder.loading.settings": "Загрузка настроек...",

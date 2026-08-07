@@ -490,6 +490,7 @@
 	"chatbot.label.context.full.edge.logic": "엣지 로직",
 	"chatbot.label.context.remove": "제거",
 	"chatbot.label.context.tooltip.toggle": "전체 엣지 로직을 컨텍스트로 포함",
+	"chatbot.label.context.truncated": "(잘림)",
 	"chatbot.label.copied.message": "클립보드에 복사됨",
 	"chatbot.label.delete.button": "삭제",
 	"chatbot.label.placeholder.loading.settings": "설정 불러오는 중...",

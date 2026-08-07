@@ -490,6 +490,7 @@
 	"chatbot.label.context.full.edge.logic": "Edge Logic",
 	"chatbot.label.context.remove": "إزالة",
 	"chatbot.label.context.tooltip.toggle": "تضمين Edge Logic بالكامل كسياق",
+	"chatbot.label.context.truncated": "(مقتطع)",
 	"chatbot.label.copied.message": "تم نسخها إلى الحافظة",
 	"chatbot.label.delete.button": "يمسح",
 	"chatbot.label.placeholder.loading.settings": "جارٍ تحميل الإعدادات...",
