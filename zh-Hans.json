@@ -490,6 +490,7 @@
 	"chatbot.label.context.full.edge.logic": "边缘逻辑",
 	"chatbot.label.context.remove": "移除",
 	"chatbot.label.context.tooltip.toggle": "将完整的边缘逻辑作为上下文发送",
+	"chatbot.label.context.truncated": "（已截断）",
 	"chatbot.label.copied.message": "已复制到剪贴板",
 	"chatbot.label.delete.button": "删除",
 	"chatbot.label.placeholder.loading.settings": "正在加载设置...",

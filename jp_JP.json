@@ -490,6 +490,7 @@
 	"chatbot.label.context.full.edge.logic": "エッジロジック",
 	"chatbot.label.context.remove": "削除",
 	"chatbot.label.context.tooltip.toggle": "エッジロジック全体をコンテキストとして含める",
+	"chatbot.label.context.truncated": "(切り詰め)",
 	"chatbot.label.copied.message": "クリップボードにコピーされました",
 	"chatbot.label.delete.button": "消去",
 	"chatbot.label.placeholder.loading.settings": "設定を読み込んでいます...",

@@ -490,6 +490,7 @@
 	"chatbot.label.context.full.edge.logic": "Edge Logic",
 	"chatbot.label.context.remove": "Quitar",
 	"chatbot.label.context.tooltip.toggle": "Incluir el Edge Logic completo como contexto",
+	"chatbot.label.context.truncated": "(truncado)",
 	"chatbot.label.copied.message": "Copiado al portapapeles",
 	"chatbot.label.delete.button": "BORRAR",
 	"chatbot.label.placeholder.loading.settings": "Cargando configuración...",
