@@ -2881,6 +2881,7 @@
 	"validation.error.cachekey.length": "缓存键里的域名应少于80个字符",
 	"validation.error.common.name.invalid": "通用名只能包含可打印的 ASCII 字符",
 	"validation.error.common.name.length.invalid": "通用名的长度必须小于或等于 250 个字符",
+	"validation.error.comment.too.long": "注释不能超过 256 个字符",
 	"validation.error.desc.too.long": "描述信息不能超过 256 个字符",
 	"validation.error.desc.too.short": "该配置版本的描述过于简短。建议您多写一些内容来记录刚才的操作。",
 	"validation.error.description.too.long": "描述最多可包含 256 个字符",

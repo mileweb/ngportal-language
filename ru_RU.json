@@ -2882,6 +2882,7 @@
 	"validation.error.cachekey.length": "Имя хоста ключа кэша должно быть менее 80 символов.",
 	"validation.error.common.name.invalid": "Общее имя может состоять только из печатных ASCII-символов.",
 	"validation.error.common.name.length.invalid": "Длина общего имени должна быть меньше или равна 250 символам.",
+	"validation.error.comment.too.long": "Комментарии могут содержать до 256 символов.",
 	"validation.error.desc.too.long": "Описание может содержать до 256 символов.",
 	"validation.error.desc.too.short": "У вас очень короткое описание этой версии свойства. Рекомендуется добавить более подробное описание, чтобы документировать внесённые изменения.",
 	"validation.error.description.too.long": "Описание может содержать до 256 символов.",

@@ -2880,6 +2880,7 @@
 	"validation.error.cachekey.length": "キャッシュキーのホスト名は80文字未満にする必要があります。",
 	"validation.error.common.name.invalid": "共通名は、印刷可能なASCII文字のみで構成できます。",
 	"validation.error.common.name.length.invalid": "共通名の長さは250文字以下でなければなりません。",
+	"validation.error.comment.too.long": "コメントは最大256文字です。",
 	"validation.error.desc.too.long": "説明は最大256文字です。",
 	"validation.error.desc.too.short": "このプロパティバージョンの短い説明があります。あなたがしたことを文書化するために何かを書くことは良い習慣です。",
 	"validation.error.description.too.long": "説明は最大256文字です。",
