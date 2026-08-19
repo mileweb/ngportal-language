@@ -1711,6 +1711,7 @@
 	"property.impersonation.image.click.to": "クリックしてなりすまし",
 	"property.impersonation.image.click.to.edit": "クリックして偽装して編集",
 	"property.impersonation.image.this.is.me": "これが私です。",
+	"impersonation.customerId.click.to": "クリックしてこの顧客に切り替え",
 	"property.label.allow.protocol.downgrade": "プロトコルのダウングレードを許可",
 	"property.label.beian.content.type": "Beian 콘텐츠 유형",
 	"property.label.cache.key.scheme": "HTTPSコンテンツをHTTPとは別にキャッシュする",

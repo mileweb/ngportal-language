@@ -1713,6 +1713,7 @@
 	"property.impersonation.image.click.to": "Нажмите, чтобы начать работу от другого лица",
 	"property.impersonation.image.click.to.edit": "Нажмите, чтобы редактировать от другого лица",
 	"property.impersonation.image.this.is.me": "Это я.",
+	"impersonation.customerId.click.to": "Нажмите, чтобы переключиться на этого клиента",
 	"property.label.allow.protocol.downgrade": "Разрешить понижение версии протокола",
 	"property.label.beian.content.type": "Тип контента Beian",
 	"property.label.cache.key.scheme": "Кэшировать содержимое HTTPS отдельно от HTTP",

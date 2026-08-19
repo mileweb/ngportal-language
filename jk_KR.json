@@ -1711,6 +1711,7 @@
 	"property.impersonation.image.click.to": "가장하려면 클릭하세요.",
 	"property.impersonation.image.click.to.edit": "편집하려면 가장하려면 클릭하세요.",
 	"property.impersonation.image.this.is.me": "이것은 나 입니다.",
+	"impersonation.customerId.click.to": "클릭하여 해당 고객으로 전환",
 	"property.label.allow.protocol.downgrade": "프로토콜 다운 그레이드 허용 ",
 	"property.label.beian.content.type": "Beian 콘텐츠 유형",
 	"property.label.cache.key.scheme": "HTTP와 별도로 HTTPS 컨텐츠 캐시 ",

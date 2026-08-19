@@ -1711,6 +1711,7 @@
 	"property.impersonation.image.click.to": "切换至该客户",
 	"property.impersonation.image.click.to.edit": "切换至该客户进行编辑",
 	"property.impersonation.image.this.is.me": "这就是我。",
+	"impersonation.customerId.click.to": "点击切换至该客户",
 	"property.label.allow.protocol.downgrade": "允许协议降级",
 	"property.label.beian.content.type": "备案服务内容",
 	"property.label.cache.key.scheme": "HTTP与HTTPS分开缓存",
