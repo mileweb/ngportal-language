@@ -627,6 +627,7 @@
 	"contactListing.column.name": "Имя пользователя",
 	"contactListing.column.role": "Роль",
 	"contactListing.column.status": "Статус",
+	"contactListing.column.lastLoginTime": "Время последнего входа",
 	"contactListing.contact.invite.cancel.confirm.modal.text": "Вы хотите отменить приглашение на адрес «{email}»?",
 	"contactListing.contact.invite.cancel.confirm.modal.title": "Отменить приглашение",
 	"contactListing.contact.invite.cancel.success.modal.text": "Приглашение было отменено.",

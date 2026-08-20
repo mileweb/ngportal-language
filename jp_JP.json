@@ -625,6 +625,7 @@
 	"contactListing.column.name": "ユーザー名",
 	"contactListing.column.role": "役割",
 	"contactListing.column.status": "状態",
+	"contactListing.column.lastLoginTime": "最終ログイン日時",
 	"contactListing.contact.invite.cancel.confirm.modal.text": "''{email}'' への招待をキャンセルしますか?",
 	"contactListing.contact.invite.cancel.confirm.modal.title": "招待をキャンセル",
 	"contactListing.contact.invite.cancel.success.modal.text": "招待はキャンセルされました。",

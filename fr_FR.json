@@ -625,6 +625,7 @@
 	"contactListing.column.name": "User Name",
 	"contactListing.column.role": "Role",
 	"contactListing.column.status": "Status",
+	"contactListing.column.lastLoginTime": "Date de dernière connexion",
 	"contactListing.contact.invite.cancel.confirm.modal.text": "Voulez-vous annuler l''invitation à ''{email}'' ?",
 	"contactListing.contact.invite.cancel.confirm.modal.title": "Annuler l'invitation",
 	"contactListing.contact.invite.cancel.success.modal.text": "L'invitation a été annulée.",

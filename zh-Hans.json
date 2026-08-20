@@ -625,6 +625,7 @@
 	"contactListing.column.name": "用户名",
 	"contactListing.column.role": "角色",
 	"contactListing.column.status": "状态",
+	"contactListing.column.lastLoginTime": "最后登录时间",
 	"contactListing.contact.invite.cancel.confirm.modal.text": "您要取消对“{email}”的邀请吗？",
 	"contactListing.contact.invite.cancel.confirm.modal.title": "取消邀请",
 	"contactListing.contact.invite.cancel.success.modal.text": "邀请已取消。",

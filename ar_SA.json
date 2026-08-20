@@ -625,6 +625,7 @@
 	"contactListing.column.name": "User Name",
 	"contactListing.column.role": "Role",
 	"contactListing.column.status": "Status",
+	"contactListing.column.lastLoginTime": "وقت آخر تسجيل دخول",
 	"contactListing.contact.invite.cancel.confirm.modal.text": "هل تريد إلغاء الدعوة الموجهة إلى \"{email}\"؟",
 	"contactListing.contact.invite.cancel.confirm.modal.title": "إلغاء الدعوة",
 	"contactListing.contact.invite.cancel.success.modal.text": "تم إلغاء الدعوة.",
