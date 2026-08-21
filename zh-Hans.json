@@ -638,6 +638,7 @@
 	"customer.list.email.filter.input.error": "邮箱地址错误",
 	"customer.list.email.filter.label": "邮箱",
 	"customer.list.email.filter.placeholder": "精确匹配的邮箱地址",
+	"customer.list.include.deactivated": "包含已停用的客户",
 	"customer.status.active": "激活",
 	"customer.status.pending": "待定",
 	"customer.status.suspended": "挂起",

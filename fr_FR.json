@@ -638,6 +638,7 @@
 	"customer.list.email.filter.input.error": "L'adresse e-mail n'est pas valide",
 	"customer.list.email.filter.label": "Adresse e-mail",
 	"customer.list.email.filter.placeholder": "Adresse e-mail exacte",
+	"customer.list.include.deactivated": "Inclure les clients désactivés",
 	"customer.status.active": "Active",
 	"customer.status.pending": "Pending",
 	"customer.status.suspended": "Suspended",
