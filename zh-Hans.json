@@ -21,6 +21,8 @@
 	"contact.masterAccount.no": "否",
 	"contact.masterAccount.allProducts": "大师账号拥有该客户的所有产品。",
 	"contact.masterAccount.noRolesNeeded": "大师账号拥有控制台所有权限，无需配置角色。",
+	"contact.master.selfDemote.confirm.title": "取消自己的大师账号？",
+	"contact.master.selfDemote.confirm.msg": "您将失去大师权限并被退出登录。是否继续？",
 	"access.denied.message1": "您无权访问",
 	"access.denied.message2": "。如果您认为这是一个错误，请联系我们的支持团队。",
 	"access.denied.message3": "您无权执行该请求。",
