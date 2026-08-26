@@ -589,6 +589,7 @@
 	"contact.label.office.no": "Номер офиса",
 	"contact.label.phone.no": "Номер телефона",
 	"contact.label.role": "Роли",
+	"contact.invite.role.master": "master",
 	"contact.label.state": "Штат/Область",
 	"contact.label.status": "Статус",
 	"contact.label.username": "Имя пользователя",

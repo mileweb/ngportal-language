@@ -587,6 +587,7 @@
 	"contact.label.office.no": "사무실 번호 ",
 	"contact.label.phone.no": "전화 번호",
 	"contact.label.role": "역할 ",
+	"contact.invite.role.master": "master",
 	"contact.label.state": "상태",
 	"contact.label.status": "상태",
 	"contact.label.username": "사용자 이름",

@@ -587,6 +587,7 @@
 	"contact.label.office.no": "オフィス番号",
 	"contact.label.phone.no": "電話番号",
 	"contact.label.role": "役割",
+	"contact.invite.role.master": "master",
 	"contact.label.state": "状態",
 	"contact.label.status": "状態",
 	"contact.label.username": "ユーザー名",
