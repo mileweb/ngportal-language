@@ -686,7 +686,7 @@
 	"customer.list.email.filter.input.error": "Email address is invalid",
 	"customer.list.email.filter.label": "Email Address",
 	"customer.list.email.filter.placeholder": "Exact email address",
-	"customer.list.include.deactivated": "Include deactivated customers",
+	"customer.list.include.former.cdn": "Include former CDN customers",
 	"customer.status.active": "Active",
 	"customer.status.pending": "Pending",
 	"customer.status.suspended": "Suspended",

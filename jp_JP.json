@@ -686,7 +686,7 @@
 	"customer.list.email.filter.input.error": "有効なメールアドレスを入力してください",
 	"customer.list.email.filter.label": "メールアドレス",
 	"customer.list.email.filter.placeholder": "完全一致のメールアドレス",
-	"customer.list.include.deactivated": "無効化された顧客を含める",
+	"customer.list.include.former.cdn": "以前の CDN 顧客を含める",
 	"customer.status.active": "アクティブ",
 	"customer.status.pending": "保留中",
 	"customer.status.suspended": "一時停止中",
