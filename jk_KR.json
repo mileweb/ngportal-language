@@ -1588,6 +1588,7 @@
 	"adminPortal.organization.edit": "편집",
 	"adminPortal.organization.updateSuccess.title": "성공",
 	"adminPortal.organization.updateSuccess.msg": "조직이 성공적으로 업데이트되었습니다.",
+	"account.emailUpdated.msg": "이메일 주소가 변경되었으므로 확인 메시지가 이전 주소와 새 주소 모두로 전송되었습니다. 향후 알림을 계속 받으려면 새 받은 편지함에서 확인해 주세요.",
 	"adminPortal.organization.apiKey.reset": "재설정",
 	"adminPortal.organization.apiKey.resetWarning": "관리자 API 키를 재설정한 후 로그아웃했다가 다시 로그인해야 합니다.",
 	"adminPortal.organization.ipWhiteList.placeholder": "IP 주소 추가",

@@ -1588,6 +1588,7 @@
 	"adminPortal.organization.edit": "Editar",
 	"adminPortal.organization.updateSuccess.title": "Éxito",
 	"adminPortal.organization.updateSuccess.msg": "Organización actualizada correctamente.",
+	"account.emailUpdated.msg": "Dado que se cambió la dirección de correo electrónico, se ha enviado un mensaje de confirmación a las direcciones antigua y nueva. Revise la nueva bandeja de entrada para seguir recibiendo comunicaciones.",
 	"adminPortal.organization.apiKey.reset": "Restablecer",
 	"adminPortal.organization.apiKey.resetWarning": "Deberá cerrar sesión y volver a iniciarla después de restablecer la clave API de administrador.",
 	"adminPortal.organization.ipWhiteList.placeholder": "Agregar direcciones IP",

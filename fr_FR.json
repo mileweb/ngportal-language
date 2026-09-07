@@ -1588,6 +1588,7 @@
 	"adminPortal.organization.edit": "Modifier",
 	"adminPortal.organization.updateSuccess.title": "Succès",
 	"adminPortal.organization.updateSuccess.msg": "Organisation mise à jour avec succès.",
+	"account.emailUpdated.msg": "L'adresse e-mail ayant été modifiée, un message de confirmation a été envoyé aux anciennes et nouvelles adresses. Vérifiez la nouvelle boîte de réception afin de continuer à recevoir les communications.",
 	"adminPortal.organization.apiKey.reset": "Réinitialiser",
 	"adminPortal.organization.apiKey.resetWarning": "Vous devrez vous déconnecter et vous reconnecter après avoir réinitialisé la clé API administrateur.",
 	"adminPortal.organization.ipWhiteList.placeholder": "Ajouter des adresses IP",

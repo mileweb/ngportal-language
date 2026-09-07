@@ -1588,6 +1588,7 @@
 	"adminPortal.organization.edit": "Modifica",
 	"adminPortal.organization.updateSuccess.title": "Successo",
 	"adminPortal.organization.updateSuccess.msg": "Organizzazione aggiornata correttamente.",
+	"account.emailUpdated.msg": "Poiché l'indirizzo email è stato modificato, un messaggio di conferma è stato inviato sia al vecchio che al nuovo indirizzo. Controlla la nuova casella di posta per continuare a ricevere le comunicazioni.",
 	"adminPortal.organization.apiKey.reset": "Reimposta",
 	"adminPortal.organization.apiKey.resetWarning": "Dovrai disconnetterti e accedere nuovamente dopo aver reimpostato la chiave API amministratore.",
 	"adminPortal.organization.ipWhiteList.placeholder": "Aggiungi indirizzi IP",

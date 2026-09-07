@@ -1588,6 +1588,7 @@
 	"adminPortal.organization.edit": "編集",
 	"adminPortal.organization.updateSuccess.title": "成功",
 	"adminPortal.organization.updateSuccess.msg": "組織が正常に更新されました。",
+	"account.emailUpdated.msg": "メールアドレスが変更されたため、確認メッセージが旧アドレスと新アドレスの両方に送信されました。今後の通知を引き続き受け取るために、新しい受信トレイをご確認ください。",
 	"adminPortal.organization.apiKey.reset": "リセット",
 	"adminPortal.organization.apiKey.resetWarning": "管理者APIキーをリセットした後は、ログアウトして再度ログインする必要があります。",
 	"adminPortal.organization.ipWhiteList.placeholder": "IPアドレスを追加",

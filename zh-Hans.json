@@ -1588,6 +1588,7 @@
 	"adminPortal.organization.edit": "编辑",
 	"adminPortal.organization.updateSuccess.title": "成功",
 	"adminPortal.organization.updateSuccess.msg": "组织信息更新成功。",
+	"account.emailUpdated.msg": "由于电子邮件地址已更改，确认消息已发送到旧地址和新地址。请检查新收件箱，以确保您能继续接收后续通信。",
 	"adminPortal.organization.apiKey.reset": "重置",
 	"adminPortal.organization.apiKey.resetWarning": "在修改管理员账户API密钥后您需要退出并重新登陆。",
 	"adminPortal.organization.ipWhiteList.placeholder": "添加 IP 地址",

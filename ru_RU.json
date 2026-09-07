@@ -1590,6 +1590,7 @@
 	"adminPortal.organization.edit": "Редактировать",
 	"adminPortal.organization.updateSuccess.title": "Успешно",
 	"adminPortal.organization.updateSuccess.msg": "Организация успешно обновлена.",
+	"account.emailUpdated.msg": "Поскольку адрес электронной почты был изменен, подтверждение отправлено на старый и новый адреса. Проверьте новый почтовый ящик, чтобы и дальше получать сообщения.",
 	"adminPortal.organization.apiKey.reset": "Сбросить",
 	"adminPortal.organization.apiKey.resetWarning": "После сброса API-ключа администратора необходимо выйти и снова войти в систему.",
 	"adminPortal.organization.ipWhiteList.placeholder": "Добавить IP-адреса",

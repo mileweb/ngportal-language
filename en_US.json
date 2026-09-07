@@ -1588,6 +1588,7 @@
 	"adminPortal.organization.edit": "Edit",
 	"adminPortal.organization.updateSuccess.title": "Success",
 	"adminPortal.organization.updateSuccess.msg": "Organization updated successfully.",
+	"account.emailUpdated.msg": "Since the email address was changed, a confirmation message has been sent to both the old and new addresses. Please check it in the new inbox to ensure you continue receiving future communications.",
 	"adminPortal.organization.apiKey.reset": "Reset",
 	"adminPortal.organization.apiKey.resetWarning": "You will have to logout and relogin after resetting the Admin API key.",
 	"adminPortal.organization.ipWhiteList.placeholder": "Add IP addresses",
