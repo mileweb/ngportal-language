@@ -1736,6 +1736,7 @@
 	"adminPortal.apiCalls.error.generic": "No se pudo cargar la lista de llamadas API. Inténtelo de nuevo.",
 	"adminPortal.apiCalls.filterByApiName": "Nombre de API: {name}",
 	"adminPortal.apiCalls.chart.series": "Llamadas API",
+	"adminPortal.apiCalls.chart.axisNoun": "llamadas",
 	"adminPortal.apiCalls.chart.empty": "No hay llamadas API en este intervalo",
 	"adminPortal.apiCalls.chart.error": "No se pudo cargar el gráfico de llamadas API.",
 	"adminPortal.apiAccounts.activity": "Actividad",

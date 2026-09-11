@@ -1736,6 +1736,7 @@
 	"adminPortal.apiCalls.error.generic": "فشل تحميل قائمة استدعاءات API. يرجى المحاولة مرة أخرى.",
 	"adminPortal.apiCalls.filterByApiName": "اسم API: {name}",
 	"adminPortal.apiCalls.chart.series": "استدعاءات API",
+	"adminPortal.apiCalls.chart.axisNoun": "استدعاءات",
 	"adminPortal.apiCalls.chart.empty": "لا توجد استدعاءات API في هذا النطاق",
 	"adminPortal.apiCalls.chart.error": "تعذّر تحميل مخطط استدعاءات API.",
 	"adminPortal.apiAccounts.activity": "النشاط",

@@ -1736,6 +1736,7 @@
 	"adminPortal.apiCalls.error.generic": "API 호출 목록을 불러오지 못했습니다. 다시 시도해 주세요.",
 	"adminPortal.apiCalls.filterByApiName": "API 이름: {name}",
 	"adminPortal.apiCalls.chart.series": "API 호출",
+	"adminPortal.apiCalls.chart.axisNoun": "호출 수",
 	"adminPortal.apiCalls.chart.empty": "이 범위에 API 호출이 없습니다",
 	"adminPortal.apiCalls.chart.error": "API 호출 차트를 불러오지 못했습니다.",
 	"adminPortal.apiAccounts.activity": "호출",

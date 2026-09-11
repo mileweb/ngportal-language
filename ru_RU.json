@@ -1738,6 +1738,7 @@
 	"adminPortal.apiCalls.error.generic": "Не удалось загрузить список API-вызовов. Пожалуйста, попробуйте ещё раз.",
 	"adminPortal.apiCalls.filterByApiName": "Имя API: {name}",
 	"adminPortal.apiCalls.chart.series": "API-вызовы",
+	"adminPortal.apiCalls.chart.axisNoun": "вызовы",
 	"adminPortal.apiCalls.chart.empty": "В этом диапазоне нет API-вызовов",
 	"adminPortal.apiCalls.chart.error": "Не удалось загрузить график API-вызовов.",
 	"adminPortal.apiAccounts.activity": "Активность",

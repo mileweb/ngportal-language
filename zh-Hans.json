@@ -1736,6 +1736,7 @@
 	"adminPortal.apiCalls.error.generic": "加载 API 调用列表失败，请重试。",
 	"adminPortal.apiCalls.filterByApiName": "API 名称：{name}",
 	"adminPortal.apiCalls.chart.series": "API 调用",
+	"adminPortal.apiCalls.chart.axisNoun": "调用数",
 	"adminPortal.apiCalls.chart.empty": "此时间范围内没有 API 调用",
 	"adminPortal.apiCalls.chart.error": "无法加载 API 调用图表。",
 	"adminPortal.apiAccounts.activity": "调用行为",
