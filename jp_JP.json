@@ -302,7 +302,7 @@
 	"cdn.plan.upgrade.notice.line2.text": "本番環境への展開とすべてのサーバーグループの使用を含み、世界中のトラフィックを最適化します。",
 	"cdn.plan.upgrade.pricing.category.deluxe": "Deluxe",
 	"cdn.plan.upgrade.pricing.category.premium": "Premium",
-	"cdn.plan.upgrade.pricing.category.standard": "標準",
+	"cdn.plan.upgrade.pricing.category.standard": "Standard",
 	"cdn.plan.upgrade.pricing.category.ultra": "Ultra",
 	"cdn.plan.upgrade.pricing.coming.soon": "近日公開！",
 	"cdn.plan.upgrade.pricing.enterprise.note": "エンタープライズのお客様は、カスタム価格プランをご依頼いただけます。営業チームと条件を交渉するため、最寄りの {contactLink} までご連絡ください。",
