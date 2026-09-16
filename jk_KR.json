@@ -302,7 +302,7 @@
 	"cdn.plan.upgrade.notice.line2.text": "전 세계 트래픽을 최적화하기 위해 모든 서버 그룹의 프로덕션 및 사용에 배포를 포함합니다.",
 	"cdn.plan.upgrade.pricing.category.deluxe": "Deluxe",
 	"cdn.plan.upgrade.pricing.category.premium": "Premium",
-	"cdn.plan.upgrade.pricing.category.standard": "표준",
+	"cdn.plan.upgrade.pricing.category.standard": "Standard",
 	"cdn.plan.upgrade.pricing.category.ultra": "Ultra",
 	"cdn.plan.upgrade.pricing.coming.soon": "출시 예정!",
 	"cdn.plan.upgrade.pricing.enterprise.note": "엔터프라이즈 고객은 맞춤형 요금제를 요청할 수 있습니다. 영업팀과 조건을 협의하려면 가까운 {contactLink}에 문의해 주세요.",

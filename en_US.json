@@ -291,7 +291,7 @@
 	"cdn.plan.upgrade.invoicing.monthly.commit.emphasis": "monthly commit of US $50",
 	"cdn.plan.upgrade.invoicing.monthly.commit.title": "Monthly commit:",
 	"cdn.plan.upgrade.invoicing.overage.credit": "{title} Overage above the monthly commit is allowed on a per credit basis. You are assigned a credit line that is adjusted dynamically based on your usage and payment history. The credit line starts low and increases over time as you establish a strong payment record.",
-	"cdn.plan.upgrade.invoicing.overage.credit.title": "Overage & Credit:",
+	"cdn.plan.upgrade.invoicing.overage.credit.title": "Overage & credit:",
 	"cdn.plan.upgrade.invoicing.payment.failures": "{title} Invoices are automatically charged to your default payment method, which is typically the payment method you provided during upgrade unless changed subsequently. Please be aware that, if a charge is declined by the issuing agency of your default payment method for any reason, we reserve the right to {penalties}, with or without prior notice.",
 	"cdn.plan.upgrade.invoicing.payment.failures.emphasis": "degrade your service, enforce throttles, or completely suspend your service",
 	"cdn.plan.upgrade.invoicing.payment.failures.title": "Payment failures & penalties:",
