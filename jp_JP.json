@@ -2397,7 +2397,7 @@
 	"reportQuery.page.summary.total.requests": "総計リクエスト",
 	"reportQuery.page.summary.total.traffic": "総計トラフィック",
 	"reportQuery.page.summary.vol.summary.total": "総計エッジトラフィック",
-	"reportQuery.page.title": "レポート",
+	"reportQuery.page.title": "チャート",
 	"reportQuery.page.title.interval.daily": "毎日",
 	"reportQuery.page.title.interval.fiveminutes": "5分",
 	"reportQuery.page.title.interval.hourly": "毎時",

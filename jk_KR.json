@@ -2397,7 +2397,7 @@
 	"reportQuery.page.summary.total.requests": "총 요청 수 ",
 	"reportQuery.page.summary.total.traffic": "총 트래픽 ",
 	"reportQuery.page.summary.vol.summary.total": "총 에지 트래픽",
-	"reportQuery.page.title": "보고서",
+	"reportQuery.page.title": "차트",
 	"reportQuery.page.title.interval.daily": "매일 ",
 	"reportQuery.page.title.interval.fiveminutes": "5 분 ",
 	"reportQuery.page.title.interval.hourly": "시간별 ",

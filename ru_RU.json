@@ -2399,7 +2399,7 @@
 	"reportQuery.page.summary.total.requests": "Общее количество запросов",
 	"reportQuery.page.summary.total.traffic": "Общий объём трафика",
 	"reportQuery.page.summary.vol.summary.total": "Общий объём трафика на edge",
-	"reportQuery.page.title": "Отчёты",
+	"reportQuery.page.title": "Графики",
 	"reportQuery.page.title.interval.daily": "Ежедневный ",
 	"reportQuery.page.title.interval.fiveminutes": "Пятиминутный ",
 	"reportQuery.page.title.interval.hourly": "Почасовый ",
