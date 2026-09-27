@@ -2847,6 +2847,7 @@
 	"testsuites.label.test.suite.name": "Nome gruppo di test",
 	"testsuites.label.tls.version": "Versione TLS",
 	"testsuites.label.url": "URL",
+	"testsuites.label.target.server.ip": "IP del server di destinazione",
 	"testsuites.label.value.disable": "disattivare",
 	"testsuites.label.value.enable": "Abilitare",
 	"testsuites.message.each.done.finished": "{cntEachPass} superato, {cntEachFail} non riuscito",

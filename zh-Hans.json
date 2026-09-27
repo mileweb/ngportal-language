@@ -2848,6 +2848,7 @@
 	"testsuites.label.test.suite.name": "测试用例集名称",
 	"testsuites.label.tls.version": "TLS 版本",
 	"testsuites.label.url": "URL",
+	"testsuites.label.target.server.ip": "目标服务器 IP",
 	"testsuites.label.value.disable": "禁用",
 	"testsuites.label.value.enable": "启用",
 	"testsuites.message.each.done.finished": "{cntEachPass} 通过， {cntEachFail} 失败",

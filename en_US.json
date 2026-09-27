@@ -2848,6 +2848,7 @@
 	"testsuites.label.test.suite.name": "Test Suite Name",
 	"testsuites.label.tls.version": "TLS Version",
 	"testsuites.label.url": "URL",
+	"testsuites.label.target.server.ip": "Target Server IP",
 	"testsuites.label.value.disable": "Disable",
 	"testsuites.label.value.enable": "Enable",
 	"testsuites.message.each.done.finished": "{cntEachPass} passed, {cntEachFail} failed",

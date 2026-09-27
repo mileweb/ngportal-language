@@ -2849,6 +2849,7 @@
 	"testsuites.label.test.suite.name": "Название тестового набора",
 	"testsuites.label.tls.version": "Версия TLS",
 	"testsuites.label.url": "URL",
+	"testsuites.label.target.server.ip": "IP целевого сервера",
 	"testsuites.label.value.disable": "Отключить",
 	"testsuites.label.value.enable": "Включить",
 	"testsuites.message.each.done.finished": "{cntEachPass} успешно, {cntEachFail} с ошибками",

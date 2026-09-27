@@ -2847,6 +2847,7 @@
 	"testsuites.label.test.suite.name": "テスト スイート名",
 	"testsuites.label.tls.version": "TLS バージョン",
 	"testsuites.label.url": "URL",
+	"testsuites.label.target.server.ip": "ターゲットサーバー IP",
 	"testsuites.label.value.disable": "無効にする",
 	"testsuites.label.value.enable": "有効にする",
 	"testsuites.message.each.done.finished": "{cntEachPass} 合格、 {cntEachFail} 不合格",

@@ -2847,6 +2847,7 @@
 	"testsuites.label.test.suite.name": "اسم جناح الاختبار",
 	"testsuites.label.tls.version": "إصدار TLS",
 	"testsuites.label.url": "رابط",
+	"testsuites.label.target.server.ip": "عنوان IP للخادم الهدف",
 	"testsuites.label.value.disable": "تعطيل",
 	"testsuites.label.value.enable": "مكن",
 	"testsuites.message.each.done.finished": " نجح{cntEachPass} ، وأخفق {cntEachFail} ",
