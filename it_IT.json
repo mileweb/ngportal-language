@@ -1734,6 +1734,7 @@
 	"adminPortal.apiCalls.error.invalidPathPrefix": "Il filtro del percorso deve iniziare con uno dei prefissi consentiti: {prefixes}. Ad esempio, usa «/cdn/» invece di «/cdn».",
 	"adminPortal.apiCalls.error.generic": "Impossibile caricare l'elenco delle chiamate API. Riprova.",
 	"adminPortal.apiCalls.filterByApiName": "Nome API: {name}",
+	"adminPortal.apiCalls.searchById": "ID richiesta",
 	"adminPortal.apiCalls.chart.series": "Chiamate API",
 	"adminPortal.apiCalls.chart.axisNoun": "chiamate",
 	"adminPortal.apiCalls.chart.empty": "Nessuna chiamata API in questo intervallo",

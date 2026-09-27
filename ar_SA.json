@@ -1734,6 +1734,7 @@
 	"adminPortal.apiCalls.error.invalidPathPrefix": "يجب أن يبدأ عامل تصفية المسار بأحد البادئات المسموح بها: {prefixes}. على سبيل المثال، استخدم \"/cdn/\" بدلاً من \"/cdn\".",
 	"adminPortal.apiCalls.error.generic": "فشل تحميل قائمة استدعاءات API. يرجى المحاولة مرة أخرى.",
 	"adminPortal.apiCalls.filterByApiName": "اسم API: {name}",
+	"adminPortal.apiCalls.searchById": "معرّف الطلب",
 	"adminPortal.apiCalls.chart.series": "استدعاءات API",
 	"adminPortal.apiCalls.chart.axisNoun": "استدعاءات",
 	"adminPortal.apiCalls.chart.empty": "لا توجد استدعاءات API في هذا النطاق",
