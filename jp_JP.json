@@ -1735,6 +1735,8 @@
 	"adminPortal.apiCalls.error.generic": "API 呼び出しリストの読み込みに失敗しました。もう一度お試しください。",
 	"adminPortal.apiCalls.filterByApiName": "API 名：{name}",
 	"adminPortal.apiCalls.searchById": "リクエスト ID",
+	"adminPortal.apiCalls.clickToFilter": "絞り込む",
+	"adminPortal.apiCalls.clickToResetFilter": "絞り込み解除",
 	"adminPortal.apiCalls.chart.series": "API 呼び出し",
 	"adminPortal.apiCalls.chart.axisNoun": "呼び出し数",
 	"adminPortal.apiCalls.chart.empty": "この期間に API 呼び出しはありません",

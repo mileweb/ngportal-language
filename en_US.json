@@ -1735,6 +1735,8 @@
 	"adminPortal.apiCalls.error.generic": "Failed to load the API call list. Please try again.",
 	"adminPortal.apiCalls.filterByApiName": "API Name: {name}",
 	"adminPortal.apiCalls.searchById": "Request ID",
+	"adminPortal.apiCalls.clickToFilter": "click to filter",
+	"adminPortal.apiCalls.clickToResetFilter": "click to reset filter",
 	"adminPortal.apiCalls.chart.series": "API calls",
 	"adminPortal.apiCalls.chart.axisNoun": "calls",
 	"adminPortal.apiCalls.chart.empty": "No API calls in this range",

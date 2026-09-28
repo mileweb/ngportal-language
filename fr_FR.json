@@ -1735,6 +1735,8 @@
 	"adminPortal.apiCalls.error.generic": "Échec du chargement de la liste des appels API. Veuillez réessayer.",
 	"adminPortal.apiCalls.filterByApiName": "Nom de l'API : {name}",
 	"adminPortal.apiCalls.searchById": "ID de requête",
+	"adminPortal.apiCalls.clickToFilter": "cliquer pour filtrer",
+	"adminPortal.apiCalls.clickToResetFilter": "cliquer pour réinitialiser le filtre",
 	"adminPortal.apiCalls.chart.series": "Appels API",
 	"adminPortal.apiCalls.chart.axisNoun": "appels",
 	"adminPortal.apiCalls.chart.empty": "Aucun appel API dans cette plage",

@@ -1737,6 +1737,8 @@
 	"adminPortal.apiCalls.error.generic": "Не удалось загрузить список API-вызовов. Пожалуйста, попробуйте ещё раз.",
 	"adminPortal.apiCalls.filterByApiName": "Имя API: {name}",
 	"adminPortal.apiCalls.searchById": "ID запроса",
+	"adminPortal.apiCalls.clickToFilter": "отфильтровать",
+	"adminPortal.apiCalls.clickToResetFilter": "сбросить фильтр",
 	"adminPortal.apiCalls.chart.series": "API-вызовы",
 	"adminPortal.apiCalls.chart.axisNoun": "вызовы",
 	"adminPortal.apiCalls.chart.empty": "В этом диапазоне нет API-вызовов",
