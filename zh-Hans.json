@@ -1728,6 +1728,7 @@
 	"adminPortal.apiAccounts.cdnPerm.field.apiPermissions": "API 权限",
 	"adminPortal.apiCalls.title": "API 调用史",
 	"adminPortal.apiCalls.subtitle": "API调用可能因使用控制台而发起，也可由上级客户发起。",
+	"adminPortal.apiCalls.loadedOfTotal": "已加载 {loaded} / 共 {total}",
 	"adminPortal.apiCalls.column.time": "时间",
 	"adminPortal.apiCalls.column.method": "方法",
 	"adminPortal.apiCalls.column.path": "路径",

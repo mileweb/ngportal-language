@@ -1728,6 +1728,7 @@
 	"adminPortal.apiAccounts.cdnPerm.field.apiPermissions": "Autorisations d'API",
 	"adminPortal.apiCalls.title": "Appels API",
 	"adminPortal.apiCalls.subtitle": "Les appels API peuvent être effectués via la console et/ou par des clients parents au nom de votre organisation.",
+	"adminPortal.apiCalls.loadedOfTotal": "{loaded} chargés sur {total}",
 	"adminPortal.apiCalls.column.time": "Heure",
 	"adminPortal.apiCalls.column.method": "Méthode",
 	"adminPortal.apiCalls.column.path": "Chemin",

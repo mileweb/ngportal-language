@@ -1730,6 +1730,7 @@
 	"adminPortal.apiAccounts.cdnPerm.field.apiPermissions": "Разрешения API",
 	"adminPortal.apiCalls.title": "API-вызовы",
 	"adminPortal.apiCalls.subtitle": "API-вызовы могут выполняться через консоль и/или вышестоящими клиентами от имени вашей организации.",
+	"adminPortal.apiCalls.loadedOfTotal": "Загружено {loaded} из {total}",
 	"adminPortal.apiCalls.column.time": "Время",
 	"adminPortal.apiCalls.column.method": "Метод",
 	"adminPortal.apiCalls.column.path": "Путь",
