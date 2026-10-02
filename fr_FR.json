@@ -865,7 +865,7 @@
 	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property ''{propertyName}'' in {environment} with version {newVersion}?",
 	"deployment.confirm.title": "Deployment Confirmation",
 	"deployment.create.error.title": "Deployment Failed",
-	"deployment.invalid.target.error": "En tant que nouveau client, vous n'êtes actuellement pas autorisé à déployer des propriétés et des certificats en production. Cette option sera activée automatiquement une fois que vous aurez déployé une propriété en phase de test et effectué quelques <a href=\"{href}\" target=\"_blank\">requêtes de test sur les serveurs de test</a>.",
+	"deployment.invalid.target.error": "En tant que nouveau client, vous n'êtes actuellement pas autorisé à déployer des propriétés et des certificats en production. Cette option sera activée automatiquement une fois que vous aurez déployé une propriété en phase de test et effectué quelques <link>requêtes de test sur les serveurs de test</link>.",
 	"deploymentTask.fetch.error.invalidDeploymentTask": "La tâche de déploiement n'existe pas.",
 	"deploymentTask.fetch.error.other": "Une erreur s'est produite lors de la récupération de la tâche de déploiement.",
 	"dirPurge.header.name.label": "Name",

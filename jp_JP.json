@@ -865,7 +865,7 @@
 	"deployment.confirm.property.with.replacement": "{environment}のプロパティ ''{propertyName}''のバージョン{oldVersion}をバージョン{newVersion}に置き換えますか？",
 	"deployment.confirm.title": "展開の確認",
 	"deployment.create.error.title": "展開に失敗しました",
-	"deployment.invalid.target.error": "新規のお客様の場合、現在、プロパティと証明書を本番環境にデプロイすることはできません。プロパティをステージングにデプロイし、<a href=\"{href}\" target=\"_blank\">ステージングサーバーへのテストリクエスト</a>をいくつか作成すると、自動的に有効になります。",
+	"deployment.invalid.target.error": "新規のお客様の場合、現在、プロパティと証明書を本番環境にデプロイすることはできません。プロパティをステージングにデプロイし、<link>ステージングサーバーへのテストリクエスト</link>をいくつか作成すると、自動的に有効になります。",
 	"deploymentTask.fetch.error.invalidDeploymentTask": "デプロイメントタスクが存在しません。",
 	"deploymentTask.fetch.error.other": "デプロイメントタスクの取得中にエラーが発生しました。",
 	"dirPurge.header.name.label": "名前",
