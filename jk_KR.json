@@ -865,7 +865,7 @@
 	"deployment.confirm.property.with.replacement": "{environment}에서 ''{propertyName}''속성의 {oldVersion} 버전을 {newVersion} 버전으로 바꾸시겠습니까? ",
 	"deployment.confirm.title": "배포 확인 ",
 	"deployment.create.error.title": "배포 실패 ",
-	"deployment.invalid.target.error": "신규 고객으로서 현재 프로덕션에 속성과 인증서를 배포할 수 없습니다. 속성을 스테이징에 배포하고 <a href=\"{href}\" target=\"_blank\">스테이징 서버에 몇 가지 테스트 요청</a>을 하면 이 기능이 자동으로 활성화됩니다.",
+	"deployment.invalid.target.error": "신규 고객으로서 현재 프로덕션에 속성과 인증서를 배포할 수 없습니다. 속성을 스테이징에 배포하고 <link>스테이징 서버에 몇 가지 테스트 요청</link>을 하면 이 기능이 자동으로 활성화됩니다.",
 	"deploymentTask.fetch.error.invalidDeploymentTask": "배포 작업이 존재하지 않습니다.",
 	"deploymentTask.fetch.error.other": "배포 작업을 가져오는 동안 오류가 발생했습니다.",
 	"dirPurge.header.name.label": "이름",

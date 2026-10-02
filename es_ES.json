@@ -865,7 +865,7 @@
 	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property ''{propertyName}'' in {environment} with version {newVersion}?",
 	"deployment.confirm.title": "Deployment Confirmation",
 	"deployment.create.error.title": "Deployment Failed",
-	"deployment.invalid.target.error": "Como cliente nuevo, actualmente no tiene permiso para implementar propiedades ni certificados en producción. Esto se habilitará automáticamente una vez que implemente una propiedad en el entorno de pruebas y realice algunas <a href=\"{href}\" target=\"_blank\">solicitudes de prueba a los servidores de pruebas</a>.",
+	"deployment.invalid.target.error": "Como cliente nuevo, actualmente no tiene permiso para implementar propiedades ni certificados en producción. Esto se habilitará automáticamente una vez que implemente una propiedad en el entorno de pruebas y realice algunas <link>solicitudes de prueba a los servidores de pruebas</link>.",
 	"deploymentTask.fetch.error.invalidDeploymentTask": "La tarea de implementación no existe.",
 	"deploymentTask.fetch.error.other": "Se produjo un error al obtener la tarea de implementación.",
 	"dirPurge.header.name.label": "Name",

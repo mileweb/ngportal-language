@@ -865,7 +865,7 @@
 	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property ''{propertyName}'' in {environment} with version {newVersion}?",
 	"deployment.confirm.title": "Deployment Confirmation",
 	"deployment.create.error.title": "Deployment Failed",
-	"deployment.invalid.target.error": "As a new customer, you are currently not allowed to deploy properties and certificates to production. This will be enabled automatically once you deploy a property to staging and make a few <a href=\"{href}\" target=\"_blank\">test requests to the staging servers</a>.",
+	"deployment.invalid.target.error": "As a new customer, you are currently not allowed to deploy properties and certificates to production. This will be enabled automatically once you deploy a property to staging and make a few <link>test requests to the staging servers</link>.",
 	"deploymentTask.fetch.error.invalidDeploymentTask": "The deployment task does not exist.",
 	"deploymentTask.fetch.error.other": "An error occurred while fetching the deployment task.",
 	"dirPurge.header.name.label": "Name",

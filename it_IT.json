@@ -865,7 +865,7 @@
 	"deployment.confirm.property.with.replacement": "Do you want to replace version {oldVersion} of property ''{propertyName}'' in {environment} with version {newVersion}?",
 	"deployment.confirm.title": "Deployment Confirmation",
 	"deployment.create.error.title": "Deployment Failed",
-	"deployment.invalid.target.error": "Come nuovo cliente, al momento non ti è consentito distribuire proprietà e certificati in produzione. Ciò verrà abilitato automaticamente una volta distribuita una proprietà in staging ed effettuate alcune <a href=\"{href}\" target=\"_blank\">richieste di test ai server di staging</a>.",
+	"deployment.invalid.target.error": "Come nuovo cliente, al momento non ti è consentito distribuire proprietà e certificati in produzione. Ciò verrà abilitato automaticamente una volta distribuita una proprietà in staging ed effettuate alcune <link>richieste di test ai server di staging</link>.",
 	"deploymentTask.fetch.error.invalidDeploymentTask": "L'attività di distribuzione non esiste.",
 	"deploymentTask.fetch.error.other": "Si è verificato un errore durante il recupero dell'attività di distribuzione.",
 	"dirPurge.header.name.label": "Name",

@@ -867,7 +867,7 @@
 	"deployment.confirm.property.with.replacement": "Вы хотите заменить версию {oldVersion} свойства «{propertyName}» в {environment} на версию {newVersion}?",
 	"deployment.confirm.title": "Подтверждение развёртывания",
 	"deployment.create.error.title": "Развёртывание не удалось",
-	"deployment.invalid.target.error": "Как новый клиент, вы пока не можете развёртывать свойства и сертификаты в продакшен. Эта возможность будет автоматически включена после того, как вы развернете свойство в стейджинг и выполните несколько <a href=\"{href}\" target=\"_blank\">тестовых запросов к стейджинг-серверам</a>.",
+	"deployment.invalid.target.error": "Как новый клиент, вы пока не можете развёртывать свойства и сертификаты в продакшен. Эта возможность будет автоматически включена после того, как вы развернете свойство в стейджинг и выполните несколько <link>тестовых запросов к стейджинг-серверам</link>.",
 	"deploymentTask.fetch.error.invalidDeploymentTask": "Задача развёртывания не существует.",
 	"deploymentTask.fetch.error.other": "Произошла ошибка при получении задачи развёртывания.",
 	"dirPurge.header.name.label": "Имя",
