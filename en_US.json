@@ -37,7 +37,7 @@
 	"contact.master.selfDemote.confirm.title": "Demote your master account?",
 	"contact.master.selfDemote.confirm.msg": "You will lose master privileges and be signed out. Continue?",
 	"access.denied.message1": "You do not have access to ",
-	"access.denied.message2": ". If you believe this is an error, please contact our support team.",
+	"access.denied.message2": ". If you believe this is an error, please contact our support team at {emailAddress}.",
 	"access.denied.message3": "You are not allowed to perform this request.",
 	"access.denied.notice": "Notice",
 	"access.denied.title": "Access Denied",

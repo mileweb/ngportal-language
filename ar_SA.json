@@ -37,7 +37,7 @@
 	"contact.master.selfDemote.confirm.title": "هل تريد إلغاء حسابك الرئيسي؟",
 	"contact.master.selfDemote.confirm.msg": "ستفقد صلاحيات الحساب الرئيسي وسيتم تسجيل خروجك. هل تريد المتابعة؟",
 	"access.denied.message1": "ليس لديك حق الوصول إلى",
-	"access.denied.message2": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بفريق الدعم لدينا.",
+	"access.denied.message2": "إذا كنت تعتقد أن هذا خطأ، يرجى الاتصال بفريق الدعم لدينا على {emailAddress}.",
 	"access.denied.message3": "لا يجوز لك تنفيذ هذا الطلب.",
 	"access.denied.notice": "يلاحظ",
 	"access.denied.title": "تم الرفض",
