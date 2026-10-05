@@ -37,7 +37,7 @@
 	"contact.master.selfDemote.confirm.title": "Rétrograder votre compte principal ?",
 	"contact.master.selfDemote.confirm.msg": "Vous perdrez les privilèges du compte principal et serez déconnecté. Continuer ?",
 	"access.denied.message1": "Vous n'avez pas accès à",
-	"access.denied.message2": "Si vous pensez qu'il s'agit d'une erreur, veuillez contacter notre équipe d'assistance.",
+	"access.denied.message2": "Si vous pensez qu'il s'agit d'une erreur, veuillez contacter notre équipe d'assistance à {emailAddress}.",
 	"access.denied.message3": "Vous n'êtes pas autorisé à effectuer cette demande.",
 	"access.denied.notice": "Avis",
 	"access.denied.title": "Accès refusé",

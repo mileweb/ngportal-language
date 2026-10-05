@@ -37,7 +37,7 @@
 	"contact.master.selfDemote.confirm.title": "¿Quitar su cuenta maestra?",
 	"contact.master.selfDemote.confirm.msg": "Perderá los privilegios de cuenta maestra y se cerrará su sesión. ¿Desea continuar?",
 	"access.denied.message1": "No tienes acceso a",
-	"access.denied.message2": "Si cree que se trata de un error, póngase en contacto con nuestro equipo de soporte.",
+	"access.denied.message2": "Si cree que se trata de un error, póngase en contacto con nuestro equipo de soporte en {emailAddress}.",
 	"access.denied.message3": "No está permitido realizar esta solicitud.",
 	"access.denied.notice": "Aviso",
 	"access.denied.title": "ACCESO DENEGADO",

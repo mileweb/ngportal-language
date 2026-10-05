@@ -37,7 +37,7 @@
 	"contact.master.selfDemote.confirm.title": "Rimuovere il proprio account master?",
 	"contact.master.selfDemote.confirm.msg": "Perderà i privilegi master e verrà disconnesso. Continuare?",
 	"access.denied.message1": "Non hai accesso a",
-	"access.denied.message2": "Se ritieni che si tratti di un errore, contatta il nostro team di supporto.",
+	"access.denied.message2": "Se ritieni che si tratti di un errore, contatta il nostro team di supporto all'indirizzo {emailAddress}.",
 	"access.denied.message3": "Non ti è consentito eseguire questa richiesta.",
 	"access.denied.notice": "Avviso",
 	"access.denied.title": "ACCESSO NEGATO",

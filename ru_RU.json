@@ -37,7 +37,7 @@
 	"contact.master.selfDemote.confirm.title": "Понизить свой мастер-аккаунт?",
 	"contact.master.selfDemote.confirm.msg": "Вы потеряете привилегии мастера и будете выведены из системы. Продолжить?",
 	"access.denied.message1": "У вас нет доступа к",
-	"access.denied.message2": "Если вы считаете, что это ошибка, пожалуйста, свяжитесь с нашей службой поддержки.",
+	"access.denied.message2": "Если вы считаете, что это ошибка, пожалуйста, свяжитесь с нашей службой поддержки по адресу {emailAddress}.",
 	"access.denied.message3": "Вам не разрешено выполнять этот запрос.",
 	"access.denied.notice": "Уведомление",
 	"access.denied.title": "Доступ запрещён",
