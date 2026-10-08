@@ -140,6 +140,7 @@
 	"billing.spending.target.cleared": "Objectif de dépenses retiré.",
 	"billing.spending.target.invalid": "Saisissez un nombre entier de dollars américains compris entre {min} et {max}.",
 	"billing.spending.target.error": "Impossible de mettre à jour l'objectif de dépenses.",
+	"billing.spending.target.network": "Impossible de se connecter au serveur. Vérifiez votre réseau et réessayez.",
 	"billing.info.usage.monthly": "Coût d'utilisation pour {monthYear} (fuseau horaire UTC)",
 	"billing.info.usage.cost": "Coût d'utilisation",
 	"billing.info.usage.total": "Total d'utilisation :",

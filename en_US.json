@@ -140,6 +140,7 @@
 	"billing.spending.target.cleared": "Spending target removed.",
 	"billing.spending.target.invalid": "Enter a whole number of US dollars from {min} to {max}.",
 	"billing.spending.target.error": "Could not update the spending target.",
+	"billing.spending.target.network": "Failed to connect to the server. Please check your network and try again.",
 	"billing.info.usage.monthly": "Usage cost for {monthYear} (UTC timezone)",
 	"billing.info.usage.cost": "Usage Cost",
 	"billing.info.usage.total": "Usage Total:",

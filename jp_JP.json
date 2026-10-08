@@ -140,6 +140,7 @@
 	"billing.spending.target.cleared": "支出目標を解除しました。",
 	"billing.spending.target.invalid": "{min} から {max} までの整数の米ドル額を入力してください。",
 	"billing.spending.target.error": "支出目標を更新できませんでした。",
+	"billing.spending.target.network": "サーバーに接続できませんでした。ネットワークを確認して、もう一度お試しください。",
 	"billing.info.usage.monthly": "{monthYear} の利用料金（UTC タイムゾーン）",
 	"billing.info.usage.cost": "利用料金",
 	"billing.info.usage.total": "利用合計:",

@@ -140,6 +140,7 @@
 	"billing.spending.target.cleared": "支出目标已取消。",
 	"billing.spending.target.invalid": "请输入 {min} 到 {max} 之间的整数美元金额。",
 	"billing.spending.target.error": "无法更新支出目标。",
+	"billing.spending.target.network": "无法连接到服务器。请检查网络后重试。",
 	"billing.info.usage.monthly": "{monthYear}（UTC时区）的用量费用",
 	"billing.info.usage.cost": "用量费用",
 	"billing.info.usage.total": "用量总计：",

@@ -140,6 +140,7 @@
 	"billing.spending.target.cleared": "Цель расходов удалена.",
 	"billing.spending.target.invalid": "Введите целое число долларов США от {min} до {max}.",
 	"billing.spending.target.error": "Не удалось обновить цель расходов.",
+	"billing.spending.target.network": "Не удалось подключиться к серверу. Проверьте сеть и повторите попытку.",
 	"billing.info.usage.monthly": "Стоимость использования за {monthYear} (часовой пояс UTC)",
 	"billing.info.usage.cost": "Стоимость использования",
 	"billing.info.usage.total": "Итого по использованию:",

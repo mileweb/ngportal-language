@@ -140,6 +140,7 @@
 	"billing.spending.target.cleared": "지출 목표를 해제했습니다.",
 	"billing.spending.target.invalid": "{min}에서 {max} 사이의 정수 달러 금액을 입력하세요.",
 	"billing.spending.target.error": "지출 목표를 업데이트할 수 없습니다.",
+	"billing.spending.target.network": "서버에 연결하지 못했습니다. 네트워크를 확인한 후 다시 시도해 주세요.",
 	"billing.info.usage.monthly": "{monthYear} 사용 비용(UTC 시간대)",
 	"billing.info.usage.cost": "사용 비용",
 	"billing.info.usage.total": "사용 합계:",

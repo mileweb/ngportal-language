@@ -140,6 +140,7 @@
 	"billing.spending.target.cleared": "تمت إزالة هدف الإنفاق.",
 	"billing.spending.target.invalid": "أدخل عددًا صحيحًا من الدولارات الأمريكية من {min} إلى {max}.",
 	"billing.spending.target.error": "تعذر تحديث هدف الإنفاق.",
+	"billing.spending.target.network": "تعذر الاتصال بالخادم. يرجى التحقق من الشبكة والمحاولة مرة أخرى.",
 	"billing.info.usage.monthly": "تكلفة الاستخدام لـ {monthYear} (المنطقة الزمنية UTC)",
 	"billing.info.usage.cost": "تكلفة الاستخدام",
 	"billing.info.usage.total": "إجمالي الاستخدام:",
