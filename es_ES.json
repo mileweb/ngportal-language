@@ -733,6 +733,7 @@
 	"customer.list.regional.office.dropdown.filter.button.search": "Buscar",
 	"customer.list.regional.office.dropdown.filter.search.regional.office": "Ingrese un prefijo para buscar",
 	"customer.list.regional.office.invalid": "Prefijo no válido para la oficina regional. Utilice a-z, A-Z, 0-9 y -",
+	"customer.list.regional.office.too.long": "El prefijo de la oficina regional es demasiado largo. Cada valor puede tener hasta 28 caracteres.",
 	"customer.list.email.filter.input.error": "La dirección de correo electrónico no es válida",
 	"customer.list.email.filter.label": "Dirección de correo electrónico",
 	"customer.list.email.filter.placeholder": "Dirección de correo exacta",

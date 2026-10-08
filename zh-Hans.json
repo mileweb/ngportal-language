@@ -733,6 +733,7 @@
 	"customer.list.regional.office.dropdown.filter.button.search": "搜索",
 	"customer.list.regional.office.dropdown.filter.search.regional.office": "输入一个搜索前缀",
 	"customer.list.regional.office.invalid": "无效的分公司前缀。请使用a-z，A-Z，0-9以及-",
+	"customer.list.regional.office.too.long": "分公司前缀过长。每个值最多 28 个字符。",
 	"customer.list.email.filter.input.error": "邮箱地址错误",
 	"customer.list.email.filter.label": "邮箱",
 	"customer.list.email.filter.placeholder": "精确匹配的邮箱地址",
