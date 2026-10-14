@@ -2701,7 +2701,7 @@
 	"sign.up.text.promocode.error.too.long": "プロモーションコードが長すぎます",
 	"sign.up.text.promocode.popup": "プロモーション コードをお持ちの場合は、ここで入力して特別オファーや割引を受けてください。",
 	"sign.up.text.regional.office": "サポートオフィス",
-	"sign.up.text.regional.office.popup": "サービスを提供する地域サポートオフィスを選択してください。",
+	"sign.up.text.regional.office.popup": "お住まいの地域と言語の希望に基づいて選択してください。",
 	"sign.up.text.regional.office.select": "地域サポートオフィスを選択",
 	"sign.up.text.terms": "利用規約",
 	"sign.up.title": "CDN360の使用を開始するには、サインアップしてください",

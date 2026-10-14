@@ -2703,7 +2703,7 @@
 	"sign.up.text.promocode.error.too.long": "Промокод слишком длинный",
 	"sign.up.text.promocode.popup": "Если у вас есть промокод, введите его здесь, чтобы получить специальные предложения или скидки.",
 	"sign.up.text.regional.office": "Офис поддержки",
-	"sign.up.text.regional.office.popup": "Выберите региональный офис поддержки, который будет обслуживать вас.",
+	"sign.up.text.regional.office.popup": "Выберите в зависимости от вашего местоположения и предпочитаемого языка.",
 	"sign.up.text.regional.office.select": "Выберите региональный офис поддержки",
 	"sign.up.text.terms": "Условия обслуживания",
 	"sign.up.title": "Зарегистрируйтесь, чтобы начать работу с CDN360",

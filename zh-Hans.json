@@ -2702,7 +2702,7 @@
 	"sign.up.text.promocode.error.too.long": "优惠码太长",
 	"sign.up.text.promocode.popup": "如果您有优惠码，请在此处输入以获得特别优惠或折扣。",
 	"sign.up.text.regional.office": "所在区域",
-	"sign.up.text.regional.office.popup": "右侧下拉框列出了我们在全球各地的分支机构所在的区域。请根据您所在的位置，选择一个最匹配的区域。",
+	"sign.up.text.regional.office.popup": "请根据您所在的位置和语言偏好进行选择。",
 	"sign.up.text.regional.office.select": "选择所在区域",
 	"sign.up.text.terms": "服务条款",
 	"sign.up.title": "注册以开始使用 CDN360",

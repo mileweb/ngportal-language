@@ -2701,7 +2701,7 @@
 	"sign.up.text.promocode.error.too.long": "El código de promoción es demasiado largo",
 	"sign.up.text.promocode.popup": "Si tienes un código promocional, ingrésalo aquí para recibir ofertas especiales o descuentos.",
 	"sign.up.text.regional.office": "Oficina de soporte",
-	"sign.up.text.regional.office.popup": "Seleccione la oficina de soporte regional para servirle.",
+	"sign.up.text.regional.office.popup": "Seleccione según su ubicación y preferencia de idioma.",
 	"sign.up.text.regional.office.select": "Seleccione la oficina de soporte regional",
 	"sign.up.text.terms": "Términos de servicio",
 	"sign.up.title": "Regístrese para comenzar con CDN360",
