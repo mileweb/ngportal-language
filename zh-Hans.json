@@ -1025,6 +1025,7 @@
 	"edgeHostnameListing.fetch.error": "查询调度域名时发生错误。",
 	"edgeHostnameListing.modal.delete": "删除调度域名",
 	"edgeHostnameListing.modalText.delete": "您确定要删除此调度域名：",
+	"edgeHostnameListing.status.deleting": "删除中",
 	"edgeLogic.tooltip.invalidCondition": "非法的判断条件！",
 	"edgeLogic.tooltip.invalidDirective": "非法的指令！",
 	"edgeLogic.tooltip.invalidFunc": "非法的函数名！",

@@ -1025,6 +1025,7 @@
 	"edgeHostnameListing.fetch.error": "Se produjo un error al recuperar los nombres de host de borde.",
 	"edgeHostnameListing.modal.delete": "Delete Edge Hostname",
 	"edgeHostnameListing.modalText.delete": "¿Está seguro de que desea eliminar este nombre de host perimetral?",
+	"edgeHostnameListing.status.deleting": "Eliminando",
 	"edgeLogic.tooltip.invalidCondition": "¡Condición no válida!",
 	"edgeLogic.tooltip.invalidDirective": "¡Directiva no válida!",
 	"edgeLogic.tooltip.invalidFunc": "¡Nombre de función no válido!",

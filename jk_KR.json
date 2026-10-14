@@ -1025,6 +1025,7 @@
 	"edgeHostnameListing.fetch.error": "Edge 호스트 이름을 가져 오는 중에 오류가 발생했습니다.",
 	"edgeHostnameListing.modal.delete": "Edge Hostname 삭제 ",
 	"edgeHostnameListing.modalText.delete": "이 Edge 호스트 이름을 삭제 하시겠습니까?",
+	"edgeHostnameListing.status.deleting": "삭제 중",
 	"edgeLogic.tooltip.invalidCondition": "조건이 유효하지 않습니다!",
 	"edgeLogic.tooltip.invalidDirective": "잘못된 지시문!",
 	"edgeLogic.tooltip.invalidFunc": "잘못된 함수 이름입니다!",

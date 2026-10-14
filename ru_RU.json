@@ -1027,6 +1027,7 @@
 	"edgeHostnameListing.fetch.error": "Произошла ошибка при получении edge-имен хостов.",
 	"edgeHostnameListing.modal.delete": "Удалить edge-имя хоста",
 	"edgeHostnameListing.modalText.delete": "Вы уверены, что хотите удалить это edge-имя хоста:",
+	"edgeHostnameListing.status.deleting": "Удаление",
 	"edgeLogic.tooltip.invalidCondition": "Неверное условие if!",
 	"edgeLogic.tooltip.invalidDirective": "Неверная директива!",
 	"edgeLogic.tooltip.invalidFunc": "Неверное имя функции!",

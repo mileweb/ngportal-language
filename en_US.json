@@ -1025,6 +1025,7 @@
 	"edgeHostnameListing.fetch.error": "An error occurred while fetching edge hostnames.",
 	"edgeHostnameListing.modal.delete": "Delete Edge Hostname",
 	"edgeHostnameListing.modalText.delete": "Are you sure you want to delete this edge hostname: ",
+	"edgeHostnameListing.status.deleting": "Deleting",
 	"edgeLogic.tooltip.invalidCondition": "Invalid if condition!",
 	"edgeLogic.tooltip.invalidDirective": "Invalid directive!",
 	"edgeLogic.tooltip.invalidFunc": "Invalid function name!",

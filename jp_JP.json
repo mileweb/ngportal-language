@@ -1025,6 +1025,7 @@
 	"edgeHostnameListing.fetch.error": "エッジホスト名の取得中にエラーが発生しました。",
 	"edgeHostnameListing.modal.delete": "Edge Hostnameを削除",
 	"edgeHostnameListing.modalText.delete": "このEdge Hostnameを削除してもよろしいですか：",
+	"edgeHostnameListing.status.deleting": "削除中",
 	"edgeLogic.tooltip.invalidCondition": "条件が無効な場合！",
 	"edgeLogic.tooltip.invalidDirective": "ディレクティブが無効です！",
 	"edgeLogic.tooltip.invalidFunc": "関数名が無効です！",

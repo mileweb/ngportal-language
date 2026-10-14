@@ -1025,6 +1025,7 @@
 	"edgeHostnameListing.fetch.error": "Une erreur s'est produite lors de la récupération des noms d'hôte Edge.",
 	"edgeHostnameListing.modal.delete": "Delete Edge Hostname",
 	"edgeHostnameListing.modalText.delete": "Voulez-vous vraiment supprimer ce nom d'hôte Edge:",
+	"edgeHostnameListing.status.deleting": "Suppression en cours",
 	"edgeLogic.tooltip.invalidCondition": "Invalide si condition !",
 	"edgeLogic.tooltip.invalidDirective": "Directive invalide !",
 	"edgeLogic.tooltip.invalidFunc": "Nom de fonction invalide !",

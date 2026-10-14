@@ -1025,6 +1025,7 @@
 	"edgeHostnameListing.fetch.error": "حدث خطأ أثناء جلب أسماء مضيف الحافة.",
 	"edgeHostnameListing.modal.delete": "Delete Edge Hostname",
 	"edgeHostnameListing.modalText.delete": "هل تريد بالتأكيد حذف اسم مضيف الحافة هذا:",
+	"edgeHostnameListing.status.deleting": "جارٍ الحذف",
 	"edgeLogic.tooltip.invalidCondition": "إذا كان الشرط غير صالح!",
 	"edgeLogic.tooltip.invalidDirective": "توجيه غير صالح!",
 	"edgeLogic.tooltip.invalidFunc": "اسم وظيفة غير صالح!",
