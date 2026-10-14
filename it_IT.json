@@ -2964,6 +2964,7 @@
 	"trial.expiration.popup.upgrade.btn.non.master.tooltip": "È richiesto l'accesso amministratore. Chiedi al tuo amministratore di gestire l'aggiornamento.",
 	"trial.expiration.reminder.days": "Il periodo di prova scadrà tra {remainingDays} giorni. Passa a un account a pagamento per evitare la sospensione del servizio.",
 	"trial.expiration.reminder.today": "La tua prova scadrà oggi. Passa a un account a pagamento per evitare la sospensione del servizio.",
+	"trial.resource.usage.label": "Utilizzo di prova: {usagePercent}%",
 	"trial.suspended.open.invoices.popup.pay.btn.non.master.tooltip": "È richiesto l'accesso amministratore. Chiedi al tuo amministratore di pagare le fatture aperte",
 	"undeploy.btn.title": "Undeploy Configuration",
 	"undeploy.failed.modal.message": "The undeployment of this configuration has failed.",

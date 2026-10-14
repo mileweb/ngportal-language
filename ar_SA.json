@@ -2964,6 +2964,7 @@
 	"trial.expiration.popup.upgrade.btn.non.master.tooltip": "مطلوب وصول المسؤول. يرجى أن تطلب من المسؤول التعامل مع الترقية.",
 	"trial.expiration.reminder.days": "ستنتهي مدتك التجريبية بعد {remainingDays} يوم (أيام). يرجى الترقية إلى حساب مدفوع لتجنب تعليق الخدمة.",
 	"trial.expiration.reminder.today": "ستنتهي محاكمتك اليوم. يرجى الترقية إلى حساب مدفوع لتجنب تعليق الخدمة.",
+	"trial.resource.usage.label": "استخدام الفترة التجريبية: {usagePercent}%",
 	"trial.suspended.open.invoices.popup.pay.btn.non.master.tooltip": "مطلوب وصول المسؤول. يرجى أن تطلب من المسؤول دفع الفواتير المفتوحة",
 	"undeploy.btn.title": "Undeploy Configuration",
 	"undeploy.failed.modal.message": "The undeployment of this configuration has failed.",

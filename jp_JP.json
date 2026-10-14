@@ -2964,6 +2964,7 @@
 	"trial.expiration.popup.upgrade.btn.non.master.tooltip": "管理者アクセスが必要です。アップグレードは管理者に依頼してください。",
 	"trial.expiration.reminder.days": "試用は {remainingDays} 日後に有効期限が切れます。サービスの停止を回避するには、有料アカウントにアップグレードしてください。",
 	"trial.expiration.reminder.today": "試用期間は本日で期限切れになります。サービスの停止を回避するには、有料アカウントにアップグレードしてください。",
+	"trial.resource.usage.label": "試用使用量: {usagePercent}%",
 	"trial.suspended.open.invoices.popup.pay.btn.non.master.tooltip": "管理者アクセスが必要です。未払いの請求書の支払いは管理者に依頼してください",
 	"undeploy.btn.title": "設定のアンデプロイ",
 	"undeploy.failed.modal.message": "この構成のアンデプロイは失敗しました。",

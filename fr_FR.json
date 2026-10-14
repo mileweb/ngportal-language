@@ -2964,6 +2964,7 @@
 	"trial.expiration.popup.upgrade.btn.non.master.tooltip": "Un accès administrateur est requis. Veuillez demander à votre administrateur d'effectuer la mise à niveau.",
 	"trial.expiration.reminder.days": "Votre essai expirera dans {remainingDays} jour (s). Veuillez passer à un compte payant pour éviter la suspension du service.",
 	"trial.expiration.reminder.today": "Votre essai expirera aujourd'hui. Veuillez passer à un compte payant pour éviter la suspension du service.",
+	"trial.resource.usage.label": "Utilisation d'essai : {usagePercent}%",
 	"trial.suspended.open.invoices.popup.pay.btn.non.master.tooltip": "Un accès administrateur est requis. Veuillez demander à votre administrateur de payer les factures ouvertes",
 	"undeploy.btn.title": "Undeploy Configuration",
 	"undeploy.failed.modal.message": "The undeployment of this configuration has failed.",

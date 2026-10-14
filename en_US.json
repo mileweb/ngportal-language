@@ -2965,6 +2965,7 @@
 	"trial.expiration.popup.upgrade.btn.non.master.tooltip": "Admin access is required. Please ask your admin to handle the upgrade.",
 	"trial.expiration.reminder.days": "Your trial will expire in {remainingDays} day(s). Please upgrade to a paid account to avoid service suspension.",
 	"trial.expiration.reminder.today": "Your trial will expire today. Please upgrade to a paid account to avoid service suspension.",
+	"trial.resource.usage.label": "Trial usage: {usagePercent}%",
 	"trial.suspended.open.invoices.popup.pay.btn.non.master.tooltip": "Admin access is required. Please ask your admin to pay open invoices",
 	"undeploy.btn.title": "Undeploy Configuration",
 	"undeploy.failed.modal.message": "The undeployment of this configuration has failed.",
