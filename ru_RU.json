@@ -2966,7 +2966,7 @@
 	"trial.expiration.popup.upgrade.btn.non.master.tooltip": "Требуются права администратора. Попросите вашего администратора обновить подписку.",
 	"trial.expiration.reminder.days": "Ваш пробный период истечёт через {remainingDays} день(дней). Пожалуйста, перейдите на платный тариф, чтобы избежать приостановки обслуживания.",
 	"trial.expiration.reminder.today": "Ваш пробный период истекает сегодня. Пожалуйста, обновите подписку на платный тариф, чтобы избежать приостановки обслуживания.",
-	"trial.resource.usage.label": "Пробное использование: {usagePercent}%",
+	"trial.resource.usage.label": "Использовано пробного периода: {usagePercent}%",
 	"trial.suspended.open.invoices.popup.pay.btn.non.master.tooltip": "Требуются права администратора. Попросите вашего администратора оплатить неоплаченные счета",
 	"undeploy.btn.title": "Отменить развёртывание конфигурации",
 	"undeploy.failed.modal.message": "Не удалось отменить развёртывание этой конфигурации.",
