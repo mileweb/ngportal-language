@@ -2746,6 +2746,7 @@
 	"sign.up.user.invite.placeholder.phone.no": "電話番号を入力して下さい",
 	"sign.up.user.invite.placeholder.username": "ログイン用のユーザー名を入力してください",
 	"sign.up.user.invite.success.all.set": "準備万端です！ [OK]をクリックしてログインします。",
+	"standby.deploy.certificate.mismatch": "SANの不一致が検出されました。ホスト名 {hostnameList} に関連付けられた証明書に、一致する Subject Alternative Name が含まれていません。このタスクの他のホスト名にも同様の問題がある可能性があります。",
 	"standby.deploy.expired.ca.certs": "展開される最小1つのCA証明書が期限切れです。証明書の期限切れの確認をスキップしますか？",
 	"standby.deploy.expired.ca.certs.no.bypass": "展開される最小1つのCA証明書が期限切れです。",
 	"standby.deploy.expired.certs": "展開される最小1つの証明書が期限切れです。証明書の期限切れの確認をスキップしますか？",

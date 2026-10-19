@@ -2746,6 +2746,7 @@
 	"sign.up.user.invite.placeholder.phone.no": "전화 번호를 입력하세요",
 	"sign.up.user.invite.placeholder.username": "로그인을 위한 사용자 이름 입력",
 	"sign.up.user.invite.success.all.set": "당신 준비 다 됐어요! 확인을 클릭하여 로그인합니다.",
+	"standby.deploy.certificate.mismatch": "SAN 불일치가 감지되었습니다. 호스트 이름 {hostnameList}에 연결된 인증서에 일치하는 Subject Alternative Name이 포함되어 있지 않습니다. 이 작업의 다른 호스트 이름에도 유사한 문제가 있을 수 있습니다.",
 	"standby.deploy.expired.ca.certs": "배포된 최소 하나의 CA 인증서가 만료됩니다. 인증서 만료 확인을 건너뛰시겠습니까?",
 	"standby.deploy.expired.ca.certs.no.bypass": "배포된 최소 하나의 CA 인증서가 만료됩니다.",
 	"standby.deploy.expired.certs": "배포된 최소 하나의 인증서가 만료됩니다. 인증서 만료 확인을 건너뛰시겠습니까?",

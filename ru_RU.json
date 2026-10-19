@@ -2748,6 +2748,7 @@
 	"sign.up.user.invite.placeholder.phone.no": "Введите номер телефона",
 	"sign.up.user.invite.placeholder.username": "Введите имя пользователя для входа",
 	"sign.up.user.invite.success.all.set": "Всё готово! Нажмите ОК, чтобы войти.",
+	"standby.deploy.certificate.mismatch": "Обнаружено несоответствие SAN: сертификат, связанный с именем хоста {hostnameList}, не содержит соответствующего Subject Alternative Name. У других имён хостов в этой задаче могут быть похожие проблемы.",
 	"standby.deploy.expired.ca.certs": "Как минимум один из разворачиваемых ЦС сертификатов истёк. Вы хотите пропустить проверку срока действия сертификатов?",
 	"standby.deploy.expired.ca.certs.no.bypass": "Как минимум один из разворачиваемых ЦС сертификатов истёк.",
 	"standby.deploy.expired.certs": "Как минимум один из разворачиваемых сертификатов истёк. Вы хотите пропустить проверку срока действия сертификатов?",

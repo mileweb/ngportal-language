@@ -2747,6 +2747,7 @@
 	"sign.up.user.invite.placeholder.phone.no": "Enter a phone number",
 	"sign.up.user.invite.placeholder.username": "Enter a username for login",
 	"sign.up.user.invite.success.all.set": "You are all set! Click OK to login.",
+	"standby.deploy.certificate.mismatch": "A SAN mismatch was detected: the certificate associated with hostname {hostnameList} does not include a matching Subject Alternative Name. Other hostnames in this task may have similar issues.",
 	"standby.deploy.expired.ca.certs": "At least one CA certificate being deployed is expired. Do you want to bypass the certificate expiration check?",
 	"standby.deploy.expired.ca.certs.no.bypass": "At least one CA certificate being deployed is expired.",
 	"standby.deploy.expired.certs": "At least one certificate being deployed is expired. Do you want to bypass the certificate expiration check?",
