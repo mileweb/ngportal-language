@@ -2746,6 +2746,7 @@
 	"sign.up.user.invite.placeholder.phone.no": "Ingresa un número de teléfono",
 	"sign.up.user.invite.placeholder.username": "Introduzca un nombre de usuario para iniciar sesión",
 	"sign.up.user.invite.success.all.set": "¡Estas listo! Haga clic en Aceptar para iniciar sesión.",
+	"standby.deploy.certificate.mismatch": "Se detectó una discrepancia de SAN: el certificado asociado al nombre de host {hostnameList} no incluye un Subject Alternative Name coincidente. Otros nombres de host de esta tarea pueden tener problemas similares.",
 	"standby.deploy.expired.ca.certs": "Se creará al menos un certificado CA que se activará. ¿Quieres omitir la verificación de expiración del certificado?",
 	"standby.deploy.expired.ca.certs.no.bypass": "Se creará al menos un certificado CA que se activará.",
 	"standby.deploy.expired.certs": "Se creará al menos un certificado que se activará. ¿Quieres omitir la verificación de expiración del certificado?",

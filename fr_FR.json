@@ -2746,6 +2746,7 @@
 	"sign.up.user.invite.placeholder.phone.no": "Entrer un numéro de téléphone",
 	"sign.up.user.invite.placeholder.username": "Entrez un nom d'utilisateur pour vous connecter",
 	"sign.up.user.invite.success.all.set": "Vous êtes prêt! Cliquez sur OK pour vous connecter.",
+	"standby.deploy.certificate.mismatch": "Une incohérence SAN a été détectée : le certificat associé au nom d'hôte {hostnameList} n'inclut pas de Subject Alternative Name correspondant. D'autres noms d'hôte de cette tâche peuvent présenter des problèmes similaires.",
 	"standby.deploy.expired.ca.certs": "Au moins un certificat CA sera activé. Voulez-vous ignorer la vérification de l'expiration du certificat?",
 	"standby.deploy.expired.ca.certs.no.bypass": "Au moins un certificat CA sera activé.",
 	"standby.deploy.expired.certs": "Au moins un certificat sera activé. Voulez-vous ignorer la vérification de l'expiration du certificat?",
