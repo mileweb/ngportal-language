@@ -2747,7 +2747,7 @@
 	"sign.up.user.invite.placeholder.phone.no": "输入电话号码",
 	"sign.up.user.invite.placeholder.username": "输入用户名用于控制台登录",
 	"sign.up.user.invite.success.all.set": "您已完成注册！点击确定登录。",
-	"standby.deploy.certificate.mismatch": "检测到 SAN 不匹配：与加速域名 {hostnameList} 关联的证书未包含匹配的 Subject Alternative Name。此任务中的其他加速域名可能存在类似问题。",
+	"standby.deploy.certificate.mismatch": "检测到证书授权域名不匹配：加速域名 {hostnameList} 与所关联的证书的授权域名（SAN）不匹配。此任务中的其它加速域名可能存在类似问题。",
 	"standby.deploy.expired.ca.certs": "待部署的CA证书中至少有一本已过期。是否忽略证书过期校验？",
 	"standby.deploy.expired.ca.certs.no.bypass": "待部署的CA证书中至少有一本已过期。",
 	"standby.deploy.expired.certs": "待部署的证书中至少有一本已过期。是否忽略证书过期校验？",
