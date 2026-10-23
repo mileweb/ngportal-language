@@ -2322,6 +2322,7 @@
 	"report.pie.legend.header.value": "값",
 	"report.pie.slice.all": "전체",
 	"report.pie.slice.other.count": "기타 {count}",
+	"report.legacyType.unknown": "알 수 없음",
 	"report.reqSummary.label.fast.requests": "빠른 경로 요청",
 	"report.reqSummary.label.requests": "에지 요청",
 	"report.requests.label.edge.requests": "엣지 요청",

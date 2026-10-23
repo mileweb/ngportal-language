@@ -2324,6 +2324,7 @@
 	"report.pie.legend.header.value": "Значение",
 	"report.pie.slice.all": "Все",
 	"report.pie.slice.other.count": "Прочие ({count})",
+	"report.legacyType.unknown": "Неизвестно",
 	"report.reqSummary.label.fast.requests": "Запросы быстрого маршрута",
 	"report.reqSummary.label.requests": "Edge-запросы",
 	"report.requests.label.edge.requests": "Edge-запросы",

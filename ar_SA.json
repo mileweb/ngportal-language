@@ -2322,6 +2322,7 @@
 	"report.pie.legend.header.value": "القيمة",
 	"report.pie.slice.all": "الكل",
 	"report.pie.slice.other.count": "أخرى ({count})",
+	"report.legacyType.unknown": "غير معروف",
 	"report.reqSummary.label.fast.requests": "طلبات المسار السريع",
 	"report.reqSummary.label.requests": "طلبات الحافة",
 	"report.requests.label.edge.requests": "Edge Requests",

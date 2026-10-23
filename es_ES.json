@@ -2322,6 +2322,7 @@
 	"report.pie.legend.header.value": "Valor",
 	"report.pie.slice.all": "Todos",
 	"report.pie.slice.other.count": "Otros ({count})",
+	"report.legacyType.unknown": "Desconocido",
 	"report.reqSummary.label.fast.requests": "Solicitudes de ruta rápida",
 	"report.reqSummary.label.requests": "Solicitudes de borde",
 	"report.requests.label.edge.requests": "Edge Requests",

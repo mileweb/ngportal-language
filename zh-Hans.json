@@ -2322,6 +2322,7 @@
 	"report.pie.legend.header.value": "数值",
 	"report.pie.slice.all": "全部",
 	"report.pie.slice.other.count": "其他 {count}",
+	"report.legacyType.unknown": "未知",
 	"report.reqSummary.label.fast.requests": "回源快速通道请求数",
 	"report.reqSummary.label.requests": "边缘请求数",
 	"report.requests.label.edge.requests": "边缘节点请求数",

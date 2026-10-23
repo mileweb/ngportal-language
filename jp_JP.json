@@ -2322,6 +2322,7 @@
 	"report.pie.legend.header.value": "値",
 	"report.pie.slice.all": "すべて",
 	"report.pie.slice.other.count": "その他 {count}",
+	"report.legacyType.unknown": "不明",
 	"report.reqSummary.label.fast.requests": "高速ルートリクエスト",
 	"report.reqSummary.label.requests": "エッジリクエスト",
 	"report.requests.label.edge.requests": "エッジリクエスト",

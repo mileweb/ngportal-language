@@ -2322,6 +2322,7 @@
 	"report.pie.legend.header.value": "Valeur",
 	"report.pie.slice.all": "Tous",
 	"report.pie.slice.other.count": "Autres ({count})",
+	"report.legacyType.unknown": "Inconnu",
 	"report.reqSummary.label.fast.requests": "Demandes d'itinéraire rapide",
 	"report.reqSummary.label.requests": "Requêtes Edge",
 	"report.requests.label.edge.requests": "Edge Requests",
