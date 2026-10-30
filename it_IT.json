@@ -2701,6 +2701,7 @@
 	"sign.up.product.hdt.offers.title2": "Accesso immediato",
 	"sign.up.product.hdt.offers.title3": "Aggiorna in qualsiasi momento",
 	"sign.up.product.invite.desc.primary": "Congratulazioni! Puoi iniziare a utilizzare {productName}. Accedi a {anchorText} per utilizzare il servizio.",
+	"sign.up.repeat.account.error.msg": "Sembra che tu ti sia già registrato in precedenza alla prova gratuita di {productName}. Le registrazioni ripetute non sono consentite. Se ritieni che ci sia un problema, contatta il nostro servizio clienti.",
 	"sign.up.success.info": "Controlla la tua casella di posta per completare la procedura di registrazione.",
 	"sign.up.success.title": "Successo",
 	"sign.up.text.cookie.policy": "Cookie policy",

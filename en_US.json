@@ -2702,6 +2702,7 @@
 	"sign.up.product.hdt.offers.title2": "Immediate Access",
 	"sign.up.product.hdt.offers.title3": "Upgrade Anytime",
 	"sign.up.product.invite.desc.primary": "Congratulations! You can start using {productName}. Please log in to {anchorText} to use the service.",
+	"sign.up.repeat.account.error.msg":"It seems that you signed up for {productName} free trial previously. Repeat signups are not allowed. If you believe there is an issue, please contact our customer support.",
 	"sign.up.success.info": "Please check your inbox to complete the sign up process.",
 	"sign.up.success.title": "Success",
 	"sign.up.text.cookie.policy": "Cookie Policy",

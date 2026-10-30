@@ -2701,6 +2701,7 @@
 	"sign.up.product.hdt.offers.title2": "Accès immédiat",
 	"sign.up.product.hdt.offers.title3": "Mettez à niveau à tout moment",
 	"sign.up.product.invite.desc.primary": "Toutes nos félicitations ! Vous pouvez commencer à utiliser {productName}. Veuillez vous connecter via {anchorText} pour utiliser le service.",
+	"sign.up.repeat.account.error.msg": "Il semble que vous vous soyez déjà inscrit à l'essai gratuit de {productName}. Les inscriptions répétées ne sont pas autorisées. Si vous pensez qu'il y a un problème, veuillez contacter notre service client.",
 	"sign.up.success.info": "Veuillez vérifier votre boîte de réception pour terminer le processus d'inscription.",
 	"sign.up.success.title": "Succès",
 	"sign.up.text.cookie.policy": "Politique de cookie",

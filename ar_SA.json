@@ -2701,6 +2701,7 @@
 	"sign.up.product.hdt.offers.title2": "وصول مباشر",
 	"sign.up.product.hdt.offers.title3": "الترقية في أي وقت",
 	"sign.up.product.invite.desc.primary": "تهانينا! يمكنك البدء في استخدام {productName}. يرجى تسجيل الدخول إلى {anchorText} لاستخدام الخدمة.",
+	"sign.up.repeat.account.error.msg": "يبدو أنك سجّلت سابقًا في التجربة المجانية لـ {productName}. لا يُسمح بالتسجيل المتكرر. إذا كنت تعتقد أن هناك مشكلة، يرجى التواصل مع خدمة العملاء.",
 	"sign.up.success.info": "يرجى التحقق من صندوق الوارد الخاص بك لإكمال عملية التسجيل.",
 	"sign.up.success.title": "نجاح",
 	"sign.up.text.cookie.policy": "سياسة ملفات الارتباط",
