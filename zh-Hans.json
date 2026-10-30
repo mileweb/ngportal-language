@@ -2702,7 +2702,7 @@
 	"sign.up.product.hdt.offers.title2": "即刻接入",
 	"sign.up.product.hdt.offers.title3": "随时升级",
 	"sign.up.product.invite.desc.primary": "账号注册已完成！请登录 {anchorText} 以使用 {productName}。",
-	"sign.up.repeat.account.error.msg": "您似乎已注册过 {productName} 免费试用。不允许重复注册。如果您认为存在问题，请联系我们的客服。",
+	"sign.up.repeat.account.error.msg": "您已注册试用过 {productName}，不能重复申请试用。如有疑问，请联系我们的技术支持。",
 	"sign.up.success.info": "请检查您的收件箱，点击邮件中的链接进行邮箱验证。",
 	"sign.up.success.title": "成功",
 	"sign.up.text.cookie.policy": "Cookie政策",
