@@ -2703,6 +2703,7 @@
 	"sign.up.product.hdt.offers.title2": "Мгновенный доступ",
 	"sign.up.product.hdt.offers.title3": "Обновление в любое время",
 	"sign.up.product.invite.desc.primary": "Поздравляем! Вы можете начать пользоваться {productName}. Войдите через {anchorText}, чтобы использовать сервис.",
+	"sign.up.repeat.account.error.msg": "Похоже, ранее вы уже регистрировались на бесплатный пробный период {productName}. Повторная регистрация не допускается. Если вы считаете, что произошла ошибка, обратитесь в нашу службу поддержки.",
 	"sign.up.success.info": "Пожалуйста, проверьте свой почтовый ящик, чтобы завершить процесс регистрации.",
 	"sign.up.success.title": "Успешно",
 	"sign.up.text.cookie.policy": "Политика использования файлов cookie",

@@ -2701,6 +2701,7 @@
 	"sign.up.product.hdt.offers.title2": "즉각적인 액세스",
 	"sign.up.product.hdt.offers.title3": "언제든지 업그레이드",
 	"sign.up.product.invite.desc.primary": "축하합니다! {productName}을(를) 사용할 수 있습니다. {anchorText}에서 로그인하여 서비스를 이용하세요.",
+	"sign.up.repeat.account.error.msg": "이전에 {productName} 무료 평가판에 가입하신 것으로 보입니다. 중복 가입은 허용되지 않습니다. 문제가 있다고 생각되시면 고객 지원팀에 문의해 주세요.",
 	"sign.up.success.info": "받은 편지함을 확인하여 가입 절차를 완료하세요.",
 	"sign.up.success.title": "성공",
 	"sign.up.text.cookie.policy": "쿠키 정책",

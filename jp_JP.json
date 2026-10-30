@@ -2701,6 +2701,7 @@
 	"sign.up.product.hdt.offers.title2": "即時アクセス",
 	"sign.up.product.hdt.offers.title3": "いつでもアップグレード",
 	"sign.up.product.invite.desc.primary": "おめでとうございます！{productName} の利用を開始できます。{anchorText} からログインしてサービスをご利用ください。",
+	"sign.up.repeat.account.error.msg": "以前に {productName} の無料トライアルにお申し込みいただいたようです。重複登録はできません。問題があると思われる場合は、カスタマーサポートまでご連絡ください。",
 	"sign.up.success.info": "サインアッププロセスを完了するには、受信トレイを確認してください。",
 	"sign.up.success.title": "成功",
 	"sign.up.text.cookie.policy": "クッキーポリシー",
