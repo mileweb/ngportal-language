@@ -1,0 +1,3 @@
+# JSON is stored and checked out as LF so Windows core.autocrlf does not
+# rewrite working-tree line endings (and warn) on git add.
+*.json text eol=lf
